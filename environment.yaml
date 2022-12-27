@@ -1,0 +1,10 @@
+name: flant5Env
+dependencies:
+  - python=3.9
+  - numpy
+  - keras
+  - tensorflow
+  - transformers
+  - pip
+  - pip:
+    - torch

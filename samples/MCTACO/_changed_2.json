@@ -1,0 +1,243 @@
+[
+    {
+        "sentence1": "Trying to live a regular life, she later adopted the name Fontaine -- the name of her mother's second husband. What happened after she changed her name?",
+        "qas": [
+            {
+                "sentence2": "she has an easier life ",
+                "label": "yes"
+            },
+            {
+                "sentence2": "she used the pseudonym for her work",
+                "label": "yes"
+            },
+            {
+                "sentence2": "she tried to reveal her actual identity ",
+                "label": "no"
+            },
+            {
+                "sentence2": "she and her husband need the car",
+                "label": "no"
+            },
+            {
+                "sentence2": "she took a nap",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "She temporarly used the stage name Fontaine -- the name of her mother's second husband and soon changed to another one. Is she known as Fontaine today?",
+        "qas": [
+            {
+                "sentence2": "yes",
+                "label": "no"
+            },
+            {
+                "sentence2": "no",
+                "label": "yes"
+            }
+        ]
+    },
+    {
+        "sentence1": "Durer's father died in 1502, and his estranged mother died in 1513. How often did Durer visit his mother's grave?",
+        "qas": [
+            {
+                "sentence2": "every hour",
+                "label": "no"
+            },
+            {
+                "sentence2": "once a minute",
+                "label": "no"
+            },
+            {
+                "sentence2": "every second",
+                "label": "no"
+            },
+            {
+                "sentence2": "hourly",
+                "label": "no"
+            },
+            {
+                "sentence2": "once a century",
+                "label": "no"
+            },
+            {
+                "sentence2": "every year",
+                "label": "no"
+            },
+            {
+                "sentence2": "almost never",
+                "label": "yes"
+            }
+        ]
+    },
+    {
+        "sentence1": "Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. How long do the stations remain pressurized?",
+        "qas": [
+            {
+                "sentence2": "just a couple minutes",
+                "label": "no"
+            },
+            {
+                "sentence2": "for as long as it's needed ",
+                "label": "yes"
+            },
+            {
+                "sentence2": "a two minutes",
+                "label": "no"
+            },
+            {
+                "sentence2": "for hours as long as the workers are in them",
+                "label": "yes"
+            }
+        ]
+    },
+    {
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?",
+        "qas": [
+            {
+                "sentence2": "august",
+                "label": "no"
+            },
+            {
+                "sentence2": "in february",
+                "label": "yes"
+            },
+            {
+                "sentence2": "december",
+                "label": "yes"
+            },
+            {
+                "sentence2": "he rejoined his family",
+                "label": "no"
+            },
+            {
+                "sentence2": "in september",
+                "label": "no"
+            },
+            {
+                "sentence2": "november",
+                "label": "yes"
+            },
+            {
+                "sentence2": "september",
+                "label": "no"
+            },
+            {
+                "sentence2": "june",
+                "label": "no"
+            },
+            {
+                "sentence2": "in january",
+                "label": "yes"
+            }
+        ]
+    },
+    {
+        "sentence1": "Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?",
+        "qas": [
+            {
+                "sentence2": "they go to the playground twice a night",
+                "label": "no"
+            },
+            {
+                "sentence2": "twice a minute",
+                "label": "no"
+            },
+            {
+                "sentence2": "three times a week",
+                "label": "no"
+            },
+            {
+                "sentence2": "few times a year",
+                "label": "yes"
+            },
+            {
+                "sentence2": "three times per week",
+                "label": "no"
+            },
+            {
+                "sentence2": "they go to the playground twice a minute",
+                "label": "no"
+            },
+            {
+                "sentence2": "once a week",
+                "label": "no"
+            },
+            {
+                "sentence2": "they go to the playground once every few days",
+                "label": "no"
+            },
+            {
+                "sentence2": "they go to the playground once every few centuries",
+                "label": "no"
+            },
+            {
+                "sentence2": "once a second",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "Danny was spending less and less time at home with his wife and children. Although over the years things got better, his wife was still not happy about the past.  Would the wife still be upset about this in six years?",
+        "qas": [
+            {
+                "sentence2": "yes",
+                "label": "no"
+            },
+            {
+                "sentence2": "no",
+                "label": "yes"
+            }
+        ]
+    },
+    {
+        "sentence1": "He was running all around the pond and barking at the ducks when he saw someone breaking in. What did he do after barking at the ducks?",
+        "qas": [
+            {
+                "sentence2": "he chased the robbers",
+                "label": "yes"
+            },
+            {
+                "sentence2": "he died",
+                "label": "no"
+            },
+            {
+                "sentence2": "he went home",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "Upon graduation in 1975, she entered private law practice in Oxford, and eventually changed to a different profession. How many cases does she work on a month now?",
+        "qas": [
+            {
+                "sentence2": "0",
+                "label": "yes"
+            },
+            {
+                "sentence2": "none",
+                "label": "yes"
+            },
+            {
+                "sentence2": "3",
+                "label": "no"
+            },
+            {
+                "sentence2": "120",
+                "label": "no"
+            },
+            {
+                "sentence2": "one or two",
+                "label": "no"
+            },
+            {
+                "sentence2": "2",
+                "label": "no"
+            },
+            {
+                "sentence2": "6",
+                "label": "no"
+            }
+        ]
+    }
+]

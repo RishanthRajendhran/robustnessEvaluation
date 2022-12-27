@@ -1,0 +1,3881 @@
+﻿[
+    {
+        "index": "0",
+        "sentence1": "Christianity was introduced into Gaul in the first century a.d. and never got popular. What happened after it was introduced?",
+        "sentence2": "christianity started becoming more popular after being introduced",
+        "label": "no"
+    },
+    {
+        "index": "1",
+        "sentence1": "Christianity was introduced into Gaul in the first century a.d. and never got popular. What happened after it was introduced?",
+        "sentence2": "christianity diminished into nothing, and people lost interest thereafter",
+        "label": "yes"
+    },
+    {
+        "index": "2",
+        "sentence1": "Christianity was introduced into Gaul in the first century a.d. and never got popular. What happened after it was introduced?",
+        "sentence2": "people began practicing christianity",
+        "label": "no"
+    },
+    {
+        "index": "3",
+        "sentence1": "Christianity was introduced into Gaul in the first century a.d. and never got popular. What happened after it was introduced?",
+        "sentence2": "people spewing  into the street",
+        "label": "no"
+    },
+    {
+        "index": "4",
+        "sentence1": "Christianity was introduced into Gaul in the first century a.d. and never got popular. What happened after it was introduced?",
+        "sentence2": "christianity was forgotten about",
+        "label": "yes"
+    },
+    {
+        "index": "5",
+        "sentence1": "Christianity was introduced into Gaul in the first century a.d. and never got popular. What happened after it was introduced?",
+        "sentence2": "many people converted",
+        "label": "no"
+    },
+    {
+        "index": "6",
+        "sentence1": "Christianity was introduced into Gaul in the first century a.d. and never got popular. What happened after it was introduced?",
+        "sentence2": "compaq introduced its first notebook computer",
+        "label": "no"
+    },
+    {
+        "index": "7",
+        "sentence1": "Advocating civil disobedience, he led his famous Salt March to the sea, to scoop up salt and circumvent the hated British salt tax, which eventually impacted British tax law. Did the British continue to tax salt?",
+        "sentence2": "no they stopped it that month",
+        "label": "yes"
+    },
+    {
+        "index": "8",
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?",
+        "sentence2": "august",
+        "label": "no"
+    },
+    {
+        "index": "9",
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?",
+        "sentence2": "in february",
+        "label": "yes"
+    },
+    {
+        "index": "10",
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?",
+        "sentence2": "december",
+        "label": "yes"
+    },
+    {
+        "index": "11",
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?",
+        "sentence2": "he rejoined his family",
+        "label": "no"
+    },
+    {
+        "index": "12",
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?",
+        "sentence2": "in september",
+        "label": "no"
+    },
+    {
+        "index": "13",
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?",
+        "sentence2": "november",
+        "label": "yes"
+    },
+    {
+        "index": "14",
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?",
+        "sentence2": "september",
+        "label": "no"
+    },
+    {
+        "index": "15",
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?",
+        "sentence2": "june",
+        "label": "no"
+    },
+    {
+        "index": "16",
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?",
+        "sentence2": "in january",
+        "label": "yes"
+    },
+    {
+        "index": "17",
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him deliver a package in Germany. How long will he want help on the package?",
+        "sentence2": "for a few months",
+        "label": "no"
+    },
+    {
+        "index": "18",
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him deliver a package in Germany. How long will he want help on the package?",
+        "sentence2": "4 for a couple of days",
+        "label": "yes"
+    },
+    {
+        "index": "19",
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him deliver a package in Germany. How long will he want help on the package?",
+        "sentence2": "for a couple years",
+        "label": "no"
+    },
+    {
+        "index": "20",
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him deliver a package in Germany. How long will he want help on the package?",
+        "sentence2": "until he finishes his education",
+        "label": "no"
+    },
+    {
+        "index": "21",
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him deliver a package in Germany. How long will he want help on the package?",
+        "sentence2": "4 years",
+        "label": "no"
+    },
+    {
+        "index": "22",
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him deliver a package in Germany. How long will he want help on the package?",
+        "sentence2": "he met his girlfriend",
+        "label": "no"
+    },
+    {
+        "index": "23",
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him deliver a package in Germany. How long will he want help on the package?",
+        "sentence2": "for a few years",
+        "label": "no"
+    },
+    {
+        "index": "24",
+        "sentence1": "The new novel takes place in a extermely peaceful world. How often is there violence",
+        "sentence2": "everyday",
+        "label": "no"
+    },
+    {
+        "index": "25",
+        "sentence1": "The new novel takes place in a extermely peaceful world. How often is there violence",
+        "sentence2": "twice a second",
+        "label": "no"
+    },
+    {
+        "index": "26",
+        "sentence1": "The new novel takes place in a extermely peaceful world. How often is there violence",
+        "sentence2": "once in a few years",
+        "label": "yes"
+    },
+    {
+        "index": "27",
+        "sentence1": "The new novel takes place in a extermely peaceful world. How often is there violence",
+        "sentence2": "once in a few seconds",
+        "label": "no"
+    },
+    {
+        "index": "28",
+        "sentence1": "The new novel takes place in a extermely peaceful world. How often is there violence",
+        "sentence2": "rarely",
+        "label": "yes"
+    },
+    {
+        "index": "29",
+        "sentence1": "The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly while he was walking out of the building. How long did John Kelly speak?",
+        "sentence2": "1 hour",
+        "label": "no"
+    },
+    {
+        "index": "30",
+        "sentence1": "The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly while he was walking out of the building. How long did John Kelly speak?",
+        "sentence2": "one year",
+        "label": "no"
+    },
+    {
+        "index": "31",
+        "sentence1": "The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly while he was walking out of the building. How long did John Kelly speak?",
+        "sentence2": "forty minutes",
+        "label": "no"
+    },
+    {
+        "index": "32",
+        "sentence1": "The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly while he was walking out of the building. How long did John Kelly speak?",
+        "sentence2": "john kelly spoke for five minutes",
+        "label": "yes"
+    },
+    {
+        "index": "33",
+        "sentence1": "The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly while he was walking out of the building. How long did John Kelly speak?",
+        "sentence2": "90 minutes",
+        "label": "no"
+    },
+    {
+        "index": "34",
+        "sentence1": "The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly while he was walking out of the building. How long did John Kelly speak?",
+        "sentence2": "thirty minutes",
+        "label": "no"
+    },
+    {
+        "index": "35",
+        "sentence1": "The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly while he was walking out of the building. How long did John Kelly speak?",
+        "sentence2": "one hour",
+        "label": "no"
+    },
+    {
+        "index": "36",
+        "sentence1": "The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly while he was walking out of the building. How long did John Kelly speak?",
+        "sentence2": "john kelly spoke for an hour",
+        "label": "no"
+    },
+    {
+        "index": "37",
+        "sentence1": "Asjar's accomplishments and legacy was depicted in many cultures, but only during his days. Does Asjar's legacy still persist in the modern era?",
+        "sentence2": "no, his legacy stopped being important before his reign ended",
+        "label": "yes"
+    },
+    {
+        "index": "38",
+        "sentence1": "Asjar's accomplishments and legacy was depicted in many cultures, but only during his days. Does Asjar's legacy still persist in the modern era?",
+        "sentence2": "yes, he is still highly depicted in many cultures. ",
+        "label": "no"
+    },
+    {
+        "index": "39",
+        "sentence1": "Upon graduation in 1975, she entered private law practice in Oxford, and eventually changed to a different profession. How many cases does she work on a month now?",
+        "sentence2": "0",
+        "label": "yes"
+    },
+    {
+        "index": "40",
+        "sentence1": "Upon graduation in 1975, she entered private law practice in Oxford, and eventually changed to a different profession. How many cases does she work on a month now?",
+        "sentence2": "none",
+        "label": "yes"
+    },
+    {
+        "index": "41",
+        "sentence1": "Upon graduation in 1975, she entered private law practice in Oxford, and eventually changed to a different profession. How many cases does she work on a month now?",
+        "sentence2": "3",
+        "label": "no"
+    },
+    {
+        "index": "42",
+        "sentence1": "Upon graduation in 1975, she entered private law practice in Oxford, and eventually changed to a different profession. How many cases does she work on a month now?",
+        "sentence2": "120",
+        "label": "no"
+    },
+    {
+        "index": "43",
+        "sentence1": "Upon graduation in 1975, she entered private law practice in Oxford, and eventually changed to a different profession. How many cases does she work on a month now?",
+        "sentence2": "one or two",
+        "label": "no"
+    },
+    {
+        "index": "44",
+        "sentence1": "Upon graduation in 1975, she entered private law practice in Oxford, and eventually changed to a different profession. How many cases does she work on a month now?",
+        "sentence2": "2",
+        "label": "no"
+    },
+    {
+        "index": "45",
+        "sentence1": "Upon graduation in 1975, she entered private law practice in Oxford, and eventually changed to a different profession. How many cases does she work on a month now?",
+        "sentence2": "6",
+        "label": "no"
+    },
+    {
+        "index": "46",
+        "sentence1": "She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?",
+        "sentence2": "the plants died",
+        "label": "no"
+    },
+    {
+        "index": "47",
+        "sentence1": "She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?",
+        "sentence2": "the crops grew better",
+        "label": "no"
+    },
+    {
+        "index": "48",
+        "sentence1": "She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?",
+        "sentence2": "plants grew",
+        "label": "no"
+    },
+    {
+        "index": "49",
+        "sentence1": "She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?",
+        "sentence2": "the plants grows worse",
+        "label": "yes"
+    },
+    {
+        "index": "50",
+        "sentence1": "She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?",
+        "sentence2": "the crops grew worse",
+        "label": "yes"
+    },
+    {
+        "index": "51",
+        "sentence1": "She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?",
+        "sentence2": "the plants grow better",
+        "label": "no"
+    },
+    {
+        "index": "52",
+        "sentence1": "She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?",
+        "sentence2": "the plants grew more",
+        "label": "no"
+    },
+    {
+        "index": "53",
+        "sentence1": "She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?",
+        "sentence2": "the plants grow worse",
+        "label": "yes"
+    },
+    {
+        "index": "54",
+        "sentence1": "She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?",
+        "sentence2": "the plants grows better",
+        "label": "no"
+    },
+    {
+        "index": "55",
+        "sentence1": "She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?",
+        "sentence2": "the plants grew worse",
+        "label": "yes"
+    },
+    {
+        "index": "56",
+        "sentence1": "She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?",
+        "sentence2": "the plants grew well",
+        "label": "no"
+    },
+    {
+        "index": "57",
+        "sentence1": "She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?",
+        "sentence2": "the flowers died",
+        "label": "no"
+    },
+    {
+        "index": "58",
+        "sentence1": "She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?",
+        "sentence2": "the crops died",
+        "label": "no"
+    },
+    {
+        "index": "59",
+        "sentence1": "She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?",
+        "sentence2": "the plants grew better",
+        "label": "no"
+    },
+    {
+        "index": "60",
+        "sentence1": "She added a special growing mix from the garden store to make the soil in her farm better. The farm covers the whole backyard and took more than a workday.  How long did it take to add growing mix into the garden?",
+        "sentence2": "about 15 minutes",
+        "label": "no"
+    },
+    {
+        "index": "61",
+        "sentence1": "She added a special growing mix from the garden store to make the soil in her farm better. The farm covers the whole backyard and took more than a workday.  How long did it take to add growing mix into the garden?",
+        "sentence2": "1 month",
+        "label": "no"
+    },
+    {
+        "index": "62",
+        "sentence1": "She added a special growing mix from the garden store to make the soil in her farm better. The farm covers the whole backyard and took more than a workday.  How long did it take to add growing mix into the garden?",
+        "sentence2": "a couple weeks",
+        "label": "no"
+    },
+    {
+        "index": "63",
+        "sentence1": "She added a special growing mix from the garden store to make the soil in her farm better. The farm covers the whole backyard and took more than a workday.  How long did it take to add growing mix into the garden?",
+        "sentence2": "30 minutes",
+        "label": "no"
+    },
+    {
+        "index": "64",
+        "sentence1": "She added a special growing mix from the garden store to make the soil in her farm better. The farm covers the whole backyard and took more than a workday.  How long did it take to add growing mix into the garden?",
+        "sentence2": "1 year",
+        "label": "no"
+    },
+    {
+        "index": "65",
+        "sentence1": "She added a special growing mix from the garden store to make the soil in her farm better. The farm covers the whole backyard and took more than a workday.  How long did it take to add growing mix into the garden?",
+        "sentence2": "about 15 hours",
+        "label": "yes"
+    },
+    {
+        "index": "66",
+        "sentence1": "The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of \"period post 9/11\" covers which of the following candidate? ",
+        "sentence2": "1906",
+        "label": "no"
+    },
+    {
+        "index": "67",
+        "sentence1": "The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of \"period post 9/11\" covers which of the following candidate? ",
+        "sentence2": "1891",
+        "label": "no"
+    },
+    {
+        "index": "68",
+        "sentence1": "The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of \"period post 9/11\" covers which of the following candidate? ",
+        "sentence2": "before 9 / 11",
+        "label": "no"
+    },
+    {
+        "index": "69",
+        "sentence1": "The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of \"period post 9/11\" covers which of the following candidate? ",
+        "sentence2": "1835",
+        "label": "no"
+    },
+    {
+        "index": "70",
+        "sentence1": "The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of \"period post 9/11\" covers which of the following candidate? ",
+        "sentence2": "after carrying out the plans",
+        "label": "yes"
+    },
+    {
+        "index": "71",
+        "sentence1": "The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of \"period post 9/11\" covers which of the following candidate? ",
+        "sentence2": "2010",
+        "label": "yes"
+    },
+    {
+        "index": "72",
+        "sentence1": "The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of \"period post 9/11\" covers which of the following candidate? ",
+        "sentence2": "before 9/11",
+        "label": "no"
+    },
+    {
+        "index": "73",
+        "sentence1": "The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of \"period post 9/11\" covers which of the following candidate? ",
+        "sentence2": "after carrying out the plan",
+        "label": "yes"
+    },
+    {
+        "index": "74",
+        "sentence1": "The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of \"period post 9/11\" covers which of the following candidate? ",
+        "sentence2": "2006",
+        "label": "yes"
+    },
+    {
+        "index": "75",
+        "sentence1": "The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of \"period post 9/11\" covers which of the following candidate? ",
+        "sentence2": "after completing their attacks ",
+        "label": "yes"
+    },
+    {
+        "index": "76",
+        "sentence1": "The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of \"period post 9/11\" covers which of the following candidate? ",
+        "sentence2": "after finishing their attacks ",
+        "label": "yes"
+    },
+    {
+        "index": "77",
+        "sentence1": "The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of \"period post 9/11\" covers which of the following candidate? ",
+        "sentence2": "1929",
+        "label": "no"
+    },
+    {
+        "index": "78",
+        "sentence1": "The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of \"period post 9/11\" covers which of the following candidate? ",
+        "sentence2": "2012",
+        "label": "yes"
+    },
+    {
+        "index": "79",
+        "sentence1": "Human operators are there to monitor the systems, catch errors and fine-tune the production process for maximum efficiency. When does the human operators night shift end?",
+        "sentence2": "4:00 PM",
+        "label": "no"
+    },
+    {
+        "index": "80",
+        "sentence1": "Human operators are there to monitor the systems, catch errors and fine-tune the production process for maximum efficiency. When does the human operators night shift end?",
+        "sentence2": "5 a.m",
+        "label": "yes"
+    },
+    {
+        "index": "81",
+        "sentence1": "Human operators are there to monitor the systems, catch errors and fine-tune the production process for maximum efficiency. When does the human operators night shift end?",
+        "sentence2": "4 p.m",
+        "label": "no"
+    },
+    {
+        "index": "82",
+        "sentence1": "Allan crouched over his desk once more and fell asleep. For how long Allan was crouch over his desk?",
+        "sentence2": "a few seconds",
+        "label": "no"
+    },
+    {
+        "index": "83",
+        "sentence1": "Allan crouched over his desk once more and fell asleep. For how long Allan was crouch over his desk?",
+        "sentence2": "2 weeks",
+        "label": "no"
+    },
+    {
+        "index": "84",
+        "sentence1": "Allan crouched over his desk once more and fell asleep, after a long night of work.  What time did Allan crouch over his desk?",
+        "sentence2": "noon",
+        "label": "no"
+    },
+    {
+        "index": "85",
+        "sentence1": "Allan crouched over his desk once more and fell asleep, after a long night of work.  What time did Allan crouch over his desk?",
+        "sentence2": "11:00 AM",
+        "label": "no"
+    },
+    {
+        "index": "86",
+        "sentence1": "Allan crouched over his desk once more and fell asleep, after a long night of work.  What time did Allan crouch over his desk?",
+        "sentence2": "2:00 AM",
+        "label": "yes"
+    },
+    {
+        "index": "87",
+        "sentence1": "Allan crouched over his desk once more and fell asleep, after a long night of work.  What time did Allan crouch over his desk?",
+        "sentence2": "4:00 PM",
+        "label": "no"
+    },
+    {
+        "index": "88",
+        "sentence1": "Allan crouched over his desk once more and fell asleep, after a long night of work.  What time did Allan crouch over his desk?",
+        "sentence2": "3:00 PM",
+        "label": "no"
+    },
+    {
+        "index": "89",
+        "sentence1": "Allan crouched over his desk once more and fell asleep, after a long night of work.  What time did Allan crouch over his desk?",
+        "sentence2": "3:00 AM",
+        "label": "yes"
+    },
+    {
+        "index": "90",
+        "sentence1": "Aiming to climb up the legal ladder faster, Bailey stopped helping out in causes, even the ones he feels strongly about. Will Bailey continue to help out in causes in feels strongly about?",
+        "sentence2": "yes",
+        "label": "no"
+    },
+    {
+        "index": "91",
+        "sentence1": "Despite his quick climb up the legal ladder, Bailey has always found time to help people by answering their questions online How often does he help people?",
+        "sentence2": "several times a day",
+        "label": "yes"
+    },
+    {
+        "index": "92",
+        "sentence1": "Despite his quick climb up the legal ladder, Bailey has always found time to help people by answering their questions online How often does he help people?",
+        "sentence2": "multiple times in an hour",
+        "label": "no"
+    },
+    {
+        "index": "93",
+        "sentence1": "Despite his quick climb up the legal ladder, Bailey has always found time to help people by answering their questions online How often does he help people?",
+        "sentence2": "weekly",
+        "label": "yes"
+    },
+    {
+        "index": "94",
+        "sentence1": "Despite his quick climb up the legal ladder, Bailey has always found time to help people by answering their questions online How often does he help people?",
+        "sentence2": "several times in an hour",
+        "label": "no"
+    },
+    {
+        "index": "95",
+        "sentence1": "Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?",
+        "sentence2": "for a few days",
+        "label": "no"
+    },
+    {
+        "index": "96",
+        "sentence1": "Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?",
+        "sentence2": "three weeks",
+        "label": "no"
+    },
+    {
+        "index": "97",
+        "sentence1": "Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?",
+        "sentence2": "two weeks",
+        "label": "no"
+    },
+    {
+        "index": "98",
+        "sentence1": "Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?",
+        "sentence2": "for a few weeks",
+        "label": "no"
+    },
+    {
+        "index": "99",
+        "sentence1": "Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?",
+        "sentence2": "10 centuries",
+        "label": "no"
+    },
+    {
+        "index": "100",
+        "sentence1": "Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?",
+        "sentence2": "few hours",
+        "label": "yes"
+    },
+    {
+        "index": "101",
+        "sentence1": "Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?",
+        "sentence2": "two week",
+        "label": "no"
+    },
+    {
+        "index": "102",
+        "sentence1": "Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?",
+        "sentence2": "for a few seconds",
+        "label": "no"
+    },
+    {
+        "index": "103",
+        "sentence1": "Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?",
+        "sentence2": "10 seconds",
+        "label": "no"
+    },
+    {
+        "index": "104",
+        "sentence1": "Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?",
+        "sentence2": "for a couple weeks",
+        "label": "no"
+    },
+    {
+        "index": "105",
+        "sentence1": "Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?",
+        "sentence2": "10 years",
+        "label": "no"
+    },
+    {
+        "index": "106",
+        "sentence1": "Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?",
+        "sentence2": "90 year",
+        "label": "no"
+    },
+    {
+        "index": "107",
+        "sentence1": "Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?",
+        "sentence2": "1955",
+        "label": "no"
+    },
+    {
+        "index": "108",
+        "sentence1": "Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?",
+        "sentence2": "45 seconds",
+        "label": "no"
+    },
+    {
+        "index": "109",
+        "sentence1": "Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?",
+        "sentence2": "405 year",
+        "label": "no"
+    },
+    {
+        "index": "110",
+        "sentence1": "Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?",
+        "sentence2": "22 centuries",
+        "label": "no"
+    },
+    {
+        "index": "111",
+        "sentence1": "Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?",
+        "sentence2": "30 second",
+        "label": "no"
+    },
+    {
+        "index": "112",
+        "sentence1": "Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?",
+        "sentence2": "90 second",
+        "label": "no"
+    },
+    {
+        "index": "113",
+        "sentence1": "Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?",
+        "sentence2": "less than 30 years",
+        "label": "yes"
+    },
+    {
+        "index": "114",
+        "sentence1": "Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?",
+        "sentence2": "90 hours",
+        "label": "no"
+    },
+    {
+        "index": "115",
+        "sentence1": "Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?",
+        "sentence2": "66 months",
+        "label": "no"
+    },
+    {
+        "index": "116",
+        "sentence1": "Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?",
+        "sentence2": "22 months",
+        "label": "no"
+    },
+    {
+        "index": "117",
+        "sentence1": "Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?",
+        "sentence2": "longer than 5 years",
+        "label": "yes"
+    },
+    {
+        "index": "118",
+        "sentence1": "These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?",
+        "sentence2": "the explorer took them to the museum",
+        "label": "yes"
+    },
+    {
+        "index": "119",
+        "sentence1": "These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?",
+        "sentence2": "more fish started to live there",
+        "label": "no"
+    },
+    {
+        "index": "120",
+        "sentence1": "These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?",
+        "sentence2": "the explorer showed them to the museum",
+        "label": "yes"
+    },
+    {
+        "index": "121",
+        "sentence1": "These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?",
+        "sentence2": "the explorer brought them to the museum",
+        "label": "yes"
+    },
+    {
+        "index": "122",
+        "sentence1": "These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?",
+        "sentence2": "these two new crowd families lived",
+        "label": "no"
+    },
+    {
+        "index": "123",
+        "sentence1": "These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?",
+        "sentence2": "the fossil turned into real humans",
+        "label": "no"
+    },
+    {
+        "index": "124",
+        "sentence1": "These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?",
+        "sentence2": "the fossils were preserved ",
+        "label": "yes"
+    },
+    {
+        "index": "125",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "sentence2": "1 day",
+        "label": "yes"
+    },
+    {
+        "index": "126",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "sentence2": "0.2 year",
+        "label": "no"
+    },
+    {
+        "index": "127",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "sentence2": "1 week",
+        "label": "no"
+    },
+    {
+        "index": "128",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "sentence2": "1 season",
+        "label": "no"
+    },
+    {
+        "index": "129",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "sentence2": "1 year",
+        "label": "no"
+    },
+    {
+        "index": "130",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "sentence2": "one day",
+        "label": "yes"
+    },
+    {
+        "index": "131",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "sentence2": "1 million years",
+        "label": "no"
+    },
+    {
+        "index": "132",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "sentence2": "2000 years",
+        "label": "no"
+    },
+    {
+        "index": "133",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "sentence2": "0.5 year",
+        "label": "no"
+    },
+    {
+        "index": "134",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "sentence2": "0.5 day",
+        "label": "yes"
+    },
+    {
+        "index": "135",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "sentence2": "one year",
+        "label": "no"
+    },
+    {
+        "index": "136",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "sentence2": "500 years",
+        "label": "no"
+    },
+    {
+        "index": "137",
+        "sentence1": "Over the centuries, the living here has always been easy enough to attract a steady stream of immigrants, until the war broke out. Are immigrants still arriving?",
+        "sentence2": "no they stopped",
+        "label": "yes"
+    },
+    {
+        "index": "138",
+        "sentence1": "Over the centuries, the living here has always been easy enough to attract a steady stream of immigrants, until the war broke out. Are immigrants still arriving?",
+        "sentence2": "there was never a good immigration to here. ",
+        "label": "no"
+    },
+    {
+        "index": "139",
+        "sentence1": "Every late evening after dinner we would go to the park and play Toodles' favorite game. What are you doing after the park",
+        "sentence2": "eating out",
+        "label": "no"
+    },
+    {
+        "index": "140",
+        "sentence1": "Every late evening after dinner we would go to the park and play Toodles' favorite game. What are you doing after the park",
+        "sentence2": "going home",
+        "label": "yes"
+    },
+    {
+        "index": "141",
+        "sentence1": "Every late evening after dinner we would go to the park and play Toodles' favorite game. What are you doing after the park",
+        "sentence2": "going home to have dinner",
+        "label": "no"
+    },
+    {
+        "index": "142",
+        "sentence1": "A thwarted Mongol invasion in 1274 weakened the Kamakura regime. Was the invasion still affecting the regime until its end?",
+        "sentence2": "yes",
+        "label": "yes"
+    },
+    {
+        "index": "143",
+        "sentence1": "A thwarted Mongol invasion in 1274 weakened the Kamakura regime. Was the invasion still affecting the regime until its end?",
+        "sentence2": "no",
+        "label": "no"
+    },
+    {
+        "index": "144",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "sentence2": "half an hour",
+        "label": "yes"
+    },
+    {
+        "index": "145",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "sentence2": "1 day",
+        "label": "no"
+    },
+    {
+        "index": "146",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "sentence2": "18 seconds",
+        "label": "no"
+    },
+    {
+        "index": "147",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "sentence2": "about an hour",
+        "label": "yes"
+    },
+    {
+        "index": "148",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "sentence2": "21 days",
+        "label": "no"
+    },
+    {
+        "index": "149",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "sentence2": "about one second",
+        "label": "no"
+    },
+    {
+        "index": "150",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "sentence2": "several months",
+        "label": "no"
+    },
+    {
+        "index": "151",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "sentence2": "about one hour",
+        "label": "yes"
+    },
+    {
+        "index": "152",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "sentence2": "7 minutes",
+        "label": "no"
+    },
+    {
+        "index": "153",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "sentence2": "18 minutes",
+        "label": "yes"
+    },
+    {
+        "index": "154",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "sentence2": "7 weeks",
+        "label": "no"
+    },
+    {
+        "index": "155",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "sentence2": "about an hours",
+        "label": "yes"
+    },
+    {
+        "index": "156",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "sentence2": "162 seconds",
+        "label": "no"
+    },
+    {
+        "index": "157",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "sentence2": "several weeks",
+        "label": "no"
+    },
+    {
+        "index": "158",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "sentence2": "few times in over a decades",
+        "label": "yes"
+    },
+    {
+        "index": "159",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "sentence2": "every day",
+        "label": "no"
+    },
+    {
+        "index": "160",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "sentence2": "never",
+        "label": "no"
+    },
+    {
+        "index": "161",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "sentence2": "once every two seconds",
+        "label": "no"
+    },
+    {
+        "index": "162",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "sentence2": "every two years",
+        "label": "no"
+    },
+    {
+        "index": "163",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "sentence2": "once every two hours",
+        "label": "no"
+    },
+    {
+        "index": "164",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "sentence2": "once per week",
+        "label": "no"
+    },
+    {
+        "index": "165",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "sentence2": "every second",
+        "label": "no"
+    },
+    {
+        "index": "166",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "sentence2": "every year",
+        "label": "no"
+    },
+    {
+        "index": "167",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "sentence2": "once every two years",
+        "label": "no"
+    },
+    {
+        "index": "168",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "sentence2": "twice a year",
+        "label": "no"
+    },
+    {
+        "index": "169",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "sentence2": "every week",
+        "label": "no"
+    },
+    {
+        "index": "170",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "sentence2": "each year",
+        "label": "no"
+    },
+    {
+        "index": "171",
+        "sentence1": "Trying to live a regular life, she later adopted the name Fontaine -- the name of her mother's second husband. What happened after she changed her name?",
+        "sentence2": "she has an easier life ",
+        "label": "yes"
+    },
+    {
+        "index": "172",
+        "sentence1": "Trying to live a regular life, she later adopted the name Fontaine -- the name of her mother's second husband. What happened after she changed her name?",
+        "sentence2": "she used the pseudonym for her work",
+        "label": "yes"
+    },
+    {
+        "index": "173",
+        "sentence1": "Trying to live a regular life, she later adopted the name Fontaine -- the name of her mother's second husband. What happened after she changed her name?",
+        "sentence2": "she tried to reveal her actual identity ",
+        "label": "no"
+    },
+    {
+        "index": "174",
+        "sentence1": "Trying to live a regular life, she later adopted the name Fontaine -- the name of her mother's second husband. What happened after she changed her name?",
+        "sentence2": "she and her husband need the car",
+        "label": "no"
+    },
+    {
+        "index": "175",
+        "sentence1": "Trying to live a regular life, she later adopted the name Fontaine -- the name of her mother's second husband. What happened after she changed her name?",
+        "sentence2": "she took a nap",
+        "label": "no"
+    },
+    {
+        "index": "176",
+        "sentence1": "She temporarly used the stage name Fontaine -- the name of her mother's second husband and soon changed to another one. Is she known as Fontaine today?",
+        "sentence2": "yes",
+        "label": "no"
+    },
+    {
+        "index": "177",
+        "sentence1": "She temporarly used the stage name Fontaine -- the name of her mother's second husband and soon changed to another one. Is she known as Fontaine today?",
+        "sentence2": "no",
+        "label": "yes"
+    },
+    {
+        "index": "178",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand unil the enconomic crisis. Does the factory continue to make chips?",
+        "sentence2": "yes",
+        "label": "no"
+    },
+    {
+        "index": "179",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "sentence2": "1:00 PM",
+        "label": "yes"
+    },
+    {
+        "index": "180",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "sentence2": "2:00 PM",
+        "label": "yes"
+    },
+    {
+        "index": "181",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "sentence2": "4:00 PM",
+        "label": "yes"
+    },
+    {
+        "index": "182",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "sentence2": "9:00 AM",
+        "label": "yes"
+    },
+    {
+        "index": "183",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "sentence2": "1:00 AM",
+        "label": "yes"
+    },
+    {
+        "index": "184",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "sentence2": "only on weekends",
+        "label": "no"
+    },
+    {
+        "index": "185",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "sentence2": "during the day",
+        "label": "yes"
+    },
+    {
+        "index": "186",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "sentence2": "3:00 AM",
+        "label": "yes"
+    },
+    {
+        "index": "187",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "sentence2": "7:00 AM",
+        "label": "yes"
+    },
+    {
+        "index": "188",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "sentence2": "a limited set of times",
+        "label": "no"
+    },
+    {
+        "index": "189",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "sentence2": "many of the nights due to their flexibility",
+        "label": "yes"
+    },
+    {
+        "index": "190",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "sentence2": "2:00 AM",
+        "label": "yes"
+    },
+    {
+        "index": "191",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "sentence2": "11:00 AM",
+        "label": "yes"
+    },
+    {
+        "index": "192",
+        "sentence1": "She had gotten out of her last day of school and was free for the winter. When was her last day of school?",
+        "sentence2": "sometime around  june",
+        "label": "no"
+    },
+    {
+        "index": "193",
+        "sentence1": "She had gotten out of her last day of school and was free for the winter. When was her last day of school?",
+        "sentence2": "june 2nd",
+        "label": "no"
+    },
+    {
+        "index": "194",
+        "sentence1": "She had gotten out of her last day of school and was free for the winter. When was her last day of school?",
+        "sentence2": "sometime around in december",
+        "label": "yes"
+    },
+    {
+        "index": "195",
+        "sentence1": "She had gotten out of her last day of school and was free for the winter. When was her last day of school?",
+        "sentence2": "june 1st",
+        "label": "no"
+    },
+    {
+        "index": "196",
+        "sentence1": "Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?",
+        "sentence2": "just another few seconds",
+        "label": "yes"
+    },
+    {
+        "index": "197",
+        "sentence1": "Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?",
+        "sentence2": "ten weeks",
+        "label": "no"
+    },
+    {
+        "index": "198",
+        "sentence1": "Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?",
+        "sentence2": "five hours",
+        "label": "no"
+    },
+    {
+        "index": "199",
+        "sentence1": "Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?",
+        "sentence2": "five seconds",
+        "label": "yes"
+    },
+    {
+        "index": "200",
+        "sentence1": "Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?",
+        "sentence2": "ten hours",
+        "label": "no"
+    },
+    {
+        "index": "201",
+        "sentence1": "Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?",
+        "sentence2": "3 hours",
+        "label": "no"
+    },
+    {
+        "index": "202",
+        "sentence1": "Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?",
+        "sentence2": "3 seconds",
+        "label": "yes"
+    },
+    {
+        "index": "203",
+        "sentence1": "Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?",
+        "sentence2": "just a few seconds",
+        "label": "yes"
+    },
+    {
+        "index": "204",
+        "sentence1": "Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?",
+        "sentence2": "ten years",
+        "label": "no"
+    },
+    {
+        "index": "205",
+        "sentence1": "Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?",
+        "sentence2": "1 century",
+        "label": "no"
+    },
+    {
+        "index": "206",
+        "sentence1": "Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?",
+        "sentence2": "3:00 AM",
+        "label": "no"
+    },
+    {
+        "index": "207",
+        "sentence1": "Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?",
+        "sentence2": "7:00 PM",
+        "label": "yes"
+    },
+    {
+        "index": "208",
+        "sentence1": "Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?",
+        "sentence2": "9:00 PM",
+        "label": "yes"
+    },
+    {
+        "index": "209",
+        "sentence1": "Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?",
+        "sentence2": "7:00 AM",
+        "label": "no"
+    },
+    {
+        "index": "210",
+        "sentence1": "Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?",
+        "sentence2": "10:00 PM",
+        "label": "yes"
+    },
+    {
+        "index": "211",
+        "sentence1": "Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?",
+        "sentence2": "1:00 PM",
+        "label": "no"
+    },
+    {
+        "index": "212",
+        "sentence1": "Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?",
+        "sentence2": "danny would leave around 10am",
+        "label": "no"
+    },
+    {
+        "index": "213",
+        "sentence1": "Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?",
+        "sentence2": "3:00 PM",
+        "label": "no"
+    },
+    {
+        "index": "214",
+        "sentence1": "Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?",
+        "sentence2": "10:00 AM",
+        "label": "no"
+    },
+    {
+        "index": "215",
+        "sentence1": "Danny was spending less and less time at home with his wife and children. Although over the years things got better, his wife was still not happy about the past.  Would the wife still be upset about this in six years?",
+        "sentence2": "yes",
+        "label": "no"
+    },
+    {
+        "index": "216",
+        "sentence1": "Danny was spending less and less time at home with his wife and children. Although over the years things got better, his wife was still not happy about the past.  Would the wife still be upset about this in six years?",
+        "sentence2": "no",
+        "label": "yes"
+    },
+    {
+        "index": "217",
+        "sentence1": "Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. What happens once they are not surrounded by air molecules?",
+        "sentence2": "they cannot breath anymore",
+        "label": "yes"
+    },
+    {
+        "index": "218",
+        "sentence1": "Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. What happens once they are not surrounded by air molecules?",
+        "sentence2": "they can continue breathing",
+        "label": "no"
+    },
+    {
+        "index": "219",
+        "sentence1": "Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. How long do the stations remain pressurized?",
+        "sentence2": "just a couple minutes",
+        "label": "no"
+    },
+    {
+        "index": "220",
+        "sentence1": "Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. How long do the stations remain pressurized?",
+        "sentence2": "for as long as it's needed ",
+        "label": "yes"
+    },
+    {
+        "index": "221",
+        "sentence1": "Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. How long do the stations remain pressurized?",
+        "sentence2": "a two minutes",
+        "label": "no"
+    },
+    {
+        "index": "222",
+        "sentence1": "Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. How long do the stations remain pressurized?",
+        "sentence2": "for hours as long as the workers are in them",
+        "label": "yes"
+    },
+    {
+        "index": "223",
+        "sentence1": "He has not told his wife that he was fired at the beginning of the week and is simply serving out his tenure at the agency while looking for a new position . When was he fired?",
+        "sentence2": "saturday",
+        "label": "no"
+    },
+    {
+        "index": "224",
+        "sentence1": "He has not told his wife that he was fired at the beginning of the week and is simply serving out his tenure at the agency while looking for a new position . When was he fired?",
+        "sentence2": "a decade ago",
+        "label": "no"
+    },
+    {
+        "index": "225",
+        "sentence1": "He has not told his wife that he was fired at the beginning of the week and is simply serving out his tenure at the agency while looking for a new position . When was he fired?",
+        "sentence2": "about a second ago",
+        "label": "no"
+    },
+    {
+        "index": "226",
+        "sentence1": "He has not told his wife that he was fired at the beginning of the week and is simply serving out his tenure at the agency while looking for a new position . When was he fired?",
+        "sentence2": "one decade ago",
+        "label": "no"
+    },
+    {
+        "index": "227",
+        "sentence1": "He has not told his wife that he was fired at the beginning of the week and is simply serving out his tenure at the agency while looking for a new position . When was he fired?",
+        "sentence2": "around Monday ",
+        "label": "yes"
+    },
+    {
+        "index": "228",
+        "sentence1": "He has not told his wife that he was fired at the beginning of the week and is simply serving out his tenure at the agency while looking for a new position . When was he fired?",
+        "sentence2": "friday",
+        "label": "no"
+    },
+    {
+        "index": "229",
+        "sentence1": "Gonzo treated himself to a massage today to try to work out all of his stuntman kinks. When is the next time Gonzo will ask for another massage?",
+        "sentence2": "Later today after his massage. ",
+        "label": "no"
+    },
+    {
+        "index": "230",
+        "sentence1": "Gonzo treated himself to a massage today to try to work out all of his stuntman kinks. When is the next time Gonzo will ask for another massage?",
+        "sentence2": "One massage is enough for him today; no more for today. ",
+        "label": "yes"
+    },
+    {
+        "index": "231",
+        "sentence1": "Gonzo treated himself to a massage today to try to work out all of his stuntman kinks. When is the next time Gonzo will ask for another massage?",
+        "sentence2": "Multiple times this week. ",
+        "label": "no"
+    },
+    {
+        "index": "232",
+        "sentence1": "Gonzo treated himself to a massage today to try to work out all of his stuntman kinks. When is the next time Gonzo will ask for another massage?",
+        "sentence2": "Maybe next week ",
+        "label": "yes"
+    },
+    {
+        "index": "233",
+        "sentence1": "Gonzo treated himself to a massage today to try to work out all of his stuntman kinks. When is the next time Gonzo will ask for another massage?",
+        "sentence2": "Next month ",
+        "label": "yes"
+    },
+    {
+        "index": "234",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands in front of her in a disdaining way. What did she do after clasping her hands together?",
+        "sentence2": "she starting singing to the audience ",
+        "label": "no"
+    },
+    {
+        "index": "235",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands in front of her in a disdaining way. What did she do after clasping her hands together?",
+        "sentence2": "she talked to the audience",
+        "label": "yes"
+    },
+    {
+        "index": "236",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands in front of her in a disdaining way. What did she do after clasping her hands together?",
+        "sentence2": "she continued to do her makeup ",
+        "label": "no"
+    },
+    {
+        "index": "237",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands in front of her in a disdaining way. What did she do after clasping her hands together?",
+        "sentence2": "she sat back to her seat ",
+        "label": "no"
+    },
+    {
+        "index": "238",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?",
+        "sentence2": "since someone tied her hands",
+        "label": "no"
+    },
+    {
+        "index": "239",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?",
+        "sentence2": "5 hours",
+        "label": "no"
+    },
+    {
+        "index": "240",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?",
+        "sentence2": "1 day",
+        "label": "no"
+    },
+    {
+        "index": "241",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?",
+        "sentence2": "50 minutes",
+        "label": "no"
+    },
+    {
+        "index": "242",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?",
+        "sentence2": "one minute",
+        "label": "no"
+    },
+    {
+        "index": "243",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?",
+        "sentence2": "25 hours",
+        "label": "no"
+    },
+    {
+        "index": "244",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?",
+        "sentence2": "5 seconds",
+        "label": "yes"
+    },
+    {
+        "index": "245",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?",
+        "sentence2": "1 hours",
+        "label": "no"
+    },
+    {
+        "index": "246",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?",
+        "sentence2": "a woman nominated her boss",
+        "label": "no"
+    },
+    {
+        "index": "247",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?",
+        "sentence2": "1 month",
+        "label": "no"
+    },
+    {
+        "index": "248",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?",
+        "sentence2": "15 hours",
+        "label": "no"
+    },
+    {
+        "index": "249",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?",
+        "sentence2": "a few seconds",
+        "label": "yes"
+    },
+    {
+        "index": "250",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?",
+        "sentence2": "10 days",
+        "label": "no"
+    },
+    {
+        "index": "251",
+        "sentence1": "Moreover, he said, technology now exists for stealing corporate secrets after they've been \"erased\" from a computer's memory. What happens after hacker fails to steal the corporate secrets?",
+        "sentence2": "the hacker returns the data",
+        "label": "no"
+    },
+    {
+        "index": "252",
+        "sentence1": "Moreover, he said, technology now exists for stealing corporate secrets after they've been \"erased\" from a computer's memory. What happens after hacker fails to steal the corporate secrets?",
+        "sentence2": "they are sold off the black market",
+        "label": "no"
+    },
+    {
+        "index": "253",
+        "sentence1": "Moreover, he said, technology now exists for stealing corporate secrets after they've been \"erased\" from a computer's memory. What happens after hacker fails to steal the corporate secrets?",
+        "sentence2": "tries another time ",
+        "label": "yes"
+    },
+    {
+        "index": "254",
+        "sentence1": "Moreover, he said, technology now exists for stealing corporate secrets after they've been \"erased\" from a computer's memory. What happens after hacker fails to steal the corporate secrets?",
+        "sentence2": "the hacker returns the data",
+        "label": "no"
+    },
+    {
+        "index": "255",
+        "sentence1": "Moreover, he said, technology now exists for stealing corporate secrets after they've been \"erased\" from a computer's memory. What happens after hacker fails to steal the corporate secrets?",
+        "sentence2": "the hacker sells the documents",
+        "label": "no"
+    },
+    {
+        "index": "256",
+        "sentence1": "Moreover, he said, technology now exists for stealing corporate secrets after they've been \"erased\" from a computer's memory. What happens after hacker fails to steal the corporate secrets?",
+        "sentence2": "the hacker returned the data",
+        "label": "no"
+    },
+    {
+        "index": "257",
+        "sentence1": "Moreover, he said, technology now exists for stealing corporate secrets after they've been \"erased\" from a computer's memory. What happens after hacker fails to steal the corporate secrets?",
+        "sentence2": "stops being a hacker ",
+        "label": "no"
+    },
+    {
+        "index": "258",
+        "sentence1": "She had it for a long time but it seems brand new. How long has she had it?",
+        "sentence2": "10 years",
+        "label": "yes"
+    },
+    {
+        "index": "259",
+        "sentence1": "She had it for a long time but it seems brand new. How long has she had it?",
+        "sentence2": "fifteen years",
+        "label": "yes"
+    },
+    {
+        "index": "260",
+        "sentence1": "She had it for a long time but it seems brand new. How long has she had it?",
+        "sentence2": "5 years",
+        "label": "yes"
+    },
+    {
+        "index": "261",
+        "sentence1": "She had it for a long time but it seems brand new. How long has she had it?",
+        "sentence2": "2 seconds",
+        "label": "no"
+    },
+    {
+        "index": "262",
+        "sentence1": "She had it for a long time but it seems brand new. How long has she had it?",
+        "sentence2": "five years",
+        "label": "yes"
+    },
+    {
+        "index": "263",
+        "sentence1": "She had it for a long time but it seems brand new. How long has she had it?",
+        "sentence2": "ten years",
+        "label": "yes"
+    },
+    {
+        "index": "264",
+        "sentence1": "She had it for a long time but it seems brand new. How long has she had it?",
+        "sentence2": "0.6 days",
+        "label": "no"
+    },
+    {
+        "index": "265",
+        "sentence1": "Durer's father died in 1502, and his estranged mother died in 1513. How often did Durer visit his mother's grave?",
+        "sentence2": "every hour",
+        "label": "no"
+    },
+    {
+        "index": "266",
+        "sentence1": "Durer's father died in 1502, and his estranged mother died in 1513. How often did Durer visit his mother's grave?",
+        "sentence2": "once a minute",
+        "label": "no"
+    },
+    {
+        "index": "267",
+        "sentence1": "Durer's father died in 1502, and his estranged mother died in 1513. How often did Durer visit his mother's grave?",
+        "sentence2": "every second",
+        "label": "no"
+    },
+    {
+        "index": "268",
+        "sentence1": "Durer's father died in 1502, and his estranged mother died in 1513. How often did Durer visit his mother's grave?",
+        "sentence2": "hourly",
+        "label": "no"
+    },
+    {
+        "index": "269",
+        "sentence1": "Durer's father died in 1502, and his estranged mother died in 1513. How often did Durer visit his mother's grave?",
+        "sentence2": "once a century",
+        "label": "no"
+    },
+    {
+        "index": "270",
+        "sentence1": "Durer's father died in 1502, and his estranged mother died in 1513. How often did Durer visit his mother's grave?",
+        "sentence2": "every year",
+        "label": "no"
+    },
+    {
+        "index": "271",
+        "sentence1": "Durer's father died in 1502, and his estranged mother died in 1513. How often did Durer visit his mother's grave?",
+        "sentence2": "almost never",
+        "label": "yes"
+    },
+    {
+        "index": "272",
+        "sentence1": "Durer's father died in 1502, and his mother died in 1513, both after Durer's death. When did Durer die?",
+        "sentence2": "40 years later",
+        "label": "no"
+    },
+    {
+        "index": "273",
+        "sentence1": "Durer's father died in 1502, and his mother died in 1513, both after Durer's death. When did Durer die?",
+        "sentence2": "360 years later",
+        "label": "no"
+    },
+    {
+        "index": "274",
+        "sentence1": "Durer's father died in 1502, and his mother died in 1513, both after Durer's death. When did Durer die?",
+        "sentence2": "4545",
+        "label": "no"
+    },
+    {
+        "index": "275",
+        "sentence1": "Durer's father died in 1502, and his mother died in 1513, both after Durer's death. When did Durer die?",
+        "sentence2": "40 seconds later",
+        "label": "no"
+    },
+    {
+        "index": "276",
+        "sentence1": "Durer's father died in 1502, and his mother died in 1513, both after Durer's death. When did Durer die?",
+        "sentence2": "April 6, 1528",
+        "label": "no"
+    },
+    {
+        "index": "277",
+        "sentence1": "Durer's father died in 1502, and his mother died in 1513, both after Durer's death. When did Durer die?",
+        "sentence2": "170",
+        "label": "no"
+    },
+    {
+        "index": "278",
+        "sentence1": "Durer's father died in 1502, and his mother died in 1513, both after Durer's death. When did Durer die?",
+        "sentence2": "before 1502",
+        "label": "yes"
+    },
+    {
+        "index": "279",
+        "sentence1": "Durer's father died in 1502, and his mother died in 1513, both after Durer's death. When did Durer die?",
+        "sentence2": "after 1502",
+        "label": "no"
+    },
+    {
+        "index": "280",
+        "sentence1": "Marsha used to takes extra special care to make sure Joey is safe and sound at all times. Is Joey safe and sound today because of Marsha?",
+        "sentence2": "yes",
+        "label": "no"
+    },
+    {
+        "index": "281",
+        "sentence1": "However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?",
+        "sentence2": "it uprooted thousands of lives",
+        "label": "no"
+    },
+    {
+        "index": "282",
+        "sentence1": "However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?",
+        "sentence2": "2,000 years",
+        "label": "no"
+    },
+    {
+        "index": "283",
+        "sentence1": "However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?",
+        "sentence2": "1 second",
+        "label": "no"
+    },
+    {
+        "index": "284",
+        "sentence1": "However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?",
+        "sentence2": "few years",
+        "label": "yes"
+    },
+    {
+        "index": "285",
+        "sentence1": "However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?",
+        "sentence2": "thousands of hours",
+        "label": "no"
+    },
+    {
+        "index": "286",
+        "sentence1": "However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?",
+        "sentence2": "thousands of years",
+        "label": "no"
+    },
+    {
+        "index": "287",
+        "sentence1": "However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?",
+        "sentence2": "months",
+        "label": "no"
+    },
+    {
+        "index": "288",
+        "sentence1": "However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?",
+        "sentence2": "days",
+        "label": "no"
+    },
+    {
+        "index": "289",
+        "sentence1": "However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?",
+        "sentence2": "centuries",
+        "label": "no"
+    },
+    {
+        "index": "290",
+        "sentence1": "However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?",
+        "sentence2": "thousands of seconds",
+        "label": "no"
+    },
+    {
+        "index": "291",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through the donation platform in very small amounts each time. How often did al Qaeda receive donations prior to 9/11?",
+        "sentence2": "5 hours a day",
+        "label": "no"
+    },
+    {
+        "index": "292",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through the donation platform in very small amounts each time. How often did al Qaeda receive donations prior to 9/11?",
+        "sentence2": "once each month",
+        "label": "no"
+    },
+    {
+        "index": "293",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through the donation platform in very small amounts each time. How often did al Qaeda receive donations prior to 9/11?",
+        "sentence2": "25 times a day",
+        "label": "yes"
+    },
+    {
+        "index": "294",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through the donation platform in very small amounts each time. How often did al Qaeda receive donations prior to 9/11?",
+        "sentence2": "once a year",
+        "label": "no"
+    },
+    {
+        "index": "295",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through the donation platform in very small amounts each time. How often did al Qaeda receive donations prior to 9/11?",
+        "sentence2": "every century",
+        "label": "no"
+    },
+    {
+        "index": "296",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through annual donation events. How long did it take al Qaeda to raise $30 million?",
+        "sentence2": "a few weeks",
+        "label": "no"
+    },
+    {
+        "index": "297",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through annual donation events. How long did it take al Qaeda to raise $30 million?",
+        "sentence2": "few days, during their funraising events.",
+        "label": "yes"
+    },
+    {
+        "index": "298",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through annual donation events. How long did it take al Qaeda to raise $30 million?",
+        "sentence2": "a few years",
+        "label": "no"
+    },
+    {
+        "index": "299",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through annual donation events. How long did it take al Qaeda to raise $30 million?",
+        "sentence2": "2 years",
+        "label": "no"
+    },
+    {
+        "index": "300",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through annual donation events. How long did it take al Qaeda to raise $30 million?",
+        "sentence2": "two seconds",
+        "label": "no"
+    },
+    {
+        "index": "301",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through annual donation events. How long did it take al Qaeda to raise $30 million?",
+        "sentence2": "a few seconds",
+        "label": "no"
+    },
+    {
+        "index": "302",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through annual donation events. How long did it take al Qaeda to raise $30 million?",
+        "sentence2": "a few hours",
+        "label": "no"
+    },
+    {
+        "index": "303",
+        "sentence1": "She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?",
+        "sentence2": "several times every day",
+        "label": "no"
+    },
+    {
+        "index": "304",
+        "sentence1": "She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?",
+        "sentence2": "every day",
+        "label": "no"
+    },
+    {
+        "index": "305",
+        "sentence1": "She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?",
+        "sentence2": "several times each day",
+        "label": "no"
+    },
+    {
+        "index": "306",
+        "sentence1": "She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?",
+        "sentence2": "every night",
+        "label": "no"
+    },
+    {
+        "index": "307",
+        "sentence1": "She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?",
+        "sentence2": "every other second",
+        "label": "no"
+    },
+    {
+        "index": "308",
+        "sentence1": "She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?",
+        "sentence2": "every morning",
+        "label": "no"
+    },
+    {
+        "index": "309",
+        "sentence1": "She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?",
+        "sentence2": "every other year",
+        "label": "yes"
+    },
+    {
+        "index": "310",
+        "sentence1": "She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?",
+        "sentence2": "daily",
+        "label": "no"
+    },
+    {
+        "index": "311",
+        "sentence1": "She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?",
+        "sentence2": "every other week",
+        "label": "yes"
+    },
+    {
+        "index": "312",
+        "sentence1": "Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?",
+        "sentence2": "they go to the playground twice a night",
+        "label": "no"
+    },
+    {
+        "index": "313",
+        "sentence1": "Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?",
+        "sentence2": "twice a minute",
+        "label": "no"
+    },
+    {
+        "index": "314",
+        "sentence1": "Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?",
+        "sentence2": "three times a week",
+        "label": "no"
+    },
+    {
+        "index": "315",
+        "sentence1": "Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?",
+        "sentence2": "few times a year",
+        "label": "yes"
+    },
+    {
+        "index": "316",
+        "sentence1": "Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?",
+        "sentence2": "three times per week",
+        "label": "no"
+    },
+    {
+        "index": "317",
+        "sentence1": "Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?",
+        "sentence2": "they go to the playground twice a minute",
+        "label": "no"
+    },
+    {
+        "index": "318",
+        "sentence1": "Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?",
+        "sentence2": "once a week",
+        "label": "no"
+    },
+    {
+        "index": "319",
+        "sentence1": "Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?",
+        "sentence2": "they go to the playground once every few days",
+        "label": "no"
+    },
+    {
+        "index": "320",
+        "sentence1": "Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?",
+        "sentence2": "they go to the playground once every few centuries",
+        "label": "no"
+    },
+    {
+        "index": "321",
+        "sentence1": "Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?",
+        "sentence2": "once a second",
+        "label": "no"
+    },
+    {
+        "index": "322",
+        "sentence1": "Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?",
+        "sentence2": "every 5 minutes",
+        "label": "no"
+    },
+    {
+        "index": "323",
+        "sentence1": "Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?",
+        "sentence2": "every 5 hours",
+        "label": "no"
+    },
+    {
+        "index": "324",
+        "sentence1": "Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?",
+        "sentence2": "each 5 minutes",
+        "label": "no"
+    },
+    {
+        "index": "325",
+        "sentence1": "Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?",
+        "sentence2": "5:00 AM",
+        "label": "no"
+    },
+    {
+        "index": "326",
+        "sentence1": "Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?",
+        "sentence2": "4:00 PM",
+        "label": "no"
+    },
+    {
+        "index": "327",
+        "sentence1": "Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?",
+        "sentence2": "every 5 days",
+        "label": "no"
+    },
+    {
+        "index": "328",
+        "sentence1": "Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?",
+        "sentence2": "12 midnight",
+        "label": "no"
+    },
+    {
+        "index": "329",
+        "sentence1": "Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?",
+        "sentence2": "9:00 AM",
+        "label": "no"
+    },
+    {
+        "index": "330",
+        "sentence1": "Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?",
+        "sentence2": "5:00 PM",
+        "label": "no"
+    },
+    {
+        "index": "331",
+        "sentence1": "Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?",
+        "sentence2": "every 45 minutes",
+        "label": "no"
+    },
+    {
+        "index": "332",
+        "sentence1": "Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?",
+        "sentence2": "8:00 PM",
+        "label": "yes"
+    },
+    {
+        "index": "333",
+        "sentence1": "Most of us have seen steam rising off a wet road after a summer rainstorm. Will the road functional the next sunny day after the rainstorm?",
+        "sentence2": "yes",
+        "label": "yes"
+    },
+    {
+        "index": "334",
+        "sentence1": "At first they feel like they are forced to stay in that situation.\" For how long do they felt they were forced to stay?",
+        "sentence2": "they feel they can trust mr. krenz",
+        "label": "no"
+    },
+    {
+        "index": "335",
+        "sentence1": "At first they feel like they are forced to stay in that situation.\" For how long do they felt they were forced to stay?",
+        "sentence2": "a few months",
+        "label": "no"
+    },
+    {
+        "index": "336",
+        "sentence1": "At first they feel like they are forced to stay in that situation.\" For how long do they felt they were forced to stay?",
+        "sentence2": "a few seconds",
+        "label": "yes"
+    },
+    {
+        "index": "337",
+        "sentence1": "At first they feel like they are forced to stay in that situation.\" For how long do they felt they were forced to stay?",
+        "sentence2": "they feel comfortable",
+        "label": "no"
+    },
+    {
+        "index": "338",
+        "sentence1": "At first they feel like they are forced to stay in that situation.\" For how long do they felt they were forced to stay?",
+        "sentence2": "a few centuries",
+        "label": "no"
+    },
+    {
+        "index": "339",
+        "sentence1": "At first they feel like they are forced to stay in that situation.\" For how long do they felt they were forced to stay?",
+        "sentence2": "a few minutes",
+        "label": "yes"
+    },
+    {
+        "index": "340",
+        "sentence1": "At first they feel like they are forced to stay in that situation.\" For how long do they felt they were forced to stay?",
+        "sentence2": "a few weeks",
+        "label": "no"
+    },
+    {
+        "index": "341",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are forced to have a child . Did they want children when they were younger?",
+        "sentence2": "yes.`",
+        "label": "no"
+    },
+    {
+        "index": "342",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are forced to have a child . Did they want children when they were younger?",
+        "sentence2": "yes, they did",
+        "label": "no"
+    },
+    {
+        "index": "343",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are forced to have a child . Did they want children when they were younger?",
+        "sentence2": "he says yes",
+        "label": "no"
+    },
+    {
+        "index": "344",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are forced to have a child . Did they want children when they were younger?",
+        "sentence2": "no",
+        "label": "yes"
+    },
+    {
+        "index": "345",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?",
+        "sentence2": "3 years",
+        "label": "no"
+    },
+    {
+        "index": "346",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?",
+        "sentence2": "9 minute",
+        "label": "no"
+    },
+    {
+        "index": "347",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?",
+        "sentence2": "3 hours",
+        "label": "no"
+    },
+    {
+        "index": "348",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?",
+        "sentence2": "two years",
+        "label": "no"
+    },
+    {
+        "index": "349",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?",
+        "sentence2": "1 day",
+        "label": "no"
+    },
+    {
+        "index": "350",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?",
+        "sentence2": "two seconds",
+        "label": "no"
+    },
+    {
+        "index": "351",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?",
+        "sentence2": "two hours",
+        "label": "no"
+    },
+    {
+        "index": "352",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?",
+        "sentence2": "20 years",
+        "label": "no"
+    },
+    {
+        "index": "353",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?",
+        "sentence2": "few weeks",
+        "label": "yes"
+    },
+    {
+        "index": "354",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?",
+        "sentence2": "a child leave home",
+        "label": "no"
+    },
+    {
+        "index": "355",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?",
+        "sentence2": "once a second",
+        "label": "no"
+    },
+    {
+        "index": "356",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?",
+        "sentence2": "rarely ",
+        "label": "yes"
+    },
+    {
+        "index": "357",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?",
+        "sentence2": "every week",
+        "label": "no"
+    },
+    {
+        "index": "358",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?",
+        "sentence2": "every hour",
+        "label": "no"
+    },
+    {
+        "index": "359",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?",
+        "sentence2": "every century",
+        "label": "no"
+    },
+    {
+        "index": "360",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?",
+        "sentence2": "she expecting a second child",
+        "label": "no"
+    },
+    {
+        "index": "361",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?",
+        "sentence2": "yearly",
+        "label": "no"
+    },
+    {
+        "index": "362",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?",
+        "sentence2": "every day",
+        "label": "no"
+    },
+    {
+        "index": "363",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?",
+        "sentence2": "never",
+        "label": "yes"
+    },
+    {
+        "index": "364",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?",
+        "sentence2": "once a hour",
+        "label": "no"
+    },
+    {
+        "index": "365",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?",
+        "sentence2": "every minute",
+        "label": "no"
+    },
+    {
+        "index": "366",
+        "sentence1": "He was running all around the pond and barking at the ducks when he saw someone breaking in. What did he do after barking at the ducks?",
+        "sentence2": "he chased the robbers",
+        "label": "yes"
+    },
+    {
+        "index": "367",
+        "sentence1": "He was running all around the pond and barking at the ducks when he saw someone breaking in. What did he do after barking at the ducks?",
+        "sentence2": "he died",
+        "label": "no"
+    },
+    {
+        "index": "368",
+        "sentence1": "He was running all around the pond and barking at the ducks when he saw someone breaking in. What did he do after barking at the ducks?",
+        "sentence2": "he went home",
+        "label": "no"
+    },
+    {
+        "index": "369",
+        "sentence1": "Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while their competitor Perestrelo had to settle with Porto Santo. What happened after Perestrelo was to rule Porto Santo?",
+        "sentence2": "he went to jail",
+        "label": "no"
+    },
+    {
+        "index": "370",
+        "sentence1": "Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while their competitor Perestrelo had to settle with Porto Santo. What happened after Perestrelo was to rule Porto Santo?",
+        "sentence2": "perestrelo started working",
+        "label": "yes"
+    },
+    {
+        "index": "371",
+        "sentence1": "Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while their competitor Perestrelo had to settle with Porto Santo. What happened after Perestrelo was to rule Porto Santo?",
+        "sentence2": "investors celebrated the second anniversary of black monday",
+        "label": "no"
+    },
+    {
+        "index": "372",
+        "sentence1": "Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while their competitor Perestrelo had to settle with Porto Santo. What happened after Perestrelo was to rule Porto Santo?",
+        "sentence2": "he took 63 years off",
+        "label": "no"
+    },
+    {
+        "index": "373",
+        "sentence1": "Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while their competitor Perestrelo had to settle with Porto Santo. What happened after Perestrelo was to rule Porto Santo?",
+        "sentence2": "he celebrated",
+        "label": "no"
+    },
+    {
+        "index": "374",
+        "sentence1": "Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while their competitor Perestrelo had to settle with Porto Santo. What happened after Perestrelo was to rule Porto Santo?",
+        "sentence2": "he took 7 seconds off",
+        "label": "no"
+    },
+    {
+        "index": "375",
+        "sentence1": "Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while their competitor Perestrelo had to settle with Porto Santo. What happened after Perestrelo was to rule Porto Santo?",
+        "sentence2": "he took 21 years off",
+        "label": "no"
+    },
+    {
+        "index": "376",
+        "sentence1": "Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while their competitor Perestrelo had to settle with Porto Santo. What happened after Perestrelo was to rule Porto Santo?",
+        "sentence2": "he took 0.78 years off",
+        "label": "no"
+    },
+    {
+        "index": "377",
+        "sentence1": "At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?",
+        "sentence2": "every 6 minutes",
+        "label": "no"
+    },
+    {
+        "index": "378",
+        "sentence1": "At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?",
+        "sentence2": "once every 5 years",
+        "label": "no"
+    },
+    {
+        "index": "379",
+        "sentence1": "At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?",
+        "sentence2": "once a year",
+        "label": "yes"
+    },
+    {
+        "index": "380",
+        "sentence1": "At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?",
+        "sentence2": "multiple times a monthly",
+        "label": "no"
+    },
+    {
+        "index": "381",
+        "sentence1": "At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?",
+        "sentence2": "once in 5 seconds",
+        "label": "no"
+    },
+    {
+        "index": "382",
+        "sentence1": "At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?",
+        "sentence2": "every 54 years",
+        "label": "no"
+    },
+    {
+        "index": "383",
+        "sentence1": "At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?",
+        "sentence2": "once in 5 hours",
+        "label": "no"
+    },
+    {
+        "index": "384",
+        "sentence1": "At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?",
+        "sentence2": "once a hour",
+        "label": "no"
+    },
+    {
+        "index": "385",
+        "sentence1": "At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?",
+        "sentence2": "every 6 days",
+        "label": "no"
+    },
+    {
+        "index": "386",
+        "sentence1": "At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?",
+        "sentence2": "every 6 centuries",
+        "label": "no"
+    },
+    {
+        "index": "387",
+        "sentence1": "But the key figure in the sultanate was the mysterious Tun Perak, bendahara (prime minister) and military commander. How many speeches does Perak make during his career?",
+        "sentence2": "rarely ",
+        "label": "yes"
+    },
+    {
+        "index": "388",
+        "sentence1": "But the key figure in the sultanate was the mysterious Tun Perak, bendahara (prime minister) and military commander. How many speeches does Perak make during his career?",
+        "sentence2": "30",
+        "label": "no"
+    },
+    {
+        "index": "389",
+        "sentence1": "But the key figure in the sultanate was the mysterious Tun Perak, bendahara (prime minister) and military commander. How many speeches does Perak make during his career?",
+        "sentence2": "every year",
+        "label": "no"
+    },
+    {
+        "index": "390",
+        "sentence1": "But the key figure in the sultanate was the mysterious Tun Perak, bendahara (prime minister) and military commander. How many speeches does Perak make during his career?",
+        "sentence2": "one per month",
+        "label": "no"
+    },
+    {
+        "index": "391",
+        "sentence1": "Even though electronic espionage may cost U.S. firms billions of dollars a year, most aren't yet taking precautions because they falsely believe it will end soon. Will electronic espionage always be happening in the U.S.?",
+        "sentence2": "yes",
+        "label": "yes"
+    },
+    {
+        "index": "392",
+        "sentence1": "Even though electronic espionage may cost U.S. firms billions of dollars a year, most aren't yet taking precautions because they falsely believe it will end soon. Will electronic espionage always be happening in the U.S.?",
+        "sentence2": "electronic intelligence does not exist",
+        "label": "no"
+    },
+    {
+        "index": "393",
+        "sentence1": "Even though electronic espionage may cost U.S. firms billions of dollars a year, most aren't yet taking precautions because they falsely believe it will end soon. Will electronic espionage always be happening in the U.S.?",
+        "sentence2": "yes as long as computers exist",
+        "label": "yes"
+    },
+    {
+        "index": "394",
+        "sentence1": "Even though electronic espionage may cost U.S. firms billions of dollars a year, most aren't yet taking precautions because they falsely believe it will end soon. Will electronic espionage always be happening in the U.S.?",
+        "sentence2": "electronic espionage does not exists",
+        "label": "no"
+    },
+    {
+        "index": "395",
+        "sentence1": "Even though electronic espionage may cost U.S. firms billions of dollars a year, most aren't yet taking precautions because they falsely believe it will end soon. Will electronic espionage always be happening in the U.S.?",
+        "sentence2": "electronic espionage never existed",
+        "label": "no"
+    },
+    {
+        "index": "396",
+        "sentence1": "Even though electronic espionage may cost U.S. firms billions of dollars a year, most aren't yet taking precautions because they falsely believe it will end soon. Will electronic espionage always be happening in the U.S.?",
+        "sentence2": "yes as long as machines exist",
+        "label": "yes"
+    },
+    {
+        "index": "397",
+        "sentence1": "Even though electronic espionage may cost U.S. firms billions of dollars a year, most aren't yet taking precautions because they falsely believe it will end soon. Will electronic espionage always be happening in the U.S.?",
+        "sentence2": "electronic espionage does not exist",
+        "label": "no"
+    },
+    {
+        "index": "398",
+        "sentence1": "She told me that she was heading for a drink right after getting out of the bed. When did she have a drink?",
+        "sentence2": "two months later",
+        "label": "no"
+    },
+    {
+        "index": "399",
+        "sentence1": "She told me that she was heading for a drink right after getting out of the bed. When did she have a drink?",
+        "sentence2": "two days later",
+        "label": "no"
+    },
+    {
+        "index": "400",
+        "sentence1": "She told me that she was heading for a drink right after getting out of the bed. When did she have a drink?",
+        "sentence2": "10:00 AM",
+        "label": "yes"
+    },
+    {
+        "index": "401",
+        "sentence1": "She told me that she was heading for a drink right after getting out of the bed. When did she have a drink?",
+        "sentence2": "two centuries later",
+        "label": "no"
+    },
+    {
+        "index": "402",
+        "sentence1": "In the States, Powell met with Prime Minister Mahathir Mohamad, who visited for the first time since 1981. What did Powell do after meeting with the Prime Minister ?",
+        "sentence2": "discussed a treaty between the two countries ",
+        "label": "yes"
+    },
+    {
+        "index": "403",
+        "sentence1": "In the States, Powell met with Prime Minister Mahathir Mohamad, who visited for the first time since 1981. What did Powell do after meeting with the Prime Minister ?",
+        "sentence2": "declared war on the enemy country ",
+        "label": "no"
+    },
+    {
+        "index": "404",
+        "sentence1": "In Malaysia, Powell met with Prime Minister Mahathir Mohamad, who continued to lead the country until 1981. When did Powell and the Prime Minister meet ?",
+        "sentence2": "the prime minister and powell met after 1981",
+        "label": "no"
+    },
+    {
+        "index": "405",
+        "sentence1": "In Malaysia, Powell met with Prime Minister Mahathir Mohamad, who continued to lead the country until 1981. When did Powell and the Prime Minister meet ?",
+        "sentence2": "the prime minister and powell met before 1981",
+        "label": "yes"
+    },
+    {
+        "index": "406",
+        "sentence1": "In Malaysia, Powell met with Prime Minister Mahathir Mohamad, who continued to lead the country until 1981. When did Powell and the Prime Minister meet ?",
+        "sentence2": "powell and the prime minister met before 1981",
+        "label": "yes"
+    },
+    {
+        "index": "407",
+        "sentence1": "In Malaysia, Powell met with Prime Minister Mahathir Mohamad, who continued to lead the country until 1981. When did Powell and the Prime Minister meet ?",
+        "sentence2": "powell and the prime minister met after 1981",
+        "label": "no"
+    },
+    {
+        "index": "408",
+        "sentence1": "What if you rode the bus or were driven in a car? How often do toddlers ride the bus alone?",
+        "sentence2": "every 5 minutes",
+        "label": "no"
+    },
+    {
+        "index": "409",
+        "sentence1": "What if you rode the bus or were driven in a car? How often do toddlers ride the bus alone?",
+        "sentence2": "twice a minute",
+        "label": "no"
+    },
+    {
+        "index": "410",
+        "sentence1": "What if you rode the bus or were driven in a car? How often do toddlers ride the bus alone?",
+        "sentence2": "5 days a week",
+        "label": "no"
+    },
+    {
+        "index": "411",
+        "sentence1": "What if you rode the bus or were driven in a car? How often do toddlers ride the bus alone?",
+        "sentence2": "twice a night",
+        "label": "no"
+    },
+    {
+        "index": "412",
+        "sentence1": "What if you rode the bus or were driven in a car? How often do toddlers ride the bus alone?",
+        "sentence2": "never",
+        "label": "yes"
+    },
+    {
+        "index": "413",
+        "sentence1": "What if you rode the bus or were driven in a car? How often do toddlers ride the bus alone?",
+        "sentence2": "always",
+        "label": "no"
+    },
+    {
+        "index": "414",
+        "sentence1": "What if you rode the bus or were driven in a car? How often do toddlers ride the bus alone?",
+        "sentence2": "every 45 minutes",
+        "label": "no"
+    },
+    {
+        "index": "415",
+        "sentence1": "In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?",
+        "sentence2": "18 weeks",
+        "label": "no"
+    },
+    {
+        "index": "416",
+        "sentence1": "In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?",
+        "sentence2": "2 seconds",
+        "label": "no"
+    },
+    {
+        "index": "417",
+        "sentence1": "In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?",
+        "sentence2": "20 years",
+        "label": "no"
+    },
+    {
+        "index": "418",
+        "sentence1": "In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?",
+        "sentence2": "6 seconds",
+        "label": "no"
+    },
+    {
+        "index": "419",
+        "sentence1": "In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?",
+        "sentence2": "6 years",
+        "label": "no"
+    },
+    {
+        "index": "420",
+        "sentence1": "In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?",
+        "sentence2": "60 hours",
+        "label": "no"
+    },
+    {
+        "index": "421",
+        "sentence1": "In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?",
+        "sentence2": "20 hours",
+        "label": "no"
+    },
+    {
+        "index": "422",
+        "sentence1": "In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?",
+        "sentence2": "2 years",
+        "label": "no"
+    },
+    {
+        "index": "423",
+        "sentence1": "In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?",
+        "sentence2": "2 weeks",
+        "label": "no"
+    },
+    {
+        "index": "424",
+        "sentence1": "In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?",
+        "sentence2": "20 minutes",
+        "label": "yes"
+    },
+    {
+        "index": "425",
+        "sentence1": "In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?",
+        "sentence2": "20 seconds",
+        "label": "no"
+    },
+    {
+        "index": "426",
+        "sentence1": "In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?",
+        "sentence2": "54 hours",
+        "label": "no"
+    },
+    {
+        "index": "427",
+        "sentence1": "In the end , they drive off to the multi-day roadtrip, listening to the radio . How many times did the music change during the trip?",
+        "sentence2": "9000 times an hour ",
+        "label": "no"
+    },
+    {
+        "index": "428",
+        "sentence1": "In the end , they drive off to the multi-day roadtrip, listening to the radio . How many times did the music change during the trip?",
+        "sentence2": "111.11  times an hour ",
+        "label": "no"
+    },
+    {
+        "index": "429",
+        "sentence1": "In the end , they drive off to the multi-day roadtrip, listening to the radio . How many times did the music change during the trip?",
+        "sentence2": "1000  times an hour ",
+        "label": "no"
+    },
+    {
+        "index": "430",
+        "sentence1": "In the end , they drive off to the multi-day roadtrip, listening to the radio . How many times did the music change during the trip?",
+        "sentence2": "they changed the music 240 times over the whole time ",
+        "label": "yes"
+    },
+    {
+        "index": "431",
+        "sentence1": "In the end , they drive off to the multi-day roadtrip, listening to the radio . How many times did the music change during the trip?",
+        "sentence2": "they changed the music 80 times",
+        "label": "yes"
+    },
+    {
+        "index": "432",
+        "sentence1": "Meanwhile Akai's wife , Nozomi , attempts to make friends with Juzo and entrusting the care of her toddler son to Juzo while she uses the bathroom. How long does Juzo care for Nozomi's son?",
+        "sentence2": "for a century",
+        "label": "no"
+    },
+    {
+        "index": "433",
+        "sentence1": "Meanwhile Akai's wife , Nozomi , attempts to make friends with Juzo and entrusting the care of her toddler son to Juzo while she uses the bathroom. How long does Juzo care for Nozomi's son?",
+        "sentence2": "four centuries",
+        "label": "no"
+    },
+    {
+        "index": "434",
+        "sentence1": "Meanwhile Akai's wife , Nozomi , attempts to make friends with Juzo and entrusting the care of her toddler son to Juzo while she uses the bathroom. How long does Juzo care for Nozomi's son?",
+        "sentence2": "few minutes",
+        "label": "yes"
+    },
+    {
+        "index": "435",
+        "sentence1": "Meanwhile Akai's wife , Nozomi , attempts to make friends with Juzo and entrusting the care of her toddler son to Juzo while she uses the bathroom. How long does Juzo care for Nozomi's son?",
+        "sentence2": "3 minutes",
+        "label": "yes"
+    },
+    {
+        "index": "436",
+        "sentence1": "Meanwhile Akai's wife , Nozomi , attempts to make friends with Juzo and entrusting the care of her toddler son to Juzo while she uses the bathroom. How long does Juzo care for Nozomi's son?",
+        "sentence2": "2 seconds",
+        "label": "no"
+    },
+    {
+        "index": "437",
+        "sentence1": "At about 9:20pm, security personnel at FAA headquarters set up a hijacking teleconference with several agencies, including the Defense Department, and they were able to solve the issue within an hour. When did the teleconference end?",
+        "sentence2": "the telecon briefing ended at 5am",
+        "label": "no"
+    },
+    {
+        "index": "438",
+        "sentence1": "At about 9:20pm, security personnel at FAA headquarters set up a hijacking teleconference with several agencies, including the Defense Department, and they were able to solve the issue within an hour. When did the teleconference end?",
+        "sentence2": "the telecon briefing ended at 11pm",
+        "label": "yes"
+    },
+    {
+        "index": "439",
+        "sentence1": "At about 9:20pm, security personnel at FAA headquarters set up a hijacking teleconference with several agencies, including the Defense Department, and they were able to solve the issue within an hour. When did the teleconference end?",
+        "sentence2": "at least 20 years",
+        "label": "no"
+    },
+    {
+        "index": "440",
+        "sentence1": "After graduating from Cairo University with a degree in architectural engineering in 1990, Atta worked as an urban planner in Cairo but did poorly. What happened after Atta worked as an urban planner?",
+        "sentence2": "his brushed his teeth",
+        "label": "no"
+    },
+    {
+        "index": "441",
+        "sentence1": "After graduating from Cairo University with a degree in architectural engineering in 1990, Atta worked as an urban planner in Cairo but did poorly. What happened after Atta worked as an urban planner?",
+        "sentence2": "atta moved from moscow",
+        "label": "no"
+    },
+    {
+        "index": "442",
+        "sentence1": "After graduating from Cairo University with a degree in architectural engineering in 1990, Atta worked as an urban planner in Cairo but did poorly. What happened after Atta worked as an urban planner?",
+        "sentence2": "he brushed his teeth",
+        "label": "no"
+    },
+    {
+        "index": "443",
+        "sentence1": "After graduating from Cairo University with a degree in architectural engineering in 1990, Atta worked as an urban planner in Cairo but did poorly. What happened after Atta worked as an urban planner?",
+        "sentence2": "atta returned to Cairo",
+        "label": "no"
+    },
+    {
+        "index": "444",
+        "sentence1": "After graduating from Cairo University with a degree in architectural engineering in 1990, Atta worked as an urban planner in Cairo but did poorly. What happened after Atta worked as an urban planner?",
+        "sentence2": "he was promoted",
+        "label": "no"
+    },
+    {
+        "index": "445",
+        "sentence1": "After graduating from Cairo University with a degree in architectural engineering in 1990, Atta worked as an urban planner in Cairo but did poorly. What happened after Atta worked as an urban planner?",
+        "sentence2": "he worked in other fields",
+        "label": "yes"
+    },
+    {
+        "index": "446",
+        "sentence1": "The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year do the maintainers in the museum look at fossils?",
+        "sentence2": "once",
+        "label": "no"
+    },
+    {
+        "index": "447",
+        "sentence1": "The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year do the maintainers in the museum look at fossils?",
+        "sentence2": "many times",
+        "label": "yes"
+    },
+    {
+        "index": "448",
+        "sentence1": "The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year do the maintainers in the museum look at fossils?",
+        "sentence2": "rarely ",
+        "label": "no"
+    },
+    {
+        "index": "449",
+        "sentence1": "The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year do the maintainers in the museum look at fossils?",
+        "sentence2": "2 times",
+        "label": "no"
+    },
+    {
+        "index": "450",
+        "sentence1": "The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year do the maintainers in the museum look at fossils?",
+        "sentence2": "0.2 time",
+        "label": "no"
+    },
+    {
+        "index": "451",
+        "sentence1": "The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year do the maintainers in the museum look at fossils?",
+        "sentence2": "1 time",
+        "label": "no"
+    },
+    {
+        "index": "452",
+        "sentence1": "The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year do the maintainers in the museum look at fossils?",
+        "sentence2": "12.5",
+        "label": "no"
+    },
+    {
+        "index": "453",
+        "sentence1": "The fossils that are very distinct yet they are identified to be fake. How long did it take for the fake fossils to be made?",
+        "sentence2": "centuries",
+        "label": "no"
+    },
+    {
+        "index": "454",
+        "sentence1": "The fossils that are very distinct yet they are identified to be fake. How long did it take for the fake fossils to be made?",
+        "sentence2": "years",
+        "label": "no"
+    },
+    {
+        "index": "455",
+        "sentence1": "The fossils that are very distinct yet they are identified to be fake. How long did it take for the fake fossils to be made?",
+        "sentence2": "millions of years",
+        "label": "no"
+    },
+    {
+        "index": "456",
+        "sentence1": "The fossils that are very distinct yet they are identified to be fake. How long did it take for the fake fossils to be made?",
+        "sentence2": "billions of years",
+        "label": "no"
+    },
+    {
+        "index": "457",
+        "sentence1": "The fossils that are very distinct yet they are identified to be fake. How long did it take for the fake fossils to be made?",
+        "sentence2": "billions of seconds",
+        "label": "no"
+    },
+    {
+        "index": "458",
+        "sentence1": "The fossils that are very distinct yet they are identified to be fake. How long did it take for the fake fossils to be made?",
+        "sentence2": "billions of centuries",
+        "label": "no"
+    },
+    {
+        "index": "459",
+        "sentence1": "The fossils that are very distinct yet they are identified to be fake. How long did it take for the fake fossils to be made?",
+        "sentence2": "days",
+        "label": "yes"
+    },
+    {
+        "index": "460",
+        "sentence1": "The fossils that are very distinct yet they are identified to be fake. How long did it take for the fake fossils to be made?",
+        "sentence2": "weeks",
+        "label": "yes"
+    },
+    {
+        "index": "461",
+        "sentence1": "After sleeping with Lucrezia after the first date, Callimaco confesses everything . How long had Callimaco pursued Lucrezia?",
+        "sentence2": "minutes",
+        "label": "no"
+    },
+    {
+        "index": "462",
+        "sentence1": "After sleeping with Lucrezia after the first date, Callimaco confesses everything . How long had Callimaco pursued Lucrezia?",
+        "sentence2": "days",
+        "label": "yes"
+    },
+    {
+        "index": "463",
+        "sentence1": "After sleeping with Lucrezia after the first date, Callimaco confesses everything . How long had Callimaco pursued Lucrezia?",
+        "sentence2": "never, he's not interested in her",
+        "label": "no"
+    },
+    {
+        "index": "464",
+        "sentence1": "After sleeping with Lucrezia after the first date, Callimaco confesses everything . How long had Callimaco pursued Lucrezia?",
+        "sentence2": "1 century",
+        "label": "no"
+    },
+    {
+        "index": "465",
+        "sentence1": "After sleeping with Lucrezia after the first date, Callimaco confesses everything . How long had Callimaco pursued Lucrezia?",
+        "sentence2": "hours",
+        "label": "no"
+    },
+    {
+        "index": "466",
+        "sentence1": "After sleeping with Lucrezia after the first date, Callimaco confesses everything . How long had Callimaco pursued Lucrezia?",
+        "sentence2": "decades",
+        "label": "no"
+    },
+    {
+        "index": "467",
+        "sentence1": "After sleeping with Lucrezia after the first date, Callimaco confesses everything . How long had Callimaco pursued Lucrezia?",
+        "sentence2": "months",
+        "label": "no"
+    },
+    {
+        "index": "468",
+        "sentence1": "After sleeping with Lucrezia after the first date, Callimaco confesses everything . How long had Callimaco pursued Lucrezia?",
+        "sentence2": "1 minute",
+        "label": "no"
+    },
+    {
+        "index": "469",
+        "sentence1": "Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?",
+        "sentence2": "10:00 AM",
+        "label": "no"
+    },
+    {
+        "index": "470",
+        "sentence1": "Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?",
+        "sentence2": "at 11:00 pm",
+        "label": "no"
+    },
+    {
+        "index": "471",
+        "sentence1": "Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?",
+        "sentence2": "at 9:00 am",
+        "label": "no"
+    },
+    {
+        "index": "472",
+        "sentence1": "Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?",
+        "sentence2": "10:30 AM",
+        "label": "no"
+    },
+    {
+        "index": "473",
+        "sentence1": "Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?",
+        "sentence2": "6:00 AM",
+        "label": "no"
+    },
+    {
+        "index": "474",
+        "sentence1": "Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?",
+        "sentence2": "2:00 AM",
+        "label": "no"
+    },
+    {
+        "index": "475",
+        "sentence1": "Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?",
+        "sentence2": "1:00 AM",
+        "label": "no"
+    },
+    {
+        "index": "476",
+        "sentence1": "Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?",
+        "sentence2": "10:45 PM",
+        "label": "no"
+    },
+    {
+        "index": "477",
+        "sentence1": "Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?",
+        "sentence2": "1:00 PM",
+        "label": "no"
+    },
+    {
+        "index": "478",
+        "sentence1": "Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?",
+        "sentence2": "5:00 PM",
+        "label": "yes"
+    },
+    {
+        "index": "479",
+        "sentence1": "Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. Did Roberta live in Orange?",
+        "sentence2": "yes",
+        "label": "yes"
+    },
+    {
+        "index": "480",
+        "sentence1": "Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. Did Roberta live in Orange?",
+        "sentence2": "no",
+        "label": "no"
+    },
+    {
+        "index": "481",
+        "sentence1": "After meeting Maharishi Mahesh Yogi , the Beatles quickly return to London , and in a press conference they say they cut a deal with Maharishi . What happened after the press conference?",
+        "sentence2": "they denounced maharishi",
+        "label": "no"
+    },
+    {
+        "index": "482",
+        "sentence1": "After meeting Maharishi Mahesh Yogi , the Beatles quickly return to London , and in a press conference they say they cut a deal with Maharishi . What happened after the press conference?",
+        "sentence2": "they started the negotiations with maharishi ",
+        "label": "no"
+    },
+    {
+        "index": "483",
+        "sentence1": "After meeting Maharishi Mahesh Yogi , the Beatles quickly return to London , and in a press conference they say they cut a deal with Maharishi . What happened after the press conference?",
+        "sentence2": "maharishi mahesh yogi was seen as a fraud",
+        "label": "no"
+    },
+    {
+        "index": "484",
+        "sentence1": "After meeting Maharishi Mahesh Yogi , the Beatles quickly return to London , and in a press conference they say they cut a deal with Maharishi . What happened after the press conference?",
+        "sentence2": "they returned home ",
+        "label": "yes"
+    },
+    {
+        "index": "485",
+        "sentence1": "After meeting Maharishi Mahesh Yogi , the Beatles quickly return to London , and in a press conference they say they cut a deal with Maharishi . What happened after the press conference?",
+        "sentence2": "maharishi mahesh yogi became less famous ",
+        "label": "no"
+    },
+    {
+        "index": "486",
+        "sentence1": "After meeting Maharishi Mahesh Yogi , the Beatles quickly return to London , and in a press conference they say they cut a deal with Maharishi . What happened after the press conference?",
+        "sentence2": "maharishi mahesh yogi was associated with them ",
+        "label": "yes"
+    },
+    {
+        "index": "487",
+        "sentence1": "He had never had any pets before, but was always excited to see the other dogs and cats in his neighborhood. When does he most often see dogs and cats?",
+        "sentence2": "in the classroom",
+        "label": "no"
+    },
+    {
+        "index": "488",
+        "sentence1": "He had never had any pets before, but was always excited to see the other dogs and cats in his neighborhood. When does he most often see dogs and cats?",
+        "sentence2": "during the hour after school",
+        "label": "yes"
+    },
+    {
+        "index": "489",
+        "sentence1": "He had never had any pets before, but was always excited to see the other dogs and cats in his neighborhood. When does he most often see dogs and cats?",
+        "sentence2": "during breakfast before school",
+        "label": "yes"
+    },
+    {
+        "index": "490",
+        "sentence1": "He had never had any pets before, but was always excited to see the other dogs and cats in his neighborhood. When does he most often see dogs and cats?",
+        "sentence2": "in their living room ",
+        "label": "no"
+    },
+    {
+        "index": "491",
+        "sentence1": "He had never had any pets before, but was always excited to see the other dogs and cats in his neighborhood. When does he most often see dogs and cats?",
+        "sentence2": "during classes",
+        "label": "no"
+    },
+    {
+        "index": "492",
+        "sentence1": "He had never had any pets before, but was always excited to see the other dogs and cats in his neighborhood. When does he most often see dogs and cats?",
+        "sentence2": "in their basement ",
+        "label": "no"
+    },
+    {
+        "index": "493",
+        "sentence1": "The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?",
+        "sentence2": "five seconds",
+        "label": "no"
+    },
+    {
+        "index": "494",
+        "sentence1": "The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?",
+        "sentence2": "more than 10 years",
+        "label": "yes"
+    },
+    {
+        "index": "495",
+        "sentence1": "The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?",
+        "sentence2": "less than 10 years",
+        "label": "no"
+    },
+    {
+        "index": "496",
+        "sentence1": "The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?",
+        "sentence2": "1000 years",
+        "label": "no"
+    },
+    {
+        "index": "497",
+        "sentence1": "The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?",
+        "sentence2": "ten minutes",
+        "label": "no"
+    },
+    {
+        "index": "498",
+        "sentence1": "The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?",
+        "sentence2": "five minutes",
+        "label": "no"
+    },
+    {
+        "index": "499",
+        "sentence1": "The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?",
+        "sentence2": "around 100 years",
+        "label": "yes"
+    },
+    {
+        "index": "500",
+        "sentence1": "The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?",
+        "sentence2": "for over five decades",
+        "label": "yes"
+    },
+    {
+        "index": "501",
+        "sentence1": "The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?",
+        "sentence2": "ten light years",
+        "label": "no"
+    },
+    {
+        "index": "502",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before their lunch date.  When did they returned from the library?",
+        "sentence2": "9:00 PM",
+        "label": "no"
+    },
+    {
+        "index": "503",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before their lunch date.  When did they returned from the library?",
+        "sentence2": "10:00 AM",
+        "label": "no"
+    },
+    {
+        "index": "504",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before their lunch date.  When did they returned from the library?",
+        "sentence2": "8:00 AM",
+        "label": "no"
+    },
+    {
+        "index": "505",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before their lunch date.  When did they returned from the library?",
+        "sentence2": "1:00 AM",
+        "label": "no"
+    },
+    {
+        "index": "506",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before their lunch date.  When did they returned from the library?",
+        "sentence2": "3:00 AM",
+        "label": "no"
+    },
+    {
+        "index": "507",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before their lunch date.  When did they returned from the library?",
+        "sentence2": "12:00 AM",
+        "label": "yes"
+    },
+    {
+        "index": "508",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before their lunch date.  When did they returned from the library?",
+        "sentence2": "9:00 AM",
+        "label": "no"
+    },
+    {
+        "index": "509",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "five times a minute",
+        "label": "no"
+    },
+    {
+        "index": "510",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "every hour",
+        "label": "no"
+    },
+    {
+        "index": "511",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "once a second",
+        "label": "no"
+    },
+    {
+        "index": "512",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "once a hour",
+        "label": "no"
+    },
+    {
+        "index": "513",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "once every two seconds",
+        "label": "no"
+    },
+    {
+        "index": "514",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "five times a century",
+        "label": "no"
+    },
+    {
+        "index": "515",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "five times a night",
+        "label": "no"
+    },
+    {
+        "index": "516",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "every week",
+        "label": "yes"
+    },
+    {
+        "index": "517",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "every day",
+        "label": "no"
+    },
+    {
+        "index": "518",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "every few weeks",
+        "label": "no"
+    },
+    {
+        "index": "519",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "once a week",
+        "label": "yes"
+    },
+    {
+        "index": "520",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "every few seconds",
+        "label": "no"
+    },
+    {
+        "index": "521",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "every year",
+        "label": "no"
+    },
+    {
+        "index": "522",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "once a year",
+        "label": "no"
+    },
+    {
+        "index": "523",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "once every two weeks",
+        "label": "no"
+    },
+    {
+        "index": "524",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "five times a day",
+        "label": "no"
+    },
+    {
+        "index": "525",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "every few hours",
+        "label": "no"
+    },
+    {
+        "index": "526",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "once every two years",
+        "label": "no"
+    },
+    {
+        "index": "527",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?",
+        "sentence2": "every few years",
+        "label": "no"
+    },
+    {
+        "index": "528",
+        "sentence1": "Because of the weather, they packed up the car and drove to the gym instead of walking. How long  was the drive?",
+        "sentence2": "10 minutes",
+        "label": "yes"
+    },
+    {
+        "index": "529",
+        "sentence1": "Because of the weather, they packed up the car and drove to the gym instead of walking. How long  was the drive?",
+        "sentence2": "2 days",
+        "label": "no"
+    },
+    {
+        "index": "530",
+        "sentence1": "Because of the weather, they packed up the car and drove to the gym instead of walking. How long  was the drive?",
+        "sentence2": "2 centuries",
+        "label": "no"
+    },
+    {
+        "index": "531",
+        "sentence1": "Because of the weather, they packed up the car and drove to the gym instead of walking. How long  was the drive?",
+        "sentence2": "they had fun",
+        "label": "no"
+    },
+    {
+        "index": "532",
+        "sentence1": "Because of the weather, they packed up the car and drove to the gym instead of walking. How long  was the drive?",
+        "sentence2": "18 days",
+        "label": "no"
+    },
+    {
+        "index": "533",
+        "sentence1": "Because of the weather, they packed up the car and drove to the gym instead of walking. How long  was the drive?",
+        "sentence2": "2 months",
+        "label": "no"
+    },
+    {
+        "index": "534",
+        "sentence1": "Because of the weather, they packed up the car and drove to the gym instead of walking. How long  was the drive?",
+        "sentence2": "1 miles",
+        "label": "yes"
+    },
+    {
+        "index": "535",
+        "sentence1": "Because of the weather, they packed up the car and drove to the gym instead of walking. How long  was the drive?",
+        "sentence2": "1k miles",
+        "label": "no"
+    },
+    {
+        "index": "536",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before classes. What did they do after the morning?",
+        "sentence2": "they went to bed",
+        "label": "no"
+    },
+    {
+        "index": "537",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before classes. What did they do after the morning?",
+        "sentence2": "they sold a home",
+        "label": "no"
+    },
+    {
+        "index": "538",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before classes. What did they do after the morning?",
+        "sentence2": "they went to china",
+        "label": "no"
+    },
+    {
+        "index": "539",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before classes. What did they do after the morning?",
+        "sentence2": "they went to study",
+        "label": "yes"
+    },
+    {
+        "index": "540",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before classes. What did they do after the morning?",
+        "sentence2": "they had fun",
+        "label": "no"
+    },
+    {
+        "index": "541",
+        "sentence1": "He also submitted the proposal as to its initial programs after a lifetime research. How long did it take him to come up with his suggestions?",
+        "sentence2": "a year",
+        "label": "no"
+    },
+    {
+        "index": "542",
+        "sentence1": "He also submitted the proposal as to its initial programs after a lifetime research. How long did it take him to come up with his suggestions?",
+        "sentence2": "20 weeks",
+        "label": "no"
+    },
+    {
+        "index": "543",
+        "sentence1": "He also submitted the proposal as to its initial programs after a lifetime research. How long did it take him to come up with his suggestions?",
+        "sentence2": "60 years",
+        "label": "yes"
+    },
+    {
+        "index": "544",
+        "sentence1": "He also submitted the proposal as to its initial programs after a lifetime research. How long did it take him to come up with his suggestions?",
+        "sentence2": "20 years",
+        "label": "yes"
+    },
+    {
+        "index": "545",
+        "sentence1": "He also submitted the proposal as to its initial programs after a lifetime research. How long did it take him to come up with his suggestions?",
+        "sentence2": "a few years",
+        "label": "no"
+    },
+    {
+        "index": "546",
+        "sentence1": "He also submitted various suggestions as to its initial programs after a lifetime research and became the first one to make changes. How often do they make changes to the programs?",
+        "sentence2": "once a second",
+        "label": "no"
+    },
+    {
+        "index": "547",
+        "sentence1": "He also submitted various suggestions as to its initial programs after a lifetime research and became the first one to make changes. How often do they make changes to the programs?",
+        "sentence2": "once a minute",
+        "label": "no"
+    },
+    {
+        "index": "548",
+        "sentence1": "He also submitted various suggestions as to its initial programs after a lifetime research and became the first one to make changes. How often do they make changes to the programs?",
+        "sentence2": "many times before the initial proposal",
+        "label": "no"
+    },
+    {
+        "index": "549",
+        "sentence1": "He also submitted various suggestions as to its initial programs after a lifetime research and became the first one to make changes. How often do they make changes to the programs?",
+        "sentence2": "once a few decades",
+        "label": "yes"
+    },
+    {
+        "index": "550",
+        "sentence1": "He also submitted various suggestions as to its initial programs after a lifetime research and became the first one to make changes. How often do they make changes to the programs?",
+        "sentence2": "each century",
+        "label": "yes"
+    },
+    {
+        "index": "551",
+        "sentence1": "He also submitted various suggestions as to its initial programs after a lifetime research and became the first one to make changes. How often do they make changes to the programs?",
+        "sentence2": "each minute",
+        "label": "no"
+    },
+    {
+        "index": "552",
+        "sentence1": "He also submitted various suggestions as to its initial programs after a lifetime research and became the first one to make changes. How often do they make changes to the programs?",
+        "sentence2": "once a hour",
+        "label": "no"
+    },
+    {
+        "index": "553",
+        "sentence1": "She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?",
+        "sentence2": "less than 15 seconds",
+        "label": "no"
+    },
+    {
+        "index": "554",
+        "sentence1": "She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?",
+        "sentence2": "few days",
+        "label": "yes"
+    },
+    {
+        "index": "555",
+        "sentence1": "She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?",
+        "sentence2": "9 day",
+        "label": "yes"
+    },
+    {
+        "index": "556",
+        "sentence1": "She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?",
+        "sentence2": "a week",
+        "label": "yes"
+    },
+    {
+        "index": "557",
+        "sentence1": "She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?",
+        "sentence2": "a hour",
+        "label": "yes"
+    },
+    {
+        "index": "558",
+        "sentence1": "She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?",
+        "sentence2": "few minute",
+        "label": "no"
+    },
+    {
+        "index": "559",
+        "sentence1": "She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?",
+        "sentence2": "1 night",
+        "label": "yes"
+    },
+    {
+        "index": "560",
+        "sentence1": "She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?",
+        "sentence2": "135 years",
+        "label": "no"
+    },
+    {
+        "index": "561",
+        "sentence1": "She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?",
+        "sentence2": "a day",
+        "label": "yes"
+    },
+    {
+        "index": "562",
+        "sentence1": "She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?",
+        "sentence2": "0.11 day",
+        "label": "yes"
+    },
+    {
+        "index": "563",
+        "sentence1": "She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?",
+        "sentence2": "15 years",
+        "label": "no"
+    },
+    {
+        "index": "564",
+        "sentence1": "She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?",
+        "sentence2": "1 century",
+        "label": "no"
+    },
+    {
+        "index": "565",
+        "sentence1": "She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?",
+        "sentence2": "a second",
+        "label": "no"
+    },
+    {
+        "index": "566",
+        "sentence1": "She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?",
+        "sentence2": "a century",
+        "label": "no"
+    },
+    {
+        "index": "567",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "sentence2": "almost never",
+        "label": "yes"
+    },
+    {
+        "index": "568",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "sentence2": "every 20 seconds",
+        "label": "no"
+    },
+    {
+        "index": "569",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "sentence2": "every other minute",
+        "label": "no"
+    },
+    {
+        "index": "570",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "sentence2": "every week",
+        "label": "no"
+    },
+    {
+        "index": "571",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "sentence2": "every hour",
+        "label": "no"
+    },
+    {
+        "index": "572",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "sentence2": "every century",
+        "label": "no"
+    },
+    {
+        "index": "573",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "sentence2": "every 180 years",
+        "label": "no"
+    },
+    {
+        "index": "574",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "sentence2": "every 20 years",
+        "label": "no"
+    },
+    {
+        "index": "575",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "sentence2": "every second",
+        "label": "no"
+    },
+    {
+        "index": "576",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "sentence2": "every minute",
+        "label": "no"
+    },
+    {
+        "index": "577",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "sentence2": "every 20 hours",
+        "label": "no"
+    },
+    {
+        "index": "578",
+        "sentence1": "If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?",
+        "sentence2": "4 times a day",
+        "label": "no"
+    },
+    {
+        "index": "579",
+        "sentence1": "If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?",
+        "sentence2": "i eat a meal every 15 minutes",
+        "label": "no"
+    },
+    {
+        "index": "580",
+        "sentence1": "If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?",
+        "sentence2": "3 times a minute",
+        "label": "no"
+    },
+    {
+        "index": "581",
+        "sentence1": "If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?",
+        "sentence2": "once a second",
+        "label": "no"
+    },
+    {
+        "index": "582",
+        "sentence1": "If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?",
+        "sentence2": "4 times a minute",
+        "label": "no"
+    },
+    {
+        "index": "583",
+        "sentence1": "If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?",
+        "sentence2": "3 times a day",
+        "label": "no"
+    },
+    {
+        "index": "584",
+        "sentence1": "If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?",
+        "sentence2": "once a week",
+        "label": "yes"
+    },
+    {
+        "index": "585",
+        "sentence1": "If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?",
+        "sentence2": "27 times a day",
+        "label": "no"
+    },
+    {
+        "index": "586",
+        "sentence1": "If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?",
+        "sentence2": "i eat a meal every 3 centuries",
+        "label": "no"
+    },
+    {
+        "index": "587",
+        "sentence1": "If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?",
+        "sentence2": "i eat a meal every 5 minutes",
+        "label": "no"
+    },
+    {
+        "index": "588",
+        "sentence1": "If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?",
+        "sentence2": "i eat a meal every 3 minutes",
+        "label": "no"
+    },
+    {
+        "index": "589",
+        "sentence1": "If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?",
+        "sentence2": "3 times a month",
+        "label": "yes"
+    },
+    {
+        "index": "590",
+        "sentence1": "If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?",
+        "sentence2": "4 times a month",
+        "label": "yes"
+    },
+    {
+        "index": "591",
+        "sentence1": "If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?",
+        "sentence2": "once a hour",
+        "label": "no"
+    },
+    {
+        "index": "592",
+        "sentence1": "If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?",
+        "sentence2": "4 times a century",
+        "label": "no"
+    },
+    {
+        "index": "593",
+        "sentence1": "If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?",
+        "sentence2": "every 3 days",
+        "label": "yes"
+    },
+    {
+        "index": "594",
+        "sentence1": "He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent launch at sunset. When will the show start?",
+        "sentence2": "1 p.m",
+        "label": "no"
+    },
+    {
+        "index": "595",
+        "sentence1": "He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent launch at sunset. When will the show start?",
+        "sentence2": "6 p.m",
+        "label": "yes"
+    },
+    {
+        "index": "596",
+        "sentence1": "He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent launch at sunset. When will the show start?",
+        "sentence2": "11 a.m",
+        "label": "no"
+    },
+    {
+        "index": "597",
+        "sentence1": "He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent launch at sunset. When will the show start?",
+        "sentence2": "10 a.m",
+        "label": "no"
+    },
+    {
+        "index": "598",
+        "sentence1": "He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent launch at sunset. When will the show start?",
+        "sentence2": "9:00 AM",
+        "label": "no"
+    },
+    {
+        "index": "599",
+        "sentence1": "He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent launch at sunset. When will the show start?",
+        "sentence2": "2:00 PM",
+        "label": "no"
+    },
+    {
+        "index": "600",
+        "sentence1": "He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent launch at sunset. When will the show start?",
+        "sentence2": "4 p.m",
+        "label": "yes"
+    },
+    {
+        "index": "601",
+        "sentence1": "He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent launch at sunset. When will the show start?",
+        "sentence2": "before 12 p.m",
+        "label": "no"
+    },
+    {
+        "index": "602",
+        "sentence1": "He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the show that's taking the afternoon slot. How often does the building host shows?",
+        "sentence2": "100 times a day",
+        "label": "no"
+    },
+    {
+        "index": "603",
+        "sentence1": "He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the show that's taking the afternoon slot. How often does the building host shows?",
+        "sentence2": "0.6 times a day",
+        "label": "no"
+    },
+    {
+        "index": "604",
+        "sentence1": "He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the show that's taking the afternoon slot. How often does the building host shows?",
+        "sentence2": "multiples times in a month",
+        "label": "yes"
+    },
+    {
+        "index": "605",
+        "sentence1": "He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the show that's taking the afternoon slot. How often does the building host shows?",
+        "sentence2": "every 2 years",
+        "label": "no"
+    },
+    {
+        "index": "606",
+        "sentence1": "He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the show that's taking the afternoon slot. How often does the building host shows?",
+        "sentence2": "every 7 centuries",
+        "label": "no"
+    },
+    {
+        "index": "607",
+        "sentence1": "He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the show that's taking the afternoon slot. How often does the building host shows?",
+        "sentence2": "3 times per day",
+        "label": "yes"
+    },
+    {
+        "index": "608",
+        "sentence1": "He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the show that's taking the afternoon slot. How often does the building host shows?",
+        "sentence2": "15 times a day",
+        "label": "no"
+    },
+    {
+        "index": "609",
+        "sentence1": "The clock was used to be heard ticking through the air and glass of the jar, but not anymore.  Will the clock tick in 5 years?",
+        "sentence2": "yes",
+        "label": "no"
+    },
+    {
+        "index": "610",
+        "sentence1": "The clock was used to be heard ticking through the air and glass of the jar, but not anymore.  Will the clock tick in 5 years?",
+        "sentence2": "no, it has probably died already. ",
+        "label": "yes"
+    },
+    {
+        "index": "611",
+        "sentence1": "The clock was used to be heard ticking through the air and glass of the jar, but not anymore.  Will the clock tick in 5 years?",
+        "sentence2": "he retrieved an unbroken , still-ticking pocket watch",
+        "label": "no"
+    },
+    {
+        "index": "612",
+        "sentence1": "He also had Orang Laut pirates patrolling the seas to extort tribute from passing ships. For how long did the pirates patrol each small area?",
+        "sentence2": "for hours",
+        "label": "yes"
+    },
+    {
+        "index": "613",
+        "sentence1": "He also had Orang Laut pirates patrolling the seas to extort tribute from passing ships. For how long did the pirates patrol each small area?",
+        "sentence2": "less than ten minutes",
+        "label": "no"
+    },
+    {
+        "index": "614",
+        "sentence1": "He also had Orang Laut pirates patrolling the seas to extort tribute from passing ships. For how long did the pirates patrol each small area?",
+        "sentence2": "longer than fifteen minutes",
+        "label": "yes"
+    },
+    {
+        "index": "615",
+        "sentence1": "The Vice President's guidance, in refence to the enemy, was \"we need to take them out.\"  When does he want \"to take them out\"?",
+        "sentence2": "18 years from now",
+        "label": "no"
+    },
+    {
+        "index": "616",
+        "sentence1": "The Vice President's guidance, in refence to the enemy, was \"we need to take them out.\"  When does he want \"to take them out\"?",
+        "sentence2": "in a century",
+        "label": "no"
+    },
+    {
+        "index": "617",
+        "sentence1": "The Vice President's guidance, in refence to the enemy, was \"we need to take them out.\"  When does he want \"to take them out\"?",
+        "sentence2": "in a few days from now",
+        "label": "yes"
+    },
+    {
+        "index": "618",
+        "sentence1": "They woke up and the sun was beginning to set. What happened after the sun set?",
+        "sentence2": "the sun turned dark",
+        "label": "no"
+    },
+    {
+        "index": "619",
+        "sentence1": "They woke up and the sun was beginning to set. What happened after the sun set?",
+        "sentence2": "they stayed up the night since they already slept during the day ",
+        "label": "yes"
+    },
+    {
+        "index": "620",
+        "sentence1": "Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps which have continued to date.  How long will the wiretaps last?",
+        "sentence2": "forever ",
+        "label": "no"
+    },
+    {
+        "index": "621",
+        "sentence1": "Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps which have continued to date.  How long will the wiretaps last?",
+        "sentence2": "they will not last forever",
+        "label": "yes"
+    },
+    {
+        "index": "622",
+        "sentence1": "Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps which have continued to date.  How long will the wiretaps last?",
+        "sentence2": "for some time in future, until they're halted ",
+        "label": "yes"
+    },
+    {
+        "index": "623",
+        "sentence1": "Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps which have continued to date.  How long will the wiretaps last?",
+        "sentence2": "he asked no questions",
+        "label": "no"
+    },
+    {
+        "index": "624",
+        "sentence1": "Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps which have continued to date.  How long will the wiretaps last?",
+        "sentence2": "the wiretappings last forever",
+        "label": "no"
+    },
+    {
+        "index": "625",
+        "sentence1": "Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps even though he turned out to be innocent. What will happen next?",
+        "sentence2": "the fbi lose interest in the case ",
+        "label": "yes"
+    },
+    {
+        "index": "626",
+        "sentence1": "Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps even though he turned out to be innocent. What will happen next?",
+        "sentence2": "nothing",
+        "label": "no"
+    },
+    {
+        "index": "627",
+        "sentence1": "We may promise \"justice for all,\" but for those who can't afford a lawyer, that promise is often a lie. Is \"justice for all\" happening today?",
+        "sentence2": "yes",
+        "label": "no"
+    },
+    {
+        "index": "628",
+        "sentence1": "We may promise \"justice for all,\" but for those who can't afford a lawyer, that promise is often a lie. Is \"justice for all\" happening today?",
+        "sentence2": "no",
+        "label": "yes"
+    },
+    {
+        "index": "629",
+        "sentence1": "Magnets are able to place a force on certain materials. How long does it take for magnets to place a force on other materials?",
+        "sentence2": "immediately",
+        "label": "no"
+    },
+    {
+        "index": "630",
+        "sentence1": "In this way the other major congressional interests can be brought together in the new committee's work. How different were the matters prior to the new committee? ",
+        "sentence2": "the interests were discussed in separate committees ",
+        "label": "yes"
+    },
+    {
+        "index": "631",
+        "sentence1": "In this way the other major congressional interests can be brought together in the new committee's work. How different were the matters prior to the new committee? ",
+        "sentence2": "there was another comittee for bringing the interests together ",
+        "label": "no"
+    },
+    {
+        "index": "632",
+        "sentence1": "In this way the other major congressional interests can be brought together in the new committee's work. How different were the matters prior to the new committee? ",
+        "sentence2": "there was no joint comittee for discussing other major congressional interests. ",
+        "label": "yes"
+    },
+    {
+        "index": "633",
+        "sentence1": "In this way the other major congressional interests can be brought together in the new committee's work. How different were the matters prior to the new committee? ",
+        "sentence2": "discussing other major congressional interests were of less importance  ",
+        "label": "no "
+    },
+    {
+        "index": "634",
+        "sentence1": "The state has been first to pass major public health initiatives that have spread throughout the country. What day did the health initiatives pass?",
+        "sentence2": "weekend ",
+        "label": "no"
+    },
+    {
+        "index": "635",
+        "sentence1": "The state has been first to pass major public health initiatives that have spread throughout the country. What day did the health initiatives pass?",
+        "sentence2": "on a wednesday",
+        "label": "yes"
+    },
+    {
+        "index": "636",
+        "sentence1": "The state has been first to pass major public health initiatives that have spread throughout the country. What day did the health initiatives pass?",
+        "sentence2": "saturday",
+        "label": "no"
+    },
+    {
+        "index": "637",
+        "sentence1": "The state has been first to pass major public health initiatives that have spread throughout the country. What day did the health initiatives pass?",
+        "sentence2": "sunday",
+        "label": "no"
+    },
+    {
+        "index": "638",
+        "sentence1": "JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?",
+        "sentence2": "died in prison",
+        "label": "no"
+    },
+    {
+        "index": "639",
+        "sentence1": "JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?",
+        "sentence2": "worked as a well-known attorney",
+        "label": "no"
+    },
+    {
+        "index": "640",
+        "sentence1": "JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?",
+        "sentence2": "he worked as a successful lawyer",
+        "label": "no"
+    },
+    {
+        "index": "641",
+        "sentence1": "JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?",
+        "sentence2": "died as a lawyer",
+        "label": "no"
+    },
+    {
+        "index": "642",
+        "sentence1": "JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?",
+        "sentence2": "was in jail",
+        "label": "yes"
+    },
+    {
+        "index": "643",
+        "sentence1": "JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?",
+        "sentence2": "he was an immigrant ",
+        "label": "yes"
+    },
+    {
+        "index": "644",
+        "sentence1": "Sarah is dating the curator Michael Pierce , a single father who disappered from the museum that night . Will Michael be back tomorrow?",
+        "sentence2": "yes",
+        "label": "no"
+    },
+    {
+        "index": "645",
+        "sentence1": "Sarah is dating the curator Michael Pierce , a single father who disappered from the museum that night . Will Michael be back tomorrow?",
+        "sentence2": "no",
+        "label": "yes"
+    },
+    {
+        "index": ""
+    }
+]

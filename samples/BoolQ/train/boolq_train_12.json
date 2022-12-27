@@ -1,0 +1,794 @@
+[
+    {
+        "PassageID": "1_0",
+        "sentence1": "The University of Mary Hardin--Baylor (UMHB) is a Christian co-educational institution of higher learning located in Belton, Texas, United States. UMHB was chartered by the Republic of Texas in 1845 as Baylor Female College, the female department of what is now Baylor University. It has since become its own institution and grown to 3,914 students and awards degrees at the baccalaureate, master's, and doctoral levels. It is affiliated with the Baptist General Convention of Texas.",
+        "QuestionID": "0",
+        "sentence2": "is baylor and mary hardin baylor the same school",
+        "label": "yes",
+        "explanation": "The University of Mary Hardin--Baylor (UMHB) was chartered as Baylor Female College, the female department of what is now Baylor University."
+    },
+    {
+        "PassageID": "1_0",
+        "sentence1": "The University of Mary Hardin--Baylor (UMHB) is a Christian co-educational institution of higher learning located in Belton, Texas, United States. UMHB was chartered by the Republic of Texas in 1845 as Baylor Female College, the female department of what is now Baylor University. It has since become its own institution and grown to 3,914 students and awards degrees at the baccalaureate, master's, and doctoral levels. It is affiliated with the Baptist General Convention of Texas.",
+        "QuestionID": "1",
+        "sentence2": "is baylor and mary hardin baylor different schools",
+        "label": "no",
+        "explanation": "The University of Mary Hardin--Baylor (UMHB) was chartered as Baylor Female College, the female department of what is now Baylor University."
+    },
+    {
+        "PassageID": "1_0",
+        "sentence1": "The University of Mary Hardin--Baylor (UMHB) is a Christian co-educational institution of higher learning located in Belton, Texas, United States. UMHB was chartered by the Republic of Texas in 1845 as Baylor Female College, the female department of what is now Baylor University. It has since become its own institution and grown to 3,914 students and awards degrees at the baccalaureate, master's, and doctoral levels. It is affiliated with the Baptist General Convention of Texas.",
+        "QuestionID": "2",
+        "sentence2": "is baylor and UMHB the same school",
+        "label": "yes",
+        "explanation": "The University of Mary Hardin--Baylor (UMHB) was chartered as Baylor Female College, the female department of what is now Baylor University."
+    },
+    {
+        "PassageID": "1_0",
+        "sentence1": "The University of Mary Hardin--Baylor (UMHB) is a Christian co-educational institution of higher learning located in Belton, Texas, United States. UMHB was chartered by the Republic of Texas in 1845 as Baylor Female College, the female department of what is now Baylor University. It has since become its own institution and grown to 3,914 students and awards degrees at the baccalaureate, master's, and doctoral levels. It is affiliated with the Baptist General Convention of Texas.",
+        "QuestionID": "3",
+        "sentence2": "is baylor and UMHB different schools",
+        "label": "no",
+        "explanation": "The University of Mary Hardin--Baylor (UMHB) was chartered as Baylor Female College, the female department of what is now Baylor University."
+    },
+    {
+        "PassageID": "1_0",
+        "sentence1": "The University of Mary Hardin--Baylor (UMHB) is a Christian co-educational institution of higher learning located in Belton, Texas, United States. UMHB was chartered by the Republic of Texas in 1845 as Baylor Female College, the female department of what is now Baylor University. It has since become its own institution and grown to 3,914 students and awards degrees at the baccalaureate, master's, and doctoral levels. It is affiliated with the Baptist General Convention of Texas.",
+        "QuestionID": "4",
+        "sentence2": "is the Republic of Texas and mary hardin baylor the same school",
+        "label": "no",
+        "explanation": "The University of Mary Hardin--Baylor (UMHB) is a university that was chartered by the Republic of Texas. They are different organizations."
+    },
+    {
+        "PassageID": "1_0",
+        "sentence1": "The University of Mary Hardin--Baylor (UMHB) is a Christian co-educational institution of higher learning located in Belton, Texas, United States. UMHB was chartered by the Republic of Texas in 1845 as Baylor Female College, the female department of what is now Baylor University. It has since become its own institution and grown to 3,914 students and awards degrees at the baccalaureate, master's, and doctoral levels. It is affiliated with the Baptist General Convention of Texas.",
+        "QuestionID": "5",
+        "sentence2": "is baylor and the Republic of Texas the same school",
+        "label": "no",
+        "explanation": "The University of Mary Hardin--Baylor (UMHB) is a university that was chartered by the Republic of Texas. They are different organizations."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "MetLife Stadium is an American sports stadium located in East Rutherford, New Jersey, 8 miles outside of New York City. It is part of the Meadowlands Sports Complex and serves as the home stadium for two National Football League (NFL) franchises: the New York Giants and the New York Jets. The stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets, who jointly built the stadium using private funds on land owned by the New Jersey Sports and Exposition Authority. The stadium opened as New Meadowlands Stadium in 2010. In 2011, MetLife, an insurance company based in New York City, acquired the naming rights to the stadium. At a construction cost of approximately $1.6 billion, it was the most expensive stadium ever built, at the time it opened, and is the second-largest stadium in the NFL in terms of seating capacity.",
+        "QuestionID": "0",
+        "sentence2": "do the jets and giants share a stadium",
+        "label": "yes",
+        "explanation": "MetLife stadium serves as a home stadium for both the Jets and the Giants."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "MetLife Stadium is an American sports stadium located in East Rutherford, New Jersey, 8 miles outside of New York City. It is part of the Meadowlands Sports Complex and serves as the home stadium for two National Football League (NFL) franchises: the New York Giants and the New York Jets. The stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets, who jointly built the stadium using private funds on land owned by the New Jersey Sports and Exposition Authority. The stadium opened as New Meadowlands Stadium in 2010. In 2011, MetLife, an insurance company based in New York City, acquired the naming rights to the stadium. At a construction cost of approximately $1.6 billion, it was the most expensive stadium ever built, at the time it opened, and is the second-largest stadium in the NFL in terms of seating capacity.",
+        "QuestionID": "1",
+        "sentence2": "are the jets and giants the same team",
+        "label": "no",
+        "explanation": "The Jets and the Giants are two different National Football League (NFL) franchises."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "MetLife Stadium is an American sports stadium located in East Rutherford, New Jersey, 8 miles outside of New York City. It is part of the Meadowlands Sports Complex and serves as the home stadium for two National Football League (NFL) franchises: the New York Giants and the New York Jets. The stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets, who jointly built the stadium using private funds on land owned by the New Jersey Sports and Exposition Authority. The stadium opened as New Meadowlands Stadium in 2010. In 2011, MetLife, an insurance company based in New York City, acquired the naming rights to the stadium. At a construction cost of approximately $1.6 billion, it was the most expensive stadium ever built, at the time it opened, and is the second-largest stadium in the NFL in terms of seating capacity.",
+        "QuestionID": "2",
+        "sentence2": "are the jets and giants two different teams",
+        "label": "yes",
+        "explanation": "The Jets and the Giants are two different National Football League (NFL) franchises."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "MetLife Stadium is an American sports stadium located in East Rutherford, New Jersey, 8 miles outside of New York City. It is part of the Meadowlands Sports Complex and serves as the home stadium for two National Football League (NFL) franchises: the New York Giants and the New York Jets. The stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets, who jointly built the stadium using private funds on land owned by the New Jersey Sports and Exposition Authority. The stadium opened as New Meadowlands Stadium in 2010. In 2011, MetLife, an insurance company based in New York City, acquired the naming rights to the stadium. At a construction cost of approximately $1.6 billion, it was the most expensive stadium ever built, at the time it opened, and is the second-largest stadium in the NFL in terms of seating capacity.",
+        "QuestionID": "3",
+        "sentence2": "did the jets and giants jointly build their stadium",
+        "label": "no",
+        "explanation": "The MetLife stadium was jointly built by the Giants and Jets."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "MetLife Stadium is an American sports stadium located in East Rutherford, New Jersey, 8 miles outside of New York City. It is part of the Meadowlands Sports Complex and serves as the home stadium for two National Football League (NFL) franchises: the New York Giants and the New York Jets. The stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets, who jointly built the stadium using private funds on land owned by the New Jersey Sports and Exposition Authority. The stadium opened as New Meadowlands Stadium in 2010. In 2011, MetLife, an insurance company based in New York City, acquired the naming rights to the stadium. At a construction cost of approximately $1.6 billion, it was the most expensive stadium ever built, at the time it opened, and is the second-largest stadium in the NFL in terms of seating capacity.",
+        "QuestionID": "4",
+        "sentence2": "do the jets and giants own the MetLife stadium",
+        "label": "no",
+        "explanation": "The MetLife stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "MetLife Stadium is an American sports stadium located in East Rutherford, New Jersey, 8 miles outside of New York City. It is part of the Meadowlands Sports Complex and serves as the home stadium for two National Football League (NFL) franchises: the New York Giants and the New York Jets. The stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets, who jointly built the stadium using private funds on land owned by the New Jersey Sports and Exposition Authority. The stadium opened as New Meadowlands Stadium in 2010. In 2011, MetLife, an insurance company based in New York City, acquired the naming rights to the stadium. At a construction cost of approximately $1.6 billion, it was the most expensive stadium ever built, at the time it opened, and is the second-largest stadium in the NFL in terms of seating capacity.",
+        "QuestionID": "5",
+        "sentence2": "do the jets and giants share the naming rights for the MetLife stadium",
+        "label": "no",
+        "explanation": "The naming rights of the MetLife stadium is held by MetLife, an insurance company."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "Fantastic Beasts and Where to Find Them is a 2016 fantasy film directed by David Yates. A joint British and American production, it is a spin-off and prequel to the Harry Potter film series, and it was produced and written by J.K. Rowling in her screenwriting debut, and inspired by her 2001 book of the same name. The film stars Eddie Redmayne as Newt Scamander, with Katherine Waterston, Dan Fogler, Alison Sudol, Ezra Miller, Samantha Morton, Jon Voight, Carmen Ejogo, Ron Perlman, Colin Farrell and Johnny Depp in supporting roles. It is the first installment in the Fantastic Beasts film series, and ninth overall in the Wizarding World franchise, that began with the Harry Potter films.",
+        "QuestionID": "0",
+        "sentence2": "is fantastic beasts and where to find them a prequel",
+        "label": "yes",
+        "explanation": "Fantastic Beasts and Where to Find Them is a prequel to the Harry Potter film series."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "Fantastic Beasts and Where to Find Them is a 2016 fantasy film directed by David Yates. A joint British and American production, it is a spin-off and prequel to the Harry Potter film series, and it was produced and written by J.K. Rowling in her screenwriting debut, and inspired by her 2001 book of the same name. The film stars Eddie Redmayne as Newt Scamander, with Katherine Waterston, Dan Fogler, Alison Sudol, Ezra Miller, Samantha Morton, Jon Voight, Carmen Ejogo, Ron Perlman, Colin Farrell and Johnny Depp in supporting roles. It is the first installment in the Fantastic Beasts film series, and ninth overall in the Wizarding World franchise, that began with the Harry Potter films.",
+        "QuestionID": "1",
+        "sentence2": "is \"fantastic beasts\" a prequel for \"where to find them\"",
+        "label": "no",
+        "explanation": "Fantastic Beasts and Where to Find Them is a spin-off and prequel to the Harry Potter film series."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "Fantastic Beasts and Where to Find Them is a 2016 fantasy film directed by David Yates. A joint British and American production, it is a spin-off and prequel to the Harry Potter film series, and it was produced and written by J.K. Rowling in her screenwriting debut, and inspired by her 2001 book of the same name. The film stars Eddie Redmayne as Newt Scamander, with Katherine Waterston, Dan Fogler, Alison Sudol, Ezra Miller, Samantha Morton, Jon Voight, Carmen Ejogo, Ron Perlman, Colin Farrell and Johnny Depp in supporting roles. It is the first installment in the Fantastic Beasts film series, and ninth overall in the Wizarding World franchise, that began with the Harry Potter films.",
+        "QuestionID": "2",
+        "sentence2": "is \"where to find them\" a prequel to \"fantastic beasts\"",
+        "label": "no",
+        "explanation": "Fantastic Beasts and Where to Find Them is a spin-off and prequel to the Harry Potter film series."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "Fantastic Beasts and Where to Find Them is a 2016 fantasy film directed by David Yates. A joint British and American production, it is a spin-off and prequel to the Harry Potter film series, and it was produced and written by J.K. Rowling in her screenwriting debut, and inspired by her 2001 book of the same name. The film stars Eddie Redmayne as Newt Scamander, with Katherine Waterston, Dan Fogler, Alison Sudol, Ezra Miller, Samantha Morton, Jon Voight, Carmen Ejogo, Ron Perlman, Colin Farrell and Johnny Depp in supporting roles. It is the first installment in the Fantastic Beasts film series, and ninth overall in the Wizarding World franchise, that began with the Harry Potter films.",
+        "QuestionID": "3",
+        "sentence2": "is \"where to find them\" a prequel to \"harry potter\"",
+        "label": "yes",
+        "explanation": "Fantastic Beasts and Where to Find Them is a spin-off and prequel to the Harry Potter film series."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "Fantastic Beasts and Where to Find Them is a 2016 fantasy film directed by David Yates. A joint British and American production, it is a spin-off and prequel to the Harry Potter film series, and it was produced and written by J.K. Rowling in her screenwriting debut, and inspired by her 2001 book of the same name. The film stars Eddie Redmayne as Newt Scamander, with Katherine Waterston, Dan Fogler, Alison Sudol, Ezra Miller, Samantha Morton, Jon Voight, Carmen Ejogo, Ron Perlman, Colin Farrell and Johnny Depp in supporting roles. It is the first installment in the Fantastic Beasts film series, and ninth overall in the Wizarding World franchise, that began with the Harry Potter films.",
+        "QuestionID": "4",
+        "sentence2": "is \"where to find them\" the ninth prequel to \"harry potter\"",
+        "label": "no",
+        "explanation": "Fantastic Beasts and Where to Find Them is the first installment in the Fantastic Beasts film series, a prequel to the Harry Potter film series."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "Indiana Jones and the Temple of Doom is a 1984 American action-adventure film directed by Steven Spielberg. It is the second installment in the Indiana Jones franchise and a prequel to the 1981 film Raiders of the Lost Ark, featuring Harrison Ford reprising his role as the title character. After arriving in North India, Indiana Jones is asked by desperate villagers to find a mystical stone and rescue their children from a Thuggee cult practicing child slavery, black magic and ritual human sacrifice in honor of the goddess Kali.",
+        "QuestionID": "0",
+        "sentence2": "is indiana jones temple of doom a prequel",
+        "label": "yes",
+        "explanation": "Indiana Jones and the Temple of Doom is a prequel to the film Raiders of the Lost Ark."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "Indiana Jones and the Temple of Doom is a 1984 American action-adventure film directed by Steven Spielberg. It is the second installment in the Indiana Jones franchise and a prequel to the 1981 film Raiders of the Lost Ark, featuring Harrison Ford reprising his role as the title character. After arriving in North India, Indiana Jones is asked by desperate villagers to find a mystical stone and rescue their children from a Thuggee cult practicing child slavery, black magic and ritual human sacrifice in honor of the goddess Kali.",
+        "QuestionID": "1",
+        "sentence2": "is indiana jones 'temple of doom' a prequel",
+        "label": "yes",
+        "explanation": "Indiana Jones and the Temple of Doom is a prequel to the film Raiders of the Lost Ark."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "Indiana Jones and the Temple of Doom is a 1984 American action-adventure film directed by Steven Spielberg. It is the second installment in the Indiana Jones franchise and a prequel to the 1981 film Raiders of the Lost Ark, featuring Harrison Ford reprising his role as the title character. After arriving in North India, Indiana Jones is asked by desperate villagers to find a mystical stone and rescue their children from a Thuggee cult practicing child slavery, black magic and ritual human sacrifice in honor of the goddess Kali.",
+        "QuestionID": "2",
+        "sentence2": "is indiana jones 'Raiders of the Lost Ark' a prequel",
+        "label": "no",
+        "explanation": "Raiders of the Lost Ark is the parent film of Indiana Jones and the Temple of Doom."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "Indiana Jones and the Temple of Doom is a 1984 American action-adventure film directed by Steven Spielberg. It is the second installment in the Indiana Jones franchise and a prequel to the 1981 film Raiders of the Lost Ark, featuring Harrison Ford reprising his role as the title character. After arriving in North India, Indiana Jones is asked by desperate villagers to find a mystical stone and rescue their children from a Thuggee cult practicing child slavery, black magic and ritual human sacrifice in honor of the goddess Kali.",
+        "QuestionID": "3",
+        "sentence2": "is indiana jones in 'temple of doom' practicing child slavery",
+        "label": "no",
+        "explanation": "Indiana Jones in 'Temple of Doom' is asked by desperate villagers to rescue their children from a cult practicing child slavery. If he was practicing child slavery himself, the villagers would not have come to him for rescuing their children."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "Indiana Jones and the Temple of Doom is a 1984 American action-adventure film directed by Steven Spielberg. It is the second installment in the Indiana Jones franchise and a prequel to the 1981 film Raiders of the Lost Ark, featuring Harrison Ford reprising his role as the title character. After arriving in North India, Indiana Jones is asked by desperate villagers to find a mystical stone and rescue their children from a Thuggee cult practicing child slavery, black magic and ritual human sacrifice in honor of the goddess Kali.",
+        "QuestionID": "4",
+        "sentence2": "is indiana jones 'temple of doom' a North Indian movie",
+        "label": "no",
+        "explanation": "Indiana Jones and the Temple of Doom is a 1984 American action-adventure film."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Time in New Zealand, by law, is divided into two standard time zones. The main islands use New Zealand Standard Time (NZST), 12 hours in advance of Coordinated Universal Time (UTC) / military M (Mike), while the outlying Chatham Islands use Chatham Standard Time (CHAST), 12 hours 45 minutes in advance of UTC / military M^ (Mike-Three).",
+        "QuestionID": "0",
+        "sentence2": "is all of new zealand in the same time zone",
+        "label": "no",
+        "explanation": "Time in New Zealand is divided into two standard time zones."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Time in New Zealand, by law, is divided into two standard time zones. The main islands use New Zealand Standard Time (NZST), 12 hours in advance of Coordinated Universal Time (UTC) / military M (Mike), while the outlying Chatham Islands use Chatham Standard Time (CHAST), 12 hours 45 minutes in advance of UTC / military M^ (Mike-Three).",
+        "QuestionID": "1",
+        "sentence2": "new zealand has different time zones",
+        "label": "yes",
+        "explanation": "Time in New Zealand is divided into two standard time zones."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Time in New Zealand, by law, is divided into two standard time zones. The main islands use New Zealand Standard Time (NZST), 12 hours in advance of Coordinated Universal Time (UTC) / military M (Mike), while the outlying Chatham Islands use Chatham Standard Time (CHAST), 12 hours 45 minutes in advance of UTC / military M^ (Mike-Three).",
+        "QuestionID": "2",
+        "sentence2": "The New Zealand time zones are different but close to each other",
+        "label": "yes",
+        "explanation": "The two time zones in New Zealand are 45 minutes apart."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Time in New Zealand, by law, is divided into two standard time zones. The main islands use New Zealand Standard Time (NZST), 12 hours in advance of Coordinated Universal Time (UTC) / military M (Mike), while the outlying Chatham Islands use Chatham Standard Time (CHAST), 12 hours 45 minutes in advance of UTC / military M^ (Mike-Three).",
+        "QuestionID": "3",
+        "sentence2": "new zealand has three time zones",
+        "label": "no",
+        "explanation": "Time in New Zealand is divided into two standard time zones."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Time in New Zealand, by law, is divided into two standard time zones. The main islands use New Zealand Standard Time (NZST), 12 hours in advance of Coordinated Universal Time (UTC) / military M (Mike), while the outlying Chatham Islands use Chatham Standard Time (CHAST), 12 hours 45 minutes in advance of UTC / military M^ (Mike-Three).",
+        "QuestionID": "4",
+        "sentence2": "new zealand has a single time zone",
+        "label": "no",
+        "explanation": "Time in New Zealand is divided into two standard time zones."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Time in New Zealand, by law, is divided into two standard time zones. The main islands use New Zealand Standard Time (NZST), 12 hours in advance of Coordinated Universal Time (UTC) / military M (Mike), while the outlying Chatham Islands use Chatham Standard Time (CHAST), 12 hours 45 minutes in advance of UTC / military M^ (Mike-Three).",
+        "QuestionID": "5",
+        "sentence2": "new zealand has multiple time zones",
+        "label": "yes",
+        "explanation": "Time in New Zealand is divided into two standard time zones."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Time in New Zealand, by law, is divided into two standard time zones. The main islands use New Zealand Standard Time (NZST), 12 hours in advance of Coordinated Universal Time (UTC) / military M (Mike), while the outlying Chatham Islands use Chatham Standard Time (CHAST), 12 hours 45 minutes in advance of UTC / military M^ (Mike-Three).",
+        "QuestionID": "6",
+        "sentence2": "new zealand has two time zones",
+        "label": "yes",
+        "explanation": "Time in New Zealand is divided into two standard time zones."
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "In 2011, Philip Pullman remarked at the British Humanist Association annual conference that due to the first film's disappointing sales in the United States, there would not be any sequels made.",
+        "QuestionID": "0",
+        "sentence2": "is there going to be another golden compass movie",
+        "label": "no",
+        "explanation": "Philip Pullman remarked that there would not be any sequels made."
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "In 2011, Philip Pullman remarked at the British Humanist Association annual conference that due to the first film's disappointing sales in the United States, there would not be any sequels made.",
+        "QuestionID": "1",
+        "sentence2": "is it true that there isn't going to be another golden compass movie",
+        "label": "yes",
+        "explanation": "Philip Pullman remarked that there would not be any sequels made."
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "In 2011, Philip Pullman remarked at the British Humanist Association annual conference that due to the first film's disappointing sales in the United States, there would not be any sequels made.",
+        "QuestionID": "2",
+        "sentence2": "the British Humanist Association did announce that there isn't going to be another golden compass movie",
+        "label": "no",
+        "explanation": "It was Philip Pullman who remarked at the British Humanist Association annual conference that there would not be any sequels made."
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "In 2011, Philip Pullman remarked at the British Humanist Association annual conference that due to the first film's disappointing sales in the United States, there would not be any sequels made.",
+        "QuestionID": "3",
+        "sentence2": "Pullman did announce that there isn't going to be another golden compass movie",
+        "label": "yes",
+        "explanation": "Philip Pullman remarked at a conference that there would not be any sequels made."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "Sanders played football primarily at cornerback, but also as a kick returner, punt returner, and occasionally wide receiver. He played in the National Football League (NFL) for the Atlanta Falcons, the San Francisco 49ers, the Dallas Cowboys, the Washington Redskins and the Baltimore Ravens, winning the Super Bowl with both the 49ers and the Cowboys. An outfielder in baseball, he played professionally for the New York Yankees, the Atlanta Braves, the Cincinnati Reds and the San Francisco Giants, and participated in the 1992 World Series with the Braves. He attended Florida State University, where he was recognized as a two-time All-American in football, and also played baseball and ran track.",
+        "QuestionID": "0",
+        "sentence2": "did deion sanders ever win a world series",
+        "label": "no",
+        "explanation": "We only know that Deion Sanders participated in the 1992 World Series with the Braves. We do not know its outcome."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "Sanders played football primarily at cornerback, but also as a kick returner, punt returner, and occasionally wide receiver. He played in the National Football League (NFL) for the Atlanta Falcons, the San Francisco 49ers, the Dallas Cowboys, the Washington Redskins and the Baltimore Ravens, winning the Super Bowl with both the 49ers and the Cowboys. An outfielder in baseball, he played professionally for the New York Yankees, the Atlanta Braves, the Cincinnati Reds and the San Francisco Giants, and participated in the 1992 World Series with the Braves. He attended Florida State University, where he was recognized as a two-time All-American in football, and also played baseball and ran track.",
+        "QuestionID": "1",
+        "sentence2": "did deion sanders ever play in world series",
+        "label": "yes",
+        "explanation": "Deion Sanders participated in the 1992 World Series."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "Sanders played football primarily at cornerback, but also as a kick returner, punt returner, and occasionally wide receiver. He played in the National Football League (NFL) for the Atlanta Falcons, the San Francisco 49ers, the Dallas Cowboys, the Washington Redskins and the Baltimore Ravens, winning the Super Bowl with both the 49ers and the Cowboys. An outfielder in baseball, he played professionally for the New York Yankees, the Atlanta Braves, the Cincinnati Reds and the San Francisco Giants, and participated in the 1992 World Series with the Braves. He attended Florida State University, where he was recognized as a two-time All-American in football, and also played baseball and ran track.",
+        "QuestionID": "2",
+        "sentence2": "did deion sanders ever play in world series final",
+        "label": "no",
+        "explanation": "We only know that Deion Sanders participated in the 1992 World Series with the Braves. We do not know if the Braves reached the final that year."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "Sanders played football primarily at cornerback, but also as a kick returner, punt returner, and occasionally wide receiver. He played in the National Football League (NFL) for the Atlanta Falcons, the San Francisco 49ers, the Dallas Cowboys, the Washington Redskins and the Baltimore Ravens, winning the Super Bowl with both the 49ers and the Cowboys. An outfielder in baseball, he played professionally for the New York Yankees, the Atlanta Braves, the Cincinnati Reds and the San Francisco Giants, and participated in the 1992 World Series with the Braves. He attended Florida State University, where he was recognized as a two-time All-American in football, and also played baseball and ran track.",
+        "QuestionID": "3",
+        "sentence2": "did deion sanders ever win a super bowl",
+        "label": "yes",
+        "explanation": "Deion Sanders won the Super Bowl with both the 49ers and the Cowboys."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "Sanders played football primarily at cornerback, but also as a kick returner, punt returner, and occasionally wide receiver. He played in the National Football League (NFL) for the Atlanta Falcons, the San Francisco 49ers, the Dallas Cowboys, the Washington Redskins and the Baltimore Ravens, winning the Super Bowl with both the 49ers and the Cowboys. An outfielder in baseball, he played professionally for the New York Yankees, the Atlanta Braves, the Cincinnati Reds and the San Francisco Giants, and participated in the 1992 World Series with the Braves. He attended Florida State University, where he was recognized as a two-time All-American in football, and also played baseball and ran track.",
+        "QuestionID": "4",
+        "sentence2": "did deion sanders ever play in world series with San Francisco 49ers",
+        "label": "no",
+        "explanation": "Deion Sanders participated in the 1992 World Series with the Braves, which was  the only world series he played."
+    },
+    {
+        "PassageID": "1_7",
+        "sentence1": "The storm brought strong winds to the Swan Islands, including hurricane-force winds on the main island. Heavy rains fell in Cuba, particularly in Pinar del R\u00edo Province, but only minor damage occurred. In Florida, storm surge and abnormally high tides caused damage along much of the state's west coast from Pasco County southward. Several neighborhoods and sections of Tampa were inundated, especially in Ballast Point, DeSoto Park, Edgewater Park, Hyde Park, Palmetto Beach, and other areas in the vicinity of Bayshore Boulevard. Strong winds also damaged hundreds of trees, signs, buildings, and homes. Four deaths occurred in Tampa, three from drownings and another after a man touched a live wire. The storm left two additional fatalities in St. Petersburg. A number of streets in Tarpon Springs were littered with masses of debris, with many structures and trees suffering extensive damage. Strong winds occurred as far east as the Atlantic coast of the state, though wind damage east of the Tampa Bay area was generally limited to downed trees and power lines, resulting in power outages, particularly in Orlando. Agriculture throughout the state experienced significant impact as well, including over $2 million (equivalent to $20 million in 2016) in damage and the loss of at least 800,000 boxes of citrus crops alone. Overall, the hurricane left at least eight deaths and about $10 million (equivalent to $110 million in 2016) in damage.",
+        "QuestionID": "0",
+        "sentence2": "has tampa ever been hit by a hurricane",
+        "label": "yes",
+        "explanation": "Tampa was hit by the Tampa Bay hurricane in 1921."
+    },
+    {
+        "PassageID": "1_7",
+        "sentence1": "The storm brought strong winds to the Swan Islands, including hurricane-force winds on the main island. Heavy rains fell in Cuba, particularly in Pinar del R\u00edo Province, but only minor damage occurred. In Florida, storm surge and abnormally high tides caused damage along much of the state's west coast from Pasco County southward. Several neighborhoods and sections of Tampa were inundated, especially in Ballast Point, DeSoto Park, Edgewater Park, Hyde Park, Palmetto Beach, and other areas in the vicinity of Bayshore Boulevard. Strong winds also damaged hundreds of trees, signs, buildings, and homes. Four deaths occurred in Tampa, three from drownings and another after a man touched a live wire. The storm left two additional fatalities in St. Petersburg. A number of streets in Tarpon Springs were littered with masses of debris, with many structures and trees suffering extensive damage. Strong winds occurred as far east as the Atlantic coast of the state, though wind damage east of the Tampa Bay area was generally limited to downed trees and power lines, resulting in power outages, particularly in Orlando. Agriculture throughout the state experienced significant impact as well, including over $2 million (equivalent to $20 million in 2016) in damage and the loss of at least 800,000 boxes of citrus crops alone. Overall, the hurricane left at least eight deaths and about $10 million (equivalent to $110 million in 2016) in damage.",
+        "QuestionID": "1",
+        "sentence2": "has the east of tampa ever been hit by a hurricane",
+        "label": "yes",
+        "explanation": "During the Tampa Bay hurricane in 1921, strong winds occurred as far east as the Atlantic coast of the state."
+    },
+    {
+        "PassageID": "1_7",
+        "sentence1": "The storm brought strong winds to the Swan Islands, including hurricane-force winds on the main island. Heavy rains fell in Cuba, particularly in Pinar del R\u00edo Province, but only minor damage occurred. In Florida, storm surge and abnormally high tides caused damage along much of the state's west coast from Pasco County southward. Several neighborhoods and sections of Tampa were inundated, especially in Ballast Point, DeSoto Park, Edgewater Park, Hyde Park, Palmetto Beach, and other areas in the vicinity of Bayshore Boulevard. Strong winds also damaged hundreds of trees, signs, buildings, and homes. Four deaths occurred in Tampa, three from drownings and another after a man touched a live wire. The storm left two additional fatalities in St. Petersburg. A number of streets in Tarpon Springs were littered with masses of debris, with many structures and trees suffering extensive damage. Strong winds occurred as far east as the Atlantic coast of the state, though wind damage east of the Tampa Bay area was generally limited to downed trees and power lines, resulting in power outages, particularly in Orlando. Agriculture throughout the state experienced significant impact as well, including over $2 million (equivalent to $20 million in 2016) in damage and the loss of at least 800,000 boxes of citrus crops alone. Overall, the hurricane left at least eight deaths and about $10 million (equivalent to $110 million in 2016) in damage.",
+        "QuestionID": "2",
+        "sentence2": "did tampa hurricane cause deaths",
+        "label": "yes",
+        "explanation": "During the Tampa Bay hurricane in 1921, four deaths occurred in Tampa."
+    },
+    {
+        "PassageID": "1_7",
+        "sentence1": "The storm brought strong winds to the Swan Islands, including hurricane-force winds on the main island. Heavy rains fell in Cuba, particularly in Pinar del R\u00edo Province, but only minor damage occurred. In Florida, storm surge and abnormally high tides caused damage along much of the state's west coast from Pasco County southward. Several neighborhoods and sections of Tampa were inundated, especially in Ballast Point, DeSoto Park, Edgewater Park, Hyde Park, Palmetto Beach, and other areas in the vicinity of Bayshore Boulevard. Strong winds also damaged hundreds of trees, signs, buildings, and homes. Four deaths occurred in Tampa, three from drownings and another after a man touched a live wire. The storm left two additional fatalities in St. Petersburg. A number of streets in Tarpon Springs were littered with masses of debris, with many structures and trees suffering extensive damage. Strong winds occurred as far east as the Atlantic coast of the state, though wind damage east of the Tampa Bay area was generally limited to downed trees and power lines, resulting in power outages, particularly in Orlando. Agriculture throughout the state experienced significant impact as well, including over $2 million (equivalent to $20 million in 2016) in damage and the loss of at least 800,000 boxes of citrus crops alone. Overall, the hurricane left at least eight deaths and about $10 million (equivalent to $110 million in 2016) in damage.",
+        "QuestionID": "3",
+        "sentence2": "did tampa hurricane cause less than five deaths",
+        "label": "no",
+        "explanation": "Overall, the Tampa Bay hurricane left at least eight deaths."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "0",
+        "sentence2": "is it possible to have no sense of smell",
+        "label": "yes",
+        "explanation": "A person suffering from anosmia has no sense of smell."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "1",
+        "sentence2": "is it possible to have no sense of smell forever",
+        "label": "yes",
+        "explanation": "Anosmia in some forms, such as from an accident, can be permanent."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "2",
+        "sentence2": "is it possible to have no sense of smell temporary",
+        "label": "yes",
+        "explanation": "Anosmia may be temporary."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "3",
+        "sentence2": "is it possible to have no sense of smell by just an accident",
+        "label": "yes",
+        "explanation": "An accident can cause permanent Anosmia."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "4",
+        "sentence2": "is it possible to have no sense of smell due to blockage of nasal passage",
+        "label": "yes",
+        "explanation": "Anosmia can be caused by the blockage of nasal passages."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "5",
+        "sentence2": "is it possible to have no sense of pain due to blockage of nasal passage",
+        "label": "don\u2019t know",
+        "explanation": "We only know that Anosmia can be caused by the blockage of nasal passages. We do not know if blockage of the nasal passage would lead to a loss of perception of pain."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "6",
+        "sentence2": "is it possible to have nasal blockage due to no sense of smell",
+        "label": "don\u2019t know",
+        "explanation": "We only know that Anosmia can be caused by the blockage of nasal passages. We do not know if Anosmia can cause blockage of the nasal passage."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "7",
+        "sentence2": "is it possible to have inflammation of the nasal mucosa due to no sense of smell",
+        "label": "don\u2019t know",
+        "explanation": "We only know that Anosmia can be caused by the inflammation of the nasal mucosa. We do not know if Anosmia can cause inflammation of the nasal mucosa."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "8",
+        "sentence2": "is it possible to have a destruction of one temporal lobe due to no sense of smell",
+        "label": "don\u2019t know",
+        "explanation": "We only know that Anosmia can be caused by the destruction of one temporal lobe. We do not know if Anosmia can cause destruction of one temporal lobe."
+    },
+    {
+        "PassageID": "2_0",
+        "sentence1": "The carbon-hydrogen bond (C--H bond) is a bond between carbon and hydrogen atoms that can be found in many organic compounds. This bond is a covalent bond meaning that carbon shares its outer valence electrons with up to four hydrogens. This completes both of their outer shells making them stable. Carbon--hydrogen bonds have a bond length of about 1.09 \u00c5 (1.09 \u00d7 10 m) and a bond energy of about 413 kJ/mol (see table below). Using Pauling's scale--C (2.55) and H (2.2)--the electronegativity difference between these two atoms is 0.35. Because of this small difference in electronegativities, the C\u2212H bond is generally regarded as being non-polar. In structural formulas of molecules, the hydrogen atoms are often omitted. Compound classes consisting solely of C--H bonds and C--C bonds are alkanes, alkenes, alkynes, and aromatic hydrocarbons. Collectively they are known as hydrocarbons.",
+        "QuestionID": "0",
+        "sentence2": "can carbon form polar covalent bonds with hydrogen",
+        "label": "no",
+        "explanation": "The electronegativity difference between C and H atoms is 0.35. Because of this small difference in electronegativities, the C\u2212H bond is generally regarded as being non-polar."
+    },
+    {
+        "PassageID": "2_0",
+        "sentence1": "The carbon-hydrogen bond (C--H bond) is a bond between carbon and hydrogen atoms that can be found in many organic compounds. This bond is a covalent bond meaning that carbon shares its outer valence electrons with up to four hydrogens. This completes both of their outer shells making them stable. Carbon--hydrogen bonds have a bond length of about 1.09 \u00c5 (1.09 \u00d7 10 m) and a bond energy of about 413 kJ/mol (see table below). Using Pauling's scale--C (2.55) and H (2.2)--the electronegativity difference between these two atoms is 0.35. Because of this small difference in electronegativities, the C\u2212H bond is generally regarded as being non-polar. In structural formulas of molecules, the hydrogen atoms are often omitted. Compound classes consisting solely of C--H bonds and C--C bonds are alkanes, alkenes, alkynes, and aromatic hydrocarbons. Collectively they are known as hydrocarbons.",
+        "QuestionID": "1",
+        "sentence2": "does carbon bonds with hydrogen have zero polarity",
+        "label": "no",
+        "explanation": "The C-H bond has a non-zero polarity of 0.35."
+    },
+    {
+        "PassageID": "2_0",
+        "sentence1": "The carbon-hydrogen bond (C--H bond) is a bond between carbon and hydrogen atoms that can be found in many organic compounds. This bond is a covalent bond meaning that carbon shares its outer valence electrons with up to four hydrogens. This completes both of their outer shells making them stable. Carbon--hydrogen bonds have a bond length of about 1.09 \u00c5 (1.09 \u00d7 10 m) and a bond energy of about 413 kJ/mol (see table below). Using Pauling's scale--C (2.55) and H (2.2)--the electronegativity difference between these two atoms is 0.35. Because of this small difference in electronegativities, the C\u2212H bond is generally regarded as being non-polar. In structural formulas of molecules, the hydrogen atoms are often omitted. Compound classes consisting solely of C--H bonds and C--C bonds are alkanes, alkenes, alkynes, and aromatic hydrocarbons. Collectively they are known as hydrocarbons.",
+        "QuestionID": "2",
+        "sentence2": "does carbon bonds with hydrogen have non-zero polarity",
+        "label": "yes",
+        "explanation": "The C-H bond has a non-zero polarity of 0.35."
+    },
+    {
+        "PassageID": "2_0",
+        "sentence1": "The carbon-hydrogen bond (C--H bond) is a bond between carbon and hydrogen atoms that can be found in many organic compounds. This bond is a covalent bond meaning that carbon shares its outer valence electrons with up to four hydrogens. This completes both of their outer shells making them stable. Carbon--hydrogen bonds have a bond length of about 1.09 \u00c5 (1.09 \u00d7 10 m) and a bond energy of about 413 kJ/mol (see table below). Using Pauling's scale--C (2.55) and H (2.2)--the electronegativity difference between these two atoms is 0.35. Because of this small difference in electronegativities, the C\u2212H bond is generally regarded as being non-polar. In structural formulas of molecules, the hydrogen atoms are often omitted. Compound classes consisting solely of C--H bonds and C--C bonds are alkanes, alkenes, alkynes, and aromatic hydrocarbons. Collectively they are known as hydrocarbons.",
+        "QuestionID": "3",
+        "sentence2": "does carbon bonds with hydrogen have small polarity",
+        "label": "yes",
+        "explanation": "The C-H bond has a small but non-zero polarity of 0.35."
+    },
+    {
+        "PassageID": "2_0",
+        "sentence1": "The carbon-hydrogen bond (C--H bond) is a bond between carbon and hydrogen atoms that can be found in many organic compounds. This bond is a covalent bond meaning that carbon shares its outer valence electrons with up to four hydrogens. This completes both of their outer shells making them stable. Carbon--hydrogen bonds have a bond length of about 1.09 \u00c5 (1.09 \u00d7 10 m) and a bond energy of about 413 kJ/mol (see table below). Using Pauling's scale--C (2.55) and H (2.2)--the electronegativity difference between these two atoms is 0.35. Because of this small difference in electronegativities, the C\u2212H bond is generally regarded as being non-polar. In structural formulas of molecules, the hydrogen atoms are often omitted. Compound classes consisting solely of C--H bonds and C--C bonds are alkanes, alkenes, alkynes, and aromatic hydrocarbons. Collectively they are known as hydrocarbons.",
+        "QuestionID": "4",
+        "sentence2": "does hydrogen bonds with carbon have small polarity",
+        "label": "TRUE",
+        "explanation": "The C-H bond has a small but non-zero polarity of 0.35."
+    },
+    {
+        "PassageID": "2_1",
+        "sentence1": "David Visentin (born 1965) is a Canadian actor and realtor. He is best known as one of the hosts of Love It or List It, with co-host Hilary Farr. The show is broadcast on HGTV and W Networks. He is a native citizen of Canada.",
+        "QuestionID": "0",
+        "sentence2": "is david from love it or list it a real realtor",
+        "label": "yes",
+        "explanation": "David Visentin is a Canadian actor and realtor."
+    },
+    {
+        "PassageID": "2_1",
+        "sentence1": "David Visentin (born 1965) is a Canadian actor and realtor. He is best known as one of the hosts of Love It or List It, with co-host Hilary Farr. The show is broadcast on HGTV and W Networks. He is a native citizen of Canada.",
+        "QuestionID": "1",
+        "sentence2": "is david from \"love it or list it\" a real realtor",
+        "label": "yes",
+        "explanation": "David Visentin is a Canadian actor and realtor."
+    },
+    {
+        "PassageID": "2_1",
+        "sentence1": "David Visentin (born 1965) is a Canadian actor and realtor. He is best known as one of the hosts of Love It or List It, with co-host Hilary Farr. The show is broadcast on HGTV and W Networks. He is a native citizen of Canada.",
+        "QuestionID": "2",
+        "sentence2": "is david from \"love it or list it\" a Canadia",
+        "label": "yes",
+        "explanation": "David Visentin is a Canadian actor and realtor."
+    },
+    {
+        "PassageID": "2_1",
+        "sentence1": "David Visentin (born 1965) is a Canadian actor and realtor. He is best known as one of the hosts of Love It or List It, with co-host Hilary Farr. The show is broadcast on HGTV and W Networks. He is a native citizen of Canada.",
+        "QuestionID": "3",
+        "sentence2": "is david from \"love it or list it\" know Hilary Farr",
+        "label": "yes",
+        "explanation": "David Visentin co-hosted the show Love it or List it with Hilary Farr. Since they have worked together, they must know each other."
+    },
+    {
+        "PassageID": "2_1",
+        "sentence1": "David Visentin (born 1965) is a Canadian actor and realtor. He is best known as one of the hosts of Love It or List It, with co-host Hilary Farr. The show is broadcast on HGTV and W Networks. He is a native citizen of Canada.",
+        "QuestionID": "4",
+        "sentence2": "is david Visentin a real realtor",
+        "label": "yes",
+        "explanation": "David Visentin is a Canadian actor and realtor."
+    },
+    {
+        "PassageID": "2_2",
+        "sentence1": "Gamblers' winnings in Australia are not taxed . There are 3 main reasons for that:",
+        "QuestionID": "0",
+        "sentence2": "do you pay tax on gambling winnings in australia",
+        "label": "no",
+        "explanation": "Gamblers' winnings in Australia are not taxed."
+    },
+    {
+        "PassageID": "2_2",
+        "sentence1": "Gamblers' winnings in Australia are not taxed . There are 3 main reasons for that:",
+        "QuestionID": "1",
+        "sentence2": "are you exempt from paying tax on gambling winnings in australia",
+        "label": "yes",
+        "explanation": "Gamblers' winnings in Australia are not taxed."
+    },
+    {
+        "PassageID": "2_2",
+        "sentence1": "Gamblers' winnings in Australia are not taxed . There are 3 main reasons for that:",
+        "QuestionID": "2",
+        "sentence2": "there are no reason to not have tax on gambling winnings in australia",
+        "label": "no",
+        "explanation": "There are 3 main reasons why gamblers\u2019 winnings are not taxed in Australia."
+    },
+    {
+        "PassageID": "2_3",
+        "sentence1": "Phantom pain sensations are described as perceptions that an individual experiences relating to a limb or an organ that is not physically part of the body. Limb loss is a result of either removal by amputation or congenital limb deficiency. However, phantom limb sensations can also occur following nerve avulsion or spinal cord injury.",
+        "QuestionID": "0",
+        "sentence2": "is pain experienced in a missing body part or paralyzed area",
+        "label": "yes",
+        "explanation": "Phantom pain sensations, described as perceptions that an individual experiences relating to a limb or an organ that is not physically part of the body, are not uncommon."
+    },
+    {
+        "PassageID": "2_3",
+        "sentence1": "Phantom pain sensations are described as perceptions that an individual experiences relating to a limb or an organ that is not physically part of the body. Limb loss is a result of either removal by amputation or congenital limb deficiency. However, phantom limb sensations can also occur following nerve avulsion or spinal cord injury.",
+        "QuestionID": "1",
+        "sentence2": "is pain experienced in organs that are not physically part of the body",
+        "label": "yes",
+        "explanation": "Phantom pain sensations, described as perceptions that an individual experiences relating to an organ that is not physically part of the body, are not uncommon."
+    },
+    {
+        "PassageID": "2_3",
+        "sentence1": "Phantom pain sensations are described as perceptions that an individual experiences relating to a limb or an organ that is not physically part of the body. Limb loss is a result of either removal by amputation or congenital limb deficiency. However, phantom limb sensations can also occur following nerve avulsion or spinal cord injury.",
+        "QuestionID": "2",
+        "sentence2": "is pain experienced as a perception",
+        "label": "yes",
+        "explanation": "Phantom pain sensations is a type of pain which is described as perceptions that an individual experiences relating to a missing part of the body."
+    },
+    {
+        "PassageID": "2_3",
+        "sentence1": "Phantom pain sensations are described as perceptions that an individual experiences relating to a limb or an organ that is not physically part of the body. Limb loss is a result of either removal by amputation or congenital limb deficiency. However, phantom limb sensations can also occur following nerve avulsion or spinal cord injury.",
+        "QuestionID": "3",
+        "sentence2": "can pain experienced without spinal cord injury",
+        "label": "yes",
+        "explanation": "Phantom limb sensations can also occur following a nerve avulsion."
+    },
+    {
+        "PassageID": "2_3",
+        "sentence1": "Phantom pain sensations are described as perceptions that an individual experiences relating to a limb or an organ that is not physically part of the body. Limb loss is a result of either removal by amputation or congenital limb deficiency. However, phantom limb sensations can also occur following nerve avulsion or spinal cord injury.",
+        "QuestionID": "4",
+        "sentence2": "is pain experienced only with spinal cord injury",
+        "label": "no",
+        "explanation": "Phantom limb sensations can also occur following a nerve avulsion."
+    },
+    {
+        "PassageID": "2_4",
+        "sentence1": "Columbus Day is a national holiday in many countries of the Americas and elsewhere which officially celebrates the anniversary of Christopher Columbus's arrival in the Americas on October 12, 1492. The landing is celebrated as ``Columbus Day'' in the United States, as ``D\u00eda de la Raza'' (``Day of the Race'') in some countries in Latin America, as ``D\u00eda de la Hispanidad'' and ``Fiesta Nacional'' in Spain, where it is also the religious festivity of la Virgen del Pilar, as D\u00eda de las Am\u00e9ricas (Day of the Americas) in Belize and Uruguay, as D\u00eda del Respeto a la Diversidad Cultural (Day of Respect for Cultural Diversity) in Argentina, and as Giornata Nazionale di Cristoforo Colombo or Festa Nazionale di Cristoforo Colombo in Italy as well as in Little Italys around the world. As the day of remembrance of Our Lady of the Pillar, 12 October had been declared a religious feast day throughout the Spanish Empire in 1730; the secular Fiesta de la Raza Espa\u00f1ola was first proposed by Faustino Rodr\u00edguez-San Pedro y D\u00edaz-Arg\u00fcelles in 1913. In recent years, celebration of the holiday has faced some opposition from various organizations.",
+        "QuestionID": "0",
+        "sentence2": "is columbus day a national holiday in the united states",
+        "label": "yes",
+        "explanation": "Columbus Day is a national holiday in the United States."
+    },
+    {
+        "PassageID": "2_4",
+        "sentence1": "Columbus Day is a national holiday in many countries of the Americas and elsewhere which officially celebrates the anniversary of Christopher Columbus's arrival in the Americas on October 12, 1492. The landing is celebrated as ``Columbus Day'' in the United States, as ``D\u00eda de la Raza'' (``Day of the Race'') in some countries in Latin America, as ``D\u00eda de la Hispanidad'' and ``Fiesta Nacional'' in Spain, where it is also the religious festivity of la Virgen del Pilar, as D\u00eda de las Am\u00e9ricas (Day of the Americas) in Belize and Uruguay, as D\u00eda del Respeto a la Diversidad Cultural (Day of Respect for Cultural Diversity) in Argentina, and as Giornata Nazionale di Cristoforo Colombo or Festa Nazionale di Cristoforo Colombo in Italy as well as in Little Italys around the world. As the day of remembrance of Our Lady of the Pillar, 12 October had been declared a religious feast day throughout the Spanish Empire in 1730; the secular Fiesta de la Raza Espa\u00f1ola was first proposed by Faustino Rodr\u00edguez-San Pedro y D\u00edaz-Arg\u00fcelles in 1913. In recent years, celebration of the holiday has faced some opposition from various organizations.",
+        "QuestionID": "1",
+        "sentence2": "is \"columbus day\" celebrated in Americas",
+        "label": "yes",
+        "explanation": "Columbus Day is a national holiday in many countries of the Americas."
+    },
+    {
+        "PassageID": "2_4",
+        "sentence1": "Columbus Day is a national holiday in many countries of the Americas and elsewhere which officially celebrates the anniversary of Christopher Columbus's arrival in the Americas on October 12, 1492. The landing is celebrated as ``Columbus Day'' in the United States, as ``D\u00eda de la Raza'' (``Day of the Race'') in some countries in Latin America, as ``D\u00eda de la Hispanidad'' and ``Fiesta Nacional'' in Spain, where it is also the religious festivity of la Virgen del Pilar, as D\u00eda de las Am\u00e9ricas (Day of the Americas) in Belize and Uruguay, as D\u00eda del Respeto a la Diversidad Cultural (Day of Respect for Cultural Diversity) in Argentina, and as Giornata Nazionale di Cristoforo Colombo or Festa Nazionale di Cristoforo Colombo in Italy as well as in Little Italys around the world. As the day of remembrance of Our Lady of the Pillar, 12 October had been declared a religious feast day throughout the Spanish Empire in 1730; the secular Fiesta de la Raza Espa\u00f1ola was first proposed by Faustino Rodr\u00edguez-San Pedro y D\u00edaz-Arg\u00fcelles in 1913. In recent years, celebration of the holiday has faced some opposition from various organizations.",
+        "QuestionID": "2",
+        "sentence2": "is \"columbus day\" celebrated in several European countries",
+        "label": "yes",
+        "explanation": "Columbus Day is celebrated in European countries such as Spain, Belize, Uruguay, Argentina and Italy."
+    },
+    {
+        "PassageID": "2_4",
+        "sentence1": "Columbus Day is a national holiday in many countries of the Americas and elsewhere which officially celebrates the anniversary of Christopher Columbus's arrival in the Americas on October 12, 1492. The landing is celebrated as ``Columbus Day'' in the United States, as ``D\u00eda de la Raza'' (``Day of the Race'') in some countries in Latin America, as ``D\u00eda de la Hispanidad'' and ``Fiesta Nacional'' in Spain, where it is also the religious festivity of la Virgen del Pilar, as D\u00eda de las Am\u00e9ricas (Day of the Americas) in Belize and Uruguay, as D\u00eda del Respeto a la Diversidad Cultural (Day of Respect for Cultural Diversity) in Argentina, and as Giornata Nazionale di Cristoforo Colombo or Festa Nazionale di Cristoforo Colombo in Italy as well as in Little Italys around the world. As the day of remembrance of Our Lady of the Pillar, 12 October had been declared a religious feast day throughout the Spanish Empire in 1730; the secular Fiesta de la Raza Espa\u00f1ola was first proposed by Faustino Rodr\u00edguez-San Pedro y D\u00edaz-Arg\u00fcelles in 1913. In recent years, celebration of the holiday has faced some opposition from various organizations.",
+        "QuestionID": "3",
+        "sentence2": "is \"columbus day\" a religious festivity in Americas",
+        "label": "no",
+        "explanation": "The landing is celebrated as ``Columbus Day'' in the United States and not as a religious festival."
+    },
+    {
+        "PassageID": "2_4",
+        "sentence1": "Columbus Day is a national holiday in many countries of the Americas and elsewhere which officially celebrates the anniversary of Christopher Columbus's arrival in the Americas on October 12, 1492. The landing is celebrated as ``Columbus Day'' in the United States, as ``D\u00eda de la Raza'' (``Day of the Race'') in some countries in Latin America, as ``D\u00eda de la Hispanidad'' and ``Fiesta Nacional'' in Spain, where it is also the religious festivity of la Virgen del Pilar, as D\u00eda de las Am\u00e9ricas (Day of the Americas) in Belize and Uruguay, as D\u00eda del Respeto a la Diversidad Cultural (Day of Respect for Cultural Diversity) in Argentina, and as Giornata Nazionale di Cristoforo Colombo or Festa Nazionale di Cristoforo Colombo in Italy as well as in Little Italys around the world. As the day of remembrance of Our Lady of the Pillar, 12 October had been declared a religious feast day throughout the Spanish Empire in 1730; the secular Fiesta de la Raza Espa\u00f1ola was first proposed by Faustino Rodr\u00edguez-San Pedro y D\u00edaz-Arg\u00fcelles in 1913. In recent years, celebration of the holiday has faced some opposition from various organizations.",
+        "QuestionID": "4",
+        "sentence2": "is \"columbus day\" a religious festivity in Spain",
+        "label": "yes",
+        "explanation": "Columbus Day is celebrated as ``Fiesta Nacional'' in Spain, where it is also the religious festivity of la Virgen del Pilar."
+    },
+    {
+        "PassageID": "2_4",
+        "sentence1": "Columbus Day is a national holiday in many countries of the Americas and elsewhere which officially celebrates the anniversary of Christopher Columbus's arrival in the Americas on October 12, 1492. The landing is celebrated as ``Columbus Day'' in the United States, as ``D\u00eda de la Raza'' (``Day of the Race'') in some countries in Latin America, as ``D\u00eda de la Hispanidad'' and ``Fiesta Nacional'' in Spain, where it is also the religious festivity of la Virgen del Pilar, as D\u00eda de las Am\u00e9ricas (Day of the Americas) in Belize and Uruguay, as D\u00eda del Respeto a la Diversidad Cultural (Day of Respect for Cultural Diversity) in Argentina, and as Giornata Nazionale di Cristoforo Colombo or Festa Nazionale di Cristoforo Colombo in Italy as well as in Little Italys around the world. As the day of remembrance of Our Lady of the Pillar, 12 October had been declared a religious feast day throughout the Spanish Empire in 1730; the secular Fiesta de la Raza Espa\u00f1ola was first proposed by Faustino Rodr\u00edguez-San Pedro y D\u00edaz-Arg\u00fcelles in 1913. In recent years, celebration of the holiday has faced some opposition from various organizations.",
+        "QuestionID": "5",
+        "sentence2": "is \"columbus day\" a religious festivity in Italy",
+        "label": "no",
+        "explanation": "Columbus Day is celebrated as 'Giornata Nazionale di Cristoforo Colombo in Italy but not as a religious festival."
+    },
+    {
+        "PassageID": "2_5",
+        "sentence1": "U.S. Highway 20 (US 20) is an east--west United States highway that stretches from the Pacific Northwest all the way to New England. The ``0'' in its route number indicates that US 20 is a coast-to-coast route. Spanning 3,365 miles (5,415 km), it is the longest road in the United States, and particularly from Idaho to Massachusetts, the route roughly parallels that of Interstate 90 (I-90), which is in turn the longest Interstate Highway in the U.S. There is a discontinuity in the official designation of US 20 through Yellowstone National Park, with unnumbered roads used to traverse the park.",
+        "QuestionID": "0",
+        "sentence2": "is there an interstate that goes coast to coast",
+        "label": "yes",
+        "explanation": "U.S. Highway 20 (US 20) is an east--west United States highway which is a coast-to-coast route."
+    },
+    {
+        "PassageID": "2_5",
+        "sentence1": "U.S. Highway 20 (US 20) is an east--west United States highway that stretches from the Pacific Northwest all the way to New England. The ``0'' in its route number indicates that US 20 is a coast-to-coast route. Spanning 3,365 miles (5,415 km), it is the longest road in the United States, and particularly from Idaho to Massachusetts, the route roughly parallels that of Interstate 90 (I-90), which is in turn the longest Interstate Highway in the U.S. There is a discontinuity in the official designation of US 20 through Yellowstone National Park, with unnumbered roads used to traverse the park.",
+        "QuestionID": "1",
+        "sentence2": "is there an interstate that goes west to east",
+        "label": "yes",
+        "explanation": "U.S. Highway 20 (US 20) is an east--west United States interstate highway which also goes west to east."
+    },
+    {
+        "PassageID": "2_5",
+        "sentence1": "U.S. Highway 20 (US 20) is an east--west United States highway that stretches from the Pacific Northwest all the way to New England. The ``0'' in its route number indicates that US 20 is a coast-to-coast route. Spanning 3,365 miles (5,415 km), it is the longest road in the United States, and particularly from Idaho to Massachusetts, the route roughly parallels that of Interstate 90 (I-90), which is in turn the longest Interstate Highway in the U.S. There is a discontinuity in the official designation of US 20 through Yellowstone National Park, with unnumbered roads used to traverse the park.",
+        "QuestionID": "2",
+        "sentence2": "is there a highway that goes west to east",
+        "label": "yes",
+        "explanation": "U.S. Highway 20 (US 20) is an east--west United States highway which also goes west to east."
+    },
+    {
+        "PassageID": "2_5",
+        "sentence1": "U.S. Highway 20 (US 20) is an east--west United States highway that stretches from the Pacific Northwest all the way to New England. The ``0'' in its route number indicates that US 20 is a coast-to-coast route. Spanning 3,365 miles (5,415 km), it is the longest road in the United States, and particularly from Idaho to Massachusetts, the route roughly parallels that of Interstate 90 (I-90), which is in turn the longest Interstate Highway in the U.S. There is a discontinuity in the official designation of US 20 through Yellowstone National Park, with unnumbered roads used to traverse the park.",
+        "QuestionID": "3",
+        "sentence2": "is there a highway with discontinuity because of a national park",
+        "label": "yes",
+        "explanation": "There is a discontinuity in the official designation of US 20, a highway, through Yellowstone National Park."
+    },
+    {
+        "PassageID": "2_6",
+        "sentence1": "Conscription in the United States, commonly known as the draft, has been employed by the federal government of the United States in five conflicts: the American Revolution, the American Civil War, World War I, World War II, and the Cold War (including both the Korean War and the Vietnam War). The third incarnation of the draft came into being in 1940 through the Selective Training and Service Act. It was the country's first peacetime draft. From 1940 until 1973, during both peacetime and periods of conflict, men were drafted to fill vacancies in the United States Armed Forces that could not be filled through voluntary means. The draft came to an end when the United States Armed Forces moved to an all-volunteer military force. However, the Selective Service System remains in place as a contingency plan; all male civilians between the ages of 18 and 25 are required to register so that a draft can be readily resumed if needed. United States Federal Law also provides for the compulsory conscription of men between the ages of 17 and 45 and certain women for militia service pursuant to Article I, Section 8 of the United States Constitution and 10 U.S. Code \u00a7 246.",
+        "QuestionID": "0",
+        "sentence2": "was there a draft in the revolutionary war",
+        "label": "yes",
+        "explanation": "The draft was employed in five conflicts, one of which was the American Revolution."
+    },
+    {
+        "PassageID": "2_6",
+        "sentence1": "Conscription in the United States, commonly known as the draft, has been employed by the federal government of the United States in five conflicts: the American Revolution, the American Civil War, World War I, World War II, and the Cold War (including both the Korean War and the Vietnam War). The third incarnation of the draft came into being in 1940 through the Selective Training and Service Act. It was the country's first peacetime draft. From 1940 until 1973, during both peacetime and periods of conflict, men were drafted to fill vacancies in the United States Armed Forces that could not be filled through voluntary means. The draft came to an end when the United States Armed Forces moved to an all-volunteer military force. However, the Selective Service System remains in place as a contingency plan; all male civilians between the ages of 18 and 25 are required to register so that a draft can be readily resumed if needed. United States Federal Law also provides for the compulsory conscription of men between the ages of 17 and 45 and certain women for militia service pursuant to Article I, Section 8 of the United States Constitution and 10 U.S. Code \u00a7 246.",
+        "QuestionID": "1",
+        "sentence2": "is the draft system still in place",
+        "label": "yes",
+        "explanation": "The draft remains in place as a contingency plan."
+    },
+    {
+        "PassageID": "2_6",
+        "sentence1": "Conscription in the United States, commonly known as the draft, has been employed by the federal government of the United States in five conflicts: the American Revolution, the American Civil War, World War I, World War II, and the Cold War (including both the Korean War and the Vietnam War). The third incarnation of the draft came into being in 1940 through the Selective Training and Service Act. It was the country's first peacetime draft. From 1940 until 1973, during both peacetime and periods of conflict, men were drafted to fill vacancies in the United States Armed Forces that could not be filled through voluntary means. The draft came to an end when the United States Armed Forces moved to an all-volunteer military force. However, the Selective Service System remains in place as a contingency plan; all male civilians between the ages of 18 and 25 are required to register so that a draft can be readily resumed if needed. United States Federal Law also provides for the compulsory conscription of men between the ages of 17 and 45 and certain women for militia service pursuant to Article I, Section 8 of the United States Constitution and 10 U.S. Code \u00a7 246.",
+        "QuestionID": "2",
+        "sentence2": "was there a draft during either of the World Wars",
+        "label": "yes",
+        "explanation": "The draft was employed in five conflicts, two of which were the World Wars."
+    },
+    {
+        "PassageID": "2_6",
+        "sentence1": "Conscription in the United States, commonly known as the draft, has been employed by the federal government of the United States in five conflicts: the American Revolution, the American Civil War, World War I, World War II, and the Cold War (including both the Korean War and the Vietnam War). The third incarnation of the draft came into being in 1940 through the Selective Training and Service Act. It was the country's first peacetime draft. From 1940 until 1973, during both peacetime and periods of conflict, men were drafted to fill vacancies in the United States Armed Forces that could not be filled through voluntary means. The draft came to an end when the United States Armed Forces moved to an all-volunteer military force. However, the Selective Service System remains in place as a contingency plan; all male civilians between the ages of 18 and 25 are required to register so that a draft can be readily resumed if needed. United States Federal Law also provides for the compulsory conscription of men between the ages of 17 and 45 and certain women for militia service pursuant to Article I, Section 8 of the United States Constitution and 10 U.S. Code \u00a7 246.",
+        "QuestionID": "3",
+        "sentence2": "was draft limited to only the revolutionary war",
+        "label": "no",
+        "explanation": "The draft has been employed in four other conflicts besides the revolutionary war."
+    },
+    {
+        "PassageID": "2_6",
+        "sentence1": "Conscription in the United States, commonly known as the draft, has been employed by the federal government of the United States in five conflicts: the American Revolution, the American Civil War, World War I, World War II, and the Cold War (including both the Korean War and the Vietnam War). The third incarnation of the draft came into being in 1940 through the Selective Training and Service Act. It was the country's first peacetime draft. From 1940 until 1973, during both peacetime and periods of conflict, men were drafted to fill vacancies in the United States Armed Forces that could not be filled through voluntary means. The draft came to an end when the United States Armed Forces moved to an all-volunteer military force. However, the Selective Service System remains in place as a contingency plan; all male civilians between the ages of 18 and 25 are required to register so that a draft can be readily resumed if needed. United States Federal Law also provides for the compulsory conscription of men between the ages of 17 and 45 and certain women for militia service pursuant to Article I, Section 8 of the United States Constitution and 10 U.S. Code \u00a7 246.",
+        "QuestionID": "4",
+        "sentence2": "was there a draft in the Vietnam war",
+        "label": "yes",
+        "explanation": "The draft was employed in five conflicts including the Vietnam War."
+    },
+    {
+        "PassageID": "2_6",
+        "sentence1": "Conscription in the United States, commonly known as the draft, has been employed by the federal government of the United States in five conflicts: the American Revolution, the American Civil War, World War I, World War II, and the Cold War (including both the Korean War and the Vietnam War). The third incarnation of the draft came into being in 1940 through the Selective Training and Service Act. It was the country's first peacetime draft. From 1940 until 1973, during both peacetime and periods of conflict, men were drafted to fill vacancies in the United States Armed Forces that could not be filled through voluntary means. The draft came to an end when the United States Armed Forces moved to an all-volunteer military force. However, the Selective Service System remains in place as a contingency plan; all male civilians between the ages of 18 and 25 are required to register so that a draft can be readily resumed if needed. United States Federal Law also provides for the compulsory conscription of men between the ages of 17 and 45 and certain women for militia service pursuant to Article I, Section 8 of the United States Constitution and 10 U.S. Code \u00a7 246.",
+        "QuestionID": "5",
+        "sentence2": "was there a draft in the Iraq war",
+        "label": "no",
+        "explanation": "The draft has been employed in five conflicts; the Iraq war was not one among the five conflicts."
+    },
+    {
+        "PassageID": "2_6",
+        "sentence1": "Conscription in the United States, commonly known as the draft, has been employed by the federal government of the United States in five conflicts: the American Revolution, the American Civil War, World War I, World War II, and the Cold War (including both the Korean War and the Vietnam War). The third incarnation of the draft came into being in 1940 through the Selective Training and Service Act. It was the country's first peacetime draft. From 1940 until 1973, during both peacetime and periods of conflict, men were drafted to fill vacancies in the United States Armed Forces that could not be filled through voluntary means. The draft came to an end when the United States Armed Forces moved to an all-volunteer military force. However, the Selective Service System remains in place as a contingency plan; all male civilians between the ages of 18 and 25 are required to register so that a draft can be readily resumed if needed. United States Federal Law also provides for the compulsory conscription of men between the ages of 17 and 45 and certain women for militia service pursuant to Article I, Section 8 of the United States Constitution and 10 U.S. Code \u00a7 246.",
+        "QuestionID": "6",
+        "sentence2": "was there a draft in during the peacetime",
+        "label": "yes",
+        "explanation": "The third incarnation of the draft in 1940 was a peacetime draft."
+    },
+    {
+        "PassageID": "2_7",
+        "sentence1": "The new locks opened for commercial traffic on 26 June 2016, and the first ship to cross the canal using the third set of locks was a modern New Panamax vessel, the Chinese-owned container ship Cosco Shipping Panama. The original locks, now over 100 years old, allow engineers greater access for maintenance, and are projected to continue operating indefinitely.",
+        "QuestionID": "0",
+        "sentence2": "is the old panama canal still in use",
+        "label": "yes",
+        "explanation": "The original locks are used for maintenance today."
+    },
+    {
+        "PassageID": "2_7",
+        "sentence1": "The new locks opened for commercial traffic on 26 June 2016, and the first ship to cross the canal using the third set of locks was a modern New Panamax vessel, the Chinese-owned container ship Cosco Shipping Panama. The original locks, now over 100 years old, allow engineers greater access for maintenance, and are projected to continue operating indefinitely.",
+        "QuestionID": "1",
+        "sentence2": "is the old panama canal lock still in use",
+        "label": "yes",
+        "explanation": "The original locks are used for maintenance today."
+    },
+    {
+        "PassageID": "2_7",
+        "sentence1": "The new locks opened for commercial traffic on 26 June 2016, and the first ship to cross the canal using the third set of locks was a modern New Panamax vessel, the Chinese-owned container ship Cosco Shipping Panama. The original locks, now over 100 years old, allow engineers greater access for maintenance, and are projected to continue operating indefinitely.",
+        "QuestionID": "2",
+        "sentence2": "is the old panama canal lock in use",
+        "label": "yes",
+        "explanation": "The original locks are used for maintenance today."
+    },
+    {
+        "PassageID": "2_7",
+        "sentence1": "The new locks opened for commercial traffic on 26 June 2016, and the first ship to cross the canal using the third set of locks was a modern New Panamax vessel, the Chinese-owned container ship Cosco Shipping Panama. The original locks, now over 100 years old, allow engineers greater access for maintenance, and are projected to continue operating indefinitely.",
+        "QuestionID": "3",
+        "sentence2": "is there new panama canal locks opened",
+        "label": "yes",
+        "explanation": "The new locks opened for commercial traffic in 2016."
+    },
+    {
+        "PassageID": "2_7",
+        "sentence1": "The new locks opened for commercial traffic on 26 June 2016, and the first ship to cross the canal using the third set of locks was a modern New Panamax vessel, the Chinese-owned container ship Cosco Shipping Panama. The original locks, now over 100 years old, allow engineers greater access for maintenance, and are projected to continue operating indefinitely.",
+        "QuestionID": "4",
+        "sentence2": "is the old panama canal lock expected to retire soon",
+        "label": "no",
+        "explanation": "The original locks are projected to continue operating indefinitely."
+    },
+    {
+        "PassageID": "2_7",
+        "sentence1": "The new locks opened for commercial traffic on 26 June 2016, and the first ship to cross the canal using the third set of locks was a modern New Panamax vessel, the Chinese-owned container ship Cosco Shipping Panama. The original locks, now over 100 years old, allow engineers greater access for maintenance, and are projected to continue operating indefinitely.",
+        "QuestionID": "5",
+        "sentence2": "is the old panama canal lock over 100 years old",
+        "label": "yes",
+        "explanation": "The original locks are now over 100 years old."
+    },
+    {
+        "PassageID": "2_7",
+        "sentence1": "The new locks opened for commercial traffic on 26 June 2016, and the first ship to cross the canal using the third set of locks was a modern New Panamax vessel, the Chinese-owned container ship Cosco Shipping Panama. The original locks, now over 100 years old, allow engineers greater access for maintenance, and are projected to continue operating indefinitely.",
+        "QuestionID": "6",
+        "sentence2": "is the new panama canal lock over 100 years old",
+        "label": "no",
+        "explanation": "The new locks opened for commercial traffic on 26 June 2016. In 2022, they\u2019d only be 6 years old."
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "India has never participated in the FIFA World Cup, although the team did qualify by default for the 1950 World Cup after all the other nations in their qualification group withdrew. However, India withdrew prior to the beginning of the tournament. The team has also appeared three times in the Asia's top football competition, the AFC Asian Cup. Their best result in the competition occurred in 1964 when the team finished as runners-up. India also participate in the SAFF Championship, the top regional football competition in South Asia. They have won the tournament six times since it began in 1993.",
+        "QuestionID": "0",
+        "sentence2": "did indian football team qualified for fifa 2018",
+        "label": "no",
+        "explanation": "India has never participated in the FIFA World Cup. Only qualified teams can participate in FIFA."
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "India has never participated in the FIFA World Cup, although the team did qualify by default for the 1950 World Cup after all the other nations in their qualification group withdrew. However, India withdrew prior to the beginning of the tournament. The team has also appeared three times in the Asia's top football competition, the AFC Asian Cup. Their best result in the competition occurred in 1964 when the team finished as runners-up. India also participate in the SAFF Championship, the top regional football competition in South Asia. They have won the tournament six times since it began in 1993.",
+        "QuestionID": "1",
+        "sentence2": "did indian football team qualify for the FIFA 2018",
+        "label": "no",
+        "explanation": "India has never participated in the FIFA World Cup. Only qualified teams can participate in FIFA."
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "India has never participated in the FIFA World Cup, although the team did qualify by default for the 1950 World Cup after all the other nations in their qualification group withdrew. However, India withdrew prior to the beginning of the tournament. The team has also appeared three times in the Asia's top football competition, the AFC Asian Cup. Their best result in the competition occurred in 1964 when the team finished as runners-up. India also participate in the SAFF Championship, the top regional football competition in South Asia. They have won the tournament six times since it began in 1993.",
+        "QuestionID": "2",
+        "sentence2": "did indian football team qualify for the FIFA World Cup 1964",
+        "label": "no",
+        "explanation": "India has never participated in the FIFA World Cup. Only qualified teams can participate in FIFA."
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "India has never participated in the FIFA World Cup, although the team did qualify by default for the 1950 World Cup after all the other nations in their qualification group withdrew. However, India withdrew prior to the beginning of the tournament. The team has also appeared three times in the Asia's top football competition, the AFC Asian Cup. Their best result in the competition occurred in 1964 when the team finished as runners-up. India also participate in the SAFF Championship, the top regional football competition in South Asia. They have won the tournament six times since it began in 1993.",
+        "QuestionID": "3",
+        "sentence2": "did indian football team qualify for the AFC Asian Cup 1964",
+        "label": "yes",
+        "explanation": "The Indian football team finished as runners-up in AFC Asian Cup 1964. Since they played the finals, they must have qualified."
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "India has never participated in the FIFA World Cup, although the team did qualify by default for the 1950 World Cup after all the other nations in their qualification group withdrew. However, India withdrew prior to the beginning of the tournament. The team has also appeared three times in the Asia's top football competition, the AFC Asian Cup. Their best result in the competition occurred in 1964 when the team finished as runners-up. India also participate in the SAFF Championship, the top regional football competition in South Asia. They have won the tournament six times since it began in 1993.",
+        "QuestionID": "4",
+        "sentence2": "did indian football team participate in FIFA World Cup 1950",
+        "label": "no",
+        "explanation": "India withdrew prior to the beginning of the tournament."
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "India has never participated in the FIFA World Cup, although the team did qualify by default for the 1950 World Cup after all the other nations in their qualification group withdrew. However, India withdrew prior to the beginning of the tournament. The team has also appeared three times in the Asia's top football competition, the AFC Asian Cup. Their best result in the competition occurred in 1964 when the team finished as runners-up. India also participate in the SAFF Championship, the top regional football competition in South Asia. They have won the tournament six times since it began in 1993.",
+        "QuestionID": "5",
+        "sentence2": "did indian football team qualify for FIFA World Cup 1993",
+        "label": "no",
+        "explanation": "India has never participated in the FIFA World Cup. Only qualified teams can participate in FIFA."
+    }
+]

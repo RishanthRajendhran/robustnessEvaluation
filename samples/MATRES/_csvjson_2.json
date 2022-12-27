@@ -1,0 +1,92 @@
+[
+    {
+        "": 7218,
+        "_unit_id": 1702137713,
+        "bodygraph": "<p>Senator Kirsten E. Gillibrand , Democrat of New York , and Senator Susan Collins , Republican of Maine , led the repeal in the Senate of \" do n't ask , do n't tell \" in 2010 , allowing gay men and women to serve openly in the military . </p><p>This year , all four of the female Senate Republicans <span style='color:red;'><strong>split </strong></span>with their party and <span style='color:blue;'><strong>voted </strong></span>with Senate Democrats to reauthorize the Violence Against Women Act , which had lapsed during the last Congress . </p>",
+        "docid": "nyt_20130321_women_senate",
+        "decision": "before",
+        "modified bodygraph": "<p>This year , all four of the female Senate Republicans will <span style='color:red;'><strong>split </strong></span>with their party and <span style='color:blue;'><strong>vote </strong></span>with Senate Democrats to reauthorize the Violence Against Women Act , which had lapsed during the last Congress . </p>",
+        "new decision": "before",
+        "reason": "tense"
+    },
+    {
+        "": 6469,
+        "_unit_id": 1702136960,
+        "bodygraph": "<p>Raymond Roth , 48 , of Massapequa , New York , was first reported missing in the waters off Jones Beach late last July by his 22-year-old son , Jonathan Roth . </p><p>Several days into an extensive search involving multiple agencies , New York State Park Police said , authorities learned the missing man was in South Carolina , where he had been <span style='color:red;'><strong>pulled </strong></span>over for <span style='color:blue;'><strong>speeding </strong></span>. </p>",
+        "docid": "CNN_20130322_1003",
+        "decision": "after",
+        "modified bodygraph": "<p>Several days into an extensive search involving multiple agencies , New York State Park Police said , authorities learned the missing man was in South Carolina , where he had been <span style='color:red;'><strong>pulled </strong></span>over before <span style='color:blue;'><strong>speeding </strong></span> again. </p>",
+        "new decision": "before",
+        "reason": "indicator"
+    },
+    {
+        "": 6876,
+        "_unit_id": 1702137369,
+        "bodygraph": "<p>The activists said the troops had opened fire as soon as they boarded the vessel , which was in international waters at the time . </p><p>The incident provoked an international outcry and <span style='color:red;'><strong>led </strong></span>to a major deterioration in relations between Turkey and Israel . </p><p>Before <span style='color:blue;'><strong>departing </strong></span>for Jordan on Friday afternoon , Mr Obama revealed that Mr Netanyahu and Mr Erdogan had just spoken by telephone . </p>",
+        "docid": "bbc_20130322_1353",
+        "decision": "before",
+        "modified bodygraph": "<p>The activists said the troops had opened fire as soon as they boarded the vessel , which was in international waters at the time . </p><p>The incident provoked an international outcry and <span style='color:red;'><strong>led </strong></span>to a major deterioration in relations between Turkey and Israel . </p><p>After <span style='color:blue;'><strong>departing </strong></span>for Jordan on Friday afternoon , Mr Obama revealed that Mr Netanyahu and Mr Erdogan had just spoken by telephone . </p>",
+        "new decision": "before",
+        "reason": "indicator"
+    },
+    {
+        "": 6775,
+        "_unit_id": 1702137266,
+        "bodygraph": "<p>\" There was a great feeling of euphoria from everyone . </p><p>It <span style='color:red;'><strong>had </strong></span>a multiplying effect . </p><p>\" We were <span style='color:blue;'><strong>pleased </strong></span>that England and New Zealand knew about it , and we thought that 's where it would stop . \" </p>",
+        "docid": "bbc_20130322_1150",
+        "decision": "before",
+        "modified bodygraph": "<p>\" We were <span style='color:blue;'><strong>pleased </strong></span>that England and New Zealand knew about it , and we thought that 's where it would stop . \" </p><p>It will <span style='color:red;'><strong>have </strong></span>a multiplying effect . </p>",
+        "new decision": "before",
+        "reason": "tense, appearance order"
+    },
+    {
+        "": 6742,
+        "_unit_id": 1702137233,
+        "bodygraph": "<p>Many consumers will be getting more generous plans because of new requirements in the law . </p><p>The effects of the law will vary widely , and insurers and other analysts <span style='color:red;'><strong>agree </strong></span>that some consumers and small businesses will likely see premiums go down . </p><p>Starting next year , the law will block insurers from refusing to sell coverage or setting premiums based on people 's health histories , and will <span style='color:blue;'><strong>reduce </strong></span>their ability to set rates based on age . </p>",
+        "docid": "WSJ_20130322_804",
+        "decision": "before",
+        "modified bodygraph": "<p>Starting next year , the law will block insurers from refusing to sell coverage or setting premiums based on people 's health histories , and will <span style='color:blue;'><strong>reduce </strong></span>their ability to set rates based on age . </p><p>The effects of the law will vary widely , and insurers and other analysts <span style='color:red;'><strong>agree </strong></span>that some consumers and small businesses will likely see premiums go down . </p>",
+        "new decision": "after",
+        "reason": "appearance order"
+    },
+    {
+        "": 7165,
+        "_unit_id": 1702137659,
+        "bodygraph": "<p>Senator Patty Murray , a Washington Democrat , is the first chairwoman of the Budget Committee and is charged with shaping the Democratic strategy in the fiscal battle dominating Capitol Hill . </p><p>One of the biggest bills to <span style='color:red;'><strong>pass </strong></span>the Senate last year was farm legislation led by Senator Debbie Stabenow , a Michigan Democrat who <span style='color:blue;'><strong>presides </strong></span>over the agriculture committee . </p>",
+        "docid": "nyt_20130321_women_senate",
+        "decision": "after",
+        "modified bodygraph": "<p>One of the biggest bills to <span style='color:red;'><strong>pass </strong></span>the Senate last year was farm legislation led by Senator Debbie Stabenow , a Michigan Democrat who <span style='color:blue;'><strong>presides </strong></span>over the agriculture committee . </p> <p>Senator Patty Murray , a Washington Democrat , is the first chairwoman of the Budget Committee and is charged with shaping the Democratic strategy in the fiscal battle dominating Capitol Hill . </p>",
+        "new decision": "after",
+        "reason": ""
+    },
+    {
+        "": 7172,
+        "_unit_id": 1702137666,
+        "bodygraph": "<p>Senator Barbara Boxer , the California Democrat who is chairwoman of the Environment and Public Works Committee , shepherded the highway bill . </p><p>\" We are <span style='color:red;'><strong>growing </strong></span>in number , \" <span style='color:blue;'><strong>said </strong></span>Senator Amy Klobuchar , Democrat of Minnesota . </p>",
+        "docid": "nyt_20130321_women_senate",
+        "decision": "before",
+        "modified bodygraph": "<p>\" We will <span style='color:red;'><strong>grow </strong></span>in number , \" <span style='color:blue;'><strong>said </strong></span>Senator Amy Klobuchar , Democrat of Minnesota . </p>",
+        "new decision": "after",
+        "reason": "tense"
+    },
+    {
+        "": 6775,
+        "_unit_id": 1702137266,
+        "bodygraph": "<p>\" There was a great feeling of euphoria from everyone . </p><p>It <span style='color:red;'><strong>had </strong></span>a multiplying effect . </p><p>\" We were <span style='color:blue;'><strong>pleased </strong></span>that England and New Zealand knew about it , and we thought that 's where it would stop . \" </p>",
+        "docid": "bbc_20130322_1150",
+        "decision": "before",
+        "modified bodygraph": "<p>It will <span style='color:red;'><strong>have </strong></span>a multiplying effect . </p><p>\" We were <span style='color:blue;'><strong>pleased </strong></span>that England and New Zealand knew about it , and we thought that 's where it would stop . \" </p>",
+        "new decision": "after",
+        "reason": "tense"
+    },
+    {
+        "": 6874,
+        "_unit_id": 1702137367,
+        "bodygraph": "<p>The activists said the troops had opened fire as soon as they boarded the vessel , which was in international waters at the time . </p><p>The incident <span style='color:red;'><strong>provoked </strong></span>an international outcry and led to a major deterioration in relations between Turkey and Israel . </p><p>Before departing for Jordan on Friday afternoon , Mr Obama <span style='color:blue;'><strong>revealed </strong></span>that Mr Netanyahu and Mr Erdogan had just spoken by telephone . </p>",
+        "docid": "bbc_20130322_1353",
+        "decision": "before",
+        "modified bodygraph": "<p>The activists said the troops had opened fire as soon as they boarded the vessel , which was in international waters at the time . </p><p>Before departing for Jordan on Friday afternoon , Mr Obama <span style='color:blue;'><strong>revealed </strong></span>that Mr Netanyahu and Mr Erdogan had just spoken by telephone . </p> <p>The incident <span style='color:red;'><strong>provoked </strong></span>an international outcry and led to a major deterioration in relations between Turkey and Israel . </p>",
+        "new decision": "after",
+        "reason": ""
+    }
+]

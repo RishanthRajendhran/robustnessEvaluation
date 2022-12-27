@@ -1,0 +1,74 @@
+[
+    {
+        "sentence": "One image shows the front of a white house with bold dark lines on it forming geometric patterns and a thick gray roof with multiple notches for windows, and the other image also features a gray roof that curves around windows.",
+        "left_url": "https://live.staticflickr.com/5231/5882543944_175983b78f_b.jpg",
+        "right_url": "https://i.pinimg.com/736x/54/7a/d5/547ad52de6072f3d1cbc8bdc2c3c2cec--english-cottages-country-cottages.jpg",
+        "identifier": "test1-394-3-1-1",
+        "writer": 4,
+        "label": true
+    },
+    {
+        "sentence": "One image shows a standing dog with its body turned rightward, and the other image features a dog with its front paws flat on a surface in front of its body.",
+        "left_url": "https://i.ytimg.com/vi/u4EH4w5w5ZQ/hqdefault.jpg",
+        "right_url": "https://whatbreedisit.com/wp-content/uploads/2015/08/Border-Terrier.jpg",
+        "identifier": "test1-529-1-0-0",
+        "writer": 2,
+        "label": false
+    },
+    {
+        "sentence": "There is a single lipstick with a red tube.",
+        "left_url": "https://i.pinimg.com/736x/70/ea/cd/70eacd97f6cd7aae03adb745775ae787--isabelle-chanel-makeup.jpg",
+        "right_url": "http://3.bp.blogspot.com/-3f1OFkxYSNU/UhcDNHqX49I/AAAAAAAAEI4/aIER6Pl7dTw/s1600/GiorgioArmaniRougeEcstasyLipstickReview.jpg",
+        "identifier": "test1-48-1-1-0",
+        "writer": 3,
+        "label": false
+    },
+    {
+        "sentence": "There are three monkeys all together.",
+        "left_url": "http://i.dailymail.co.uk/i/pix/2017/08/01/09/42DDD0A200000578-0-image-a-18_1501575374733.jpg",
+        "right_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Three_chimpanzees_with_apple.jpg",
+        "identifier": "test1-90-2-0-2",
+        "writer": 0,
+        "label": true
+    },
+    {
+        "sentence": "There are two hands with gloves on them.",
+        "left_url": "https://ae01.alicdn.com/kf/HTB1n_1oSVXXXXXsXpXXq6xXFXXXb/Amaizng-Fashion-Winter-Knitted-Faux-Fur-Fingerless-Gloves-Women-Wrist-Soft-Warm-Mitten-Free-Shipping.jpg",
+        "right_url": "https://c.pxhere.com/photos/98/80/glove_gloves_wool_hand_mitten_knit_pair-1359454.jpg!d",
+        "identifier": "test1-1035-2-1-1",
+        "writer": 1,
+        "label": true
+    },
+    {
+        "sentence": "The dog on the left is standing in the snow.",
+        "left_url": "https://live.staticflickr.com/151/373977717_f09e42adf5_b.jpg",
+        "right_url": "https://lh3.googleusercontent.com/MO5enTASW_Z9-QXxu9mIE2j9zBR-6t7QazoN9EpfG_PWWQs3mBe_46mlLbrZ9jH3sw=h310",
+        "identifier": "test1-739-1-1-1",
+        "writer": 4,
+        "label": false
+    },
+    {
+        "sentence": "The dumbbells in the image on the right are all have the same color.",
+        "left_url": "https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/0PQAAOSwsGdapDfo/$_86.JPG",
+        "right_url": "http://4.bp.blogspot.com/-rgZMZEbbOs0/VFYLCT5kXnI/AAAAAAAAFwM/BHED9x2TGwQ/s1600/Picture%2BTemplate.jpg",
+        "identifier": "test1-581-2-1-1",
+        "writer": 1,
+        "label": true
+    },
+    {
+        "sentence": "There are no dinosaur shaped balloons inside a living area.",
+        "left_url": "https://78.media.tumblr.com/00d99c125d9822fd31535b7e831551a1/tumblr_oimk8yrB4F1vk6ge9o1_500.jpg",
+        "right_url": "https://78.media.tumblr.com/e58f620de3d9378e69f89ada4caaead8/tumblr_inline_nq7rbwG5NK1ruabjn_540.jpg",
+        "identifier": "test1-1004-0-1-1",
+        "writer": 0,
+        "label": false
+    },
+    {
+        "sentence": "There are less than a dozen pictures of women with lipstick.",
+        "left_url": "http://thebeautylookbook.com/wp-content/uploads/2017/07/YSL-Nude-Lip-Set-SWATCHES-Nordstrom-Anniversary-1440x1036.jpg",
+        "right_url": "https://2.bp.blogspot.com/-EkwO8Hnk_e8/VtS8M-HsOHI/AAAAAAAALqU/nz_oQtU4JJ8/s1600/6.jpg",
+        "identifier": "test1-1010-1-0-2",
+        "writer": 0,
+        "label": true
+    }
+]

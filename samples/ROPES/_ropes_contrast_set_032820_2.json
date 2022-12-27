@@ -1,0 +1,137 @@
+[
+    {
+        "background": "It would be very unadvisable to place a can of soup over a campfire without venting the can. As the can heats up, it may explode. The kinetic-molecular theory explains why. The air inside the rigid can of soup is has less kinetic energy as it is absorbed by the heat coming from the campfire. The kinetic energy causes the air molecules outside to move faster and they impact the container walls more frequently and with more force. The decrease in pressure inside may eventually exceed the strength of the can and it will collapse. An additional factor is that the soup may begin boiling which will then aid even more gas and more pressure to the inside of the can.",
+        "situation": "Beth grabbed her container of chili from he fridge and tossed in the microwave for 4 minutes. However, she forgot to vent the lid and after several minutes the dish exploded spraying chili all over the inside of the microwave.",
+        "qas": [
+            {
+                "question": "Did the kinetic energy of the liqued increase or decrease?",
+                "id": "1400917833",
+                "answers": [
+                    {
+                        "text": "decrease"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "When you add sugar to a hot drink, you may stir it to protect the sugar from dissolving. If you stir, the sugar may eventually dissolve, but it will take much longer. Stirring is one of several factors that affect how slow a solute dissolves in a solvent. Temperature is another factor. A solid solute dissolves faster at a lower temperature. For example, sugar dissolves slower in hot tea than in ice tea. A third factor that affects the rate of dissolving is the surface area of the solute. For example, if you put granulated sugar in a glass of ice tea, it will dissolve more slowly than the same amount of sugar in a cube. That's because granulated sugar has much less surface area than a cube of sugar. You can see videos of all three factors at these URLs",
+        "situation": "Sue and Beth both liked tea but Sue liked iced tea while Beth liked hot tea. They both liked their tea with one granulated sugar rather than cubed sugar. Their friend Bath preferred iced tea with one cude sugar.",
+        "qas": [
+            {
+                "question": "Will the sugar cub dissolve faster or slower in the hot tea?",
+                "id": "1136419222",
+                "answers": [
+                    {
+                        "text": "slower"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Some fungi take on different shapes, depending on their environmental conditions. These fungi are called dimorphic fungi, because they have \u201ctwo forms.\u201d For example, the fungus Histoplasma capsulatum , which causes the disease histoplasmosis, is thermally dimorphic; it has two forms that are dependent on temperature. In temperatures of below 25\u00b0C, it grows as a brownish mycelium, and looks like a mass of threads. Above body temperature (37\u00b0C in humans), it grows as single, round yeast cells.",
+        "situation": "Mark had three samples of the same fungus, Histoplasma capsulatum. Sample A had been grown at 10 degrees Celsius, Sample B at 40 degrees Celsius and Sample C at 24 degrees Celsius.",
+        "qas": [
+            {
+                "question": "Did the sample A and sample C look the same or different?",
+                "id": "1719402074",
+                "answers": [
+                    {
+                        "text": "same"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The advantage of asexual reproduction is that it can be very quick and does not require the meeting of a male and female organism. The disadvantage of asexual reproduction is that organisms do not receive a mix of traits from both parents. An organism that is born through asexual reproduction only has the DNA from the one parent. In fact, the offspring is genetically an exact copy of the parent. This can cause problems for the individual. For example, if the parent has a gene that causes a particular disease, the offspring will also have the gene that causes that disease. Organisms produced sexually may or may not inherit the disease gene because they receive a mix of their parents' genes.",
+        "situation": "James is a marine biologist. On a recent deep sea dive, he discovered two new organisms. James took the organisms back to his lab to study them. While in the lab, each organism produced an offspring. Since the organisms were previously undiscovered, James must determine how these organisms reproduce in order to correctly classify them. After examining the DNA of each offspring, James finds that the offspring of organism A shares the exact same DNA as the parent organism and the offspring of organism B does not contain the exact same DNA as the parent organism.",
+        "qas": [
+            {
+                "question": "Did organism B reproduce sexually or asexually?",
+                "id": "668720091",
+                "answers": [
+                    {
+                        "text": "asexually"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Before dealing with the specifics of the rules for determining the significant figures in a calculated result, we need to be able to round numbers correctly. To round a number, first decide how many significant figures the number should have. Once you know that, round to that many digits, starting from the left. If the number immediately to the right of the last significant digit is less than 5, it is dropped and the value of the last significant digit remains the same. If the number immediately to the right of the last significant digit is greater than or equal to 5, the last significant digit is increased by 1.",
+        "situation": "Matt was trying to stick to a budget at the grocery store so he estimated what he was spending as he went along. He grabbed some milk for $3.63 and $4 to his total. When picked up cookies for $2.21 he added $2.2 to his total.",
+        "qas": [
+            {
+                "question": "What was the signifigant number in the milk price?",
+                "id": "3591913191",
+                "answers": [
+                    {
+                        "text": "3.6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Trees can benefit fauna. The most common examples are silvopasture where cattle, goats, or sheep browse on grasses grown under trees. In hot climates, the animals are more stressed and put on weight slower when grazing in a cooler, shaded environment. The leaves of trees or shrubs can also serve as fodder.",
+        "situation": "Wyatt and Earl both own cattle ranches in Texas. Wyatt's ranch is open and sunny with very few trees for shade. Earl's ranch has a mix of open, sunny areas as well as areas with a lot of trees and shade. ",
+        "qas": [
+            {
+                "question": "Will Earl's cattle gain weight faster or slower than Wyatt's's cattle?",
+                "id": "1225183442",
+                "answers": [
+                    {
+                        "text": "slower"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The epidermis also contains melanocytes, which are cells that produce melanin. Melanin is the brownish pigment that gives skin much of its color. Everyone has about the same number of melanocytes, but the melanocytes of people with darker skin produce more melanin. The amount of melanin produced is determined by heredity and exposure to UV light, which increases melanin output. Exposure to UV light also stimulates the skin to produce vitamin D. Because melanin blocks UV light from penetrating the skin, people with darker skin may be at greater risk of vitamin D deficiency.",
+        "situation": "Lily and Ivy are biological sisters. Due to genetics, Lily has much darker skin than Ivy, who is fairly light complected.",
+        "qas": [
+            {
+                "question": "Whose skin produces more melanin, Lily or Ivy?",
+                "id": "1674973276",
+                "answers": [
+                    {
+                        "text": "Lily"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Like water in the ocean, air in the atmosphere exerts pressure that decreases with depth. Most gas molecules in the atmosphere are pulled close to Earth\u00e2\u20ac\u2122s surface by gravity. As a result, air pressure increases quickly at lower altitudes and then more slowly at higher altitudes. This is illustrated in Figure below . Air pressure is smallest at sea level, where the depth of the atmosphere is greatest. At higher altitudes, the pressure is greater because the depth of the atmosphere is less. For example, on top of Mount Everest, the tallest mountain on Earth, air pressure is almost three times that of the pressure at sea level. At such high altitudes, high air pressure makes it hard to breathe and is dangerous to human health.",
+        "situation": "Beth was having a great time at the ski resort but after a day of skiing on the mountains but she head a headache now and was feeling light headed. Maybe she would feel better when they went to the village in the valley tomorrow.",
+        "qas": [
+            {
+                "question": "was the air pressure higher on the mountain or in the valley?",
+                "id": "2808115729",
+                "answers": [
+                    {
+                        "text": "on the mountain"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Some fungi take on different shapes, depending on their environmental conditions. These fungi are called dimorphic fungi, because they have \u201ctwo forms.\u201d For example, the fungus Histoplasma capsulatum , which causes the disease histoplasmosis, is thermally dimorphic; it has two forms that are dependent on temperature. In temperatures of below 25\u00b0C, it grows as a brownish mycelium, and looks like a mass of threads. Above body temperature (37\u00b0C in humans), it grows as single, round yeast cells.",
+        "situation": "Mark had three samples of the same fungus, Histoplasma capsulatum. Sample A had been grown at 10 degrees Celsius, Sample B at 40 degrees Celsius and Sample C at 24 degrees Celsius.",
+        "qas": [
+            {
+                "question": "Which sample will change its shape to be single, round yeast cell by increasing temperatures of 20 degrees?",
+                "id": "3643930337",
+                "answers": [
+                    {
+                        "text": "Sample C"
+                    }
+                ]
+            }
+        ]
+    }
+]

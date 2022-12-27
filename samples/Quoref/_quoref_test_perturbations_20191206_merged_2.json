@@ -1,0 +1,1166 @@
+[
+    {
+        "context": "In 1968, Frank Lucas is the right-hand man of Harlem gangster Ellsworth \"Bumpy\" Johnson. When Johnson dies of a heart attack, Lucas takes control of the Harlem crime scene.\nAfter handing in almost $1 million that he found in a mobster's car, Newark detective Richie Roberts is ostracized in his precinct. After his exiled and addicted partner overdoses on a potent brand of  heroin called \"Blue Magic\", Captain Lou Toback puts Roberts in charge of a task force  that targets local suppliers. Lucas buys Blue Magic directly from producers in Thailand and smuggles it into the U.S. through returning Vietnam War servicemen. His low overhead allows him to eventually wholesale Blue Magic to most of the dealers in the New York area. With this monopoly, Lucas expands his control to nightclubs, casinos, and prostitution. He buys a mansion for his mother and recruits his five brothers, including Huey and Turner, as lieutenants to spread his empire. During his rise to becoming Harlem's crime boss, Lucas falls in love with Eva, a Puerto Rican beauty queen.",
+        "qas": [
+            {
+                "question": "What's the full name of the person responsible for the heroin that a cop overdoses on?",
+                "id": "700f63d26e69d437327ed7b2d26425e76f23212f",
+                "answers": [
+                    {
+                        "text": "Frank Lucas",
+                        "answer_start": 9
+                    }
+                ]
+            },
+            {
+                "question": "Who transports to U.S. the heroin a cop overdoeses on?",
+                "id": "5cc67c5b06038f94de9dcfe0ceefab6fe9c0e3aa",
+                "answers": [
+                    {
+                        "text": "Vietnam War servicemen",
+                        "answer_start": 598
+                    }
+                ],
+                "original_id": "700f63d26e69d437327ed7b2d26425e76f23212f"
+            }
+        ]
+    },
+    {
+        "context": "Lieutenant Jake \"Cool Hand\" Grafton and his bombardier/navigator and best friend Lieutenant Morgan \"Morg\" McPherson are flying a Grumman A-6 Intruder over the Gulf of Tonkin towards North Vietnam. They hit their target, a 'suspected truck park', which actually turns out to be trees. On the return to carrier, Morg is fatally shot in the neck by an armed Vietnamese peasant. Landing on the USS Independence with Morg dead, a disturbed Jake, covered in blood, walks into a debriefing with Commander Frank Camparelli and Executive Officer, Commander \"Cowboy\" Parker. Camparelli tells Jake to put Morgan's death behind him and to write a letter to Sharon, Morg's wife. New pilot Jack Barlow, nicknamed \"Razor\" because of his youthful appearance, is then introduced.\nLieutenant Commander Virgil Cole arrives on board and reports to Camparelli, who later tells Jake's roommate Sammy Lundeen to take Jake, Bob \"Boxman\" Walkawitz and \"Mad Jack\" (Dann Florek) to fly into Subic Bay the next day and help Jake unwind. Jake goes to see Sharon, but she has already departed. He runs into a woman named Callie Troy, who is packing Sharon's things, and they have a small, tense encounter. After an altercation with civilian merchant sailors in the Tailhook Bar, Jake runs into Callie again. After they reconcile, dance and spend the night together, she reveals her husband was a Navy pilot himself and was killed on a solo mission over Vietnam.\nJake returns to the carrier, where Camparelli confronts him regarding the bar incident, and Cole reports in Jake's favor. Cole and Jake are paired on \"Iron Hand\" A-6Bs loaded with Standard and Shrike anti-radiation missiles for SAM suppression. During the mission, after a successful strike, they encounter and manage to evade a North Vietnamese MiG-17.",
+        "qas": [
+            {
+                "question": "What is the first name of the person who reveals their husband was killed on a solo mission over Vietnam?",
+                "id": "d8469ac400bd257ed45e30600ca7f41a9f2d50dd",
+                "answers": [
+                    {
+                        "text": "Callie",
+                        "answer_start": 1264
+                    }
+                ]
+            },
+            {
+                "question": "What are the first names of the people who dance and spend the night together after reconciling?",
+                "id": "c224be27b3323a225412be702e86e0a3427c14b0",
+                "answers": [
+                    {
+                        "text": "Callie",
+                        "answer_start": 1091
+                    },
+                    {
+                        "text": "Jake",
+                        "answer_start": 1249
+                    }
+                ]
+            },
+            {
+                "question": "What are the first names of the people who evade a North Vietnamese MiG-17?",
+                "id": "e6dd52ae6d4bc3d7e40b6533608b1ff8cb13205c",
+                "answers": [
+                    {
+                        "text": "Jake",
+                        "answer_start": 1432
+                    },
+                    {
+                        "text": "Virgil",
+                        "answer_start": 784
+                    }
+                ]
+            },
+            {
+                "question": "What is the full name of the person whose husband was a Navy pilot?",
+                "id": "ccae08635aa2c2786a2f748a0f04199087e3f32d",
+                "answers": [
+                    {
+                        "text": "Callie Troy",
+                        "answer_start": 1091
+                    }
+                ],
+                "original_id": "d8469ac400bd257ed45e30600ca7f41a9f2d50dd"
+            },
+            {
+                "question": "What are the full names of the people who spend a night together before one of them reveals their husband was a Navy pilot?",
+                "id": "76ae21d61f08f69e691c72e0bc1a59289ba74bf5",
+                "answers": [
+                    {
+                        "text": "Jake \"Cool Hand\" Grafton",
+                        "answer_start": 11
+                    },
+                    {
+                        "text": "Callie Troy",
+                        "answer_start": 1091
+                    }
+                ],
+                "original_id": "d8469ac400bd257ed45e30600ca7f41a9f2d50dd"
+            },
+            {
+                "question": "What are the full names of the people who dance and spend the night together?",
+                "id": "c426c82634b305857cdfb87467d22b0b72ffa433",
+                "answers": [
+                    {
+                        "text": "Jake \"Cool Hand\" Grafton",
+                        "answer_start": 11
+                    },
+                    {
+                        "text": "Callie Troy",
+                        "answer_start": 1091
+                    }
+                ],
+                "original_id": "c224be27b3323a225412be702e86e0a3427c14b0"
+            },
+            {
+                "question": "What are the ranks of the people who evade a North Vietnamese MiG-17?",
+                "id": "326fa6c430a9831004fc1168922a8a22503cab74",
+                "answers": [
+                    {
+                        "text": "Lieutenant",
+                        "answer_start": 0
+                    },
+                    {
+                        "text": "Lieutenant Commander",
+                        "answer_start": 763
+                    }
+                ],
+                "original_id": "e6dd52ae6d4bc3d7e40b6533608b1ff8cb13205c"
+            }
+        ]
+    },
+    {
+        "context": "Fur trapper Jean La B\u00eate paddles his canoe through wild water towards the settlement in order to sell a load of furs.\nAt the settlement, a steamboat is landing and the trader and his foster-child Eve arrive at the seaport to fetch mail and consumer goods. The trader explains to Eve that the ship brings \"Jailbirds ... from the east\" and that \"their husbands-to-be had bailed them out and paid their fines and their passages with a guarantee of marriage\". Later, the captain is auctioning off one of those women because her husband-to-be has died in the meantime. Jean La B\u00eate decides to take his chance to buy the wife, but he makes his bid too late.\nTwo Canadian Indians, Yellow Dog and No Name, have told the Trader that La Bete is dead. The Trader, heavily in debt, has spent money he owes La Bete so that when La Bete calls to collect his dues, the trader has to use his own savings, to the fury of his wife.\nNext day, the trader's wife, in the need to compensate for the loss of her savings, seizes the opportunity to offer her foster-child for a thousand dollars to the simple-minded, rough-cut trapper. She praises the qualities of the shy girl and explains, that her inability to speak is caused from the shock she suffered when she had to witness how her parents were barbarously murdered several years ago.\nLa B\u00eate finally agrees to buy the mute girl and takes her against her will into the wilderness of British Columbia. Here the strange couple starts a difficult relationship characterized by mistrust and Eve's fear and dislike of the trapper. Eve vehemently rejects the advances of the gruff trapper. La B\u00eate takes her for hunting and acquaints her with the beauty and the dangers of the wilderness, but here, as well, he fails to win her trust. Eve defends herself from his advances with a knife.",
+        "qas": [
+            {
+                "question": "Who is offered to a trader for a thousand dollars?",
+                "id": "1d9cdecab9a287fb6efdf16a6880c36c9a3f36f5",
+                "answers": [
+                    {
+                        "text": "Eve",
+                        "answer_start": 196
+                    }
+                ]
+            },
+            {
+                "question": "Whose qualities are praised?",
+                "id": "31c0d829cfadfe7a6b80f33d6382e9f8b1459838",
+                "answers": [
+                    {
+                        "text": "Eve",
+                        "answer_start": 196
+                    }
+                ]
+            },
+            {
+                "question": "Who is bought and taken into the wilderness?",
+                "id": "f69529c7c17d1fbf844c591fde6f8a6ffc0c36b2",
+                "answers": [
+                    {
+                        "text": "Eve",
+                        "answer_start": 196
+                    }
+                ]
+            },
+            {
+                "question": "Who is acquainted with the dangers of the wilderness by someone?",
+                "id": "5f06b43dbdb3a8400c33c5d1eda7b8e6d5f56456",
+                "answers": [
+                    {
+                        "text": "Eve",
+                        "answer_start": 196
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person who fails to win someone's trust?",
+                "id": "9ac3abfef889eb6001083e97c8c881e2124fa64b",
+                "answers": [
+                    {
+                        "text": "La B\u00eate",
+                        "answer_start": 1318
+                    }
+                ]
+            },
+            {
+                "question": "What is the full name of the person to whom someone is offered for a thousand dollars?",
+                "id": "8f4855dc1a2effeada9d34e5a37645e1488bccc6",
+                "answers": [
+                    {
+                        "text": "Jean La B\u00eate",
+                        "answer_start": 12
+                    }
+                ],
+                "original_id": "1d9cdecab9a287fb6efdf16a6880c36c9a3f36f5"
+            },
+            {
+                "question": "Who are the strange couple that start a relationship in the wilderness?",
+                "id": "e62e57f26141052260c57dee869f45b2d789f087",
+                "answers": [
+                    {
+                        "text": "Eve",
+                        "answer_start": 196
+                    },
+                    {
+                        "text": "Jean La B\u00eate",
+                        "answer_start": 12
+                    }
+                ],
+                "original_id": "f69529c7c17d1fbf844c591fde6f8a6ffc0c36b2"
+            },
+            {
+                "question": "Where do a strange couple start a relationship?",
+                "id": "bff384b7345b64c2ebbf59fe5c90bf9d3c2831d9",
+                "answers": [
+                    {
+                        "text": "the wilderness of British Columbia",
+                        "answer_start": 1398
+                    }
+                ],
+                "original_id": "f69529c7c17d1fbf844c591fde6f8a6ffc0c36b2"
+            },
+            {
+                "question": "Who praises someone's qualities?",
+                "id": "69545fa0692a3b997d6fd82d6282de2789230fda",
+                "answers": [
+                    {
+                        "text": "the trader's wife",
+                        "answer_start": 924
+                    }
+                ],
+                "original_id": "31c0d829cfadfe7a6b80f33d6382e9f8b1459838"
+            },
+            {
+                "question": "Whose foster child's qualities are praised?",
+                "id": "ed26d250d0a9874c7e334b852e8442576aa39dc0",
+                "answers": [
+                    {
+                        "text": "the trader",
+                        "answer_start": 164
+                    },
+                    {
+                        "text": "the trader's wife",
+                        "answer_start": 924
+                    }
+                ],
+                "original_id": "31c0d829cfadfe7a6b80f33d6382e9f8b1459838"
+            },
+            {
+                "question": "What is the job of the person who fails to win someone's trust?",
+                "id": "8ba4be7af5c38a1855fdc7c083b5f773b58a91ed",
+                "answers": [
+                    {
+                        "text": "Fur trapper",
+                        "answer_start": 0
+                    }
+                ],
+                "original_id": "9ac3abfef889eb6001083e97c8c881e2124fa64b"
+            },
+            {
+                "question": "Whose trust does someone fail to win?",
+                "id": "e683a857de3a01a45fd6a49b06cebf63d3fc4b2a",
+                "answers": [
+                    {
+                        "text": "Eve",
+                        "answer_start": 196
+                    }
+                ],
+                "original_id": "9ac3abfef889eb6001083e97c8c881e2124fa64b"
+            },
+            {
+                "question": "Whose foster-child's trust does someone fail to win?",
+                "id": "7cc416c48897aab4baa001f0064d00a2c3ae0ad3",
+                "answers": [
+                    {
+                        "text": "the trader",
+                        "answer_start": 164
+                    },
+                    {
+                        "text": "the trader's wife",
+                        "answer_start": 924
+                    }
+                ],
+                "original_id": "9ac3abfef889eb6001083e97c8c881e2124fa64b"
+            },
+            {
+                "question": "What is the full name of the person who fails to win someone's trust?",
+                "id": "ad70e30578c7e1fdd31ec55fbcaadd378f31a33b",
+                "answers": [
+                    {
+                        "text": "Jean La B\u00eate",
+                        "answer_start": 12
+                    }
+                ],
+                "original_id": "9ac3abfef889eb6001083e97c8c881e2124fa64b"
+            },
+            {
+                "question": "Whose foster-child is acquainted with the dangers of the wilderness by someone?",
+                "id": "680b439a67e0e114f7865a7f7144433452c2299c",
+                "answers": [
+                    {
+                        "text": "the trader",
+                        "answer_start": 164
+                    },
+                    {
+                        "text": "the trader's wife",
+                        "answer_start": 924
+                    }
+                ],
+                "original_id": "5f06b43dbdb3a8400c33c5d1eda7b8e6d5f56456"
+            }
+        ]
+    },
+    {
+        "context": "Ambohimanga is a hill and traditional fortified royal settlement (rova) in Madagascar, located approximately 24 kilometers (15 mi) northeast of the capital city of Antananarivo. The hill and the rova that stands on top are considered the most significant symbol of the cultural identity of the Merina people and the most important and best-preserved monument of the precolonial Merina Kingdom. The walled historic village includes residences and burial sites of several key monarchs. The site, one of the twelve sacred hills of Imerina, is associated with strong feelings of national identity and has maintained its spiritual and sacred character both in ritual practice and the popular imagination for at least four hundred years. It remains a place of worship to which pilgrims come from Madagascar and elsewhere.\nThe site has been politically important since the early 18th century, when King Andriamasinavalona (1675\u20131710) divided the Kingdom of Imerina into four quadrants and assigned his son Andriantsimitoviaminiandriana to govern the northeastern quadrant, Avaradrano, from its newly designated capital at Ambohimanga. The division of Imerina led to 77 years of civil war, during which time the successive rulers of Avaradrano led military campaigns to expand their territory while undertaking modifications to the defenses at Ambohimanga to better protect it against attacks. The war was ended from Ambohimanga by King Andrianampoinimerina, who successfully undertook negotiations and military campaigns that reunited Imerina under his rule by 1793. Upon capturing the historic capital of Imerina at Antananarivo, Andrianampoinimerina shifted his royal court and all political functions back to its original locus at Antananarivo's royal compound and declared the two cities of equal importance, with Ambohimanga as the kingdom's spiritual capital. He and later rulers in his line continued to conduct royal rituals at the site and regularly inhabited and remodeled Ambohimanga until French colonization of the kingdom and the exile of the royal family in 1897. The significance of historical events here and the presence of royal tombs have given the hill a sacred character that is further enhanced at Ambohimanga by the burial sites of several Vazimba, the island's earliest inhabitants.",
+        "qas": [
+            {
+                "question": "Who remodeled Ambohimanga?",
+                "id": "850fa91808dfd385885a814b703600de2c4f103d",
+                "answers": [
+                    {
+                        "text": "Andrianampoinimerina",
+                        "answer_start": 1624
+                    }
+                ]
+            },
+            {
+                "question": "Who regularly inhabited the site?",
+                "id": "6c8b7c88cd8cb28cf897b82ba4871a92a8cc3856",
+                "answers": [
+                    {
+                        "text": "Andrianampoinimerina",
+                        "answer_start": 1624
+                    }
+                ]
+            },
+            {
+                "question": "Which city is the regularly inhabited site close to?",
+                "id": "f18c67113ee8cfa0dfe626fdc5f339ef7b8655c2",
+                "answers": [
+                    {
+                        "text": "Antananarivo",
+                        "answer_start": 164
+                    }
+                ],
+                "original_id": "6c8b7c88cd8cb28cf897b82ba4871a92a8cc3856"
+            },
+            {
+                "question": "Which country is the regularly inhabited site in?",
+                "id": "a88c726aee0c58a499c7feb4ac62c2d907a52534",
+                "answers": [
+                    {
+                        "text": "Madagascar",
+                        "answer_start": 75
+                    }
+                ],
+                "original_id": "6c8b7c88cd8cb28cf897b82ba4871a92a8cc3856"
+            },
+            {
+                "question": "When did remodeling Ambohimanga end?",
+                "id": "e2b058c768aedc2608afbf17d2fce719b2159b7d",
+                "answers": [
+                    {
+                        "text": "1897",
+                        "answer_start": 2066
+                    }
+                ],
+                "original_id": "850fa91808dfd385885a814b703600de2c4f103d"
+            }
+        ]
+    },
+    {
+        "context": "Following the conquest of Antananarivo in 1793, Andrianampoinimerina shifted the political capital of Imerina from Ambohimanga to its original site at Antananarivo, while pronouncing Ambohimanga the kingdom's spiritual capital. Important traditional rituals continued to be held at Ambohimanga, and Andrianampoinimerina regularly stayed in its Mahandrihono palace. His son, Radama I, inhabited Ambohimanga's Nanjakana compound as a youth before relocating to Antananarivo, and visited Ambohimanga frequently after the move. Radama's widow and successor, Ranavalona I, renovated the Mahandrihono compound and moved several buildings from the sister rova at Antananarivo to Ambohimanga. She also forbade swine at Ambohimanga due to their association with Europeans, who had propagated pork as a food source in the decade prior. Subsequent queens made their own mark on the site, including the reconstruction of Nanjakana by Rasoherina, and Ranavalona II's addition of two large pavilions to the Mahandrihono compound that reflected a syncretism of traditional and Western architectural styles.Throughout much of the 19th century and particularly under the reign of Queen Ranavalona I (1828\u20131861), Ambohimanga was forbidden to visiting foreigners, contributing to its mystique as a \"forbidden city\". This status remained until 1897 when the French colonial administration transferred all the relics and significant belongings of the royal family from Ambohimanga to Antananarivo to break the spirit of resistance and ethnic identity that these symbols inspired in the Malagasy people, particularly in the highlands. In the early 20th century, the area was further changed when the French removed the sacred forests remaining on the neighboring hilltops in the early 20th century. The city nonetheless retains its symbolic significance in Imerina to this day.",
+        "qas": [
+            {
+                "question": "Whose son inhabited Nanjakana compound as a youth?",
+                "id": "391ed2bef042f46b22e04e1bf1641982877ee0f1",
+                "answers": [
+                    {
+                        "text": "Andrianampoinimerina",
+                        "answer_start": 48
+                    }
+                ]
+            },
+            {
+                "question": "Whose son was Radama I?",
+                "id": "159c1acd66726f6169c0c9751d76658362316c10",
+                "answers": [
+                    {
+                        "text": "Andrianampoinimerina",
+                        "answer_start": 48
+                    }
+                ],
+                "original_id": "391ed2bef042f46b22e04e1bf1641982877ee0f1"
+            },
+            {
+                "question": "Whose son visited Ambohimanga frequently after relocating to Antananarivo?",
+                "id": "09e31732276dfa9f09e415126d3f36e6e3a1759e",
+                "answers": [
+                    {
+                        "text": "Andrianampoinimerina",
+                        "answer_start": 48
+                    }
+                ],
+                "original_id": "391ed2bef042f46b22e04e1bf1641982877ee0f1"
+            }
+        ]
+    },
+    {
+        "context": "After the December 7, 1941, attack on Pearl Harbor, the United States Government swiftly moved to begin solving the \"Japanese Problem\" on the West Coast of the United States. In the evening hours of that same day, the Federal Bureau of Investigation (FBI) arrested selected \"enemy\" aliens, including more than 5,500 Issei men. The California government pressed for action by the national government, as many citizens were alarmed about potential activities by people of Japanese descent.\nOn February 19, 1942, President Franklin D. Roosevelt signed Executive Order 9066, which authorized the Secretary of War to designate military commanders to prescribe military areas and to exclude \"any or all persons\" from such areas. The order also authorized the construction of what would later be called \"relocation centers\" by the War Relocation Authority (WRA) to house those who were to be excluded. This order resulted in the forced relocation of over 120,000 Japanese Americans, two-thirds of whom were native-born American citizens. The rest had been prevented from becoming citizens by federal law. Over 110,000 were incarcerated in the ten concentration camps located far inland and away from the coast.Manzanar was the first of the ten concentration camps to be established. Initially, it was a temporary \"reception center\", known as the Owens Valley Reception Center from March 21, 1942, to May 31, 1942. At that time, it was operated by the US Army's Wartime Civilian Control Administration (WCCA).The Owens Valley Reception Center was transferred to the WRA on June 1, 1942, and officially became the \"Manzanar War Relocation Center.\" The first Japanese American incarcerees to arrive at Manzanar were volunteers who helped build the camp. By mid\u2013April, up to 1,000 Japanese Americans were arriving daily, and by July, the population of the camp neared 10,000. Over 90 percent of the incarcerees were from the Los Angeles area, with the rest coming from Stockton, California; and Bainbridge Island, Washington. Many were farmers and fishermen. Manzanar held 10,046 incarcerees at its peak, and a total of 11,070 people were incarcerated there.",
+        "qas": [
+            {
+                "question": "What order authorized the construction of what would later be called \"relocation centers\"?",
+                "id": "dda7c1984db53d1a4647c3828138d375b2a227f4",
+                "answers": [
+                    {
+                        "text": "Executive Order 9066",
+                        "answer_start": 549
+                    }
+                ]
+            },
+            {
+                "question": "What order resulted in forced relocation of over 120,000 Japanese Americans?",
+                "id": "513e7a697f098281d5b7f0357331ae3ad2f9d0e7",
+                "answers": [
+                    {
+                        "text": "Executive Order 9066",
+                        "answer_start": 549
+                    }
+                ]
+            },
+            {
+                "question": "What was the name of the place from March 21 1942 to May 31, 1942 that had incarcerees from Stockton California and Bainbridge Island?",
+                "id": "6a5ae1d1c7bc0f3ae6a668d1ee320b823022e0dc",
+                "answers": [
+                    {
+                        "text": "Owens Valley Reception Center",
+                        "answer_start": 1505
+                    }
+                ]
+            },
+            {
+                "question": "What was the name of the place from March 21 1942 to May 31, 1942 that had most of its incarcerees made up of farmers and fishermen?",
+                "id": "ab0582d52f448f839fe0f8050d916279fa52283d",
+                "answers": [
+                    {
+                        "text": "Owens Valley Reception Center",
+                        "answer_start": 1505
+                    }
+                ]
+            },
+            {
+                "question": "When was the forced relocation of over 120,000 Japanese Americans authorized?",
+                "id": "29bbd65894942d240442a371d1ed546f2a2e2057",
+                "answers": [
+                    {
+                        "text": "February 19, 1942",
+                        "answer_start": 491
+                    }
+                ],
+                "original_id": "513e7a697f098281d5b7f0357331ae3ad2f9d0e7"
+            },
+            {
+                "question": "What were the names of the place that had most of its incarcerees made up of farmers and fishermen?",
+                "id": "ffb5c71487742281c848cfc3d9a71ae935685294",
+                "answers": [
+                    {
+                        "text": "Owens Valley Reception Center",
+                        "answer_start": 1339
+                    },
+                    {
+                        "text": "Manzanar War Relocation Center",
+                        "answer_start": 1606
+                    }
+                ],
+                "original_id": "ab0582d52f448f839fe0f8050d916279fa52283d"
+            },
+            {
+                "question": "What was the place that had most of its incarcerees made up of farmers and fishermen till May 31, 1942?",
+                "id": "a97cf1f0629b67b79a2e4e514ed1c8fe9abfd75c",
+                "answers": [
+                    {
+                        "text": "Owens Valley Reception Center",
+                        "answer_start": 1339
+                    }
+                ],
+                "original_id": "ab0582d52f448f839fe0f8050d916279fa52283d"
+            },
+            {
+                "question": "What was the name of the place that had most of its incarcerees made up of farmers and fishermen after May 31, 1942?",
+                "id": "bc7d7e7b8f4674825d37d5b1d8692a5b26826cf5",
+                "answers": [
+                    {
+                        "text": "Manzanar War Relocation Center",
+                        "answer_start": 1606
+                    }
+                ],
+                "original_id": "ab0582d52f448f839fe0f8050d916279fa52283d"
+            },
+            {
+                "question": "Which organization operated the place that had most of its incarcerees made up of farmers and fishermen before May 31, 1942?",
+                "id": "98d95c9c05ee24da328f369b2272c2aea90543d4",
+                "answers": [
+                    {
+                        "text": "the US Army's Wartime Civilian Control Administration",
+                        "answer_start": 1440
+                    }
+                ],
+                "original_id": "ab0582d52f448f839fe0f8050d916279fa52283d"
+            },
+            {
+                "question": "Which organization operated the place that had most of its incarcerees made up of farmers and fishermen after May 31, 1942?",
+                "id": "69a18cd7088673af121802f090225a72caa93dba",
+                "answers": [
+                    {
+                        "text": "War Relocation Authority",
+                        "answer_start": 824
+                    }
+                ],
+                "original_id": "ab0582d52f448f839fe0f8050d916279fa52283d"
+            },
+            {
+                "question": "Which organization operated the place that had incarcerees from Stockton California and Bainbridge Island till May 31, 1942?",
+                "id": "6f33995b6be748d5b2eeb6dcbd121388f23ea915",
+                "answers": [
+                    {
+                        "text": "the US Army's Wartime Civilian Control Administration",
+                        "answer_start": 1440
+                    }
+                ],
+                "original_id": "6a5ae1d1c7bc0f3ae6a668d1ee320b823022e0dc"
+            },
+            {
+                "question": "When was the order that authorized the construction of what were later called \"relocation centers\" signed?",
+                "id": "a4af56cc47294e65bfa74cceeecc2a6b14b03eb4",
+                "answers": [
+                    {
+                        "text": "February 19, 1942",
+                        "answer_start": 491
+                    }
+                ],
+                "original_id": "dda7c1984db53d1a4647c3828138d375b2a227f4"
+            }
+        ]
+    },
+    {
+        "context": "The cemetery is less than an acre in size and is located to the immediate east of the church, surrounded by a wrought iron fence manufactured by Stewart Iron Works. As of 2012, the cemetery contains approximately 270 interments, including John Monroe (1750\u20131824), Virginia House of Delegates member William C. Nixon (1789\u20131869), West Virginia House of Delegates member Captain David Pugh (1806\u20131899), American Civil War veterans from the Union and the Confederacy, and free and enslaved African Americans. Gertrude Ward (1896\u20131988), a local historian and orchardist, is also interred in the cemetery. Captain David Pugh was an elected representative Hampshire County, who voted to secede from the Union in 1861.Older gravestones in the cemetery are generally cut from limestone, and the gravestones placed after 1900 are predominantly made of polished granite. Most of the gravestones have weathered significantly. The gravestones are generally rounded or rectangular in shape, and are placed on small stone foundations. The gravestones of prominent local leaders are more ornate in character, including that of Captain David Pugh and his family, who are buried under a large obelisk that lists the names of his three wives and their respective children. Nixon's gravestone is deteriorating due to advanced weathering; it is made of limestone and contains a carving of an open book. Following the purchase of a rectangular land tract around 1990, the cemetery was expanded on the east side. This section of the cemetery is excluded from the church's historically-recognized boundaries, as it was not associated with the church during the period of its greatest significance.The cemetery perimeter is lined on three sides by a cast wrought iron fence, accessible by a gate 3 feet (0.91 m) in width at its western entryway. The wrought iron fence is 4 feet (1.2 m) in height, and has approximately 1-inch (2.5 cm) diameter tubular fence posts, which are supported by three horizontal metal rails. The fence posts are capped with white-painted stylized arrows, with a ball at the tip. A shield with the emblem reading, \"The Stewart Iron Works, Cincinnati, Ohio\", is emblazoned on the fence's gate. The cemetery's eastern extension is surrounded by chain-link fencing.",
+        "qas": [
+            {
+                "question": "What is the full name of the person whose gravestone is deteriorating due to advanced weathering? ",
+                "id": "fd94606c6e33c5a4ddf5329f1ad3453dabf3040c",
+                "answers": [
+                    {
+                        "text": "William C. Nixon",
+                        "answer_start": 299
+                    }
+                ]
+            },
+            {
+                "question": "What is the full name of the person who voted to secede from the Union in 1861?",
+                "id": "1a7f12e4341153fcc4ab8044e219fa357dec3afe",
+                "answers": [
+                    {
+                        "text": "David Pugh",
+                        "answer_start": 609
+                    }
+                ]
+            },
+            {
+                "question": "What is the title of the person who voted to seced from the Union in 1861?",
+                "id": "dd427cfaeef5f4e5f9c2cc7f43640da76dc4d7ef",
+                "answers": [
+                    {
+                        "text": "Captain",
+                        "answer_start": 369
+                    }
+                ],
+                "original_id": "1a7f12e4341153fcc4ab8044e219fa357dec3afe"
+            },
+            {
+                "question": "What was the person who voted to secede from the Union in 1861 a member of?",
+                "id": "79891eb7c5cd53a62eea464f70646ec8ca745709",
+                "answers": [
+                    {
+                        "text": "West Virginia House of Delegates",
+                        "answer_start": 329
+                    }
+                ],
+                "original_id": "1a7f12e4341153fcc4ab8044e219fa357dec3afe"
+            },
+            {
+                "question": "When was the person who voted to secede from the union in 1861 born?",
+                "id": "8ba2a9828c0e04d01539dcd5670c8de18b952bf1",
+                "answers": [
+                    {
+                        "text": "1806",
+                        "answer_start": 389
+                    }
+                ],
+                "original_id": "1a7f12e4341153fcc4ab8044e219fa357dec3afe"
+            },
+            {
+                "question": "When did the person who voted to secede from the union in 1861 die?",
+                "id": "c8e95b42743264b7e810ef4418cfba4d1f4696f9",
+                "answers": [
+                    {
+                        "text": "1899",
+                        "answer_start": 394
+                    }
+                ],
+                "original_id": "1a7f12e4341153fcc4ab8044e219fa357dec3afe"
+            },
+            {
+                "question": "What was the person whose gravestone is deteriorating due to advanced weathering a member of?",
+                "id": "76d464b687f70ac7603cc275dbc258273724208e",
+                "answers": [
+                    {
+                        "text": "Virginia House of Delegates",
+                        "answer_start": 264
+                    }
+                ],
+                "original_id": "fd94606c6e33c5a4ddf5329f1ad3453dabf3040c"
+            },
+            {
+                "question": "When was the person whose gravestone is deteriorating due to advanced weathering born?",
+                "id": "72f179ccac9111f2463250eead73daf4d0489c35",
+                "answers": [
+                    {
+                        "text": "1789",
+                        "answer_start": 317
+                    }
+                ],
+                "original_id": "fd94606c6e33c5a4ddf5329f1ad3453dabf3040c"
+            },
+            {
+                "question": "When did the person whose gravestone is deteriorating due to advanced weathering die?",
+                "id": "f0d97b4d80f3a5596912289febcdcfe89418d2b0",
+                "answers": [
+                    {
+                        "text": "1869",
+                        "answer_start": 322
+                    }
+                ],
+                "original_id": "fd94606c6e33c5a4ddf5329f1ad3453dabf3040c"
+            },
+            {
+                "question": "What is the gravestone that is deteriorating due to advanced weathering made of?",
+                "id": "27f163db642cc454cb13bdc1ca3664270b9e2700",
+                "answers": [
+                    {
+                        "text": "limestone",
+                        "answer_start": 768
+                    }
+                ],
+                "original_id": "fd94606c6e33c5a4ddf5329f1ad3453dabf3040c"
+            },
+            {
+                "question": "What does the gravestone that is deteriorating due to advance weathering contain?",
+                "id": "d07bf9f17c735872902a6738fd5b4328207c8e19",
+                "answers": [
+                    {
+                        "text": "a carving of an open book",
+                        "answer_start": 1356
+                    }
+                ],
+                "original_id": "fd94606c6e33c5a4ddf5329f1ad3453dabf3040c"
+            }
+        ]
+    },
+    {
+        "context": "Just before the Bastille Day holiday weekend English secretary, Danielle 'Dany' Lang, types up a document for her advertising agency boss, Michael Caldwell, to take on a business trip to Geneva. On the way to drop off her boss and his wife, Anita, her former room-mate, at the airport, her boss gives her a envelope with her pay in it.\nAfter dropping them off Dany impulsively decides to drive to the Riviera for the weekend. When Dany pulls into a small caf\u00e9 the owner tries to return a coat to her she claims she left there the day before. At a petrol station Dany is attacked in the toilet and injures her hand. She is bemused as various strangers claim to know her. \nHeading further south she picks up a hitch-hiker, Philippe and the pair spend the night together. The following day Philippe steals Dany's car prior to reaching the coast. She later finds Philippe in Marseilles where they find a man's body and a gun in the trunk of the car. \nAfter Philippe disappears again, Dany visits the home of the dead man in Avignon and oddly finds both some of her clothes and also nude pictures of herself. Returning to the caf\u00e9 to reclaim the coat she finds a copy of her pay envelope in one of the coat's pockets. Dany is now completely perplexed by the situation and returns to the dead man's home where her boss, Michael, is waiting for her. He tells Dany that the dead man was one of Anita's lovers, whom she murdered at his home. To frame Dany, they planted evidence and set up various incidents to establish her guilt: the attack in the toilet was committed by Michael, who injured her hand so Anita could wear a bandage and be mistaken for the secretary; and the nude photos had been taken by Anita when they were room-mates. \nWhen Michael tells Dany he plans to murder her and make it look like a suicide she tells him he won't succeed as she has already sent both pay envelopes to the police.",
+        "qas": [
+            {
+                "question": "What is the nickname of the person that takes her boss to the airport?",
+                "id": "96bdbf3ff8ce33e7f4dd1a078dfda1be85ac3620",
+                "answers": [
+                    {
+                        "text": "Dany",
+                        "answer_start": 74
+                    }
+                ]
+            },
+            {
+                "question": "What is the real first name of the person who is confused that so many people seem to know her?",
+                "id": "d076a70ba3f2396aca4d800b85b3569965d895e1",
+                "answers": [
+                    {
+                        "text": "Danielle",
+                        "answer_start": 64
+                    }
+                ]
+            },
+            {
+                "question": "What is the first name of the person who tells Dany that the dead man was a lover of Anita?",
+                "id": "a218affd230f53c2f10a6c022ffce1fb2c2b4f4f",
+                "answers": [
+                    {
+                        "text": "Michael",
+                        "answer_start": 1314
+                    }
+                ]
+            },
+            {
+                "question": "What is the first name of Anita's husband? ",
+                "id": "1e5607954beefbfcdf687fc892323c42ff7bec23",
+                "answers": [
+                    {
+                        "text": "Michael",
+                        "answer_start": 139
+                    }
+                ]
+            },
+            {
+                "question": "What is the first name of the person dropping Anita and her husband off at the airport? ",
+                "id": "79fbb728c5585fdabf0823720b3e635815c355d2",
+                "answers": [
+                    {
+                        "text": "Danielle",
+                        "answer_start": 64
+                    }
+                ]
+            },
+            {
+                "question": "What is the first name of the person who gives Danielle an envelope with her pay in it? ",
+                "id": "70724460f770b647efdd0bcde1b7dbd9e06ccdc9",
+                "answers": [
+                    {
+                        "text": "Michael",
+                        "answer_start": 139
+                    }
+                ]
+            },
+            {
+                "question": "What is the alias of the person who spends the night with Philippe?",
+                "id": "a6304219086b6c954c4467b2bfd96892dde9cf96",
+                "answers": [
+                    {
+                        "text": "Dany",
+                        "answer_start": 74
+                    }
+                ]
+            },
+            {
+                "question": "What is the alias of the person who receives an envelope from their boss?",
+                "id": "3a55e540c3c678a37e68b1bae2525c01321a3b66",
+                "answers": [
+                    {
+                        "text": "Dany",
+                        "answer_start": 74
+                    }
+                ],
+                "original_id": "70724460f770b647efdd0bcde1b7dbd9e06ccdc9"
+            },
+            {
+                "question": "What is the last name of the person who receives an envelope from their boss?",
+                "id": "1fc8c818068074db3bdc5523c5c1a3b88052ac48",
+                "answers": [
+                    {
+                        "text": "Lang",
+                        "answer_start": 80
+                    }
+                ],
+                "original_id": "70724460f770b647efdd0bcde1b7dbd9e06ccdc9"
+            },
+            {
+                "question": "What is the last name of Anita's husband?",
+                "id": "9bc8a5dec5cf36adc1f9d2203d186466d0bb1b28",
+                "answers": [
+                    {
+                        "text": "Caldwell",
+                        "answer_start": 147
+                    }
+                ],
+                "original_id": "1e5607954beefbfcdf687fc892323c42ff7bec23"
+            },
+            {
+                "question": "What is the first name of Anita's former room-mate?",
+                "id": "c31cfead559e123deea7a2038f7b909a0db85827",
+                "answers": [
+                    {
+                        "text": "Danielle",
+                        "answer_start": 64
+                    }
+                ],
+                "original_id": "1e5607954beefbfcdf687fc892323c42ff7bec23"
+            },
+            {
+                "question": "What is the last name of Anita's former room-mate?",
+                "id": "45b19483b2ab0651e33f399f41689e86c398a06a",
+                "answers": [
+                    {
+                        "text": "Lang",
+                        "answer_start": 80
+                    }
+                ],
+                "original_id": "1e5607954beefbfcdf687fc892323c42ff7bec23"
+            },
+            {
+                "question": "What is the last name of the person that takes her boss to the airport?",
+                "id": "2394efbef19fb8ba994ddaf0f67749c7c59dfb68",
+                "answers": [
+                    {
+                        "text": "Lang",
+                        "answer_start": 80
+                    }
+                ],
+                "original_id": "96bdbf3ff8ce33e7f4dd1a078dfda1be85ac3620"
+            },
+            {
+                "question": "What are the forst names of the people Dany drops off at the airport?",
+                "id": "c1e63e761becb56a607174655c3c3c6b34a820fe",
+                "answers": [
+                    {
+                        "text": "Anita",
+                        "answer_start": 241
+                    },
+                    {
+                        "text": "Michael",
+                        "answer_start": 139
+                    }
+                ],
+                "original_id": "79fbb728c5585fdabf0823720b3e635815c355d2"
+            },
+            {
+                "question": "What is the last name of the person who tells Dany that the dead man was a lover of Anita?",
+                "id": "6f91cf26acfc5ae9e3dd73d25f7c1956c6e437b5",
+                "answers": [
+                    {
+                        "text": "Caldwell",
+                        "answer_start": 147
+                    }
+                ],
+                "original_id": "a218affd230f53c2f10a6c022ffce1fb2c2b4f4f"
+            },
+            {
+                "question": "What are the first names of the people who spend a night together?",
+                "id": "ea83b8a3beedc6e6d838b1e65b11f1c6edb277f9",
+                "answers": [
+                    {
+                        "text": "Danielle",
+                        "answer_start": 64
+                    },
+                    {
+                        "text": "Philippe",
+                        "answer_start": 721
+                    }
+                ],
+                "original_id": "a6304219086b6c954c4467b2bfd96892dde9cf96"
+            },
+            {
+                "question": "What is the nationality of the person who is confused that so many people know her?",
+                "id": "8bf87049009953e61128163531427994cf9bb837",
+                "answers": [
+                    {
+                        "text": "English",
+                        "answer_start": 45
+                    }
+                ],
+                "original_id": "d076a70ba3f2396aca4d800b85b3569965d895e1"
+            },
+            {
+                "question": "What is the job of the person who is confused that so many people seem to know her?",
+                "id": "023cd6dd201e78c0fd969eba61803ac0855e8443",
+                "answers": [
+                    {
+                        "text": "secretary",
+                        "answer_start": 53
+                    }
+                ],
+                "original_id": "d076a70ba3f2396aca4d800b85b3569965d895e1"
+            }
+        ]
+    },
+    {
+        "context": "Out on a highway in Death Valley, a man picks up a female hitchhiker named Lucindia, and gives her a drink. Lucindia has a coughing fit upon ingesting the liquid, stumbles out of the vehicle, and is stabbed to death by the motorist. The man (revealed to be a priest, whose offer to Lucindia was holy water) buries Lucindia's body, and erects a crucifix over the impromptu grave. As the preacher prays, Lucindia reappears, and bludgeons him with his shovel as he screams, \"El Diablo!\"\nNearby, four college students (Eric, Chris, Monique, and Sarah) from Western Pennsylvania are on a road trip to Redondo Beach. Spotting Lucindia at a cluster of crosses, the quartet pick her up. When Chris mentions that a group of their friends are also on their way to Redondo, Lucindia brags that she tortured them to death before pulling out a gun and sexually assaulting Sarah. Lucindia then tries to shoot Sarah in the crotch, but is knocked out of the car by her and Eric.\nThe next day, Lucindia (who had just robbed, castrated, and murdered a motorist) catches up with the college students, who run her down, beheading and disemboweling her. On what's left of Lucindia's body, Eric finds Chris's brother's cell phone, and a battery pack that fits into a camcorder that Sarah had earlier unearthed in the desert. The group watches the last few minutes recorded by the camera, which shows Lucindia shooting all of their friends during a botched s\u00e9ance. Lucindia then turns to the camera and tells the story of a settler couple that became trapped in the valley; to try and save his wife (implied to be Lucindia), the husband killed himself so that she could consume his flesh. Her husband's body was not enough to sustain her, and in her last dying hours the woman cursed God and prayed to the Devil for salvation, and received it in exchange for a steady stream of victims.",
+        "qas": [
+            {
+                "question": "Where does the female hitchhiker try to shoot the girl that was sexually assaulted?",
+                "id": "84cf8940d6a77f077e79ca0a1188a9d7fdb74bb6",
+                "answers": [
+                    {
+                        "text": "in the crotch",
+                        "answer_start": 901
+                    }
+                ]
+            },
+            {
+                "question": "Who finds a cell phone on the hitchhiker's body?",
+                "id": "ff71f23d9c40cf6899c891165dec9f9326a067a4",
+                "answers": [
+                    {
+                        "text": "Eric",
+                        "answer_start": 1168
+                    }
+                ]
+            },
+            {
+                "question": "Who does the woman named El Diablo sexually assault?",
+                "id": "18113627cc4b19d8231e082e0fec8ef008ab7ae2",
+                "answers": [
+                    {
+                        "text": "Sarah",
+                        "answer_start": 859
+                    }
+                ]
+            },
+            {
+                "question": "Who helps save the college student from being shot in the crotch?",
+                "id": "5ee1c7608c5f391eb857028811a93c0943af208a",
+                "answers": [
+                    {
+                        "text": "Eric",
+                        "answer_start": 957
+                    }
+                ]
+            },
+            {
+                "question": "Who is related to the person that owns the cell phone found on the hitchhiker's body?",
+                "id": "a05020d02d40aa812071504fcbb0568bdc9d85a8",
+                "answers": [
+                    {
+                        "text": "Chris",
+                        "answer_start": 1179
+                    }
+                ]
+            },
+            {
+                "question": "Who finds the cell phone on the body of the murderer?",
+                "id": "a582cc4e212ea9092bb732bd534cacdaaf17312d",
+                "answers": [
+                    {
+                        "text": "Eric",
+                        "answer_start": 1168
+                    }
+                ]
+            },
+            {
+                "question": "Who found the camcorders that the battery on the hitchhiker fits into?",
+                "id": "6b2f5a6b04c52f026a334c2945624abf05ad7e89",
+                "answers": [
+                    {
+                        "text": "Sarah",
+                        "answer_start": 1260
+                    }
+                ]
+            },
+            {
+                "question": "Who did the wife of the man who sacrificed himself for her reach out to for salvation?",
+                "id": "80d0b6ef17c65ed0de2d5874fe92b42eaa5e01b7",
+                "answers": [
+                    {
+                        "text": "the Devil",
+                        "answer_start": 1779
+                    }
+                ]
+            },
+            {
+                "question": "Who did the wife of the man who sacrificed himself for her antagonize while reaching out for salvation?",
+                "id": "9caeb82721925daed35c5181e8b2d568a03138d4",
+                "answers": [
+                    {
+                        "text": "God",
+                        "answer_start": 1761
+                    }
+                ],
+                "original_id": "80d0b6ef17c65ed0de2d5874fe92b42eaa5e01b7"
+            },
+            {
+                "question": "On whose sibling's cell phone did the college students watch Lucindia reach out to the Devil for salvation?",
+                "id": "7941ae232b63e2e6f44a4838bd7caccc3733e397",
+                "answers": [
+                    {
+                        "text": "Chris",
+                        "answer_start": 521
+                    }
+                ],
+                "original_id": "80d0b6ef17c65ed0de2d5874fe92b42eaa5e01b7"
+            },
+            {
+                "question": "Whose spouse sacrificed himself so that this individual could keep living?",
+                "id": "ed1e61876ca6658704899233a0f7ee476d65b774",
+                "answers": [
+                    {
+                        "text": "Lucindia",
+                        "answer_start": 75
+                    }
+                ],
+                "original_id": "80d0b6ef17c65ed0de2d5874fe92b42eaa5e01b7"
+            },
+            {
+                "question": "What are the first names of the people that watch a man sacrifice himself for his wife?",
+                "id": "06caaaf434c26ce7db11e6894703600f6ddc6117",
+                "answers": [
+                    {
+                        "text": "Eric",
+                        "answer_start": 515
+                    },
+                    {
+                        "text": "Chris",
+                        "answer_start": 521
+                    },
+                    {
+                        "text": "Monique",
+                        "answer_start": 528
+                    },
+                    {
+                        "text": "Sarah",
+                        "answer_start": 541
+                    }
+                ],
+                "original_id": "80d0b6ef17c65ed0de2d5874fe92b42eaa5e01b7"
+            },
+            {
+                "question": "What are the first names of the people besides Monique who watch a man sacrifice himself for his wife?",
+                "id": "a3f7740ee24548ddb3a555838d0f878bb63dcb6b",
+                "answers": [
+                    {
+                        "text": "Eric",
+                        "answer_start": 515
+                    },
+                    {
+                        "text": "Chris",
+                        "answer_start": 521
+                    },
+                    {
+                        "text": "Sarah",
+                        "answer_start": 541
+                    }
+                ],
+                "original_id": "80d0b6ef17c65ed0de2d5874fe92b42eaa5e01b7"
+            },
+            {
+                "question": "Which college student helps save another college student from being shot in the crotch?",
+                "id": "ed66eedfa7f3fad7f836e1f7d22249d6f8a1ebf3",
+                "answers": [
+                    {
+                        "text": "Eric",
+                        "answer_start": 515
+                    }
+                ],
+                "original_id": "5ee1c7608c5f391eb857028811a93c0943af208a"
+            },
+            {
+                "question": "Who in the student group does not help save the college student from being shot in the crotch?",
+                "id": "0931b0ee499b4a81066f3bb8007da3fd147afe9f",
+                "answers": [
+                    {
+                        "text": "Chris",
+                        "answer_start": 521
+                    },
+                    {
+                        "text": "Monique",
+                        "answer_start": 528
+                    }
+                ],
+                "original_id": "5ee1c7608c5f391eb857028811a93c0943af208a"
+            },
+            {
+                "question": "Eric saves a college student from being shot in the crotch while heading to which location?",
+                "id": "ed3af0f20a28d532ed6177c84f9003d35ac2c0b9",
+                "answers": [
+                    {
+                        "text": "Redondo",
+                        "answer_start": 596
+                    }
+                ],
+                "original_id": "5ee1c7608c5f391eb857028811a93c0943af208a"
+            },
+            {
+                "question": "What is the name of the female hitchhiker who tried to shoot the girl that was sexually assaulted by her?",
+                "id": "e98be887bcdc81379802d6882638584a3df0e894",
+                "answers": [
+                    {
+                        "text": "Lucindia",
+                        "answer_start": 75
+                    }
+                ],
+                "original_id": "84cf8940d6a77f077e79ca0a1188a9d7fdb74bb6"
+            },
+            {
+                "question": "Who watches the recording on the cell phone found on the body of the murderer?",
+                "id": "0a268f467de2714081ac30e177156eb4f4942b79",
+                "answers": [
+                    {
+                        "text": "Eric",
+                        "answer_start": 515
+                    },
+                    {
+                        "text": "Chris",
+                        "answer_start": 521
+                    },
+                    {
+                        "text": "Monique",
+                        "answer_start": 528
+                    },
+                    {
+                        "text": "Sarah",
+                        "answer_start": 541
+                    }
+                ],
+                "original_id": "a582cc4e212ea9092bb732bd534cacdaaf17312d"
+            },
+            {
+                "question": "What are the names of the people who pick up the woman named El Diablo?",
+                "id": "487cbf8496dbc9286e526f66180799c53761dde0",
+                "answers": [
+                    {
+                        "text": "Eric",
+                        "answer_start": 515
+                    },
+                    {
+                        "text": "Chris",
+                        "answer_start": 521
+                    },
+                    {
+                        "text": "Monique",
+                        "answer_start": 528
+                    },
+                    {
+                        "text": "Sarah",
+                        "answer_start": 541
+                    }
+                ],
+                "original_id": "18113627cc4b19d8231e082e0fec8ef008ab7ae2"
+            },
+            {
+                "question": "What is the Spanish title for the woman who sexually assaults a female college student?",
+                "id": "3bdef280aa49b9ce463e54cff0dccdf90fb880c7",
+                "answers": [
+                    {
+                        "text": "El Diablo",
+                        "answer_start": 472
+                    }
+                ],
+                "original_id": "18113627cc4b19d8231e082e0fec8ef008ab7ae2"
+            },
+            {
+                "question": "Where were the camcorders that the battery on the hitchhiker fits into found?",
+                "id": "82e3c51b6f25fe26f9d3d237761577761d1b06b0",
+                "answers": [
+                    {
+                        "text": "in the desert",
+                        "answer_start": 1288
+                    }
+                ],
+                "original_id": "6b2f5a6b04c52f026a334c2945624abf05ad7e89"
+            },
+            {
+                "question": "Whose relative owns the cell phone found on the hitchhiker's corpse?",
+                "id": "46a1e4be8058dfe347bc2317057a87dd24db22f9",
+                "answers": [
+                    {
+                        "text": "Chris",
+                        "answer_start": 521
+                    }
+                ],
+                "original_id": "a05020d02d40aa812071504fcbb0568bdc9d85a8"
+            },
+            {
+                "question": "Who finds a cell phone on El Diablo's body?",
+                "id": "f062cd27ad0be9fc9e6065d00e7de48be6d77b0f",
+                "answers": [
+                    {
+                        "text": "Eric",
+                        "answer_start": 515
+                    }
+                ],
+                "original_id": "ff71f23d9c40cf6899c891165dec9f9326a067a4"
+            }
+        ]
+    }
+]

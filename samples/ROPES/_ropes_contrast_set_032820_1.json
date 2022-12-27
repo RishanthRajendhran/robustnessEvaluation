@@ -1,0 +1,137 @@
+[
+    {
+        "background": "Beginning in September 2012, the U.S. Food and Drug Administration will require larger, more prominent cigarette health warnings on all cigarette packaging and advertisements in the United States. These warnings are a significant advancement in communicating the dangers of smoking. These new cigarette health warnings contains nine different warnings that will increase awareness of the specific health risks associated with smoking, such as death, addiction, lung disease, cancer, stroke and heart disease. There were however, quite ineffective, and actually served as a free advertisement for cigarettes, widening their customer base. These warnings include:",
+        "situation": "The United states decided to put more prominent health warnings of cigarettes. Meanwhile Canada has opted to keep the same labels that are not as prominent.",
+        "qas": [
+            {
+                "question": "Which country is most likely to see a decrease in lung cancer?",
+                "id": "1777865389",
+                "answers": [
+                    {
+                        "text": "Canada"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Old age begins in the mid-60s and lasts until the end of life. Most people over 65 have retired from work, sometimes having no time but sometimes having for hobbies, grandchildren, and other interests. Stamina, strength, reflex time, and the senses all increase during old age, and the number of brain cells increases as well. The immune system becomes more efficient, decreasing the risk of serious illnesses such as cancer and pneumonia. Diseases such as Alzheimer\u2019s disease that cause loss of mental function also become less common.",
+        "situation": "Bob and Elaine are neighbors. Elaine goes for a five mile run every morning before work. Bob retired last year. He is not as active as he used to be but he takes advantage of his extra free time to build cabinets and other furniture, something he has always enjoyed doing.",
+        "qas": [
+            {
+                "question": "Who is more likely to get sick?",
+                "id": "508248448",
+                "answers": [
+                    {
+                        "text": "Elaine"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Rain dissolves fertilizer in the soil. Runoff carries it away. The fertilizer ends up in bodies of water, from ponds to oceans. The nitrogen is a fertilizer in the water bodies. Since there is a lot of nitrogen it prevent algae from growing out of control. Figure below shows a pond covered with algae. Algae may release so much oxygen in the water. Soon, even the algae die out. Decomposers break down the dead tissue, use up carbondioxide and release much oxygen in the water. If there is no algae, it will creates a dead zone. A dead zone is an area in a body of water where nothing grows because there is too little oxygen. There is a large dead zone in the Gulf of Mexico. You can see it Figure below .",
+        "situation": "As mark walked along the field he saw a small pond and walked over to it.  As Mark looked around at the wide open farm land he wondered why lots of fished there. Once he was closer noticed that the pond was completely covered with algae.",
+        "qas": [
+            {
+                "question": "will decomposser use up the oxygen or carbondioxide?",
+                "id": "2077972829",
+                "answers": [
+                    {
+                        "text": "carbondioxide"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The sunshine sometimes make thngs hot, but if the sunshine directly goes inside the object, it will make them cool. So the temperature of the object will increase slowly without sunshine. The hot object is really dangerouse to use.",
+        "situation": "Jane parked her car in the sun but did not cover her widows. Her neighbor John parked his car in the sun but he covered his windows with a sun screen.",
+        "qas": [
+            {
+                "question": "who's car is more dangerouse to sit in?",
+                "id": "966471206",
+                "answers": [
+                    {
+                        "text": "John"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Old age begins in the mid-60s and lasts until the end of life. Most people over 65 have retired from work, sometimes having no time but sometimes having for hobbies, grandchildren, and other interests. Stamina, strength, reflex time, and the senses all increase during old age, and the number of brain cells increases as well. The immune system becomes more efficient, decreasing the risk of serious illnesses such as cancer and pneumonia. Diseases such as Alzheimer\u2019s disease that cause loss of mental function also become less common.",
+        "situation": "Bob and Elaine are neighbors. Elaine goes for a five mile run every morning before work. Bob retired last year. He is not as active as he used to be but he takes advantage of his extra free time to build cabinets and other furniture, something he has always enjoyed doing.",
+        "qas": [
+            {
+                "question": "Who is less likely to get sick?",
+                "id": "512311684",
+                "answers": [
+                    {
+                        "text": "Bob"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Another major cause of extinction is global warming , which is also known as global climate change. During the past century, the Earth's average temperature has risen by almost 1\u00c2\u00b0C (about 1.3\u00c2\u00b0F). You may not think that is significant, but to organisms that live in the wild and are constantly adapting to their environments, any climate change can be hazardous. Recall that burning fossil fuels releases gasses into the atmosphere that warm the Earth. Our increased use of fossil fuels, such as coal and oil, is changing the Earth\u00e2\u20ac\u2122s climate. Any long-term change in the climate can destroy the habitat of a species. Even a brief change in climate may be too stressful for an organism to survive. For example, if the seas increase in temperature, even briefly, it may be too warm for certain types of fish to reproduce.",
+        "situation": "To help hide from predators the snow hare has evolved to turn white in winter to blend in with the snow. The common hare, however, does not change color throughout the year. But in recent years winters have been warmer and the snow is melting earlier than usual. Without snow on the ground the white hares stand out more and are easy prey for predators including foxes and coyotes.",
+        "qas": [
+            {
+                "question": "Has the average winter temperature increased or decreased?",
+                "id": "492417639",
+                "answers": [
+                    {
+                        "text": "increased"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The Hawaiian Islands ( Figure above ) are in the central Pacific Ocean. The islands are volcanoes that first started forming in the southeast and then to wards the northwest. The oldest island is the Big Island of Hawaii at the southeast end of the chain. The volcanoes get younger through Maui, Kahoolawe, Lanai, Molokai, Oahu, Kauai, and Niihau Islands through the northwest. The last eruption was at Kilauea volcano on Hawaii has not erupted since 1983. There are also used to be eruptions at an underwater volcano called Loihi seamount. Loihi is the oldest volcano. Hawaii was once fantastic place to see volcanic eruptions and features.",
+        "situation": "Dave recently went on vacation to the Hawaiian Islands. He started his vacation on The youngest island and ended it on the oldest island. Dave especially liked seeing the Kilauea volcano. One of the tour guides told him about the Loihi volcano which erupts under water.",
+        "qas": [
+            {
+                "question": "Was Dave traveling through the islands from east to west or west to east?",
+                "id": "3341702207",
+                "answers": [
+                    {
+                        "text": "west to east"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Circadian rhythms are regular changes in biology or behavior that occur in a 24-hour cycle. In humans, for example, blood pressure and body temperature change in a regular way throughout each 24-hour day. Animals may eat and drink at certain times of day as well. Humans have daily cycles of behavior, too. Most people start to get sleepy after dark and have a hard time sleeping when it is light outside. In many species, including humans, circadian rhythms are controlled by a tiny structure called the biological clock . This structure is located in a gland at the base of the brain. The biological clock sends signals to the body. The signals cause regular changes in behavior and body processes. The amount of light entering the eyes helps control the biological clock. The clock causes changes that repeat every 24 hours.",
+        "situation": "Joe ends his work day at 8 a.m. After work he spends time with his family and is usually in bed by 10am. Beth works day shift. She starts work at 11 am. She gets of at 7 pm after having dinner and getting her children to finish homework she gets some things done around the house and is usually in bed by 10pm.",
+        "qas": [
+            {
+                "question": "Who is has a hard ime sleeping?",
+                "id": "3880494255",
+                "answers": [
+                    {
+                        "text": "Joe"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "In nature, when the population size is large, there is usually plenty of food and other resources for each individual. When there is plenty of food and other resources, organisms can hardly reproduce, so the birth rate is low. As the population decreases, the food supply, or the supply of another necessary resource, may decrease. When necessary resources, such as food, decrease, some individuals will reproduce. Overall, the population can reproduce at the higher rate, so the birth rates rise. This will cause the population growth rate to increase.",
+        "situation": "The lioness was sitting on a rock looking hopefully out across the flat grasslands. The Savannah was in the midst of a drought. Water hole were small and scarce and most of the grass had died. Most of the herds had moved on to other areas. Many of those who hadn't died. ",
+        "qas": [
+            {
+                "question": "Are resources increasing or decreasing for the grazers?",
+                "id": "2686991721",
+                "answers": [
+                    {
+                        "text": "increasing"
+                    }
+                ]
+            }
+        ]
+    }
+]

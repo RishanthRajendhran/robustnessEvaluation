@@ -1,0 +1,320 @@
+PassageID: 0
+Passage: Association football is the most popular sport in nearly every African country, and 13 members of the Confederation of African Football (CAF) have competed at the sport's biggest event -- the men's FIFA World Cup.
+
+Questions:
+QuestionID: 0
+Question: can an african team win the world cup
+Answer: yes
+Explanation: Any team that competes at the world cup can potentially win. Since African teams participated in the world cup, they can win it.
+
+QuestionID: 1
+Question: do african teams compete in the world cup
+Answer: yes
+Explanation: Several members of CAF compete in the world cup.
+
+QuestionID: 2
+Question: do african countries dislike to compete in the world cup
+Answer: no
+Explanation: Several members of CAF compete in the world cup which indicates that they do not dislike to compete in the world cup.
+
+QuestionID: 3
+Question: can an african team win the men's FIFA World Cup
+Answer: yes
+Explanation:  Any team that competes at the men’s world cup can potentially win. Since African teams participated in the men’s world cup, they can potentially win it.
+
+QuestionID: 4
+Question: can an african team lose the men's FIFA World Cup
+Answer: yes
+Explanation: Any team that competes at the world cup can potentially lose. Since African teams participated in the world cup, they can lose it.
+
+--------------------------------------------------
+PassageID: 1
+Passage: The Fire Tablet, formerly called the Kindle Fire, is a tablet computer developed by Amazon.com. Built with Quanta Computer, the Kindle Fire was first released in November 2011, featuring a color 7-inch multi-touch display with IPS technology and running a custom version of Google's Android operating system called Fire OS. The Kindle Fire HD followed in September 2012, and the Kindle Fire HDX in September 2013. In September 2014, when the fourth generation was introduced, the name ``Kindle'' was dropped. In September 2015, the fifth generation Fire 7 was released, followed by the sixth generation Fire HD 8, in September 2016. The seventh generation Fire 7 was released in June 2017.
+
+Questions:
+QuestionID: 0
+Question: is a fire 7 the same as a kindle
+Answer: yes
+Explanation: The Fire Tablet was  formerly called the Kindle Fire. The name ``Kindle'' was dropped later.
+
+QuestionID: 1
+Question: is a fire 7 and kindle fire have the same producers
+Answer: yes
+Explanation: Both the fire 7 and the kindle fire are developed by Amazon.com.
+
+QuestionID: 2
+Question: is a fire 7 and kindle fire have different producers
+Answer: no
+Explanation: Both the fire 7 and the kindle fire are developed by Amazon.com.
+
+QuestionID: 3
+Question: is a fire tablet more advanced than former kindle fire
+Answer: no
+Explanation: Fire Tablet and the former Kindle fire both refer to the same tablet.
+
+QuestionID: 4
+Question: is a fire tablet HDX more advanced than former kindle fire
+Answer: yes
+Explanation: Kindle Fire HDX was released after the Kindle Fire. Next generation devices are more advanced than the previous generation devices.
+
+--------------------------------------------------
+PassageID: 2
+Passage: EMT-I/85 is a level of EMT-I training formulated by the National Registry of Emergency Medical Technicians in 1985. This training level includes more invasive procedures than are covered at the EMT-Basic level, including IV therapy, the use of advanced airway devices, and provides for advanced assessment skills. The EMT-I/85 typically administered the same medications as an EMT-B (oxygen, oral glucose, activated charcoal, epinephrine auto-injectors (EpiPens), nitroglycerin, and metered-dose inhalers such as albuterol). However, in some states they were also allowed to administer naloxone, D50, and glucagon. Like all other EMT levels, their scope of practice was governed by the state and/or their Medical Director.
+
+Questions:
+QuestionID: 0
+Question: can an emt-basic start an iv
+Answer: no
+Explanation: EMT-Basic does not include IV therapy.
+
+QuestionID: 1
+Question: can an EMT-I start an iv
+Answer: yes
+Explanation: EMT-I includes IV therapy.
+
+QuestionID: 2
+Question: can an emt-basic start more invasive procedures
+Answer: no
+Explanation: EMT-Basic does not include more invasive procedures.
+
+QuestionID: 3
+Question: can an emt-I start more invasive procedures
+Answer: yes
+Explanation: EMT-I includes more invasive procedures.
+
+QuestionID: 4
+Question: can an emt-basic training start on advanced airway devices
+Answer: FALSE
+Explanation: EMT-Basic does not include the use of advanced airway devices.
+
+QuestionID: 5
+Question: can an emt-I training start on advanced airway devices
+Answer: yes
+Explanation: EMT-I includes the use of advanced airway devices.
+
+--------------------------------------------------
+PassageID: 3
+Passage: The Fate of the Furious premiered in Berlin on April 4, 2017, and was theatrically released in the United States on April 14, 2017, playing in 3D, IMAX 3D and 4DX internationally. The film received mixed reviews from critics, many of whom praised the action sequences and acting performances but criticized the storyline. The film grossed over $1.2 billion worldwide, making it the thirtieth film (and the second in the franchise, after Furious 7) to gross over $1 billion, the third-highest-grossing film of 2017 and the fifteenth-highest-grossing film of all time. The film grossed $542 million worldwide during its opening weekend, which is the second highest-grossing worldwide opening of all time behind Avengers: Infinity War (2018). A spinoff film starring Johnson and Statham's characters is scheduled for release in August 2019, while the ninth and tenth films are scheduled for releases on the years 2020 and 2021.
+
+Questions:
+QuestionID: 0
+Question: is fate and the furious the last movie
+Answer: no
+Explanation: A spinoff film and the ninth and tenth films of the franchise are scheduled for release.
+
+QuestionID: 1
+Question: is "fate and the furious" the first of multiple movies
+Answer: yes
+Explanation: A spinoff film and the ninth and tenth films of the franchise are scheduled for release.
+
+QuestionID: 2
+Question: was "fate and the furious" released in the USA before Germany
+Answer: no
+Explanation: The Fate of the Furious first premiered in Berlin on April 4, 2017 and then was theatrically released in the United States on April 14, 2017.
+
+QuestionID: 3
+Question: was "fate and the furious" premiered in Germany
+Answer: yes
+Explanation: The Fate of the Furious premiered in Berlin which is in Germany.
+
+QuestionID: 4
+Question: was "fate and the furious" premiered in Munich
+Answer: no
+Explanation: The Fate of the Furious premiered in Berlin.
+
+QuestionID: 5
+Question: is "fate and the furious" scheduled for releases on 2020
+Answer: no
+Explanation: The Fate of the Furious premiered in Berlin on April 4, 2017, and was theatrically released in the United States on April 14, 2017. 
+
+QuestionID: 6
+Question: is "fate and the furious" scheduled for releases on 2021
+Answer: no
+Explanation: The Fate of the Furious premiered in Berlin on April 4, 2017, and was theatrically released in the United States on April 14, 2017. 
+
+QuestionID: 7
+Question: is "fate and the furious" scheduled for releases on 2017
+Answer: no
+Explanation: The Fate of the Furious premiered in Berlin on April 4, 2017, and was theatrically released in the United States on April 14, 2017.
+
+QuestionID: 8
+Question: was "fate and the furious" released on April
+Answer: yes
+Explanation: The Fate of the Furious premiered in Berlin on April 4, 2017.
+
+--------------------------------------------------
+PassageID: 4
+Passage: The Federal Government of the United States (U.S. Federal Government) is the national government of the United States, a federal republic in North America, composed of 50 states, one district--Washington, D.C., and several territories. The federal government is composed of three distinct branches: legislative, executive, and judicial, whose powers are vested by the U.S. Constitution in the Congress, the president, and the federal courts, respectively. The powers and duties of these branches are further defined by acts of Congress, including the creation of executive departments and courts inferior to the Supreme Court.
+
+Questions:
+QuestionID: 0
+Question: does the united states have a federal system of government
+Answer: yes
+Explanation: The United States is a federal republic.
+
+QuestionID: 1
+Question: does the united states have a Congress
+Answer: yes
+Explanation: The United States has a federal government composed of three distinct branches whose powers and duties are defined by acts of Congress.
+
+QuestionID: 2
+Question: does the united states have a federal system of government in South America
+Answer: no
+Explanation: The Federal Government of the United States (U.S. Federal Government) is the national government of the United States, a federal republic in North America.
+
+QuestionID: 3
+Question: does the united states have a federal system of government composed of less than 20 states
+Answer: no
+Explanation: The Federal Government of the United States is composed of 50 states.
+
+QuestionID: 4
+Question: does the united states have a federal system of government, composed of only two legislative and executive branches
+Answer: no
+Explanation: The United States has a federal government composed of three distinct branches.
+
+QuestionID: 5
+Question: does the united states have a federal system of government with powers and defined by the president
+Answer: no
+Explanation: The United States has a federal government composed of three distinct branches whose powers and duties are defined by acts of Congress.
+
+--------------------------------------------------
+PassageID: 5
+Passage: The first FA Cup Final to go to extra time and a replay was the 1875 final, between the Royal Engineers and the Old Etonians. The initial tie finished 1--1 but the Royal Engineers won the replay 2--0 in normal time. The last replayed final was the 1993 FA Cup Final, when Arsenal and Sheffield Wednesday fought a 1--1 draw. The replay saw Arsenal win the FA Cup, 2--1 after extra time.
+
+Questions:
+QuestionID: 0
+Question: can the fa cup final end in a tie
+Answer: no
+Explanation: The fa cup final goes to extra time and a replay in case of ties.
+
+QuestionID: 1
+Question: does the fa cup final always end in a tie
+Answer: no
+Explanation: The fa cup final goes to extra time and a replay in case of ties.
+
+QuestionID: 2
+Question: can the fa cup final end in a win
+Answer: yes
+Explanation: The FA Cup Final goes to extra time and a replay to break initial ties and decide a winner.
+
+QuestionID: 3
+Question: can the fa cup final always end in a team's win
+Answer: yes
+Explanation: The FA Cup Final goes to extra time and a replay to break initial ties and decide a winner.
+
+QuestionID: 4
+Question: can the fa cup final end in an extra time
+Answer: yes
+Explanation: The FA Cup Final goes to extra time and a replay to break initial ties and decide a winner.
+
+QuestionID: 5
+Question: does the fa cup final always end in an extra time
+Answer: no
+Explanation: The FA Cup Final goes to extra time only in case of initial ties.
+
+QuestionID: 6
+Question: can the fa cup final go to extra time
+Answer: yes
+Explanation: The FA Cup Final goes to extra time and a replay in case of initial ties.
+
+QuestionID: 7
+Question: does the fa cup final always go to an extra time
+Answer: no
+Explanation: The FA Cup Final goes to extra time only in case of initial ties.
+
+--------------------------------------------------
+PassageID: 6
+Passage: The ASU includes a midnight blue coat and low waist trousers for male soldiers; and a midnight blue coat, slacks and skirt for female soldiers. The fabric for the ASU is heavier and more wrinkle resistant than previously manufactured uniforms and will consist of 55% wool and 45% polyester material. The ASU coat has a tailored, athletic cut to improve uniform fit and appearance. The ASU includes an improved heavier and wrinkle resistant short and long-sleeved white shirt with permanent military creases and shoulder loops. The JROTC version replaces the white shirt with the prototype grey shirt and gold braid is not worn on the blue trousers or on the sleeves of the class A coat. Compared to the Army's previous uniforms, the ASU does not include a garrison cap; soldiers will continue to wear the Army's berets.
+
+Questions:
+QuestionID: 0
+Question: can you wear short sleeve shirt with asu jacket
+Answer: yes
+Explanation: The ASU uniform includes a short-sleeved white shirt.
+
+QuestionID: 1
+Question: can you wear long sleeve shirt with asu jacket
+Answer: yes
+Explanation: The ASU uniform includes a long-sleeved white shirt.
+
+QuestionID: 2
+Question: can you still wear garrison cap in asu uniform
+Answer: no
+Explanation: The ASU uniform no longer includes a garrison cap.
+
+QuestionID: 3
+Question: can you still wear berets in asu uniform
+Answer: yes
+Explanation: The ASU uniform does include the Army's berets.
+
+QuestionID: 4
+Question: can you still wear white shirts in asu uniform
+Answer: no
+Explanation: The JROTC version replaced the white shirt with the grey shirt.
+
+QuestionID: 5
+Question: can you still wear grey shirts in asu uniform
+Answer: yes
+Explanation: The JROTC version includes the grey shirt.
+
+--------------------------------------------------
+PassageID: 7
+Passage: The Handmaid's Tale is a 1990 film adaptation of Margaret Atwood's novel of the same name. Directed by Volker Schlöndorff, the film stars Natasha Richardson (Kate/Offred), Faye Dunaway (Serena Joy), Robert Duvall (The Commander, Fred), Aidan Quinn (Nick), and Elizabeth McGovern (Moira). The screenplay was written by Harold Pinter. The original music score was composed by Ryuichi Sakamoto. MGM Home Entertainment released an Avant-Garde Cinema DVD of the film in 2001. The film was entered into the 40th Berlin International Film Festival.
+
+Questions:
+QuestionID: 0
+Question: is there a movie the handmaid's tale
+Answer: yes
+Explanation: The Handmaid's Tale is a 1990 film.
+
+QuestionID: 1
+Question: is there a 2001 movie named "the handmaid's tale"
+Answer: no
+Explanation: The Handmaid's Tale is a 1990 film.
+
+QuestionID: 2
+Question: is there a novel called "the handmaid's tale"
+Answer: yes
+Explanation: The Handmaid's Tale is a novel written by Margaret Atwood.
+
+QuestionID: 3
+Question: is there a novel called "Margaret Atwood"
+Answer: no
+Explanation: It is not known if there is a novel called “Margaret Atwood”.
+
+QuestionID: 4
+Question: is there a novel written by "Margaret Atwood"
+Answer: yes
+Explanation: Margaret Atwood is the author of The Handmaid's Tale.
+
+--------------------------------------------------
+PassageID: 8
+Passage: In mathematics, the dot product or scalar product is an algebraic operation that takes two equal-length sequences of numbers (usually coordinate vectors) and returns a single number. In Euclidean geometry, the dot product of the Cartesian coordinates of two vectors is widely used and often called inner product (or rarely projection product); see also inner product space.
+
+Questions:
+QuestionID: 0
+Question: is the dot product of two vectors a scalar
+Answer: yes
+Explanation: The dot product is also called the scalar product as it returns a single scalar.
+
+QuestionID: 1
+Question: is the dot product of two vectors a vector
+Answer: no
+Explanation: The dot product returns a single scalar.
+
+QuestionID: 2
+Question: is the dot product of two equal-length vectors a vector
+Answer: no
+Explanation: The dot product returns a single scalar.
+
+QuestionID: 3
+Question: is the dot product of two equal-length vectors a scalar
+Answer: yes
+Explanation: The dot product is also called the scalar product as it returns a single scalar.
+
+QuestionID: 4
+Question: is the scalar product of two vectors a scalar
+Answer: yes
+Explanation: The dot product is also called the scalar product as it returns a single scalar.
+
+--------------------------------------------------

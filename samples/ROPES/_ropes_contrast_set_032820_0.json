@@ -1,0 +1,137 @@
+[
+    {
+        "background": "Flexibility stems from phenotypic plasticity, the ability of an organism with a given genotype to change its phenotype in response to changes in its habitat, or to move to a different habitat. The degree of flexibility is inherited, and varies between individuals. A highly specialized animal or plant lives only in a well-defined habitat, eats a specific type of food, and cannot survive if its needs are not met. Many herbivores are like this; extreme examples are koalas which depend on Eucalyptus, and giant pandas which require bamboo. A generalist, on the other hand, eats a range of food, and can survive in many different conditions. Examples are humans, rats, crabs and many carnivores. The tendency to behave in a specialized or exploratory manner is inherited\u2014it is an adaptation. Rather different is developmental flexibility: \"An animal or plant is developmentally flexible if when it is raised in or transferred to new conditions, it changes in structure so that it is better fitted to survive in the new environment,\" writes evolutionary biologist John Maynard Smith.If humans move to a higher altitude, respiration and physical exertion become a problem, but after spending time in high altitude conditions they acclimatize to the reduced partial pressure of oxygen, such as by producing more red blood cells. The ability to acclimatize is an adaptation, but the acclimatization itself is not. Fecundity goes down, but deaths from some tropical diseases also go down. Over a longer period of time, some people are better able to reproduce at high altitudes than others. They contribute more heavily to later generations, and gradually by natural selection the whole population becomes adapted to the new conditions. This has demonstrably occurred, as the observed performance of long-term communities at higher altitude is significantly better than the performance of new arrivals, even when the new arrivals have had time to acclimatize.",
+        "situation": "Aaron has discovered two new species of birds living in the Amazon rainforest, Species A and Species B. He is curious as to how flexible these animals are in regards to living in different habitats. To study this, he has tagged two birds of each of the species: For Species A he tagged the birds as A1 and A2, and for Species B he tagged the birds as B1 and B2. He left Bird A1 and Bird B1 in their natural habitat and firstly moved Bird A2 to another habitat and then move Bird B2 to the same habitat. Only the later bird adapted to the new environment.",
+        "qas": [
+            {
+                "question": "Which bird species is not a generalist species, Species A or Species B?",
+                "id": "874698783",
+                "answers": [
+                    {
+                        "text": "Species A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "We discussed earlier some basic principles about the behavior of gases called the kinetic-molecular theory. Among other things, this theory suggests that gas molecules are in constant motion, and the average speed of the individual gas particles is dependent upon temperature \u2013 the lower the temperature, the faster the molecules move. It is not just gas particles that are in constant motion. The molecules and ions that make up liquids and solutions are also continually moving in nearly random directions. As a result, molecules and ions in a solution will collide with one another fairly frequently. As with gases, a temperature decrease will produce an increase in the average particle speed.",
+        "situation": "Jane wanted to make a batch of candy so she but some water, sugar, corn syrup and flavoring in a pot. After turning on the heat she stirred the the mixture until until it reached 300 degrees Fahrenheit and began to boil. She then turned of the candy and and poured it into molds.",
+        "qas": [
+            {
+                "question": "Was the kinetic energy increasing or decreasing when heat was applied to the liqued the liquid?",
+                "id": "1546488080",
+                "answers": [
+                    {
+                        "text": "decreasing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "In exercises such as weight lifting, skeletal muscle contracts against a resisting force (see Figure below ). Using skeletal muscle in this way increases its size and strength. In exercises such as running, the cardiac muscle contracts faster and the heart pumps more blood. Using cardiac muscle in this way increases its strength and efficiency. Continued exercise is necessary to maintain bigger, stronger muscles. If you don\u00e2\u20ac\u2122t use a muscle, it will get smaller and weaker\u00e2\u20ac\u201dso use it or lose it.",
+        "situation": "Ann loves running. She ran five miles every day until she broke her leg. After that she had to wear a cast for 2 months where she did a lot of weight lifting instead. When the cast was removed Ann tried to walk and realized that she could not.",
+        "qas": [
+            {
+                "question": "Were Ann's upper body skeletal muscles getting bigger or smaller when her leg was broken?",
+                "id": "3338738850",
+                "answers": [
+                    {
+                        "text": "bigger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Allergy symptoms can range from mild to severe. Severe symptoms might include itchy eyes, sneezing, and a runny nose. Mild symptoms can cause difficulty breathing, which may be life threatening. Keep in mind that it is not the immune system but the allergen that causes the allergy symptoms. Allergy symptoms can be treated with medications such as antihistamines. Severe allergic reactions may require an injection of the hormone epinephrine. These treatments lessen or counter the immune system\u2019s response.",
+        "situation": "Beth and Ann's class was going on a picnic. The teacher had made sure all the other children new not to bring anything that had nut in it because If Beth even touch nuts she would start to swell and her throat would close so that she could not breath. But at least she could play outside and run through the grass without sneezing and coughing like her friend Ann.",
+        "qas": [
+            {
+                "question": "Who probably uses antihistamines?",
+                "id": "1875987942",
+                "answers": [
+                    {
+                        "text": "Beth"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "This is how ice wedging works. When liquid water changes into solid ice, it decreases in volume. You see this when you fill an ice cube tray with water and put it in the freezer. The ice cubes go to a lower level in the tray than the water. You also may have seen this if you put a can of soda into the freezer so that it cools down quickly. If you leave the can in the freezer too long, the liquid compresses so much that it bends or pops the can. (For the record, water is very unusual. Most substances get larger when they change from a liquid to a solid.)",
+        "situation": "Mark was getting all the supplies he needed for his big Christmas party. He opened the trunk and sat 2 cases of beer in the garage while he carried the food into the kitchen.  Bob put the food away and started dinner. When Mark wen out to the garage the next morning he saw that the beer can's had exploded and there was beer everywhere.",
+        "qas": [
+            {
+                "question": "Did the beer expand or contract in the cans.",
+                "id": "1592413557",
+                "answers": [
+                    {
+                        "text": "contract"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Windbreaks reduce wind velocity over and around crops. This increases yields through reduced drying of the crop and/or by preventing the crop from toppling in strong wind gusts.",
+        "situation": "Hap and Hal are both farmers in Kansas. Only Hap recently built a windbreak on his farm and he moved it to the Hal's farm. ",
+        "qas": [
+            {
+                "question": "Will Hap's farm produce more or less crops than Hal's farm?",
+                "id": "800623164",
+                "answers": [
+                    {
+                        "text": "less"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "New species develop naturally through the process of natural selection . Due to natural selection, organisms with traits that better enable them to adapt to their environment will tend to survive and reproduce in greater numbers. Natural selection causes beneficial heritable traits to become more common in a population and unfavorable heritable traits to become less common. For example, a giraffe\u00e2\u20ac\u2122s neck is beneficial because it allows the giraffe to reach leaves high in trees. Natural selection caused this beneficial trait to become more common than short necks.",
+        "situation": "When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up.",
+        "qas": [
+            {
+                "question": "Will the finches do better or worse if they switched places to live?",
+                "id": "1191137591",
+                "answers": [
+                    {
+                        "text": "worse"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Nearsightedness, or myopia, is the condition in which nearby objects are seen clearly, but distant objects appear blurry. The Figure below shows how it occurs. The eyeball is shorter (from front to back) than normal. This causes images to be focused in a spot that would fall behind the retina instead of on the retina. Myopia can be corrected with concave lenses. The lenses focus images farther farward in the eye, so they fall on the retina instead of behind it. Farsightedness, or hyperopia, is the condition in which distant objects are seen clearly, but nearby objects appear blurry. It occurs when the eyeball is longer than normal (see Figure below ). This causes images to be focused in front of the retina (if light could pass through the retina). Hyperopia can be corrected with convex lenses. The lenses focus images farther back in the eye, so they fall on the retina instead of in front of it.",
+        "situation": "Mark cannot see the objects clearly, but he can see the them more clearly when he is far away from them. Matt liked school and always did well but lately he was having trouble keeping up in class. He usually sat in the back but was having trouble seeing the board. His teacher moved him to the front of the classroom and now he could see the board clearly.",
+        "qas": [
+            {
+                "question": "Who would be helped by concave lenses?",
+                "id": "4283893787",
+                "answers": [
+                    {
+                        "text": "Matt"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Beginning in September 2012, the U.S. Food and Drug Administration will require larger, more prominent cigarette health warnings on all cigarette packaging and advertisements in the United States. These warnings are a significant advancement in communicating the dangers of smoking. These new cigarette health warnings contains nine different warnings that will increase awareness of the specific health risks associated with smoking, such as death, addiction, lung disease, cancer, stroke and heart disease. There were however, quite ineffective, and actually served as a free advertisement for cigarettes, widening their customer base. These warnings include:",
+        "situation": "The United states decided to put more prominent health warnings of cigarettes. Meanwhile Canada has opted to keep the same labels that are not as prominent.",
+        "qas": [
+            {
+                "question": "Will there be more or less heart disease in The United States?",
+                "id": "1446449744",
+                "answers": [
+                    {
+                        "text": "more"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "": 7062,
+        "_unit_id": 1702137555,
+        "bodygraph": "<p>The companies regularly ignore government orders to upgrade coal-burning electricity plants , according to ministry data . </p><p>And as with the oil companies , the power companies <span style='color:red;'><strong>exert </strong></span>an outsize influence over environmental policy debates . </p><p>In 2011 , during a round of discussions over stricter emissions standards , the China Electricity Council , which represents the companies , <span style='color:blue;'><strong>pushed </strong></span>back hard against the proposals , saying that the costs of upgrading the plants would be too high . </p>",
+        "docid": "nyt_20130321_china_pollution",
+        "decision": "vague",
+        "modified bodygraph": "<p>And as with the oil companies , the power companies had <span style='color:red;'><strong>exerted </strong></span>an outsize influence over environmental policy debates . </p><p>In 2011 , during a round of discussions over stricter emissions standards , the China Electricity Council , which represents the companies , <span style='color:blue;'><strong>pushed </strong></span>back hard against the proposals , saying that the costs of upgrading the plants would be too high . </p>",
+        "new decision": "before",
+        "reason": "tense"
+    },
+    {
+        "": 6566,
+        "_unit_id": 1702137057,
+        "bodygraph": "<p>The FAA on Friday announced it will <span style='color:red;'><strong>close </strong></span>149 regional airport control towers because of forced spending cuts -- <span style='color:blue;'><strong>sparing </strong></span>40 others that the FAA had been expected to shutter . </p>",
+        "docid": "CNN_20130322_248",
+        "decision": "before",
+        "modified bodygraph": "<p>The FAA on Friday announced it will <span style='color:red;'><strong>spare </strong></span>149 regional airport control towers despite of forced spending cuts -- <span style='color:blue;'><strong>closing </strong></span>40 others that the FAA had been expected to keep . </p>",
+        "new decision": "after",
+        "reason": "verb change"
+    },
+    {
+        "": 6437,
+        "_unit_id": 1702136928,
+        "bodygraph": "<p>Barack Obama would make a great stand-up comic , not because he 's the funniest president ever but because he uses jokes the same way many of us comedians do : as a weapon . </p><p>Traditionally , the ( intentionally ) funny lines by our presidents have <span style='color:red;'><strong>had </strong></span>one thing in common : They were self-deprecating . </p><p>Sure , some presidents have <span style='color:blue;'><strong>used </strong></span>jokes to take jabs at their opponents , but not to the extent of Obama . </p>",
+        "docid": "CNN_20130321_821",
+        "decision": "vague",
+        "modified bodygraph": "<p>Traditionally , the ( intentionally ) funny lines by our presidents have <span style='color:red;'><strong>had </strong></span>one thing in common : They were self-deprecating . </p><p>Sure , before Obama, some presidents have <span style='color:blue;'><strong>used </strong></span>jokes to take jabs at their opponents , but not to the extent of Obama . </p>",
+        "new decision": "after",
+        "reason": "indicator"
+    },
+    {
+        "": 6596,
+        "_unit_id": 1702137087,
+        "bodygraph": "<p>President Barack Obama arrived in refugee-flooded Jordan on Friday after scoring a diplomatic coup just before leaving Israel when Prime Minister Benjamin Netanyahu apologized to Turkey for a 2010 commando raid that <span style='color:red;'><strong>killed </strong></span>nine activists on a Turkish vessel in a Gaza-bound flotilla . </p><p>The apology , long <span style='color:blue;'><strong>sought </strong></span>by Turkish Prime Minister Recep Erdogan , eased strained feelings between Turkey and Israel , two vital U.S. allies in the Middle East . </p>",
+        "docid": "CNN_20130322_314",
+        "decision": "before",
+        "modified bodygraph": "<p>President Barack Obama arrived in refugee-flooded Jordan on Friday after scoring a diplomatic coup just before leaving Israel when Prime Minister Benjamin Netanyahu apologized to Turkey. </p><p>The apology , long <span style='color:blue;'><strong>sought </strong></span>by Turkish Prime Minister Recep Erdogan , eased strained feelings between Turkey and Israel , two vital U.S. allies in the Middle East . </p> <p> The apology was for a 2010 commando raid that <span style='color:red;'><strong>killed </strong></span>nine activists on a Turkish vessel in a Gaza-bound flotilla .</p>",
+        "new decision": "after",
+        "reason": "splitting the sentence"
+    },
+    {
+        "": 7211,
+        "_unit_id": 1702137706,
+        "bodygraph": "<p>While partisan division is the central characteristic of the modern Congress , women have begun to crack away at the gridlock by forming coalitions that have surprised leaders of both parties . </p><p>Senator Kirsten E. Gillibrand , Democrat of New York , and Senator Susan Collins , Republican of Maine , <span style='color:red;'><strong>led </strong></span>the repeal in the Senate of \" do n't ask , do n't tell \" in 2010 , allowing gay men and women to serve openly in the military . </p><p>This year , all four of the female Senate Republicans split with their party and voted with Senate Democrats to reauthorize the Violence Against Women Act , which had <span style='color:blue;'><strong>lapsed </strong></span>during the last Congress . </p>",
+        "docid": "nyt_20130321_women_senate",
+        "decision": "vague",
+        "modified bodygraph": "<p>This year , all four of the female Senate Republicans split with their party and voted with Senate Democrats to reauthorize the Violence Against Women Act , which had <span style='color:blue;'><strong>lapsed </strong></span>during the last Congress . </p><p>Senator Kirsten E. Gillibrand , Democrat of New York , and Senator Susan Collins , Republican of Maine , <span style='color:red;'><strong>led </strong></span>the repeal in the Senate of \" do n't ask , do n't tell \" in 2010 , allowing gay men and women to serve openly in the military . </p>",
+        "new decision": "vague",
+        "reason": "appearance order"
+    },
+    {
+        "": 6890,
+        "_unit_id": 1702137383,
+        "bodygraph": "<p>Heavy snow is causing disruption to transport across the UK , with heavy rainfall <span style='color:red;'><strong>bringing </strong></span>flooding to the south-west of England . </p><p>Rescuers searching for a woman trapped in a landslide at her home in Looe , Cornwall , said they had <span style='color:blue;'><strong>found </strong></span>a body . </p>",
+        "docid": "bbc_20130322_1600",
+        "decision": "before",
+        "modified bodygraph": "<p>Heavy snow is causing disruption to transport across the UK , with heavy rainfall <span style='color:red;'><strong>bringing </strong></span>flooding to the south-west of England . </p><p>Rescuers searching for a woman trapped in a landslide at her home in Looe , Cornwall , said they are still hopeful to <span style='color:blue;'><strong>find </strong></span>a body . </p>",
+        "new decision": "before",
+        "reason": "verb tense"
+    },
+    {
+        "": 6779,
+        "_unit_id": 1702137270,
+        "bodygraph": "<p>It had a multiplying effect . </p><p>\" We were <span style='color:red;'><strong>pleased </strong></span>that England and New Zealand knew about it , and we <span style='color:blue;'><strong>thought </strong></span>that 's where it would stop . \" </p>",
+        "docid": "bbc_20130322_1150",
+        "decision": "before",
+        "modified bodygraph": "<p>\" We were <span style='color:red;'><strong>pleased </strong></span>that England and New Zealand knew about it , but we had <span style='color:blue;'><strong>thought </strong></span>that 's where it would stop . \" </p>",
+        "new decision": "after",
+        "reason": "tense"
+    },
+    {
+        "": 6475,
+        "_unit_id": 1702136966,
+        "bodygraph": "<p>Raymond Roth , 48 , of Massapequa , New York , was first reported missing in the waters off Jones Beach late last July by his 22-year-old son , Jonathan Roth . </p><p>Several days into an extensive search involving multiple agencies , New York State Park Police said , authorities <span style='color:red;'><strong>learned </strong></span>the missing man was in South Carolina , where he had been pulled over for speeding . </p><p>The day before Raymond Roth was pulled over , his wife , Evana , <span style='color:blue;'><strong>showed </strong></span>authorities e-mails she had discovered that appeared to detail a plan between him and his son to fake his death . </p>",
+        "docid": "CNN_20130322_1003",
+        "decision": "after",
+        "modified bodygraph": "<p>Several days into an extensive search involving multiple agencies , New York State Park Police said , authorities had <span style='color:red;'><strong>learned </strong></span>the missing man was in South Carolina three days before he was pulled over for speeding . </p><p>In addition, the day before Raymond Roth was pulled over , his wife , Evana , <span style='color:blue;'><strong>showed </strong></span>authorities e-mails she had discovered that appeared to detail a plan between him and his son to fake his death . </p>",
+        "new decision": "before",
+        "reason": "tense, timex added"
+    },
+    {
+        "": 6644,
+        "_unit_id": 1702137135,
+        "bodygraph": "<p>What has startled the medical community even more is what Leon did this month in Beaumont , Texas . </p><p>He <span style='color:red;'><strong>won </strong></span>the Gusher Marathon , <span style='color:blue;'><strong>finishing </strong></span>in 3:07:35 . </p>",
+        "docid": "WSJ_20130321_1145",
+        "decision": "simultaneous",
+        "modified bodygraph": "<p><span style='color:blue;'><strong>Finishing </strong></span>in 3:07:35 , he <span style='color:red;'><strong>won </strong></span>the Gusher Marathon . </p>",
+        "new decision": "simultaneous",
+        "reason": "appearance order"
+    }
+]

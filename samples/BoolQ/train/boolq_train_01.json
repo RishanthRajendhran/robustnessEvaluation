@@ -1,0 +1,850 @@
+[
+    {
+        "PassageID": "0_0",
+        "sentence1": "Association football is the most popular sport in nearly every African country, and 13 members of the Confederation of African Football (CAF) have competed at the sport's biggest event -- the men's FIFA World Cup.",
+        "QuestionID": "0",
+        "sentence2": "can an african team win the world cup",
+        "label": "yes",
+        "explanation": "Any team that competes at the world cup can potentially win. Since African teams participated in the world cup, they can win it."
+    },
+    {
+        "PassageID": "0_0",
+        "sentence1": "Association football is the most popular sport in nearly every African country, and 13 members of the Confederation of African Football (CAF) have competed at the sport's biggest event -- the men's FIFA World Cup.",
+        "QuestionID": "1",
+        "sentence2": "do african teams compete in the world cup",
+        "label": "yes",
+        "explanation": "Several members of CAF compete in the world cup."
+    },
+    {
+        "PassageID": "0_0",
+        "sentence1": "Association football is the most popular sport in nearly every African country, and 13 members of the Confederation of African Football (CAF) have competed at the sport's biggest event -- the men's FIFA World Cup.",
+        "QuestionID": "2",
+        "sentence2": "do african countries dislike to compete in the world cup",
+        "label": "no",
+        "explanation": "Several members of CAF compete in the world cup which indicates that they do not dislike to compete in the world cup."
+    },
+    {
+        "PassageID": "0_0",
+        "sentence1": "Association football is the most popular sport in nearly every African country, and 13 members of the Confederation of African Football (CAF) have competed at the sport's biggest event -- the men's FIFA World Cup.",
+        "QuestionID": "3",
+        "sentence2": "can an african team win the men's FIFA World Cup",
+        "label": "yes",
+        "explanation": "Any team that competes at the men\u2019s world cup can potentially win. Since African teams participated in the men\u2019s world cup, they can potentially win it."
+    },
+    {
+        "PassageID": "0_0",
+        "sentence1": "Association football is the most popular sport in nearly every African country, and 13 members of the Confederation of African Football (CAF) have competed at the sport's biggest event -- the men's FIFA World Cup.",
+        "QuestionID": "4",
+        "sentence2": "can an african team lose the men's FIFA World Cup",
+        "label": "yes",
+        "explanation": "Any team that competes at the world cup can potentially lose. Since African teams participated in the world cup, they can lose it."
+    },
+    {
+        "PassageID": "0_1",
+        "sentence1": "The Fire Tablet, formerly called the Kindle Fire, is a tablet computer developed by Amazon.com. Built with Quanta Computer, the Kindle Fire was first released in November 2011, featuring a color 7-inch multi-touch display with IPS technology and running a custom version of Google's Android operating system called Fire OS. The Kindle Fire HD followed in September 2012, and the Kindle Fire HDX in September 2013. In September 2014, when the fourth generation was introduced, the name ``Kindle'' was dropped. In September 2015, the fifth generation Fire 7 was released, followed by the sixth generation Fire HD 8, in September 2016. The seventh generation Fire 7 was released in June 2017.",
+        "QuestionID": "0",
+        "sentence2": "is a fire 7 the same as a kindle",
+        "label": "yes",
+        "explanation": "The Fire Tablet was  formerly called the Kindle Fire. The name ``Kindle'' was dropped later."
+    },
+    {
+        "PassageID": "0_1",
+        "sentence1": "The Fire Tablet, formerly called the Kindle Fire, is a tablet computer developed by Amazon.com. Built with Quanta Computer, the Kindle Fire was first released in November 2011, featuring a color 7-inch multi-touch display with IPS technology and running a custom version of Google's Android operating system called Fire OS. The Kindle Fire HD followed in September 2012, and the Kindle Fire HDX in September 2013. In September 2014, when the fourth generation was introduced, the name ``Kindle'' was dropped. In September 2015, the fifth generation Fire 7 was released, followed by the sixth generation Fire HD 8, in September 2016. The seventh generation Fire 7 was released in June 2017.",
+        "QuestionID": "1",
+        "sentence2": "is a fire 7 and kindle fire have the same producers",
+        "label": "yes",
+        "explanation": "Both the fire 7 and the kindle fire are developed by Amazon.com."
+    },
+    {
+        "PassageID": "0_1",
+        "sentence1": "The Fire Tablet, formerly called the Kindle Fire, is a tablet computer developed by Amazon.com. Built with Quanta Computer, the Kindle Fire was first released in November 2011, featuring a color 7-inch multi-touch display with IPS technology and running a custom version of Google's Android operating system called Fire OS. The Kindle Fire HD followed in September 2012, and the Kindle Fire HDX in September 2013. In September 2014, when the fourth generation was introduced, the name ``Kindle'' was dropped. In September 2015, the fifth generation Fire 7 was released, followed by the sixth generation Fire HD 8, in September 2016. The seventh generation Fire 7 was released in June 2017.",
+        "QuestionID": "2",
+        "sentence2": "is a fire 7 and kindle fire have different producers",
+        "label": "no",
+        "explanation": "Both the fire 7 and the kindle fire are developed by Amazon.com."
+    },
+    {
+        "PassageID": "0_1",
+        "sentence1": "The Fire Tablet, formerly called the Kindle Fire, is a tablet computer developed by Amazon.com. Built with Quanta Computer, the Kindle Fire was first released in November 2011, featuring a color 7-inch multi-touch display with IPS technology and running a custom version of Google's Android operating system called Fire OS. The Kindle Fire HD followed in September 2012, and the Kindle Fire HDX in September 2013. In September 2014, when the fourth generation was introduced, the name ``Kindle'' was dropped. In September 2015, the fifth generation Fire 7 was released, followed by the sixth generation Fire HD 8, in September 2016. The seventh generation Fire 7 was released in June 2017.",
+        "QuestionID": "3",
+        "sentence2": "is a fire tablet more advanced than former kindle fire",
+        "label": "no",
+        "explanation": "Fire Tablet and the former Kindle fire both refer to the same tablet."
+    },
+    {
+        "PassageID": "0_1",
+        "sentence1": "The Fire Tablet, formerly called the Kindle Fire, is a tablet computer developed by Amazon.com. Built with Quanta Computer, the Kindle Fire was first released in November 2011, featuring a color 7-inch multi-touch display with IPS technology and running a custom version of Google's Android operating system called Fire OS. The Kindle Fire HD followed in September 2012, and the Kindle Fire HDX in September 2013. In September 2014, when the fourth generation was introduced, the name ``Kindle'' was dropped. In September 2015, the fifth generation Fire 7 was released, followed by the sixth generation Fire HD 8, in September 2016. The seventh generation Fire 7 was released in June 2017.",
+        "QuestionID": "4",
+        "sentence2": "is a fire tablet HDX more advanced than former kindle fire",
+        "label": "yes",
+        "explanation": "Kindle Fire HDX was released after the Kindle Fire. Next generation devices are more advanced than the previous generation devices."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "EMT-I/85 is a level of EMT-I training formulated by the National Registry of Emergency Medical Technicians in 1985. This training level includes more invasive procedures than are covered at the EMT-Basic level, including IV therapy, the use of advanced airway devices, and provides for advanced assessment skills. The EMT-I/85 typically administered the same medications as an EMT-B (oxygen, oral glucose, activated charcoal, epinephrine auto-injectors (EpiPens), nitroglycerin, and metered-dose inhalers such as albuterol). However, in some states they were also allowed to administer naloxone, D50, and glucagon. Like all other EMT levels, their scope of practice was governed by the state and/or their Medical Director.",
+        "QuestionID": "0",
+        "sentence2": "can an emt-basic start an iv",
+        "label": "no",
+        "explanation": "EMT-Basic does not include IV therapy."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "EMT-I/85 is a level of EMT-I training formulated by the National Registry of Emergency Medical Technicians in 1985. This training level includes more invasive procedures than are covered at the EMT-Basic level, including IV therapy, the use of advanced airway devices, and provides for advanced assessment skills. The EMT-I/85 typically administered the same medications as an EMT-B (oxygen, oral glucose, activated charcoal, epinephrine auto-injectors (EpiPens), nitroglycerin, and metered-dose inhalers such as albuterol). However, in some states they were also allowed to administer naloxone, D50, and glucagon. Like all other EMT levels, their scope of practice was governed by the state and/or their Medical Director.",
+        "QuestionID": "1",
+        "sentence2": "can an EMT-I start an iv",
+        "label": "yes",
+        "explanation": "EMT-I includes IV therapy."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "EMT-I/85 is a level of EMT-I training formulated by the National Registry of Emergency Medical Technicians in 1985. This training level includes more invasive procedures than are covered at the EMT-Basic level, including IV therapy, the use of advanced airway devices, and provides for advanced assessment skills. The EMT-I/85 typically administered the same medications as an EMT-B (oxygen, oral glucose, activated charcoal, epinephrine auto-injectors (EpiPens), nitroglycerin, and metered-dose inhalers such as albuterol). However, in some states they were also allowed to administer naloxone, D50, and glucagon. Like all other EMT levels, their scope of practice was governed by the state and/or their Medical Director.",
+        "QuestionID": "2",
+        "sentence2": "can an emt-basic start more invasive procedures",
+        "label": "no",
+        "explanation": "EMT-Basic does not include more invasive procedures."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "EMT-I/85 is a level of EMT-I training formulated by the National Registry of Emergency Medical Technicians in 1985. This training level includes more invasive procedures than are covered at the EMT-Basic level, including IV therapy, the use of advanced airway devices, and provides for advanced assessment skills. The EMT-I/85 typically administered the same medications as an EMT-B (oxygen, oral glucose, activated charcoal, epinephrine auto-injectors (EpiPens), nitroglycerin, and metered-dose inhalers such as albuterol). However, in some states they were also allowed to administer naloxone, D50, and glucagon. Like all other EMT levels, their scope of practice was governed by the state and/or their Medical Director.",
+        "QuestionID": "3",
+        "sentence2": "can an emt-I start more invasive procedures",
+        "label": "yes",
+        "explanation": "EMT-I includes more invasive procedures."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "EMT-I/85 is a level of EMT-I training formulated by the National Registry of Emergency Medical Technicians in 1985. This training level includes more invasive procedures than are covered at the EMT-Basic level, including IV therapy, the use of advanced airway devices, and provides for advanced assessment skills. The EMT-I/85 typically administered the same medications as an EMT-B (oxygen, oral glucose, activated charcoal, epinephrine auto-injectors (EpiPens), nitroglycerin, and metered-dose inhalers such as albuterol). However, in some states they were also allowed to administer naloxone, D50, and glucagon. Like all other EMT levels, their scope of practice was governed by the state and/or their Medical Director.",
+        "QuestionID": "4",
+        "sentence2": "can an emt-basic training start on advanced airway devices",
+        "label": "FALSE",
+        "explanation": "EMT-Basic does not include the use of advanced airway devices."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "EMT-I/85 is a level of EMT-I training formulated by the National Registry of Emergency Medical Technicians in 1985. This training level includes more invasive procedures than are covered at the EMT-Basic level, including IV therapy, the use of advanced airway devices, and provides for advanced assessment skills. The EMT-I/85 typically administered the same medications as an EMT-B (oxygen, oral glucose, activated charcoal, epinephrine auto-injectors (EpiPens), nitroglycerin, and metered-dose inhalers such as albuterol). However, in some states they were also allowed to administer naloxone, D50, and glucagon. Like all other EMT levels, their scope of practice was governed by the state and/or their Medical Director.",
+        "QuestionID": "5",
+        "sentence2": "can an emt-I training start on advanced airway devices",
+        "label": "yes",
+        "explanation": "EMT-I includes the use of advanced airway devices."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "The Fate of the Furious premiered in Berlin on April 4, 2017, and was theatrically released in the United States on April 14, 2017, playing in 3D, IMAX 3D and 4DX internationally. The film received mixed reviews from critics, many of whom praised the action sequences and acting performances but criticized the storyline. The film grossed over $1.2 billion worldwide, making it the thirtieth film (and the second in the franchise, after Furious 7) to gross over $1 billion, the third-highest-grossing film of 2017 and the fifteenth-highest-grossing film of all time. The film grossed $542 million worldwide during its opening weekend, which is the second highest-grossing worldwide opening of all time behind Avengers: Infinity War (2018). A spinoff film starring Johnson and Statham's characters is scheduled for release in August 2019, while the ninth and tenth films are scheduled for releases on the years 2020 and 2021.",
+        "QuestionID": "0",
+        "sentence2": "is fate and the furious the last movie",
+        "label": "no",
+        "explanation": "A spinoff film and the ninth and tenth films of the franchise are scheduled for release."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "The Fate of the Furious premiered in Berlin on April 4, 2017, and was theatrically released in the United States on April 14, 2017, playing in 3D, IMAX 3D and 4DX internationally. The film received mixed reviews from critics, many of whom praised the action sequences and acting performances but criticized the storyline. The film grossed over $1.2 billion worldwide, making it the thirtieth film (and the second in the franchise, after Furious 7) to gross over $1 billion, the third-highest-grossing film of 2017 and the fifteenth-highest-grossing film of all time. The film grossed $542 million worldwide during its opening weekend, which is the second highest-grossing worldwide opening of all time behind Avengers: Infinity War (2018). A spinoff film starring Johnson and Statham's characters is scheduled for release in August 2019, while the ninth and tenth films are scheduled for releases on the years 2020 and 2021.",
+        "QuestionID": "1",
+        "sentence2": "is \"fate and the furious\" the first of multiple movies",
+        "label": "yes",
+        "explanation": "A spinoff film and the ninth and tenth films of the franchise are scheduled for release."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "The Fate of the Furious premiered in Berlin on April 4, 2017, and was theatrically released in the United States on April 14, 2017, playing in 3D, IMAX 3D and 4DX internationally. The film received mixed reviews from critics, many of whom praised the action sequences and acting performances but criticized the storyline. The film grossed over $1.2 billion worldwide, making it the thirtieth film (and the second in the franchise, after Furious 7) to gross over $1 billion, the third-highest-grossing film of 2017 and the fifteenth-highest-grossing film of all time. The film grossed $542 million worldwide during its opening weekend, which is the second highest-grossing worldwide opening of all time behind Avengers: Infinity War (2018). A spinoff film starring Johnson and Statham's characters is scheduled for release in August 2019, while the ninth and tenth films are scheduled for releases on the years 2020 and 2021.",
+        "QuestionID": "2",
+        "sentence2": "was \"fate and the furious\" released in the USA before Germany",
+        "label": "no",
+        "explanation": "The Fate of the Furious first premiered in Berlin on April 4, 2017 and then was theatrically released in the United States on April 14, 2017."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "The Fate of the Furious premiered in Berlin on April 4, 2017, and was theatrically released in the United States on April 14, 2017, playing in 3D, IMAX 3D and 4DX internationally. The film received mixed reviews from critics, many of whom praised the action sequences and acting performances but criticized the storyline. The film grossed over $1.2 billion worldwide, making it the thirtieth film (and the second in the franchise, after Furious 7) to gross over $1 billion, the third-highest-grossing film of 2017 and the fifteenth-highest-grossing film of all time. The film grossed $542 million worldwide during its opening weekend, which is the second highest-grossing worldwide opening of all time behind Avengers: Infinity War (2018). A spinoff film starring Johnson and Statham's characters is scheduled for release in August 2019, while the ninth and tenth films are scheduled for releases on the years 2020 and 2021.",
+        "QuestionID": "3",
+        "sentence2": "was \"fate and the furious\" premiered in Germany",
+        "label": "yes",
+        "explanation": "The Fate of the Furious premiered in Berlin which is in Germany."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "The Fate of the Furious premiered in Berlin on April 4, 2017, and was theatrically released in the United States on April 14, 2017, playing in 3D, IMAX 3D and 4DX internationally. The film received mixed reviews from critics, many of whom praised the action sequences and acting performances but criticized the storyline. The film grossed over $1.2 billion worldwide, making it the thirtieth film (and the second in the franchise, after Furious 7) to gross over $1 billion, the third-highest-grossing film of 2017 and the fifteenth-highest-grossing film of all time. The film grossed $542 million worldwide during its opening weekend, which is the second highest-grossing worldwide opening of all time behind Avengers: Infinity War (2018). A spinoff film starring Johnson and Statham's characters is scheduled for release in August 2019, while the ninth and tenth films are scheduled for releases on the years 2020 and 2021.",
+        "QuestionID": "4",
+        "sentence2": "was \"fate and the furious\" premiered in Munich",
+        "label": "no",
+        "explanation": "The Fate of the Furious premiered in Berlin."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "The Fate of the Furious premiered in Berlin on April 4, 2017, and was theatrically released in the United States on April 14, 2017, playing in 3D, IMAX 3D and 4DX internationally. The film received mixed reviews from critics, many of whom praised the action sequences and acting performances but criticized the storyline. The film grossed over $1.2 billion worldwide, making it the thirtieth film (and the second in the franchise, after Furious 7) to gross over $1 billion, the third-highest-grossing film of 2017 and the fifteenth-highest-grossing film of all time. The film grossed $542 million worldwide during its opening weekend, which is the second highest-grossing worldwide opening of all time behind Avengers: Infinity War (2018). A spinoff film starring Johnson and Statham's characters is scheduled for release in August 2019, while the ninth and tenth films are scheduled for releases on the years 2020 and 2021.",
+        "QuestionID": "5",
+        "sentence2": "is \"fate and the furious\" scheduled for releases on 2020",
+        "label": "no",
+        "explanation": "The Fate of the Furious premiered in Berlin on April 4, 2017, and was theatrically released in the United States on April 14, 2017."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "The Fate of the Furious premiered in Berlin on April 4, 2017, and was theatrically released in the United States on April 14, 2017, playing in 3D, IMAX 3D and 4DX internationally. The film received mixed reviews from critics, many of whom praised the action sequences and acting performances but criticized the storyline. The film grossed over $1.2 billion worldwide, making it the thirtieth film (and the second in the franchise, after Furious 7) to gross over $1 billion, the third-highest-grossing film of 2017 and the fifteenth-highest-grossing film of all time. The film grossed $542 million worldwide during its opening weekend, which is the second highest-grossing worldwide opening of all time behind Avengers: Infinity War (2018). A spinoff film starring Johnson and Statham's characters is scheduled for release in August 2019, while the ninth and tenth films are scheduled for releases on the years 2020 and 2021.",
+        "QuestionID": "6",
+        "sentence2": "is \"fate and the furious\" scheduled for releases on 2021",
+        "label": "no",
+        "explanation": "The Fate of the Furious premiered in Berlin on April 4, 2017, and was theatrically released in the United States on April 14, 2017."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "The Fate of the Furious premiered in Berlin on April 4, 2017, and was theatrically released in the United States on April 14, 2017, playing in 3D, IMAX 3D and 4DX internationally. The film received mixed reviews from critics, many of whom praised the action sequences and acting performances but criticized the storyline. The film grossed over $1.2 billion worldwide, making it the thirtieth film (and the second in the franchise, after Furious 7) to gross over $1 billion, the third-highest-grossing film of 2017 and the fifteenth-highest-grossing film of all time. The film grossed $542 million worldwide during its opening weekend, which is the second highest-grossing worldwide opening of all time behind Avengers: Infinity War (2018). A spinoff film starring Johnson and Statham's characters is scheduled for release in August 2019, while the ninth and tenth films are scheduled for releases on the years 2020 and 2021.",
+        "QuestionID": "7",
+        "sentence2": "is \"fate and the furious\" scheduled for releases on 2017",
+        "label": "no",
+        "explanation": "The Fate of the Furious premiered in Berlin on April 4, 2017, and was theatrically released in the United States on April 14, 2017."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "The Fate of the Furious premiered in Berlin on April 4, 2017, and was theatrically released in the United States on April 14, 2017, playing in 3D, IMAX 3D and 4DX internationally. The film received mixed reviews from critics, many of whom praised the action sequences and acting performances but criticized the storyline. The film grossed over $1.2 billion worldwide, making it the thirtieth film (and the second in the franchise, after Furious 7) to gross over $1 billion, the third-highest-grossing film of 2017 and the fifteenth-highest-grossing film of all time. The film grossed $542 million worldwide during its opening weekend, which is the second highest-grossing worldwide opening of all time behind Avengers: Infinity War (2018). A spinoff film starring Johnson and Statham's characters is scheduled for release in August 2019, while the ninth and tenth films are scheduled for releases on the years 2020 and 2021.",
+        "QuestionID": "8",
+        "sentence2": "was \"fate and the furious\" released on April",
+        "label": "yes",
+        "explanation": "The Fate of the Furious premiered in Berlin on April 4, 2017."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "The Federal Government of the United States (U.S. Federal Government) is the national government of the United States, a federal republic in North America, composed of 50 states, one district--Washington, D.C., and several territories. The federal government is composed of three distinct branches: legislative, executive, and judicial, whose powers are vested by the U.S. Constitution in the Congress, the president, and the federal courts, respectively. The powers and duties of these branches are further defined by acts of Congress, including the creation of executive departments and courts inferior to the Supreme Court.",
+        "QuestionID": "0",
+        "sentence2": "does the united states have a federal system of government",
+        "label": "yes",
+        "explanation": "The United States is a federal republic."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "The Federal Government of the United States (U.S. Federal Government) is the national government of the United States, a federal republic in North America, composed of 50 states, one district--Washington, D.C., and several territories. The federal government is composed of three distinct branches: legislative, executive, and judicial, whose powers are vested by the U.S. Constitution in the Congress, the president, and the federal courts, respectively. The powers and duties of these branches are further defined by acts of Congress, including the creation of executive departments and courts inferior to the Supreme Court.",
+        "QuestionID": "1",
+        "sentence2": "does the united states have a Congress",
+        "label": "yes",
+        "explanation": "The United States has a federal government composed of three distinct branches whose powers and duties are defined by acts of Congress."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "The Federal Government of the United States (U.S. Federal Government) is the national government of the United States, a federal republic in North America, composed of 50 states, one district--Washington, D.C., and several territories. The federal government is composed of three distinct branches: legislative, executive, and judicial, whose powers are vested by the U.S. Constitution in the Congress, the president, and the federal courts, respectively. The powers and duties of these branches are further defined by acts of Congress, including the creation of executive departments and courts inferior to the Supreme Court.",
+        "QuestionID": "2",
+        "sentence2": "does the united states have a federal system of government in South America",
+        "label": "no",
+        "explanation": "The Federal Government of the United States (U.S. Federal Government) is the national government of the United States, a federal republic in North America."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "The Federal Government of the United States (U.S. Federal Government) is the national government of the United States, a federal republic in North America, composed of 50 states, one district--Washington, D.C., and several territories. The federal government is composed of three distinct branches: legislative, executive, and judicial, whose powers are vested by the U.S. Constitution in the Congress, the president, and the federal courts, respectively. The powers and duties of these branches are further defined by acts of Congress, including the creation of executive departments and courts inferior to the Supreme Court.",
+        "QuestionID": "3",
+        "sentence2": "does the united states have a federal system of government composed of less than 20 states",
+        "label": "no",
+        "explanation": "The Federal Government of the United States is composed of 50 states."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "The Federal Government of the United States (U.S. Federal Government) is the national government of the United States, a federal republic in North America, composed of 50 states, one district--Washington, D.C., and several territories. The federal government is composed of three distinct branches: legislative, executive, and judicial, whose powers are vested by the U.S. Constitution in the Congress, the president, and the federal courts, respectively. The powers and duties of these branches are further defined by acts of Congress, including the creation of executive departments and courts inferior to the Supreme Court.",
+        "QuestionID": "4",
+        "sentence2": "does the united states have a federal system of government, composed of only two legislative and executive branches",
+        "label": "no",
+        "explanation": "The United States has a federal government composed of three distinct branches."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "The Federal Government of the United States (U.S. Federal Government) is the national government of the United States, a federal republic in North America, composed of 50 states, one district--Washington, D.C., and several territories. The federal government is composed of three distinct branches: legislative, executive, and judicial, whose powers are vested by the U.S. Constitution in the Congress, the president, and the federal courts, respectively. The powers and duties of these branches are further defined by acts of Congress, including the creation of executive departments and courts inferior to the Supreme Court.",
+        "QuestionID": "5",
+        "sentence2": "does the united states have a federal system of government with powers and defined by the president",
+        "label": "no",
+        "explanation": "The United States has a federal government composed of three distinct branches whose powers and duties are defined by acts of Congress."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "The first FA Cup Final to go to extra time and a replay was the 1875 final, between the Royal Engineers and the Old Etonians. The initial tie finished 1--1 but the Royal Engineers won the replay 2--0 in normal time. The last replayed final was the 1993 FA Cup Final, when Arsenal and Sheffield Wednesday fought a 1--1 draw. The replay saw Arsenal win the FA Cup, 2--1 after extra time.",
+        "QuestionID": "0",
+        "sentence2": "can the fa cup final end in a tie",
+        "label": "no",
+        "explanation": "The fa cup final goes to extra time and a replay in case of ties."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "The first FA Cup Final to go to extra time and a replay was the 1875 final, between the Royal Engineers and the Old Etonians. The initial tie finished 1--1 but the Royal Engineers won the replay 2--0 in normal time. The last replayed final was the 1993 FA Cup Final, when Arsenal and Sheffield Wednesday fought a 1--1 draw. The replay saw Arsenal win the FA Cup, 2--1 after extra time.",
+        "QuestionID": "1",
+        "sentence2": "does the fa cup final always end in a tie",
+        "label": "no",
+        "explanation": "The fa cup final goes to extra time and a replay in case of ties."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "The first FA Cup Final to go to extra time and a replay was the 1875 final, between the Royal Engineers and the Old Etonians. The initial tie finished 1--1 but the Royal Engineers won the replay 2--0 in normal time. The last replayed final was the 1993 FA Cup Final, when Arsenal and Sheffield Wednesday fought a 1--1 draw. The replay saw Arsenal win the FA Cup, 2--1 after extra time.",
+        "QuestionID": "2",
+        "sentence2": "can the fa cup final end in a win",
+        "label": "yes",
+        "explanation": "The FA Cup Final goes to extra time and a replay to break initial ties and decide a winner."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "The first FA Cup Final to go to extra time and a replay was the 1875 final, between the Royal Engineers and the Old Etonians. The initial tie finished 1--1 but the Royal Engineers won the replay 2--0 in normal time. The last replayed final was the 1993 FA Cup Final, when Arsenal and Sheffield Wednesday fought a 1--1 draw. The replay saw Arsenal win the FA Cup, 2--1 after extra time.",
+        "QuestionID": "3",
+        "sentence2": "can the fa cup final always end in a team's win",
+        "label": "yes",
+        "explanation": "The FA Cup Final goes to extra time and a replay to break initial ties and decide a winner."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "The first FA Cup Final to go to extra time and a replay was the 1875 final, between the Royal Engineers and the Old Etonians. The initial tie finished 1--1 but the Royal Engineers won the replay 2--0 in normal time. The last replayed final was the 1993 FA Cup Final, when Arsenal and Sheffield Wednesday fought a 1--1 draw. The replay saw Arsenal win the FA Cup, 2--1 after extra time.",
+        "QuestionID": "4",
+        "sentence2": "can the fa cup final end in an extra time",
+        "label": "yes",
+        "explanation": "The FA Cup Final goes to extra time and a replay to break initial ties and decide a winner."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "The first FA Cup Final to go to extra time and a replay was the 1875 final, between the Royal Engineers and the Old Etonians. The initial tie finished 1--1 but the Royal Engineers won the replay 2--0 in normal time. The last replayed final was the 1993 FA Cup Final, when Arsenal and Sheffield Wednesday fought a 1--1 draw. The replay saw Arsenal win the FA Cup, 2--1 after extra time.",
+        "QuestionID": "5",
+        "sentence2": "does the fa cup final always end in an extra time",
+        "label": "no",
+        "explanation": "The FA Cup Final goes to extra time only in case of initial ties."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "The first FA Cup Final to go to extra time and a replay was the 1875 final, between the Royal Engineers and the Old Etonians. The initial tie finished 1--1 but the Royal Engineers won the replay 2--0 in normal time. The last replayed final was the 1993 FA Cup Final, when Arsenal and Sheffield Wednesday fought a 1--1 draw. The replay saw Arsenal win the FA Cup, 2--1 after extra time.",
+        "QuestionID": "6",
+        "sentence2": "can the fa cup final go to extra time",
+        "label": "yes",
+        "explanation": "The FA Cup Final goes to extra time and a replay in case of initial ties."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "The first FA Cup Final to go to extra time and a replay was the 1875 final, between the Royal Engineers and the Old Etonians. The initial tie finished 1--1 but the Royal Engineers won the replay 2--0 in normal time. The last replayed final was the 1993 FA Cup Final, when Arsenal and Sheffield Wednesday fought a 1--1 draw. The replay saw Arsenal win the FA Cup, 2--1 after extra time.",
+        "QuestionID": "7",
+        "sentence2": "does the fa cup final always go to an extra time",
+        "label": "no",
+        "explanation": "The FA Cup Final goes to extra time only in case of initial ties."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "The ASU includes a midnight blue coat and low waist trousers for male soldiers; and a midnight blue coat, slacks and skirt for female soldiers. The fabric for the ASU is heavier and more wrinkle resistant than previously manufactured uniforms and will consist of 55% wool and 45% polyester material. The ASU coat has a tailored, athletic cut to improve uniform fit and appearance. The ASU includes an improved heavier and wrinkle resistant short and long-sleeved white shirt with permanent military creases and shoulder loops. The JROTC version replaces the white shirt with the prototype grey shirt and gold braid is not worn on the blue trousers or on the sleeves of the class A coat. Compared to the Army's previous uniforms, the ASU does not include a garrison cap; soldiers will continue to wear the Army's berets.",
+        "QuestionID": "0",
+        "sentence2": "can you wear short sleeve shirt with asu jacket",
+        "label": "yes",
+        "explanation": "The ASU uniform includes a short-sleeved white shirt."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "The ASU includes a midnight blue coat and low waist trousers for male soldiers; and a midnight blue coat, slacks and skirt for female soldiers. The fabric for the ASU is heavier and more wrinkle resistant than previously manufactured uniforms and will consist of 55% wool and 45% polyester material. The ASU coat has a tailored, athletic cut to improve uniform fit and appearance. The ASU includes an improved heavier and wrinkle resistant short and long-sleeved white shirt with permanent military creases and shoulder loops. The JROTC version replaces the white shirt with the prototype grey shirt and gold braid is not worn on the blue trousers or on the sleeves of the class A coat. Compared to the Army's previous uniforms, the ASU does not include a garrison cap; soldiers will continue to wear the Army's berets.",
+        "QuestionID": "1",
+        "sentence2": "can you wear long sleeve shirt with asu jacket",
+        "label": "yes",
+        "explanation": "The ASU uniform includes a long-sleeved white shirt."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "The ASU includes a midnight blue coat and low waist trousers for male soldiers; and a midnight blue coat, slacks and skirt for female soldiers. The fabric for the ASU is heavier and more wrinkle resistant than previously manufactured uniforms and will consist of 55% wool and 45% polyester material. The ASU coat has a tailored, athletic cut to improve uniform fit and appearance. The ASU includes an improved heavier and wrinkle resistant short and long-sleeved white shirt with permanent military creases and shoulder loops. The JROTC version replaces the white shirt with the prototype grey shirt and gold braid is not worn on the blue trousers or on the sleeves of the class A coat. Compared to the Army's previous uniforms, the ASU does not include a garrison cap; soldiers will continue to wear the Army's berets.",
+        "QuestionID": "2",
+        "sentence2": "can you still wear garrison cap in asu uniform",
+        "label": "no",
+        "explanation": "The ASU uniform no longer includes a garrison cap."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "The ASU includes a midnight blue coat and low waist trousers for male soldiers; and a midnight blue coat, slacks and skirt for female soldiers. The fabric for the ASU is heavier and more wrinkle resistant than previously manufactured uniforms and will consist of 55% wool and 45% polyester material. The ASU coat has a tailored, athletic cut to improve uniform fit and appearance. The ASU includes an improved heavier and wrinkle resistant short and long-sleeved white shirt with permanent military creases and shoulder loops. The JROTC version replaces the white shirt with the prototype grey shirt and gold braid is not worn on the blue trousers or on the sleeves of the class A coat. Compared to the Army's previous uniforms, the ASU does not include a garrison cap; soldiers will continue to wear the Army's berets.",
+        "QuestionID": "3",
+        "sentence2": "can you still wear berets in asu uniform",
+        "label": "yes",
+        "explanation": "The ASU uniform does include the Army's berets."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "The ASU includes a midnight blue coat and low waist trousers for male soldiers; and a midnight blue coat, slacks and skirt for female soldiers. The fabric for the ASU is heavier and more wrinkle resistant than previously manufactured uniforms and will consist of 55% wool and 45% polyester material. The ASU coat has a tailored, athletic cut to improve uniform fit and appearance. The ASU includes an improved heavier and wrinkle resistant short and long-sleeved white shirt with permanent military creases and shoulder loops. The JROTC version replaces the white shirt with the prototype grey shirt and gold braid is not worn on the blue trousers or on the sleeves of the class A coat. Compared to the Army's previous uniforms, the ASU does not include a garrison cap; soldiers will continue to wear the Army's berets.",
+        "QuestionID": "4",
+        "sentence2": "can you still wear white shirts in asu uniform",
+        "label": "no",
+        "explanation": "The JROTC version replaced the white shirt with the grey shirt."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "The ASU includes a midnight blue coat and low waist trousers for male soldiers; and a midnight blue coat, slacks and skirt for female soldiers. The fabric for the ASU is heavier and more wrinkle resistant than previously manufactured uniforms and will consist of 55% wool and 45% polyester material. The ASU coat has a tailored, athletic cut to improve uniform fit and appearance. The ASU includes an improved heavier and wrinkle resistant short and long-sleeved white shirt with permanent military creases and shoulder loops. The JROTC version replaces the white shirt with the prototype grey shirt and gold braid is not worn on the blue trousers or on the sleeves of the class A coat. Compared to the Army's previous uniforms, the ASU does not include a garrison cap; soldiers will continue to wear the Army's berets.",
+        "QuestionID": "5",
+        "sentence2": "can you still wear grey shirts in asu uniform",
+        "label": "yes",
+        "explanation": "The JROTC version includes the grey shirt."
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "The Handmaid's Tale is a 1990 film adaptation of Margaret Atwood's novel of the same name. Directed by Volker Schl\u00f6ndorff, the film stars Natasha Richardson (Kate/Offred), Faye Dunaway (Serena Joy), Robert Duvall (The Commander, Fred), Aidan Quinn (Nick), and Elizabeth McGovern (Moira). The screenplay was written by Harold Pinter. The original music score was composed by Ryuichi Sakamoto. MGM Home Entertainment released an Avant-Garde Cinema DVD of the film in 2001. The film was entered into the 40th Berlin International Film Festival.",
+        "QuestionID": "0",
+        "sentence2": "is there a movie the handmaid's tale",
+        "label": "yes",
+        "explanation": "The Handmaid's Tale is a 1990 film."
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "The Handmaid's Tale is a 1990 film adaptation of Margaret Atwood's novel of the same name. Directed by Volker Schl\u00f6ndorff, the film stars Natasha Richardson (Kate/Offred), Faye Dunaway (Serena Joy), Robert Duvall (The Commander, Fred), Aidan Quinn (Nick), and Elizabeth McGovern (Moira). The screenplay was written by Harold Pinter. The original music score was composed by Ryuichi Sakamoto. MGM Home Entertainment released an Avant-Garde Cinema DVD of the film in 2001. The film was entered into the 40th Berlin International Film Festival.",
+        "QuestionID": "1",
+        "sentence2": "is there a 2001 movie named \"the handmaid's tale\"",
+        "label": "no",
+        "explanation": "The Handmaid's Tale is a 1990 film."
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "The Handmaid's Tale is a 1990 film adaptation of Margaret Atwood's novel of the same name. Directed by Volker Schl\u00f6ndorff, the film stars Natasha Richardson (Kate/Offred), Faye Dunaway (Serena Joy), Robert Duvall (The Commander, Fred), Aidan Quinn (Nick), and Elizabeth McGovern (Moira). The screenplay was written by Harold Pinter. The original music score was composed by Ryuichi Sakamoto. MGM Home Entertainment released an Avant-Garde Cinema DVD of the film in 2001. The film was entered into the 40th Berlin International Film Festival.",
+        "QuestionID": "2",
+        "sentence2": "is there a novel called \"the handmaid's tale\"",
+        "label": "yes",
+        "explanation": "The Handmaid's Tale is a novel written by Margaret Atwood."
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "The Handmaid's Tale is a 1990 film adaptation of Margaret Atwood's novel of the same name. Directed by Volker Schl\u00f6ndorff, the film stars Natasha Richardson (Kate/Offred), Faye Dunaway (Serena Joy), Robert Duvall (The Commander, Fred), Aidan Quinn (Nick), and Elizabeth McGovern (Moira). The screenplay was written by Harold Pinter. The original music score was composed by Ryuichi Sakamoto. MGM Home Entertainment released an Avant-Garde Cinema DVD of the film in 2001. The film was entered into the 40th Berlin International Film Festival.",
+        "QuestionID": "3",
+        "sentence2": "is there a novel called \"Margaret Atwood\"",
+        "label": "no",
+        "explanation": "It is not known if there is a novel called \u201cMargaret Atwood\u201d."
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "The Handmaid's Tale is a 1990 film adaptation of Margaret Atwood's novel of the same name. Directed by Volker Schl\u00f6ndorff, the film stars Natasha Richardson (Kate/Offred), Faye Dunaway (Serena Joy), Robert Duvall (The Commander, Fred), Aidan Quinn (Nick), and Elizabeth McGovern (Moira). The screenplay was written by Harold Pinter. The original music score was composed by Ryuichi Sakamoto. MGM Home Entertainment released an Avant-Garde Cinema DVD of the film in 2001. The film was entered into the 40th Berlin International Film Festival.",
+        "QuestionID": "4",
+        "sentence2": "is there a novel written by \"Margaret Atwood\"",
+        "label": "yes",
+        "explanation": "Margaret Atwood is the author of The Handmaid's Tale."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "In mathematics, the dot product or scalar product is an algebraic operation that takes two equal-length sequences of numbers (usually coordinate vectors) and returns a single number. In Euclidean geometry, the dot product of the Cartesian coordinates of two vectors is widely used and often called inner product (or rarely projection product); see also inner product space.",
+        "QuestionID": "0",
+        "sentence2": "is the dot product of two vectors a scalar",
+        "label": "yes",
+        "explanation": "The dot product is also called the scalar product as it returns a single scalar."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "In mathematics, the dot product or scalar product is an algebraic operation that takes two equal-length sequences of numbers (usually coordinate vectors) and returns a single number. In Euclidean geometry, the dot product of the Cartesian coordinates of two vectors is widely used and often called inner product (or rarely projection product); see also inner product space.",
+        "QuestionID": "1",
+        "sentence2": "is the dot product of two vectors a vector",
+        "label": "no",
+        "explanation": "The dot product returns a single scalar."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "In mathematics, the dot product or scalar product is an algebraic operation that takes two equal-length sequences of numbers (usually coordinate vectors) and returns a single number. In Euclidean geometry, the dot product of the Cartesian coordinates of two vectors is widely used and often called inner product (or rarely projection product); see also inner product space.",
+        "QuestionID": "2",
+        "sentence2": "is the dot product of two equal-length vectors a vector",
+        "label": "no",
+        "explanation": "The dot product returns a single scalar."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "In mathematics, the dot product or scalar product is an algebraic operation that takes two equal-length sequences of numbers (usually coordinate vectors) and returns a single number. In Euclidean geometry, the dot product of the Cartesian coordinates of two vectors is widely used and often called inner product (or rarely projection product); see also inner product space.",
+        "QuestionID": "3",
+        "sentence2": "is the dot product of two equal-length vectors a scalar",
+        "label": "yes",
+        "explanation": "The dot product is also called the scalar product as it returns a single scalar."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "In mathematics, the dot product or scalar product is an algebraic operation that takes two equal-length sequences of numbers (usually coordinate vectors) and returns a single number. In Euclidean geometry, the dot product of the Cartesian coordinates of two vectors is widely used and often called inner product (or rarely projection product); see also inner product space.",
+        "QuestionID": "4",
+        "sentence2": "is the scalar product of two vectors a scalar",
+        "label": "yes",
+        "explanation": "The dot product is also called the scalar product as it returns a single scalar."
+    },
+    {
+        "PassageID": "1_0",
+        "sentence1": "The University of Mary Hardin--Baylor (UMHB) is a Christian co-educational institution of higher learning located in Belton, Texas, United States. UMHB was chartered by the Republic of Texas in 1845 as Baylor Female College, the female department of what is now Baylor University. It has since become its own institution and grown to 3,914 students and awards degrees at the baccalaureate, master's, and doctoral levels. It is affiliated with the Baptist General Convention of Texas.",
+        "QuestionID": "0",
+        "sentence2": "is baylor and mary hardin baylor the same school",
+        "label": "yes",
+        "explanation": "The University of Mary Hardin--Baylor (UMHB) was chartered as Baylor Female College, the female department of what is now Baylor University."
+    },
+    {
+        "PassageID": "1_0",
+        "sentence1": "The University of Mary Hardin--Baylor (UMHB) is a Christian co-educational institution of higher learning located in Belton, Texas, United States. UMHB was chartered by the Republic of Texas in 1845 as Baylor Female College, the female department of what is now Baylor University. It has since become its own institution and grown to 3,914 students and awards degrees at the baccalaureate, master's, and doctoral levels. It is affiliated with the Baptist General Convention of Texas.",
+        "QuestionID": "1",
+        "sentence2": "is baylor and mary hardin baylor different schools",
+        "label": "no",
+        "explanation": "The University of Mary Hardin--Baylor (UMHB) was chartered as Baylor Female College, the female department of what is now Baylor University."
+    },
+    {
+        "PassageID": "1_0",
+        "sentence1": "The University of Mary Hardin--Baylor (UMHB) is a Christian co-educational institution of higher learning located in Belton, Texas, United States. UMHB was chartered by the Republic of Texas in 1845 as Baylor Female College, the female department of what is now Baylor University. It has since become its own institution and grown to 3,914 students and awards degrees at the baccalaureate, master's, and doctoral levels. It is affiliated with the Baptist General Convention of Texas.",
+        "QuestionID": "2",
+        "sentence2": "is baylor and UMHB the same school",
+        "label": "yes",
+        "explanation": "The University of Mary Hardin--Baylor (UMHB) was chartered as Baylor Female College, the female department of what is now Baylor University."
+    },
+    {
+        "PassageID": "1_0",
+        "sentence1": "The University of Mary Hardin--Baylor (UMHB) is a Christian co-educational institution of higher learning located in Belton, Texas, United States. UMHB was chartered by the Republic of Texas in 1845 as Baylor Female College, the female department of what is now Baylor University. It has since become its own institution and grown to 3,914 students and awards degrees at the baccalaureate, master's, and doctoral levels. It is affiliated with the Baptist General Convention of Texas.",
+        "QuestionID": "3",
+        "sentence2": "is baylor and UMHB different schools",
+        "label": "no",
+        "explanation": "The University of Mary Hardin--Baylor (UMHB) was chartered as Baylor Female College, the female department of what is now Baylor University."
+    },
+    {
+        "PassageID": "1_0",
+        "sentence1": "The University of Mary Hardin--Baylor (UMHB) is a Christian co-educational institution of higher learning located in Belton, Texas, United States. UMHB was chartered by the Republic of Texas in 1845 as Baylor Female College, the female department of what is now Baylor University. It has since become its own institution and grown to 3,914 students and awards degrees at the baccalaureate, master's, and doctoral levels. It is affiliated with the Baptist General Convention of Texas.",
+        "QuestionID": "4",
+        "sentence2": "is the Republic of Texas and mary hardin baylor the same school",
+        "label": "no",
+        "explanation": "The University of Mary Hardin--Baylor (UMHB) is a university that was chartered by the Republic of Texas. They are different organizations."
+    },
+    {
+        "PassageID": "1_0",
+        "sentence1": "The University of Mary Hardin--Baylor (UMHB) is a Christian co-educational institution of higher learning located in Belton, Texas, United States. UMHB was chartered by the Republic of Texas in 1845 as Baylor Female College, the female department of what is now Baylor University. It has since become its own institution and grown to 3,914 students and awards degrees at the baccalaureate, master's, and doctoral levels. It is affiliated with the Baptist General Convention of Texas.",
+        "QuestionID": "5",
+        "sentence2": "is baylor and the Republic of Texas the same school",
+        "label": "no",
+        "explanation": "The University of Mary Hardin--Baylor (UMHB) is a university that was chartered by the Republic of Texas. They are different organizations."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "MetLife Stadium is an American sports stadium located in East Rutherford, New Jersey, 8 miles outside of New York City. It is part of the Meadowlands Sports Complex and serves as the home stadium for two National Football League (NFL) franchises: the New York Giants and the New York Jets. The stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets, who jointly built the stadium using private funds on land owned by the New Jersey Sports and Exposition Authority. The stadium opened as New Meadowlands Stadium in 2010. In 2011, MetLife, an insurance company based in New York City, acquired the naming rights to the stadium. At a construction cost of approximately $1.6 billion, it was the most expensive stadium ever built, at the time it opened, and is the second-largest stadium in the NFL in terms of seating capacity.",
+        "QuestionID": "0",
+        "sentence2": "do the jets and giants share a stadium",
+        "label": "yes",
+        "explanation": "MetLife stadium serves as a home stadium for both the Jets and the Giants."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "MetLife Stadium is an American sports stadium located in East Rutherford, New Jersey, 8 miles outside of New York City. It is part of the Meadowlands Sports Complex and serves as the home stadium for two National Football League (NFL) franchises: the New York Giants and the New York Jets. The stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets, who jointly built the stadium using private funds on land owned by the New Jersey Sports and Exposition Authority. The stadium opened as New Meadowlands Stadium in 2010. In 2011, MetLife, an insurance company based in New York City, acquired the naming rights to the stadium. At a construction cost of approximately $1.6 billion, it was the most expensive stadium ever built, at the time it opened, and is the second-largest stadium in the NFL in terms of seating capacity.",
+        "QuestionID": "1",
+        "sentence2": "are the jets and giants the same team",
+        "label": "no",
+        "explanation": "The Jets and the Giants are two different National Football League (NFL) franchises."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "MetLife Stadium is an American sports stadium located in East Rutherford, New Jersey, 8 miles outside of New York City. It is part of the Meadowlands Sports Complex and serves as the home stadium for two National Football League (NFL) franchises: the New York Giants and the New York Jets. The stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets, who jointly built the stadium using private funds on land owned by the New Jersey Sports and Exposition Authority. The stadium opened as New Meadowlands Stadium in 2010. In 2011, MetLife, an insurance company based in New York City, acquired the naming rights to the stadium. At a construction cost of approximately $1.6 billion, it was the most expensive stadium ever built, at the time it opened, and is the second-largest stadium in the NFL in terms of seating capacity.",
+        "QuestionID": "2",
+        "sentence2": "are the jets and giants two different teams",
+        "label": "yes",
+        "explanation": "The Jets and the Giants are two different National Football League (NFL) franchises."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "MetLife Stadium is an American sports stadium located in East Rutherford, New Jersey, 8 miles outside of New York City. It is part of the Meadowlands Sports Complex and serves as the home stadium for two National Football League (NFL) franchises: the New York Giants and the New York Jets. The stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets, who jointly built the stadium using private funds on land owned by the New Jersey Sports and Exposition Authority. The stadium opened as New Meadowlands Stadium in 2010. In 2011, MetLife, an insurance company based in New York City, acquired the naming rights to the stadium. At a construction cost of approximately $1.6 billion, it was the most expensive stadium ever built, at the time it opened, and is the second-largest stadium in the NFL in terms of seating capacity.",
+        "QuestionID": "3",
+        "sentence2": "did the jets and giants jointly build their stadium",
+        "label": "no",
+        "explanation": "The MetLife stadium was jointly built by the Giants and Jets."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "MetLife Stadium is an American sports stadium located in East Rutherford, New Jersey, 8 miles outside of New York City. It is part of the Meadowlands Sports Complex and serves as the home stadium for two National Football League (NFL) franchises: the New York Giants and the New York Jets. The stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets, who jointly built the stadium using private funds on land owned by the New Jersey Sports and Exposition Authority. The stadium opened as New Meadowlands Stadium in 2010. In 2011, MetLife, an insurance company based in New York City, acquired the naming rights to the stadium. At a construction cost of approximately $1.6 billion, it was the most expensive stadium ever built, at the time it opened, and is the second-largest stadium in the NFL in terms of seating capacity.",
+        "QuestionID": "4",
+        "sentence2": "do the jets and giants own the MetLife stadium",
+        "label": "no",
+        "explanation": "The MetLife stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "MetLife Stadium is an American sports stadium located in East Rutherford, New Jersey, 8 miles outside of New York City. It is part of the Meadowlands Sports Complex and serves as the home stadium for two National Football League (NFL) franchises: the New York Giants and the New York Jets. The stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets, who jointly built the stadium using private funds on land owned by the New Jersey Sports and Exposition Authority. The stadium opened as New Meadowlands Stadium in 2010. In 2011, MetLife, an insurance company based in New York City, acquired the naming rights to the stadium. At a construction cost of approximately $1.6 billion, it was the most expensive stadium ever built, at the time it opened, and is the second-largest stadium in the NFL in terms of seating capacity.",
+        "QuestionID": "5",
+        "sentence2": "do the jets and giants share the naming rights for the MetLife stadium",
+        "label": "no",
+        "explanation": "The naming rights of the MetLife stadium is held by MetLife, an insurance company."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "Fantastic Beasts and Where to Find Them is a 2016 fantasy film directed by David Yates. A joint British and American production, it is a spin-off and prequel to the Harry Potter film series, and it was produced and written by J.K. Rowling in her screenwriting debut, and inspired by her 2001 book of the same name. The film stars Eddie Redmayne as Newt Scamander, with Katherine Waterston, Dan Fogler, Alison Sudol, Ezra Miller, Samantha Morton, Jon Voight, Carmen Ejogo, Ron Perlman, Colin Farrell and Johnny Depp in supporting roles. It is the first installment in the Fantastic Beasts film series, and ninth overall in the Wizarding World franchise, that began with the Harry Potter films.",
+        "QuestionID": "0",
+        "sentence2": "is fantastic beasts and where to find them a prequel",
+        "label": "yes",
+        "explanation": "Fantastic Beasts and Where to Find Them is a prequel to the Harry Potter film series."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "Fantastic Beasts and Where to Find Them is a 2016 fantasy film directed by David Yates. A joint British and American production, it is a spin-off and prequel to the Harry Potter film series, and it was produced and written by J.K. Rowling in her screenwriting debut, and inspired by her 2001 book of the same name. The film stars Eddie Redmayne as Newt Scamander, with Katherine Waterston, Dan Fogler, Alison Sudol, Ezra Miller, Samantha Morton, Jon Voight, Carmen Ejogo, Ron Perlman, Colin Farrell and Johnny Depp in supporting roles. It is the first installment in the Fantastic Beasts film series, and ninth overall in the Wizarding World franchise, that began with the Harry Potter films.",
+        "QuestionID": "1",
+        "sentence2": "is \"fantastic beasts\" a prequel for \"where to find them\"",
+        "label": "no",
+        "explanation": "Fantastic Beasts and Where to Find Them is a spin-off and prequel to the Harry Potter film series."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "Fantastic Beasts and Where to Find Them is a 2016 fantasy film directed by David Yates. A joint British and American production, it is a spin-off and prequel to the Harry Potter film series, and it was produced and written by J.K. Rowling in her screenwriting debut, and inspired by her 2001 book of the same name. The film stars Eddie Redmayne as Newt Scamander, with Katherine Waterston, Dan Fogler, Alison Sudol, Ezra Miller, Samantha Morton, Jon Voight, Carmen Ejogo, Ron Perlman, Colin Farrell and Johnny Depp in supporting roles. It is the first installment in the Fantastic Beasts film series, and ninth overall in the Wizarding World franchise, that began with the Harry Potter films.",
+        "QuestionID": "2",
+        "sentence2": "is \"where to find them\" a prequel to \"fantastic beasts\"",
+        "label": "no",
+        "explanation": "Fantastic Beasts and Where to Find Them is a spin-off and prequel to the Harry Potter film series."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "Fantastic Beasts and Where to Find Them is a 2016 fantasy film directed by David Yates. A joint British and American production, it is a spin-off and prequel to the Harry Potter film series, and it was produced and written by J.K. Rowling in her screenwriting debut, and inspired by her 2001 book of the same name. The film stars Eddie Redmayne as Newt Scamander, with Katherine Waterston, Dan Fogler, Alison Sudol, Ezra Miller, Samantha Morton, Jon Voight, Carmen Ejogo, Ron Perlman, Colin Farrell and Johnny Depp in supporting roles. It is the first installment in the Fantastic Beasts film series, and ninth overall in the Wizarding World franchise, that began with the Harry Potter films.",
+        "QuestionID": "3",
+        "sentence2": "is \"where to find them\" a prequel to \"harry potter\"",
+        "label": "yes",
+        "explanation": "Fantastic Beasts and Where to Find Them is a spin-off and prequel to the Harry Potter film series."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "Fantastic Beasts and Where to Find Them is a 2016 fantasy film directed by David Yates. A joint British and American production, it is a spin-off and prequel to the Harry Potter film series, and it was produced and written by J.K. Rowling in her screenwriting debut, and inspired by her 2001 book of the same name. The film stars Eddie Redmayne as Newt Scamander, with Katherine Waterston, Dan Fogler, Alison Sudol, Ezra Miller, Samantha Morton, Jon Voight, Carmen Ejogo, Ron Perlman, Colin Farrell and Johnny Depp in supporting roles. It is the first installment in the Fantastic Beasts film series, and ninth overall in the Wizarding World franchise, that began with the Harry Potter films.",
+        "QuestionID": "4",
+        "sentence2": "is \"where to find them\" the ninth prequel to \"harry potter\"",
+        "label": "no",
+        "explanation": "Fantastic Beasts and Where to Find Them is the first installment in the Fantastic Beasts film series, a prequel to the Harry Potter film series."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "Indiana Jones and the Temple of Doom is a 1984 American action-adventure film directed by Steven Spielberg. It is the second installment in the Indiana Jones franchise and a prequel to the 1981 film Raiders of the Lost Ark, featuring Harrison Ford reprising his role as the title character. After arriving in North India, Indiana Jones is asked by desperate villagers to find a mystical stone and rescue their children from a Thuggee cult practicing child slavery, black magic and ritual human sacrifice in honor of the goddess Kali.",
+        "QuestionID": "0",
+        "sentence2": "is indiana jones temple of doom a prequel",
+        "label": "yes",
+        "explanation": "Indiana Jones and the Temple of Doom is a prequel to the film Raiders of the Lost Ark."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "Indiana Jones and the Temple of Doom is a 1984 American action-adventure film directed by Steven Spielberg. It is the second installment in the Indiana Jones franchise and a prequel to the 1981 film Raiders of the Lost Ark, featuring Harrison Ford reprising his role as the title character. After arriving in North India, Indiana Jones is asked by desperate villagers to find a mystical stone and rescue their children from a Thuggee cult practicing child slavery, black magic and ritual human sacrifice in honor of the goddess Kali.",
+        "QuestionID": "1",
+        "sentence2": "is indiana jones 'temple of doom' a prequel",
+        "label": "yes",
+        "explanation": "Indiana Jones and the Temple of Doom is a prequel to the film Raiders of the Lost Ark."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "Indiana Jones and the Temple of Doom is a 1984 American action-adventure film directed by Steven Spielberg. It is the second installment in the Indiana Jones franchise and a prequel to the 1981 film Raiders of the Lost Ark, featuring Harrison Ford reprising his role as the title character. After arriving in North India, Indiana Jones is asked by desperate villagers to find a mystical stone and rescue their children from a Thuggee cult practicing child slavery, black magic and ritual human sacrifice in honor of the goddess Kali.",
+        "QuestionID": "2",
+        "sentence2": "is indiana jones 'Raiders of the Lost Ark' a prequel",
+        "label": "no",
+        "explanation": "Raiders of the Lost Ark is the parent film of Indiana Jones and the Temple of Doom."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "Indiana Jones and the Temple of Doom is a 1984 American action-adventure film directed by Steven Spielberg. It is the second installment in the Indiana Jones franchise and a prequel to the 1981 film Raiders of the Lost Ark, featuring Harrison Ford reprising his role as the title character. After arriving in North India, Indiana Jones is asked by desperate villagers to find a mystical stone and rescue their children from a Thuggee cult practicing child slavery, black magic and ritual human sacrifice in honor of the goddess Kali.",
+        "QuestionID": "3",
+        "sentence2": "is indiana jones in 'temple of doom' practicing child slavery",
+        "label": "no",
+        "explanation": "Indiana Jones in 'Temple of Doom' is asked by desperate villagers to rescue their children from a cult practicing child slavery. If he was practicing child slavery himself, the villagers would not have come to him for rescuing their children."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "Indiana Jones and the Temple of Doom is a 1984 American action-adventure film directed by Steven Spielberg. It is the second installment in the Indiana Jones franchise and a prequel to the 1981 film Raiders of the Lost Ark, featuring Harrison Ford reprising his role as the title character. After arriving in North India, Indiana Jones is asked by desperate villagers to find a mystical stone and rescue their children from a Thuggee cult practicing child slavery, black magic and ritual human sacrifice in honor of the goddess Kali.",
+        "QuestionID": "4",
+        "sentence2": "is indiana jones 'temple of doom' a North Indian movie",
+        "label": "no",
+        "explanation": "Indiana Jones and the Temple of Doom is a 1984 American action-adventure film."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Time in New Zealand, by law, is divided into two standard time zones. The main islands use New Zealand Standard Time (NZST), 12 hours in advance of Coordinated Universal Time (UTC) / military M (Mike), while the outlying Chatham Islands use Chatham Standard Time (CHAST), 12 hours 45 minutes in advance of UTC / military M^ (Mike-Three).",
+        "QuestionID": "0",
+        "sentence2": "is all of new zealand in the same time zone",
+        "label": "no",
+        "explanation": "Time in New Zealand is divided into two standard time zones."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Time in New Zealand, by law, is divided into two standard time zones. The main islands use New Zealand Standard Time (NZST), 12 hours in advance of Coordinated Universal Time (UTC) / military M (Mike), while the outlying Chatham Islands use Chatham Standard Time (CHAST), 12 hours 45 minutes in advance of UTC / military M^ (Mike-Three).",
+        "QuestionID": "1",
+        "sentence2": "new zealand has different time zones",
+        "label": "yes",
+        "explanation": "Time in New Zealand is divided into two standard time zones."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Time in New Zealand, by law, is divided into two standard time zones. The main islands use New Zealand Standard Time (NZST), 12 hours in advance of Coordinated Universal Time (UTC) / military M (Mike), while the outlying Chatham Islands use Chatham Standard Time (CHAST), 12 hours 45 minutes in advance of UTC / military M^ (Mike-Three).",
+        "QuestionID": "2",
+        "sentence2": "The New Zealand time zones are different but close to each other",
+        "label": "yes",
+        "explanation": "The two time zones in New Zealand are 45 minutes apart."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Time in New Zealand, by law, is divided into two standard time zones. The main islands use New Zealand Standard Time (NZST), 12 hours in advance of Coordinated Universal Time (UTC) / military M (Mike), while the outlying Chatham Islands use Chatham Standard Time (CHAST), 12 hours 45 minutes in advance of UTC / military M^ (Mike-Three).",
+        "QuestionID": "3",
+        "sentence2": "new zealand has three time zones",
+        "label": "no",
+        "explanation": "Time in New Zealand is divided into two standard time zones."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Time in New Zealand, by law, is divided into two standard time zones. The main islands use New Zealand Standard Time (NZST), 12 hours in advance of Coordinated Universal Time (UTC) / military M (Mike), while the outlying Chatham Islands use Chatham Standard Time (CHAST), 12 hours 45 minutes in advance of UTC / military M^ (Mike-Three).",
+        "QuestionID": "4",
+        "sentence2": "new zealand has a single time zone",
+        "label": "no",
+        "explanation": "Time in New Zealand is divided into two standard time zones."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Time in New Zealand, by law, is divided into two standard time zones. The main islands use New Zealand Standard Time (NZST), 12 hours in advance of Coordinated Universal Time (UTC) / military M (Mike), while the outlying Chatham Islands use Chatham Standard Time (CHAST), 12 hours 45 minutes in advance of UTC / military M^ (Mike-Three).",
+        "QuestionID": "5",
+        "sentence2": "new zealand has multiple time zones",
+        "label": "yes",
+        "explanation": "Time in New Zealand is divided into two standard time zones."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Time in New Zealand, by law, is divided into two standard time zones. The main islands use New Zealand Standard Time (NZST), 12 hours in advance of Coordinated Universal Time (UTC) / military M (Mike), while the outlying Chatham Islands use Chatham Standard Time (CHAST), 12 hours 45 minutes in advance of UTC / military M^ (Mike-Three).",
+        "QuestionID": "6",
+        "sentence2": "new zealand has two time zones",
+        "label": "yes",
+        "explanation": "Time in New Zealand is divided into two standard time zones."
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "In 2011, Philip Pullman remarked at the British Humanist Association annual conference that due to the first film's disappointing sales in the United States, there would not be any sequels made.",
+        "QuestionID": "0",
+        "sentence2": "is there going to be another golden compass movie",
+        "label": "no",
+        "explanation": "Philip Pullman remarked that there would not be any sequels made."
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "In 2011, Philip Pullman remarked at the British Humanist Association annual conference that due to the first film's disappointing sales in the United States, there would not be any sequels made.",
+        "QuestionID": "1",
+        "sentence2": "is it true that there isn't going to be another golden compass movie",
+        "label": "yes",
+        "explanation": "Philip Pullman remarked that there would not be any sequels made."
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "In 2011, Philip Pullman remarked at the British Humanist Association annual conference that due to the first film's disappointing sales in the United States, there would not be any sequels made.",
+        "QuestionID": "2",
+        "sentence2": "the British Humanist Association did announce that there isn't going to be another golden compass movie",
+        "label": "no",
+        "explanation": "It was Philip Pullman who remarked at the British Humanist Association annual conference that there would not be any sequels made."
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "In 2011, Philip Pullman remarked at the British Humanist Association annual conference that due to the first film's disappointing sales in the United States, there would not be any sequels made.",
+        "QuestionID": "3",
+        "sentence2": "Pullman did announce that there isn't going to be another golden compass movie",
+        "label": "yes",
+        "explanation": "Philip Pullman remarked at a conference that there would not be any sequels made."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "Sanders played football primarily at cornerback, but also as a kick returner, punt returner, and occasionally wide receiver. He played in the National Football League (NFL) for the Atlanta Falcons, the San Francisco 49ers, the Dallas Cowboys, the Washington Redskins and the Baltimore Ravens, winning the Super Bowl with both the 49ers and the Cowboys. An outfielder in baseball, he played professionally for the New York Yankees, the Atlanta Braves, the Cincinnati Reds and the San Francisco Giants, and participated in the 1992 World Series with the Braves. He attended Florida State University, where he was recognized as a two-time All-American in football, and also played baseball and ran track.",
+        "QuestionID": "0",
+        "sentence2": "did deion sanders ever win a world series",
+        "label": "no",
+        "explanation": "We only know that Deion Sanders participated in the 1992 World Series with the Braves. We do not know its outcome."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "Sanders played football primarily at cornerback, but also as a kick returner, punt returner, and occasionally wide receiver. He played in the National Football League (NFL) for the Atlanta Falcons, the San Francisco 49ers, the Dallas Cowboys, the Washington Redskins and the Baltimore Ravens, winning the Super Bowl with both the 49ers and the Cowboys. An outfielder in baseball, he played professionally for the New York Yankees, the Atlanta Braves, the Cincinnati Reds and the San Francisco Giants, and participated in the 1992 World Series with the Braves. He attended Florida State University, where he was recognized as a two-time All-American in football, and also played baseball and ran track.",
+        "QuestionID": "1",
+        "sentence2": "did deion sanders ever play in world series",
+        "label": "yes",
+        "explanation": "Deion Sanders participated in the 1992 World Series."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "Sanders played football primarily at cornerback, but also as a kick returner, punt returner, and occasionally wide receiver. He played in the National Football League (NFL) for the Atlanta Falcons, the San Francisco 49ers, the Dallas Cowboys, the Washington Redskins and the Baltimore Ravens, winning the Super Bowl with both the 49ers and the Cowboys. An outfielder in baseball, he played professionally for the New York Yankees, the Atlanta Braves, the Cincinnati Reds and the San Francisco Giants, and participated in the 1992 World Series with the Braves. He attended Florida State University, where he was recognized as a two-time All-American in football, and also played baseball and ran track.",
+        "QuestionID": "2",
+        "sentence2": "did deion sanders ever play in world series final",
+        "label": "no",
+        "explanation": "We only know that Deion Sanders participated in the 1992 World Series with the Braves. We do not know if the Braves reached the final that year."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "Sanders played football primarily at cornerback, but also as a kick returner, punt returner, and occasionally wide receiver. He played in the National Football League (NFL) for the Atlanta Falcons, the San Francisco 49ers, the Dallas Cowboys, the Washington Redskins and the Baltimore Ravens, winning the Super Bowl with both the 49ers and the Cowboys. An outfielder in baseball, he played professionally for the New York Yankees, the Atlanta Braves, the Cincinnati Reds and the San Francisco Giants, and participated in the 1992 World Series with the Braves. He attended Florida State University, where he was recognized as a two-time All-American in football, and also played baseball and ran track.",
+        "QuestionID": "3",
+        "sentence2": "did deion sanders ever win a super bowl",
+        "label": "yes",
+        "explanation": "Deion Sanders won the Super Bowl with both the 49ers and the Cowboys."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "Sanders played football primarily at cornerback, but also as a kick returner, punt returner, and occasionally wide receiver. He played in the National Football League (NFL) for the Atlanta Falcons, the San Francisco 49ers, the Dallas Cowboys, the Washington Redskins and the Baltimore Ravens, winning the Super Bowl with both the 49ers and the Cowboys. An outfielder in baseball, he played professionally for the New York Yankees, the Atlanta Braves, the Cincinnati Reds and the San Francisco Giants, and participated in the 1992 World Series with the Braves. He attended Florida State University, where he was recognized as a two-time All-American in football, and also played baseball and ran track.",
+        "QuestionID": "4",
+        "sentence2": "did deion sanders ever play in world series with San Francisco 49ers",
+        "label": "no",
+        "explanation": "Deion Sanders participated in the 1992 World Series with the Braves, which was  the only world series he played."
+    },
+    {
+        "PassageID": "1_7",
+        "sentence1": "The storm brought strong winds to the Swan Islands, including hurricane-force winds on the main island. Heavy rains fell in Cuba, particularly in Pinar del R\u00edo Province, but only minor damage occurred. In Florida, storm surge and abnormally high tides caused damage along much of the state's west coast from Pasco County southward. Several neighborhoods and sections of Tampa were inundated, especially in Ballast Point, DeSoto Park, Edgewater Park, Hyde Park, Palmetto Beach, and other areas in the vicinity of Bayshore Boulevard. Strong winds also damaged hundreds of trees, signs, buildings, and homes. Four deaths occurred in Tampa, three from drownings and another after a man touched a live wire. The storm left two additional fatalities in St. Petersburg. A number of streets in Tarpon Springs were littered with masses of debris, with many structures and trees suffering extensive damage. Strong winds occurred as far east as the Atlantic coast of the state, though wind damage east of the Tampa Bay area was generally limited to downed trees and power lines, resulting in power outages, particularly in Orlando. Agriculture throughout the state experienced significant impact as well, including over $2 million (equivalent to $20 million in 2016) in damage and the loss of at least 800,000 boxes of citrus crops alone. Overall, the hurricane left at least eight deaths and about $10 million (equivalent to $110 million in 2016) in damage.",
+        "QuestionID": "0",
+        "sentence2": "has tampa ever been hit by a hurricane",
+        "label": "yes",
+        "explanation": "Tampa was hit by the Tampa Bay hurricane in 1921."
+    },
+    {
+        "PassageID": "1_7",
+        "sentence1": "The storm brought strong winds to the Swan Islands, including hurricane-force winds on the main island. Heavy rains fell in Cuba, particularly in Pinar del R\u00edo Province, but only minor damage occurred. In Florida, storm surge and abnormally high tides caused damage along much of the state's west coast from Pasco County southward. Several neighborhoods and sections of Tampa were inundated, especially in Ballast Point, DeSoto Park, Edgewater Park, Hyde Park, Palmetto Beach, and other areas in the vicinity of Bayshore Boulevard. Strong winds also damaged hundreds of trees, signs, buildings, and homes. Four deaths occurred in Tampa, three from drownings and another after a man touched a live wire. The storm left two additional fatalities in St. Petersburg. A number of streets in Tarpon Springs were littered with masses of debris, with many structures and trees suffering extensive damage. Strong winds occurred as far east as the Atlantic coast of the state, though wind damage east of the Tampa Bay area was generally limited to downed trees and power lines, resulting in power outages, particularly in Orlando. Agriculture throughout the state experienced significant impact as well, including over $2 million (equivalent to $20 million in 2016) in damage and the loss of at least 800,000 boxes of citrus crops alone. Overall, the hurricane left at least eight deaths and about $10 million (equivalent to $110 million in 2016) in damage.",
+        "QuestionID": "1",
+        "sentence2": "has the east of tampa ever been hit by a hurricane",
+        "label": "yes",
+        "explanation": "During the Tampa Bay hurricane in 1921, strong winds occurred as far east as the Atlantic coast of the state."
+    },
+    {
+        "PassageID": "1_7",
+        "sentence1": "The storm brought strong winds to the Swan Islands, including hurricane-force winds on the main island. Heavy rains fell in Cuba, particularly in Pinar del R\u00edo Province, but only minor damage occurred. In Florida, storm surge and abnormally high tides caused damage along much of the state's west coast from Pasco County southward. Several neighborhoods and sections of Tampa were inundated, especially in Ballast Point, DeSoto Park, Edgewater Park, Hyde Park, Palmetto Beach, and other areas in the vicinity of Bayshore Boulevard. Strong winds also damaged hundreds of trees, signs, buildings, and homes. Four deaths occurred in Tampa, three from drownings and another after a man touched a live wire. The storm left two additional fatalities in St. Petersburg. A number of streets in Tarpon Springs were littered with masses of debris, with many structures and trees suffering extensive damage. Strong winds occurred as far east as the Atlantic coast of the state, though wind damage east of the Tampa Bay area was generally limited to downed trees and power lines, resulting in power outages, particularly in Orlando. Agriculture throughout the state experienced significant impact as well, including over $2 million (equivalent to $20 million in 2016) in damage and the loss of at least 800,000 boxes of citrus crops alone. Overall, the hurricane left at least eight deaths and about $10 million (equivalent to $110 million in 2016) in damage.",
+        "QuestionID": "2",
+        "sentence2": "did tampa hurricane cause deaths",
+        "label": "yes",
+        "explanation": "During the Tampa Bay hurricane in 1921, four deaths occurred in Tampa."
+    },
+    {
+        "PassageID": "1_7",
+        "sentence1": "The storm brought strong winds to the Swan Islands, including hurricane-force winds on the main island. Heavy rains fell in Cuba, particularly in Pinar del R\u00edo Province, but only minor damage occurred. In Florida, storm surge and abnormally high tides caused damage along much of the state's west coast from Pasco County southward. Several neighborhoods and sections of Tampa were inundated, especially in Ballast Point, DeSoto Park, Edgewater Park, Hyde Park, Palmetto Beach, and other areas in the vicinity of Bayshore Boulevard. Strong winds also damaged hundreds of trees, signs, buildings, and homes. Four deaths occurred in Tampa, three from drownings and another after a man touched a live wire. The storm left two additional fatalities in St. Petersburg. A number of streets in Tarpon Springs were littered with masses of debris, with many structures and trees suffering extensive damage. Strong winds occurred as far east as the Atlantic coast of the state, though wind damage east of the Tampa Bay area was generally limited to downed trees and power lines, resulting in power outages, particularly in Orlando. Agriculture throughout the state experienced significant impact as well, including over $2 million (equivalent to $20 million in 2016) in damage and the loss of at least 800,000 boxes of citrus crops alone. Overall, the hurricane left at least eight deaths and about $10 million (equivalent to $110 million in 2016) in damage.",
+        "QuestionID": "3",
+        "sentence2": "did tampa hurricane cause less than five deaths",
+        "label": "no",
+        "explanation": "Overall, the Tampa Bay hurricane left at least eight deaths."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "0",
+        "sentence2": "is it possible to have no sense of smell",
+        "label": "yes",
+        "explanation": "A person suffering from anosmia has no sense of smell."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "1",
+        "sentence2": "is it possible to have no sense of smell forever",
+        "label": "yes",
+        "explanation": "Anosmia in some forms, such as from an accident, can be permanent."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "2",
+        "sentence2": "is it possible to have no sense of smell temporary",
+        "label": "yes",
+        "explanation": "Anosmia may be temporary."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "3",
+        "sentence2": "is it possible to have no sense of smell by just an accident",
+        "label": "yes",
+        "explanation": "An accident can cause permanent Anosmia."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "4",
+        "sentence2": "is it possible to have no sense of smell due to blockage of nasal passage",
+        "label": "yes",
+        "explanation": "Anosmia can be caused by the blockage of nasal passages."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "5",
+        "sentence2": "is it possible to have no sense of pain due to blockage of nasal passage",
+        "label": "don\u2019t know",
+        "explanation": "We only know that Anosmia can be caused by the blockage of nasal passages. We do not know if blockage of the nasal passage would lead to a loss of perception of pain."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "6",
+        "sentence2": "is it possible to have nasal blockage due to no sense of smell",
+        "label": "don\u2019t know",
+        "explanation": "We only know that Anosmia can be caused by the blockage of nasal passages. We do not know if Anosmia can cause blockage of the nasal passage."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "7",
+        "sentence2": "is it possible to have inflammation of the nasal mucosa due to no sense of smell",
+        "label": "don\u2019t know",
+        "explanation": "We only know that Anosmia can be caused by the inflammation of the nasal mucosa. We do not know if Anosmia can cause inflammation of the nasal mucosa."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "8",
+        "sentence2": "is it possible to have a destruction of one temporal lobe due to no sense of smell",
+        "label": "don\u2019t know",
+        "explanation": "We only know that Anosmia can be caused by the destruction of one temporal lobe. We do not know if Anosmia can cause destruction of one temporal lobe."
+    }
+]

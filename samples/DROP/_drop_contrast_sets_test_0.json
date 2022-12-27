@@ -1,0 +1,2426 @@
+[
+    {
+        "passage": "On 31 January 1919, because of the pressure from the Triple Entente representatives, the attack on Skocz\u00f3w was cancelled, and the Czechoslovak army ceased fighting. The Czechoslovak army withdrew to the new Green Line, established by the International Commission Agreement on the basis of the Czechoslovak-Polish Treaty, concluded on 3 February 1919 in Paris. On 30 January 1919 Josef \u0160nejd\u00e1rek had received the order to cross the Vistula and secure the railway line between Bohum\u00edn and Jablunkov. They crossed the river and the Polish troops retreated to Skocz\u00f3w, where the front line was stalled. Further Czechoslovak reinforcements arrived, which gave \u0160nejd\u00e1rek an advantage over the Polish units. The Czechoslovak army prepared for an attack on Skocz\u00f3w assuming that it would lead to the collapse of the Polish defenses. Earlier, Cieszyn Silesia was occupied without a fight on 27 January 1919. All this had started on 23 January 1919 at 11:00 in Cieszyn Silesia when Polish commander Franciszek Latinik and Czechoslovak officer Josef \u0160nejd\u00e1rek met with a group of officers, consisting of English, French, Italian and U.S. representatives . The Polish side was given an ultimatum, that they evacuate the area to the Bia\u0142a River in less than two hours. After the expiry of this period the Czechoslovak army started its operations at 13:00 following its operational guidelines to seize Bohum\u00edn and Karvin\u00e1. From the east, at the same time, an attack was launched by the Italian legionnaire unit. The Czechoslovak army moved forward, and took Bohum\u00edn , Orlov\u00e1 and Karvin\u00e1.  Polish troops retreated to the river Vistula.",
+        "qa_pairs": [
+            {
+                "question": "What happened later: \u0160nejd\u00e1rek received orders to cross the Vistula or did he met with a group of officers?",
+                "original_question": "What happened first: \u0160nejd\u00e1rek met with a group or order to cross the Vistula?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "\u0160nejd\u00e1rek received orders to cross the Vistula"
+                    ]
+                },
+                "query_id": "29c6a72a-5883-4bef-8a4d-8f0146a498fe_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened later: \u0160nejd\u00e1rek met with a group of officers or \u0160nejd\u00e1rek received orders to cross the Vistula?",
+                "original_question": "What happened first: \u0160nejd\u00e1rek met with a group or order to cross the Vistula?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "\u0160nejd\u00e1rek received orders to cross the Vistula"
+                    ]
+                },
+                "query_id": "29c6a72a-5883-4bef-8a4d-8f0146a498fe_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened first: \u0160nejd\u00e1rek received orders to cross the Vistula or \u0160nejd\u00e1rek met with a group of officers?",
+                "original_question": "What happened first: \u0160nejd\u00e1rek met with a group or order to cross the Vistula?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "\u0160nejd\u00e1rek met with a group of officers"
+                    ]
+                },
+                "query_id": "29c6a72a-5883-4bef-8a4d-8f0146a498fe_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened first: \u0160nejd\u00e1rek met with a group of officers or \u0160nejd\u00e1rek received orders to cross the Vistula?",
+                "original_question": "What happened first: \u0160nejd\u00e1rek met with a group or order to cross the Vistula?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "\u0160nejd\u00e1rek met with a group of officers"
+                    ]
+                },
+                "query_id": "29c6a72a-5883-4bef-8a4d-8f0146a498fe_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened second: the Polish were asked to evacuate or \u0160nejd\u00e1rek received orders to cross the Vistula?",
+                "original_question": "What happened second: \u0160nejd\u00e1rek met with a group or order to cross the Vistula?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "\u0160nejd\u00e1rek received orders to cross the Vistula"
+                    ]
+                },
+                "query_id": "2cc7016f-13cb-4b0d-8fbf-d2256681b5ba_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened second: \u0160nejd\u00e1rek received orders to cross the Vistula or the Polish were asked to evacuate?",
+                "original_question": "What happened second: \u0160nejd\u00e1rek met with a group or order to cross the Vistula?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "\u0160nejd\u00e1rek received orders to cross the Vistula"
+                    ]
+                },
+                "query_id": "2cc7016f-13cb-4b0d-8fbf-d2256681b5ba_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened earlier: the Polish were asked to evacuate or \u0160nejd\u00e1rek received orders to cross the Vistula?",
+                "original_question": "What happened second: \u0160nejd\u00e1rek met with a group or order to cross the Vistula?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "the Polish were asked to evacuate"
+                    ]
+                },
+                "query_id": "2cc7016f-13cb-4b0d-8fbf-d2256681b5ba_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened first: \u0160nejd\u00e1rek received orders to cross the Vistula or the Polish were asked to evacuate?",
+                "original_question": "What happened second: \u0160nejd\u00e1rek met with a group or order to cross the Vistula?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "the Polish were asked to evacuate"
+                    ]
+                },
+                "query_id": "2cc7016f-13cb-4b0d-8fbf-d2256681b5ba_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened first: Polish troops retreated to Skocz\u00f3w or the Czechoslovak-Polish Treaty?",
+                "original_question": "What happened first: attack on Skocz\u00f3w was cancelled or the Czechoslovak-Polish Treaty?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Polish troops retreated to Skocz\u00f3w"
+                    ]
+                },
+                "query_id": "ab30c03d-b60a-48c1-bdce-8ebada6b52ab_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened first: the Czechoslovak-Polish Treaty or Polish troops retreated to Skocz\u00f3w?",
+                "original_question": "What happened first: attack on Skocz\u00f3w was cancelled or the Czechoslovak-Polish Treaty?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Polish troops retreated to Skocz\u00f3w"
+                    ]
+                },
+                "query_id": "ab30c03d-b60a-48c1-bdce-8ebada6b52ab_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened second: Polish troops retreated to Skocz\u00f3w or the Czechoslovak-Polish Treaty?",
+                "original_question": "What happened first: attack on Skocz\u00f3w was cancelled or the Czechoslovak-Polish Treaty?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Czechoslovak-Polish Treaty"
+                    ]
+                },
+                "query_id": "ab30c03d-b60a-48c1-bdce-8ebada6b52ab_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened later: the Czechoslovak-Polish Treaty or Polish troops retreated to Skocz\u00f3w?",
+                "original_question": "What happened first: attack on Skocz\u00f3w was cancelled or the Czechoslovak-Polish Treaty?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Czechoslovak-Polish Treaty"
+                    ]
+                },
+                "query_id": "ab30c03d-b60a-48c1-bdce-8ebada6b52ab_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened second: attack on Skocz\u00f3w was cancelled or the Polish troops retreated to Skocz\u00f3w?",
+                "original_question": "What happened second: attack on Skocz\u00f3w was cancelled or the Czechoslovak-Polish Treaty?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "attack on Skocz\u00f3w was cancelled"
+                    ]
+                },
+                "query_id": "39349798-a852-4d12-856b-88ce3e6ede7b_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened second: the Polish troops retreated to Skocz\u00f3w or attack on Skocz\u00f3w was cancelled?",
+                "original_question": "What happened second: attack on Skocz\u00f3w was cancelled or the Czechoslovak-Polish Treaty?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "attack on Skocz\u00f3w was cancelled"
+                    ]
+                },
+                "query_id": "39349798-a852-4d12-856b-88ce3e6ede7b_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened first: attack on Skocz\u00f3w was cancelled or the Polish troops retreated to Skocz\u00f3w?",
+                "original_question": "What happened second: attack on Skocz\u00f3w was cancelled or the Czechoslovak-Polish Treaty?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Polish troops retreated to Skocz\u00f3w"
+                    ]
+                },
+                "query_id": "39349798-a852-4d12-856b-88ce3e6ede7b_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened earlier: the Polish troops retreated to Skocz\u00f3w or attack on Skocz\u00f3w was cancelled?",
+                "original_question": "What happened second: attack on Skocz\u00f3w was cancelled or the Czechoslovak-Polish Treaty?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Polish troops retreated"
+                    ]
+                },
+                "query_id": "39349798-a852-4d12-856b-88ce3e6ede7b_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which event happened later, the occupation of Silesia, or the crossing of Vistula?",
+                "original_question": "Which event happened first, the occupation of Silesia, or the crossing of Vistula?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "the crossing of Vistula"
+                    ]
+                },
+                "query_id": "fae91b0e-1d68-4087-a590-50ef90fba3e3_1",
+                "dataset": "drop",
+                "validated_answers": [
+                    {
+                        "number": "",
+                        "date": {
+                            "day": "",
+                            "month": "",
+                            "year": ""
+                        },
+                        "spans": [
+                            "\u0160nejd\u00e1rek had received the order to cross the Vistula"
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Which event happened later, or crossing of Vistula or the occupation of Silesia?",
+                "original_question": "Which event happened first, the occupation of Silesia, or the crossing of Vistula?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "the crossing of Vistula"
+                    ]
+                },
+                "query_id": "fae91b0e-1d68-4087-a590-50ef90fba3e3_2",
+                "dataset": "drop",
+                "validated_answers": [
+                    {
+                        "number": "",
+                        "date": {
+                            "day": "",
+                            "month": "",
+                            "year": ""
+                        },
+                        "spans": [
+                            "\u0160nejd\u00e1rek had received the order to cross the Vistula"
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Which event happened earlier, the occupation of Silesia, or the crossing of Vistula?",
+                "original_question": "Which event happened first, the occupation of Silesia, or the crossing of Vistula?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "the occupation of Silesia"
+                    ]
+                },
+                "query_id": "fae91b0e-1d68-4087-a590-50ef90fba3e3_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which event happened earlier, or crossing of Vistula or the occupation of Silesia?",
+                "original_question": "Which event happened first, the occupation of Silesia, or the crossing of Vistula?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "the occupation of Silesia"
+                    ]
+                },
+                "query_id": "fae91b0e-1d68-4087-a590-50ef90fba3e3_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many cities did the Czechoslovak army attack on 23 January 1919?",
+                "original_question": "How many countries were represented at the meeting on 23 January 1919?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "85edbfee-4f77-4b95-8db0-ad81a0caa66a_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many countries participated in the Treaty?",
+                "original_question": "How many days after the attack on Skocz\u00f3w was cancelled was the Czechoslovak-Polish Treaty concluded?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e36b837e-c089-42c3-b64a-583e0ea007bd_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many different nations attacked on 23 January 1919?",
+                "original_question": "How many different nations spanned the group of officers?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a80d0815-2c98-4f6e-b6cc-1f28c623cb1c_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many places did the Czechoslovak seize in the attack on 23 January?",
+                "original_question": "How many places did the Czechoslovak hope to seize in the attack at 13:00?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "80fedf13-4a28-4445-a9c0-6d559dfb6133_1",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "history_1147_1"
+    },
+    {
+        "passage": " Coming off a heartbreaking home loss to the Colts, the Texans stayed at home for a Week 6 duel with the Miami Dolphins.  In the first quarter, Houston trailed early as Dolphins QB Chad Pennington completed a 53-yard TD pass to RB Patrick Cobbs.  The Texans would respond with kicker Kris Brown getting a 27-yard field goal.  In the second quarter, Miami added onto its lead as Pennington completed an 80-yard TD pass to Cobbs.  Houston would answer with Brown kicking a 33-yard field goal and WR Jacoby Jones returning a punt 70 yards for a touchdown. In the third quarter, the Texans took the lead with QB Matt Schaub completing a 12-yar TD pass to WR Andre Johnson, but the Dolphins replied with RB Ricky Williams getting a 5-yard TD run.  In the fourth quarter, Houston regained the lead as Brown got a 42-yard field goal, yet Miami struck back RB Ronnie Brown got a 6-yard TD run.  Fortunately, the Texans got the last laugh as Schaub got the game-winning 3-yard TD run (with a failed 2-point conversion). With the thrilling win, Houston won its first game of the season and improved to 1-4.",
+        "qa_pairs": [
+            {
+                "original_question": "Which team scored first?",
+                "question": "Which team scored first in second quarter?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Miami Dolphins"
+                    ]
+                },
+                "query_id": "e06a6790-a816-45d5-9585-bc177bdb8299_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many 30+ yard filed goals did Kris Brown make in second quarter?",
+                "original_question": "How many 50+ yard touchdowns did Pennington throw?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "dc348c81-1ccb-4cc0-bd97-009e6fa86596_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many touchdown passes did Patrick Cobbs have in the game?",
+                "question": "How many times did Patrick Cobbs and Chad Pennington connect to make a touchdown pass?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "afd89828-80dd-4bac-8858-dde18ecd9d09_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "What was the longest TD pass of the game?",
+                "question": "Who made the third longest TD pass of the game?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Matt Schaub"
+                    ]
+                },
+                "query_id": "d3d6e152-e01f-4f26-ae01-293738b4e1f2_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Who caught the longest TD pass of the game?",
+                "question": "Who caught the second smallest and second longest TD pass of the game?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Patrick Cobbs"
+                    ]
+                },
+                "query_id": "73108e19-35bf-42fb-986e-56c666d16893_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which team scored last?",
+                "question": "Which team scored second last?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Miami Dolphins"
+                    ]
+                },
+                "query_id": "a0333728-ee4c-4c90-b141-522a20cfd07f_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "What are the top two longest touchdown passes made?",
+                "question": "How many yards are the top second and third longest touchdown passes combined?",
+                "answer": {
+                    "number": "65",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "93a32760-2332-4646-a822-6fd671a1744c_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "What are the two shortest field goals made?",
+                "question": "How many yards is the difference between the shortest field goal and last field goal made?",
+                "answer": {
+                    "number": "15",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e0bc7c0b-6379-4a1b-87ed-666eed6f4999_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many yards combined are the two shortest field goals?",
+                "question": "How many yards combined are the two shortest field goals and two shortest TD passes combined?",
+                "answer": {
+                    "number": "125",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b2b63c56-3b87-4109-90c2-31f47ef1aa1f_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many total field goal yards did Kris Brown make?",
+                "original_question": "How many total field goal yards did Kris Brown make?",
+                "answer": {
+                    "number": "42",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a52d2f75-916e-4582-b052-1650eca2ed59_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many total yards did Chad Pennington throw for touchdown passes?",
+                "question": "How many total yards did Chad Pennington throw for touchdown passes over Matt Schaub?",
+                "answer": {
+                    "number": "121",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3e0b7de6-bd0a-4ec3-adfe-f693163b1de8_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many field goals between 20 and 50 yards were made?",
+                "question": "How many field goals between 40 and 50 yards were made?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "35160b9d-c315-4843-bc8a-bc415b948fc1_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which players had touchdown passes longer than 10 yards?",
+                "question": "How many players had touchdown passes smaller than 20 yards?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f25a626b-1e65-4417-86f9-15c1f8e134d5_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many yards longer was Chad Pennington's second touchdown pass compared to his first?",
+                "question": "How many yards longer was Chad Pennington's second touchdown pass compared to Schaub's first?",
+                "answer": {
+                    "number": "68",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "80452914-a5ba-4503-bad1-f53bcae33dd3_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many reception yards did Patrick Cobbs have?",
+                "question": "How many reception yards greater than 60 yards did Patrick Cobbs have?",
+                "answer": {
+                    "number": "80",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "708cbd23-6ae9-44dd-93c8-7d4765eb6229_1",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "nfl_1070"
+    },
+    {
+        "passage": "In March 1626 the French and Spanish concluded the Treaty of Monz\u00f3n, suspension of fighting between the Duke of Savoy and the Republic of Genoa being an integral part of the agreement. The Treaty on 5 March 1626, restored the pre-1618 peace. Jurisdiction was nominally restored over the Valtellina; this was now recognized as Catholic, which strengthened its autonomy and introduced doubt as to who could decide on transit through the valley. Papal troops replaced the French though the forts were supposed to be destroyed. Monz\u00f3n represented a serious reverse for Richelieu who blamed his envoy for the terms and feigned illness to avoid seeing the furious Savoyard ambassador. Abandoned, Savoy was obliged to make its own peace and now sought a Spanish alliance and intrigued with French malcontents against Richelieu, including possible involvement in the Chalais plot to murder the cardinal in 1626. The Valtelline valley was returned to the Vatican. Spanish forces scored a series of striking successes. In the spring of 1625 they regained Bahia in Brazil and Breda in the Netherlands from the Dutch, which turned into a situation with important qualifications. In the autumn they repulsed the English at Cadiz.",
+        "qa_pairs": [
+            {
+                "question": "What event happened first, the situation with important qualifications, or the involvement in the Chalais to murder the cardinal?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "the situation with important qualifications"
+                    ]
+                },
+                "query_id": "ac35190c-2390-4c7b-90c8-6572b6c6907b_2",
+                "original_question": "What event happened first, the situation with important qualifications, or the involvement in the Chalais to murder the cardinal?"
+            },
+            {
+                "question": "What event happened second, the situation with important qualifications, or the involvement in the Chalais to murder the cardinal?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "the involvement in the Chalais to murder the cardinal"
+                    ]
+                },
+                "query_id": "ac35190c-2390-4c7b-90c8-6572b6c6907b_3",
+                "original_question": "What event happened first, the situation with important qualifications, or the involvement in the Chalais to murder the cardinal?"
+            }
+        ],
+        "passageID": "history_1234_1"
+    },
+    {
+        "passage": "Angola has a population of 24,383,301 inhabitants according to the preliminary results of its 2014 census, the first one conducted or carried out since 15 December 1970. It is composed of Ovimbundu (language Umbundu) 37%, Northern Mbundu people (language Kimbundu) 23%, Bakongo 13%, and 32% other ethnic groups (including the Chokwe people, the Ovambo people, the Ganguela and the Xindonga) as well as about 2% mesti\u00e7os (mixed European and African), 1.6% Chinese and 1% European. The Ambundu and Ovimbundu ethnic groups combined form a majority of the population, at 62%. The population is forecast to grow to over 60 million people to 2050, 2.7 times the 2014 population. However, on 23 March 2016, official data revealed by Angolas National Statistic Institute - Instituto Nacional de Estat\u00edstica (INE), states that Angola has a population of 25.789.024 inhabitants.",
+        "qa_pairs": [
+            {
+                "question": "How many fewer residents of Angola were there in 2014 than in 2016?",
+                "answer": {
+                    "number": "1405723",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a36bf6d9-7bf5-4ed9-8cbe-36f90aa660b4_1",
+                "original_question": "How many more residents of Angola were there in 2016 than in 2014?"
+            },
+            {
+                "question": "How many ethnic groups had a higher percentage than Bakongo?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d6b5133d-a7bd-42ac-9f34-707cb1f7b9bd_1",
+                "original_question": "What are all the races that are that have a higher percentage than Bakongo in Angola?"
+            },
+            {
+                "question": "Which ethnic groups had a higher percentage than Bakongo?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Northern Mbundu",
+                        "Ovimbundu"
+                    ]
+                },
+                "query_id": "d6b5133d-a7bd-42ac-9f34-707cb1f7b9bd_2",
+                "original_question": "What are all the races that are that have a higher percentage than Bakongo in Angola?"
+            },
+            {
+                "question": "Which ethnic groups had a higher percentage than 10%?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Northern Mbundu",
+                        "Ovimbundu",
+                        "Bakongo",
+                        "other ethnic groups"
+                    ]
+                },
+                "query_id": "d6b5133d-a7bd-42ac-9f34-707cb1f7b9bd_3",
+                "original_question": "What are all the races that are that have a higher percentage than Bakongo in Angola?"
+            },
+            {
+                "question": "How many groups had a higher percentage than 10%?",
+                "answer": {
+                    "number": "4",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d6b5133d-a7bd-42ac-9f34-707cb1f7b9bd_4",
+                "original_question": "What are all the races that are that have a higher percentage than Bakongo in Angola?"
+            },
+            {
+                "question": "Which ethnic groups had a lower percentage than 10%?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "mesti\u00e7os",
+                        "Chinese",
+                        "European"
+                    ]
+                },
+                "query_id": "d6b5133d-a7bd-42ac-9f34-707cb1f7b9bd_5",
+                "original_question": "What are all the races that are that have a higher percentage than Bakongo in Angola?"
+            },
+            {
+                "question": "How many groups had a lower percentage than 10%?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d6b5133d-a7bd-42ac-9f34-707cb1f7b9bd_6",
+                "original_question": "What are all the races that are that have a higher percentage than Bakongo in Angola?"
+            },
+            {
+                "question": "What percent of the population are in Ambundu ethnic groups?",
+                "answer": {
+                    "number": "25",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e6327d26-1a17-4e5d-9524-a77dafe488b3_1",
+                "original_question": "How many percent of the population was not in the Ambundu and Ovimbundu ethnic groups?"
+            },
+            {
+                "question": "What was the second largest ethnic group in Angola in 2014?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Northern Mbundu people"
+                    ]
+                },
+                "query_id": "755fa2c3-aef3-4549-8411-86b4aff4aa97_1",
+                "original_question": "What as the largest ethnic group in Angola in 2014?"
+            },
+            {
+                "question": "What language was spoken by the second largest ethnic group in Angola in 2014?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Kimbundu"
+                    ]
+                },
+                "query_id": "755fa2c3-aef3-4549-8411-86b4aff4aa97_2",
+                "original_question": "What as the largest ethnic group in Angola in 2014?"
+            },
+            {
+                "question": "What was the third largest ethnic group in Angola in 2014?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Bakongo"
+                    ]
+                },
+                "query_id": "755fa2c3-aef3-4549-8411-86b4aff4aa97_3",
+                "original_question": "What as the largest ethnic group in Angola in 2014?"
+            },
+            {
+                "question": "What was the smallest ethnic group in Angola in 2014?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "European"
+                    ]
+                },
+                "query_id": "755fa2c3-aef3-4549-8411-86b4aff4aa97_4",
+                "original_question": "What as the largest ethnic group in Angola in 2014?"
+            },
+            {
+                "question": "What was the smallest ethnic group in Angola in 2014 that made up more than 10% of the population?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Bakongo"
+                    ]
+                },
+                "query_id": "755fa2c3-aef3-4549-8411-86b4aff4aa97_5",
+                "original_question": "What as the largest ethnic group in Angola in 2014?"
+            },
+            {
+                "question": "What was the largest ethnic group in Angola in 2014 that made up less than 10% of the population?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "mesti\u00e7os"
+                    ]
+                },
+                "query_id": "755fa2c3-aef3-4549-8411-86b4aff4aa97_6",
+                "original_question": "What as the largest ethnic group in Angola in 2014?"
+            },
+            {
+                "question": "What language was spoken by the largest ethnic group in Angola in 2014?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Umbundu"
+                    ]
+                },
+                "query_id": "755fa2c3-aef3-4549-8411-86b4aff4aa97_7",
+                "original_question": "What as the largest ethnic group in Angola in 2014?"
+            }
+        ],
+        "passageID": "history_1964"
+    },
+    {
+        "passage": "A 2016 survey conducted by the Razumkov Centre found that 70% of the population declared themselves believers in any religion, while 6.3% declared themselves non-believers, and 2.7% declared to be atheists. Of the total Ukraian population, 81.9% declared to be Christians, comprising a 63.4% who declared to be Eastern Orthodox Church, 8.5% Ukrainian Greek Catholic Church, 7.1% simply christians, 1.9% Protestantism, and 1.0% Catholic Church. Islam comprises 1.1% of the population, while Judaism and Hinduism were the religions of 0.2% of the population each. A further 16.3% of the population believed in some other religion not identifying in one of those listed hitherto; it may comprise Rodnovery and other faiths.",
+        "qa_pairs": [
+            {
+                "original_question": "Where there more non-believers or atheists?",
+                "question": "Were there more believers, non-believers or atheists?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "believers"
+                    ]
+                },
+                "query_id": "5d94eb0b-459e-42dd-980a-b9afa9e12138_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Where there more non-believers or atheists?",
+                "question": "Were there more believers or non-believers and atheists combined?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "believers"
+                    ]
+                },
+                "query_id": "5d94eb0b-459e-42dd-980a-b9afa9e12138_2",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many more percent of the people consider themselves believers compared to non-believers?",
+                "question": "How many more percent of the people consider themselves believers compared to non-believers and atheists combined?",
+                "answer": {
+                    "number": "61",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8e72eda6-2dfb-44d2-9671-f32a52464dab_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many percent of the total Ukraian population were not declared Christians?",
+                "question": "How many percent of the total Ukraian population were not declared to Eastern Orthodox or Ukrainian Greek Catholic Church?",
+                "answer": {
+                    "number": "28.1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "af20b968-46f0-46de-9163-359d427f3c19_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many percent of the total Ukraian population were not declared Christians?",
+                "question": "How many less percent of the total Ukraian population were from Catholic Church as compared to Eastern Orthodox or Ukrainian Greek Catholic Church combined?",
+                "answer": {
+                    "number": "80.9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "af20b968-46f0-46de-9163-359d427f3c19_2",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many percent of the total Ukraian population were not declared Christians?",
+                "question": "How many more percent of the total Ukraian population were from Eastern Orthodox and Catholic Church combined as compared to Ukrainian Greek Catholic Church?",
+                "answer": {
+                    "number": "55.9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "af20b968-46f0-46de-9163-359d427f3c19_3",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many percent of the total Ukraian population were not declared Christians?",
+                "question": "How many percent of the total Ukraian population did Eastern Orthodox, Catholic Church and Ukrainian Greek Catholic Church make combined?",
+                "answer": {
+                    "number": "72.9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "af20b968-46f0-46de-9163-359d427f3c19_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "Where there more people in the Eastern Orthodox CHurch, Protestantism or the Ukrainian Greek Catholic Church?",
+                "original_question": "Where there more people in the Eastern Orthodox CHurch or the Ukrainian Greek Catholic Church?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Eastern Orthodox Church"
+                    ]
+                },
+                "query_id": "dd45046a-fb63-48b0-a619-38450a79c43d_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Where there more people in the Eastern Orthodox CHurch, Catholic Church or the Ukrainian Greek Catholic Church?",
+                "original_question": "Where there more people in the Eastern Orthodox CHurch or the Ukrainian Greek Catholic Church?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Eastern Orthodox Church"
+                    ]
+                },
+                "query_id": "dd45046a-fb63-48b0-a619-38450a79c43d_2",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which had less people, Protestantism or Islam?",
+                "question": "Which had less people, Protestantism, Judaism or Islam?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Judaism"
+                    ]
+                },
+                "query_id": "eae03177-8c9c-4850-8762-3901c62eb1d7_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which had less people, Protestantism or Islam?",
+                "question": "Which had less people, Protestantism, simply christians or Islam?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Islam"
+                    ]
+                },
+                "query_id": "eae03177-8c9c-4850-8762-3901c62eb1d7_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many religions had less than 2% of the population each?",
+                "original_question": "How many religions had less than 2% of the population each?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Protestantism",
+                        "Catholic Church",
+                        "Islam",
+                        "Judaism",
+                        "Hinduism"
+                    ]
+                },
+                "query_id": "ddfee0d3-4b9c-49ef-a21f-f18beb55b347_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many religions had less than 2% of the population each?",
+                "original_question": "How many religions had less than 2% of the population each?",
+                "answer": {
+                    "number": "4",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ddfee0d3-4b9c-49ef-a21f-f18beb55b347_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many religions had less than 2% of the population each?",
+                "original_question": "How many religions had less than 2% of the population each?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ddfee0d3-4b9c-49ef-a21f-f18beb55b347_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many more percent of people considered themselves believers and non-believers than atheists?",
+                "original_question": "How many more percent of people considered themselves non-believers than atheists?",
+                "answer": {
+                    "number": "73.6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "72e2d6fc-4904-4c9c-a7ea-19bdd1001118_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which church had more members, the Ukrainian Greek Catholic Church, Catholic Church or the Eastern Orthodox Church?",
+                "original_question": "Which church had more members, the Ukrainian Greek Catholic Church or the Eastern Orthodox Church?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Eastern Orthodox Church"
+                    ]
+                },
+                "query_id": "7bdb04bd-9464-42f9-b9af-543c2ed8f65f_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which church had less members, the Ukrainian Greek Catholic Church, Catholic Church or the Eastern Orthodox Church?",
+                "original_question": "Which church had more members, the Ukrainian Greek Catholic Church or the Eastern Orthodox Church?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Catholic Church"
+                    ]
+                },
+                "query_id": "7bdb04bd-9464-42f9-b9af-543c2ed8f65f_2",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many more percent of people considered themselves as simply christians compared to Protestants?",
+                "question": "How many more percent of people considered themselves as simply christians compared to Protestants or Islam?",
+                "answer": {
+                    "number": "4.1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "705a5992-c5f6-44ee-85e0-85255ddac77d_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many more percent of people considered themselves as simply christians compared to Protestants?",
+                "question": "How many more percent of people considered themselves as simply christians compared to Protestants or Catholic Church?",
+                "answer": {
+                    "number": "4.2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "705a5992-c5f6-44ee-85e0-85255ddac77d_2",
+                "dataset": "drop"
+            },
+            {
+                "qoriginal_uestion": "How many percent of people did not consider themselves to be Eastern Orthodox Church?",
+                "question": "How many percent of people did not consider themselves to be Eastern Orthodox Church or Ukrainian Greek Catholic Church?",
+                "answer": {
+                    "number": "28.1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a034aca1-4a6b-4999-bc20-8feaae59eafd_1",
+                "dataset": "drop",
+                "original_question": "How many percent of people did not consider themselves to be Eastern Orthodox Church?"
+            },
+            {
+                "qoriginal_uestion": "How many percent of people did not consider themselves to be Eastern Orthodox Church?",
+                "question": "How many percent of people did not consider themselves to be Eastern Orthodox Church, Catholic Church or Ukrainian Greek Catholic Church?",
+                "answer": {
+                    "number": "27.1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a034aca1-4a6b-4999-bc20-8feaae59eafd_2",
+                "dataset": "drop",
+                "original_question": "How many percent of people did not consider themselves to be Eastern Orthodox Church?"
+            },
+            {
+                "original_question": "Which group had fewer members, Judaism or Islam?",
+                "question": "Which group had fewer members Judaism, Catholic Church or Islam?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Judaism"
+                    ]
+                },
+                "query_id": "e1c5d5a1-48e3-468b-86cf-d241fd375c2c_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which group had fewer members, Judaism or Islam?",
+                "question": "Which group had more members Judaism, Catholic Church or Islam?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Islam"
+                    ]
+                },
+                "query_id": "e1c5d5a1-48e3-468b-86cf-d241fd375c2c_2",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many religious groups had more than 5% of the population?",
+                "question": "Which religious groups had more than 5% of the population?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Eastern Orthodox Church",
+                        "Ukrainian Greek Catholic Church",
+                        "simply christians"
+                    ]
+                },
+                "query_id": "237eb56e-7306-4d4b-85ab-a3975dccdaa4_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many religious groups had more than 5% of the population?",
+                "question": "Which religious groups had between 1% and 10% of the population?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Protestantism",
+                        "simply christians",
+                        "Ukrainian Greek Catholic Church"
+                    ]
+                },
+                "query_id": "237eb56e-7306-4d4b-85ab-a3975dccdaa4_2",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many more percent of the population considered themselves non-believers rather than atheists?",
+                "question": "Which section of population made the second largest percentage of population out of believers, non-believers and atheists?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "non-believers"
+                    ]
+                },
+                "query_id": "2cf55781-7cb4-4ab4-ae09-0bfec136b68f_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which was the second most prevalent denomination of the Christian religion in the Ukranian population?",
+                "question": "Which was the most prevalent denomination of the Christian religion in the Ukranian population?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Eastern Orthodox"
+                    ]
+                },
+                "query_id": "ab96ff6a-e1e5-497f-8ad0-5ab4e21ce135_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which was the second most prevalent denomination of the Christian religion in the Ukranian population?",
+                "question": "Which was the least prevalent denomination of the Christian religion in the Ukranian population?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "simply christians"
+                    ]
+                },
+                "query_id": "ab96ff6a-e1e5-497f-8ad0-5ab4e21ce135_2",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many more percent of the population considered themselves Eastern Orthodox than the next most populous Christian denomination?",
+                "question": "How many more percent of the population considered themselves Eastern Orthodox than the second most populous Christian denomination?",
+                "answer": {
+                    "number": "54.9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0b83729d-aef6-4a00-b664-22847effd4f3_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Were there more followers of the Catholic Church or of Islam?",
+                "original_question": "Were there more followers of the Catholic Church or of Islam?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Catholic Church"
+                    ]
+                },
+                "query_id": "8cb5f382-6a4f-48a2-b38f-859a703685d1_1",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "history_1797"
+    },
+    {
+        "passage": "The first war began as a result of disputes between a prominent African merchant, John Cabess  who had armed forces loyal to him, in Eguafo and the Dutch West India Company . Cabess was a formal and loyal ally to the British Royal African Company and assisted their operations in the region. The Dutch, in competition with the Royal African Company, had a series of disputes with Cabess including an instance in 1684 with the Dutch panyarring Cabess and taking his goods. The disputes intensified in November 1694 when Cabess invited the British Royal African Company to return to Komenda and then attacked Dutch miners outside of the city. With the British reoccupying the former British fort in Komenda they were fired upon by the Dutch fort. As a result of these hostilities, the British, Dutch, and Eguafo king began contacting possible allies in surrounding African kingdoms to prepare for a war. Cabess Terra and Twifo initially joined the Dutch, but this alliance was stopped when Denkyira threatened to attack Twifo if war should break out. The Adoms took money from Eguafo to remain neutral in any fighting. War broke out in February 1695 when the forces of John Cabess attacked the Dutch fort and prevented reinforcements. On April 28, 1695, the Twifo forces were defeated. The war then largely took the form of panyarring where one force would seize members of other groups regularly. A short-lived peace settlement was reached in the end of 1695, a few months after an unfortunate incident when the Dutch head at the fort, Willem Bosman, drew a pistol and attempted to shoot at Cabess.",
+        "qa_pairs": [
+            {
+                "question": "What happened last, Willem Bosman attempting to shoot Cabess or a short-lived peace settlement?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "a short-lived peace settlement"
+                    ]
+                },
+                "query_id": "47e83ae8-fca9-479e-8da4-6b510c44a891_1",
+                "original_question": "What happened last, Willem Bosman attempting to shoot Cabess or a short-lived peace settlement?"
+            },
+            {
+                "question": "What happened last, a short-lived peace settlement, or Willem Bosman attempting to shoot Cabess?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "a short-lived peace settlement"
+                    ]
+                },
+                "query_id": "47e83ae8-fca9-479e-8da4-6b510c44a891_2",
+                "original_question": "What happened last, Willem Bosman attempting to shoot Cabess or a short-lived peace settlement?"
+            },
+            {
+                "question": "What happened first, Willem Bosman attempting to shoot Cabess or a short-lived peace settlement?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Willem Bosman attempting to shoot Cabess"
+                    ]
+                },
+                "query_id": "47e83ae8-fca9-479e-8da4-6b510c44a891_3",
+                "original_question": "What happened last, Willem Bosman attempting to shoot Cabess or a short-lived peace settlement?"
+            },
+            {
+                "question": "What happened first, a short-lived peace settlement, or Willem Bosman attempting to shoot Cabess?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Willem Bosman attempting to shoot Cabess"
+                    ]
+                },
+                "query_id": "47e83ae8-fca9-479e-8da4-6b510c44a891_4",
+                "original_question": "What happened last, Willem Bosman attempting to shoot Cabess or a short-lived peace settlement?"
+            }
+        ],
+        "passageID": "history_854_2"
+    },
+    {
+        "passage": "Hoping to rebound from their home loss to the Chiefs, the Raiders flew to Qualcomm Stadium for a Week 14 AFC West rematch with the San Diego Chargers.  In the first quarter, Oakland trailed early as Chargers kicker Nate Kaeding getting a 20-yard field goal, along with RB LaDainian Tomlinson getting a 3-yard TD pass to Philip Rivers.  The Raiders continued to trail as QB Philip Rivers completed an 8-yard TD pass to RB Darren Sproles and a 59-yard TD pass to WR Vincent Jackson, while Kaeding got a 39-yard field goal. RB Darren Sproles also made a 6-yard TD pass back to Philip Rivers. Oakland responded with CB Justin Miller returning a kickoff 98 yards for a touchdown.  After a scoreless third quarter, San Diego pulled away in the fourth quarter as Rivers hooked up with Sproles again on an 18-yard TD pass. With the loss, not only did the Raiders fall to 3-10, but they also suffered their sixth-straight 10-loss season.",
+        "qa_pairs": [
+            {
+                "question": "How many TD passes did Darren Sproles throw?",
+                "origina_question": "Who had two touchdown receptions?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6261b4f9-590b-46bd-8933-cd810c382a4a_1",
+                "dataset": "drop",
+                "original_question": "Who had two touchdown receptions?"
+            },
+            {
+                "question": "How many TD passes of at least 7 yards did Rivers make?",
+                "original_question": "How many field goals of at least 30 yards did Kaeding make?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "57c0d4f5-7829-4b0a-b75f-075464b1aa7c_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which player caught the shortest TD pass?",
+                "original_question": "Which player scored the most touchdowns?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Philip Rivers"
+                    ]
+                },
+                "query_id": "c6b048c2-88e4-4554-a991-ec247aeae501_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which player caught the last touchdown of the game?",
+                "original_question": "Which player scored the first touchdown of the game?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Sproles"
+                    ]
+                },
+                "query_id": "f40a34c4-4f7c-418d-a0b7-619439879883_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many yards longer was Philip Rivers' longest touchdown pass compared to Sproles' longest TD pass?",
+                "original_question": "How many yards longer was Philip Rivers' second touchdown pass compared to his first?",
+                "answer": {
+                    "number": "53",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e6e87aff-7f60-4938-b1e6-20d11a692320_1",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "nfl_1183"
+    },
+    {
+        "passage": "Most of the area was inhabited by Poles, Germans, and Kashubians. The census of 1910 showed that there were 528,000 Poles (including West Slavic Kashubians) compared to 385,000 Germans in the region. The census included German soldiers stationed in the area as well as public officials sent to administer the area. Since 1886, a Prussian Settlement Commission was set up by Prussia to enforce German settlement while at the same time Poles, Jews and Germans migrated west during the Ostflucht. In 1921 the proportion of Germans in Pomerania (where the Corridor was located) was 18.8% (175,771). Over the next decade, the German population decreased by another 70,000 to a share of 9.6%. There was also a Jewish minority. in 1905, Kashubians numbered about 72,500. After the occupation by Nazi Germany, a census was made by the German authorities in December 1939. 71% of people declared themselves as Poles, 188,000 people declared Kashubian as their language, 100,000 of those declared themselves Polish.",
+        "qa_pairs": [
+            {
+                "question": "Which groups inhabited the area?",
+                "original_question": "How many groups inhabited the area?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Poles, Germans, and Kashubians"
+                    ]
+                },
+                "query_id": "b123cdd9-159e-46ad-a0b3-d4f5a766fe7f_1",
+                "dataset": "drop",
+                "validated_answers": [
+                    {
+                        "number": "",
+                        "date": {
+                            "day": "",
+                            "month": "",
+                            "year": ""
+                        },
+                        "spans": [
+                            "Poles",
+                            "Germans",
+                            "Kashubians"
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Were there more Polish speakers or Kashubian in 1939?",
+                "original_question": "Were there more Pole or Germans in the region?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Kashubian"
+                    ]
+                },
+                "query_id": "fb2b0a3d-3dd7-476a-a1f4-3c1fcd03fc71_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Were there more Kashubian speakers or Polish speakers in 1939?",
+                "original_question": "Were there more Pole or Germans in the region?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Kashubian"
+                    ]
+                },
+                "query_id": "fb2b0a3d-3dd7-476a-a1f4-3c1fcd03fc71_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "Were there fewer Polish speakers or Kashubian in 1939?",
+                "original_question": "Were there more Pole or Germans in the region?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Polish"
+                    ]
+                },
+                "query_id": "fb2b0a3d-3dd7-476a-a1f4-3c1fcd03fc71_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "Were there fewer Kashubian speakers or Polish speakers in 1939?",
+                "original_question": "Were there more Pole or Germans in the region?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Polish"
+                    ]
+                },
+                "query_id": "fb2b0a3d-3dd7-476a-a1f4-3c1fcd03fc71_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many ethnicities migrated during the Ostflucht?",
+                "original_question": "Who migrated during the Ostflucht?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c29d9c2f-5ec4-4bcd-a28b-28d5f579e3aa_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How much lower was the number of Polish speakers in 1939 than the number of Poles in 1910?",
+                "original_question": "How many percentages lower was the German population in Pomerania in 1911 than it was in 1921?",
+                "answer": {
+                    "number": "428000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "1b7d153f-7328-4773-be32-7eb02f26e53d_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "In 1905, how many more Germans were present than Kashubians in Pomerania?",
+                "original_question": "In 1905, were there more Germans, or Kashubians in Pomerania?",
+                "answer": {
+                    "number": "33271",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c5f578a2-e2de-47b0-b441-1bc8cfa19e6d_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "In December of 1939, which language was less commonly spoken, Kashubian or Polish?",
+                "original_question": "In December of 1939, which language was more commonly spoken, Kashubian or Polish?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Polish"
+                    ]
+                },
+                "query_id": "eb089713-097c-498c-a32d-8868a19d0104_1",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "history_2046"
+    },
+    {
+        "passage": "The 2010 United States Census reported that Amador County had a population of 38,091. The racial makeup of Amador County was 419 (1.1%) Asian (U.S. Census), 678 (1.8%) Native American (U.S. Census), 77 (0.2%) Pacific Islander (U.S. Census), 962 (2.5%) African American (U.S. Census), 33,149 (87.0%) White (U.S. Census), 1,450 (3.8%) from Race (United States Census), and 1,356 (3.6%) from two or more races.  Hispanic (U.S. Census) or Latino (U.S. Census) of any race were 4,756 persons (12.5%).",
+        "qa_pairs": [
+            {
+                "question": "How many in percent from the 2010 United States Census for Amador County weren't white?",
+                "original_question": "How many in percent from the 2010 United States Census for Amador County weren't white?",
+                "answer": {
+                    "number": "11.2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "36b25381-8168-4154-81f4-b15a2464fa56_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many in percent from the 2010 United States Census for Amador County were African American or Native American?",
+                "original_question": "How many in percent from the 2010 United States Census for Amador County weren't African American?",
+                "answer": {
+                    "number": "4.3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e51f4619-d8dd-4e19-8c5c-e309b3f7b8dd_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many people from the 2010 United States Census for Amador County weren't from two or more races?",
+                "original_question": "How many in percent from the 2010 United States Census for Amador County weren't from two or more races?",
+                "answer": {
+                    "number": "36735",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0949079f-7fbd-40fe-9040-6e9cb6e32dc6_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many people from the 2010 United States Census for Amador County were Asian and African American?",
+                "original_question": "How many people from the 2010 United States Census for Amador County were White and African American?",
+                "answer": {
+                    "number": "1381",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b4f2f53d-5cc3-49ee-8f18-24a0dbd44cc6_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Were there fewer Asian or African American citizens in Amador County according to the 2010 census?",
+                "original_question": "Were there fewer White or African American citizens in Amador County according to the 2010 census?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Asian"
+                    ]
+                },
+                "query_id": "c0ca2e9d-d863-47ba-8b63-58487b157b74_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Were there fewer African American or Asian citizens in Amador County according to the 2010 census?",
+                "original_question": "Were there fewer White or African American citizens in Amador County according to the 2010 census?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Asian"
+                    ]
+                },
+                "query_id": "c0ca2e9d-d863-47ba-8b63-58487b157b74_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "Were there more Asian or African American citizens in Amador County according to the 2010 census?",
+                "original_question": "Were there fewer White or African American citizens in Amador County according to the 2010 census?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "African American"
+                    ]
+                },
+                "query_id": "c0ca2e9d-d863-47ba-8b63-58487b157b74_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "Were there more African American or Asian citizens in Amador County according to the 2010 census?",
+                "original_question": "Were there fewer White or African American citizens in Amador County according to the 2010 census?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "African American"
+                    ]
+                },
+                "query_id": "c0ca2e9d-d863-47ba-8b63-58487b157b74_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "Were there fewer African American or Native American citizens in Amador County according to the 2010 census?",
+                "original_question": "Were there more African American or Native American citizens in Amador County according to the 2010 census?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Native American"
+                    ]
+                },
+                "query_id": "d74cb617-9c46-47e4-bb1d-b0549ffca40e_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Were there fewer Native American or African American citizens in Amador County according to the 2010 census?",
+                "original_question": "Were there more African American or Native American citizens in Amador County according to the 2010 census?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Native American"
+                    ]
+                },
+                "query_id": "d74cb617-9c46-47e4-bb1d-b0549ffca40e_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "Were there more African American or Native American citizens in Amador County according to the 2010 census?",
+                "original_question": "Were there more African American or Native American citizens in Amador County according to the 2010 census?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "African American"
+                    ]
+                },
+                "query_id": "d74cb617-9c46-47e4-bb1d-b0549ffca40e_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "Were there more Native American or African American citizens in Amador County according to the 2010 census?",
+                "original_question": "Were there more African American or Native American citizens in Amador County according to the 2010 census?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "African American"
+                    ]
+                },
+                "query_id": "d74cb617-9c46-47e4-bb1d-b0549ffca40e_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "Were there fewer Asian or Native American citizens in Amador County according to the 2010 census?",
+                "original_question": "Were there more Asian or Native American citizens in Amador County according to the 2010 census?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Asian"
+                    ]
+                },
+                "query_id": "3a673455-9af3-43e2-bb0f-1e02449aed7e_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Were there fewer Native American or Asian citizens in Amador County according to the 2010 census?",
+                "original_question": "Were there more Asian or Native American citizens in Amador County according to the 2010 census?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Asian"
+                    ]
+                },
+                "query_id": "3a673455-9af3-43e2-bb0f-1e02449aed7e_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "Were there more Asian or Native American citizens in Amador County according to the 2010 census?",
+                "original_question": "Were there more Asian or Native American citizens in Amador County according to the 2010 census?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Native American"
+                    ]
+                },
+                "query_id": "3a673455-9af3-43e2-bb0f-1e02449aed7e_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "Were there more Native American or Asian citizens in Amador County according to the 2010 census?",
+                "original_question": "Were there more Asian or Native American citizens in Amador County according to the 2010 census?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Native American"
+                    ]
+                },
+                "query_id": "3a673455-9af3-43e2-bb0f-1e02449aed7e_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many more African Americans were there compared to Native Americans in percent?",
+                "original_question": "How many more African Americans were there compared to Native Americans?",
+                "answer": {
+                    "number": "0.7",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "38b77b36-b01b-48b5-9d79-7c7f604e6ef6_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which race was identified as having the second fewest number of people?",
+                "original_question": "Which race was identified as having the fewest number of people?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Asian"
+                    ]
+                },
+                "query_id": "28edc546-9157-4a20-9b24-e75d73373316_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which group from the census is smaller: White or African American?",
+                "original_question": "Which group from the census is larger: White or African American?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "African American"
+                    ]
+                },
+                "query_id": "08f7f709-5b84-4e9f-a467-16f609ae0a64_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which group from the census is smaller: African American or White?",
+                "original_question": "Which group from the census is larger: White or African American?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "African American"
+                    ]
+                },
+                "query_id": "08f7f709-5b84-4e9f-a467-16f609ae0a64_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which group from the census is larger: White or African American?",
+                "original_question": "Which group from the census is larger: White or African American?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "White"
+                    ]
+                },
+                "query_id": "08f7f709-5b84-4e9f-a467-16f609ae0a64_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which group from the census is larger: African American or White?",
+                "original_question": "Which group from the census is larger: White or African American?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "White"
+                    ]
+                },
+                "query_id": "08f7f709-5b84-4e9f-a467-16f609ae0a64_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which groups from the census have population smaller than 1000?",
+                "original_question": "Which group from the census is smaller: White or African American?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Asian",
+                        "African American",
+                        "Native American",
+                        "Pacific Islander"
+                    ]
+                },
+                "query_id": "d9d9e7b2-89c7-4baf-a041-787837102418_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which group from the census is smaller: Native American or Asian?",
+                "original_question": "Which group from the census is larger: Native American or Asian?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Asian"
+                    ]
+                },
+                "query_id": "9bcf95ce-e579-4683-ac53-a3229a517187_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which group from the census is smaller: Asian or Native American?",
+                "original_question": "Which group from the census is larger: Native American or Asian?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Asian"
+                    ]
+                },
+                "query_id": "9bcf95ce-e579-4683-ac53-a3229a517187_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which group from the census is larger: Native American or Asian?",
+                "original_question": "Which group from the census is larger: Native American or Asian?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Native American"
+                    ]
+                },
+                "query_id": "9bcf95ce-e579-4683-ac53-a3229a517187_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which group from the census is larger: Asian or Native American?",
+                "original_question": "Which group from the census is larger: Native American or Asian?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Native American"
+                    ]
+                },
+                "query_id": "9bcf95ce-e579-4683-ac53-a3229a517187_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which groups from the census have population smaller than 500 people?",
+                "original_question": "Which group from the census is smaller: Native American or Asian?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Asian",
+                        "Pacific Islander"
+                    ]
+                },
+                "query_id": "1180fac8-fd19-45ac-88e8-61c762cec737_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many people in Amador County were not White or Asian in 2010?",
+                "original_question": "How many people in Amador County were not White in 2010?",
+                "answer": {
+                    "number": "4523",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "53184eb0-1d33-4a2b-bc37-419224209109_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many races were measured in Amador County in the 2010 United States Census?",
+                "original_question": "What races were measured in Amador County in the 2010 United States Census?",
+                "answer": {
+                    "number": "6",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6cae9307-a6ba-4898-ad53-6aaf468e9538_1",
+                "dataset": "drop",
+                "validated_answers": [
+                    {
+                        "number": "5",
+                        "date": {
+                            "day": "",
+                            "month": "",
+                            "year": ""
+                        },
+                        "spans": []
+                    }
+                ]
+            },
+            {
+                "question": "What group was the largest racial population in Amador County in 2010?",
+                "original_question": "What were the three largest racial populations in Amador County in 2010?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "White"
+                    ]
+                },
+                "query_id": "126e3f3e-78c5-4640-99e2-e9814e049cb6_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many percent of Amador County's population was not Native American?",
+                "original_question": "How many percent of Amador County's population was non-white?",
+                "answer": {
+                    "number": "98.2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b13e6539-f9bb-43e2-b989-f66f8b49959a_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many groups are smaller than 2%?",
+                "original_question": "Which groups are smaller than 2%?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f556ed85-5610-470e-a6c9-86840c6d0ce3_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which group from the census is larger than 20%?",
+                "original_question": "Which group from the census is larger: White or African American?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "White"
+                    ]
+                },
+                "query_id": "4c1e06b3-7002-4daa-b1f0-1f9e69397447_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which group from the census is smaller: Native American or Pacific Islander?",
+                "original_question": "Which group from the census is smaller: Asian or Native American?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Pacific Islander"
+                    ]
+                },
+                "query_id": "d515f985-5210-46f2-a97d-6e437aea0ebb_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which group from the census is smaller: Pacific Islander or Native American?",
+                "original_question": "Which group from the census is smaller: Asian or Native American?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Pacific Islander"
+                    ]
+                },
+                "query_id": "d515f985-5210-46f2-a97d-6e437aea0ebb_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which group from the census is larger: Native American or Pacific Islander?",
+                "original_question": "Which group from the census is smaller: Asian or Native American?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Native American"
+                    ]
+                },
+                "query_id": "d515f985-5210-46f2-a97d-6e437aea0ebb_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which group from the census is larger: Pacific Islander or Native American?",
+                "original_question": "Which group from the census is smaller: Asian or Native American?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Native American"
+                    ]
+                },
+                "query_id": "d515f985-5210-46f2-a97d-6e437aea0ebb_4",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "history_1956"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "sentence": "There is a man in blue jeans standing behind a dog in one of the images.",
+        "left_url": "https://s-media-cache-ak0.pinimg.com/originals/15/e1/15/15e115875a4a1499aa1d299b7d195d91.jpg",
+        "right_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Chart_rosyjski_borzoj_rybnik-kamien_pl.jpg",
+        "identifier": "test1-566-1-1-1",
+        "writer": 2,
+        "label": false
+    },
+    {
+        "sentence": "there are 4 chimps in the image pair",
+        "left_url": "http://www.blitzquotidiano.it/wp/wp/wp-content/uploads/2016/03/Scimpanze-rito-bizzarro-credono-in-Dio-6.jpg",
+        "right_url": "http://i.imgur.com/ABCsWAM.jpg",
+        "identifier": "test1-90-1-1-1",
+        "writer": 3,
+        "label": false
+    },
+    {
+        "sentence": "There are three sheep one being brown and a pug in s sheep costume.",
+        "left_url": "https://www.english-bulldog-dog-breed-store.co.uk/images/dog-harnesses/pug-dog-harness-uk-best-leather-small.jpg",
+        "right_url": "https://www.publicdomainpictures.net/pictures/260000/nahled/pug-dog-portrait.jpg",
+        "identifier": "test1-421-1-1-2",
+        "writer": 0,
+        "label": false
+    },
+    {
+        "sentence": "One image shows a bed with a dome-shaped canopy over it, and the other image shows a suspended canopy that draps around the bed.",
+        "left_url": "https://www.travelpharm.com/images/pyramid-mosinet-double-bed-pop-up-mosquito-net-s1199-p7970-12989_image.jpg",
+        "right_url": "https://live.staticflickr.com/2307/3536363931_84c03b92f5_b.jpg",
+        "identifier": "test1-792-3-1-1",
+        "writer": 2,
+        "label": true
+    },
+    {
+        "sentence": "The left and right image contains multiple flat crabs.",
+        "left_url": "http://www.jimedwardswildlifephotography.com/images/sea-of-cortez-baja/IMG_5995.sallylightfoot.jpg",
+        "right_url": "https://www.bonamarcorp.com/wp-content/uploads/slider2/blue_crabs.jpg",
+        "identifier": "test1-989-0-0-0",
+        "writer": 1,
+        "label": false
+    },
+    {
+        "sentence": "One image contains three bottles of wine and the other contains two bottles.",
+        "left_url": "https://s-media-cache-ak0.pinimg.com/originals/4b/6a/db/4b6adbbba1c6d8f39380bf3aa12d8ef6.jpg",
+        "right_url": "https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2016/05/20/BostonGlobe.com/Lifestyle/Images/25glass_FreshSurprisingReds_052516_2A.jpg",
+        "identifier": "test1-773-2-0-1",
+        "writer": 0,
+        "label": false
+    },
+    {
+        "sentence": "A bevel-edged item stands upright next to but not touching or overlapping a square box decorated with a rosy ribbon stripe, in one image.",
+        "left_url": "http://perfumes-4u.info/fragrances/stella-mccartney/stella-in-two/stella-mccartney-stella-in-two.JPG",
+        "right_url": "https://cdn.pixabay.com/photo/2018/03/12/17/23/perfume-3220296_960_720.jpg",
+        "identifier": "test1-18-0-1-2",
+        "writer": 0,
+        "label": false
+    },
+    {
+        "sentence": "In the image to the right, you'll only see one seal.",
+        "left_url": "http://www.acdsystems.com/images/community/posts/post34/sealion.jpg",
+        "right_url": "https://cdn.pixabay.com/photo/2018/08/05/15/06/seal-3585727_1280.jpg",
+        "identifier": "test1-465-3-1-1",
+        "writer": 4,
+        "label": true
+    },
+    {
+        "sentence": "Each image contains just one beagle puppy, who is posed on a draped black cloth.",
+        "left_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Beagle_puppy_sitting_on_grass.jpg",
+        "right_url": "http://bothisbetter.com/wp-content/uploads/2016/04/Mini-Baby-Beagle-Puppies.jpg",
+        "identifier": "test1-112-2-1-2",
+        "writer": 0,
+        "label": false
+    }
+]

@@ -1,0 +1,1836 @@
+[
+    {
+        "passage": "The U.S. finance industry comprised only 10% of total non-farm business profits in 1947, but it grew to 50% by 2010. Over the same period, finance industry income as a proportion of GDP rose from 2.5% to 7.5%, and the finance industrys proportion of all corporate income rose from 10% to 20%. The mean earnings per employee hour in finance relative to all other sectors has closely mirrored the share of total U.S. income earned by the top 1% income earners since 1930. The mean salary in New York Citys finance industry rose from $80,000 in 1981 to $360,000 in 2011, while average New York City salaries rose from $40,000 to $70,000. In 1988, there were about 12,500 U.S. banks with less than $300 million in deposits, and about 900 with more deposits, but by 2012, there were only 4,200 banks with less than $300 million in deposits in the U.S., and over 1,800 with more.",
+        "qa_pairs": [
+            {
+                "question": "How many percents of the U.S. finance industry in 2010 did not comprise of non-farm business profits?",
+                "answer": {
+                    "number": "50",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "715d2a35-91c1-47f2-9ac2-3f2bd59067d4_1",
+                "dataset": "drop",
+                "original_question": "How many percents of the U.S. finance industry in 1947 did not comprise of total non-farm business profits?"
+            },
+            {
+                "question": "How many dollars is the difference between the growth in overall average salary and as compared to finance industry from 1981 in 2011?",
+                "answer": {
+                    "number": "250000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ea4dc433-46f3-4b2b-a7ff-0651381ebcb7_1",
+                "dataset": "drop",
+                "original_question": "How many more dollars was the average New York salaries in 2011 compared to average New York salaries in 1981?"
+            },
+            {
+                "question": "How many years did the average salary for New York City take to increase by $30,000?",
+                "answer": {
+                    "number": "30",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ffd3a87b-800b-46ae-8d44-a3bb6d20dd63_1",
+                "dataset": "drop",
+                "original_question": "How many years did the mean salary for New York Citys finance industry take to go from $80,000 to $360,000?"
+            },
+            {
+                "question": "How many dollars per year did average New York City salaries rise from 1981 to 2011?",
+                "answer": {
+                    "number": "3000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a21a138e-0a14-481d-90eb-27cf0f56567a_1",
+                "dataset": "drop",
+                "original_question": "How many dollars did average New York City salaries rise from 1981 to 2011?"
+            },
+            {
+                "question": "How many more dollars per year did the mean salary rise in 2011 than from 1981?",
+                "answer": {
+                    "number": "28000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6210238d-ef97-43ad-9112-942501ab4ed7_1",
+                "dataset": "drop",
+                "original_question": "How many more thousands did the mean salary rise in 2011 than from 1981?"
+            },
+            {
+                "question": "Over How many years did the percentage of corporate income increase by 10%?",
+                "answer": {
+                    "number": "63",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ec35da8d-b698-4d94-89b7-b6a5052bf562_1",
+                "dataset": "drop",
+                "original_question": "How many percentage did corporate income rise from 10% to 20%?"
+            },
+            {
+                "question": "How many years did it take for non-farm business profits to grow by 40%?",
+                "answer": {
+                    "number": "63",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "de7bd817-582e-4239-8410-b9e48696e95f_1",
+                "dataset": "drop",
+                "original_question": "How many years did  non-farm business profits grow from 10 % to 50%?"
+            },
+            {
+                "question": "Over how many years did did the GDP rise in the U.S. from 2.5% to 7.5%?",
+                "answer": {
+                    "number": "63",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3ea39000-c9ec-48ad-9079-0af43edb90dc_1",
+                "dataset": "drop",
+                "original_question": "How many percentage did the GDP rise in the U.S. from 2.5% to 7.5%?"
+            },
+            {
+                "question": "How many percentage points did non-farm business profit rise as compared to finance industry income from 1947 to 2010?",
+                "answer": {
+                    "number": "35",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e62efa5f-d33a-47b6-b15d-9346fcc0e09e_1",
+                "dataset": "drop",
+                "original_question": "How many percentage points did the finance industry income rise as a proportion of GDP from 1947 to 2010?"
+            },
+            {
+                "question": "By how many dollars did the mean salary in New York City's finance industry rise between 1981 and 2011 as compared to overall average salary?",
+                "answer": {
+                    "number": "250000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "18b24ace-0162-4da3-8baf-fd1ba85670d3_1",
+                "dataset": "drop",
+                "original_question": "By how many dollars did the mean salary in New York City's finance industry rise between 1981 and 2011?"
+            },
+            {
+                "question": "How many more banks had less than $300 million in deposits in 1988 as compared to 2011?",
+                "answer": {
+                    "number": "8300",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "7c6dbcd1-0792-4cfd-95b8-0bf492cc68af_1",
+                "dataset": "drop",
+                "original_question": "How many more banks in 1988 had less than $300 million in deposits than banks that had more than that in deposits?"
+            },
+            {
+                "question": "Over How many years did the number of banks with less than $300 million drop by 8300?",
+                "answer": {
+                    "number": "23",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ed915283-b5b6-42eb-ba53-58f62a8804c4_1",
+                "dataset": "drop",
+                "original_question": "How many more banks in 1988 had less than $300 million in deposits than there were in 2012?"
+            },
+            {
+                "question": "How many more banks had less than $300 million in deposits between 1988 and 2012 as compared to more than $300 million?",
+                "answer": {
+                    "number": "7400",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "1934d0cb-e32c-472d-b99a-3550581e95bb_1",
+                "dataset": "drop",
+                "original_question": "How many more banks in 1988 had more than $300 million in deposits than there were in 2012?"
+            },
+            {
+                "question": "Which year were there less U.S. banks with less than $300 million in deposits, 1988, 2011 or 2012?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": "2012"
+                    },
+                    "spans": []
+                },
+                "query_id": "ca595fa1-7799-4bde-9e5f-8e8a55cc458f_1",
+                "dataset": "drop",
+                "original_question": "Which year were there less U.S. banks with less than $300 million in deposits, 1988 or 2012?"
+            },
+            {
+                "question": "Which year was the GDP higher, 1947, 1981 or 2010?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": "2010"
+                    },
+                    "spans": []
+                },
+                "query_id": "9c49907d-4542-4dc7-a243-010fe1b7db7b_1",
+                "dataset": "drop",
+                "original_question": "Which year was the GDP higher, 1947 or 2010?"
+            },
+            {
+                "question": "Which year was the mean salary in New York City's finance industry higher, 2011, 1988 or 1981?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": "2011"
+                    },
+                    "spans": []
+                },
+                "query_id": "eaf049b7-5106-418f-abdc-a94f564c885c_1",
+                "dataset": "drop",
+                "original_question": "Which year was the mean salary in New York City's finance industry higher, 2011 or 1981?"
+            },
+            {
+                "question": "Which industry had more growth in GDP from 1947 to 2010, non-farm business or finance industry?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "non-farm business"
+                    ]
+                },
+                "query_id": "f3908fc0-f511-46eb-9078-126b279af7b0_1",
+                "dataset": "drop",
+                "original_question": "How many percentage points did the finance industry income as a proportion of  GDP rise from 1947 to 2010?"
+            },
+            {
+                "question": "Which year had more total number of banks in US, 1988 or 2012",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "1988"
+                    ]
+                },
+                "query_id": "5b48827c-e15c-40bd-bef4-7c0eecf7fec5_1",
+                "dataset": "drop",
+                "original_question": "How many years was the time span where the U.S. finance industry only comprised on 10% of total non-farm business profits to when it grew to over 50%?"
+            },
+            {
+                "question": "Which year had least total number of banks in US, 1988 or 2012",
+                "answer": {
+                    "number": "2012",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a2d74c62-201d-4ba2-86ec-ae9a33f6476b_1",
+                "dataset": "drop",
+                "original_question": "How many more U.S. banks were there in 1998 with less than $300 million in deposits compared to 2012?"
+            },
+            {
+                "question": "Which year had lower mean salary in New York City's finance industry 2011, 1981 or 2012?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "1981"
+                    ]
+                },
+                "query_id": "f7aae27b-1a26-4261-b7ea-3b11a7d63215_1",
+                "dataset": "drop",
+                "original_question": "How many more dollars was the mean salary in New York City's finance industry in 2011 compared to 1981?"
+            }
+        ],
+        "passageID": "history_2106"
+    },
+    {
+        "passage": "The population of the island is believed to have varied from 40,000 to 60,000 in the period ranging from initial settlement until the mid-19th century. During that time, cold winters, ash fall from volcanic eruptions, and bubonic plagues adversely affected the population several times. There were 37 famine years in Iceland between 1500 and 1804. After the destructive volcanic eruptions of the Laki during 1783-1784, the population reached a low of about 40,000. This was after the first census carried out in 1703 and revealed that the population was then 50,358.  Improving living conditions have triggered a rapid increase in population since the mid-19th century; from about 60,000 in 1850 to 320,000 in 2008. Iceland has a relatively young population for a developed country, with one out of five people being 14 years old or younger. With a fertility rate of 2.1, Iceland is one of only a few European countries with a birth rate Replacement fertility rate.",
+        "qa_pairs": [
+            {
+                "question": "How many years after the first famine had the first census been carried out?",
+                "original_question": "How many years before the last famine had the first census been carried out?",
+                "answer": {
+                    "number": "203",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d9ab4bd2-d18d-4903-840d-a4eaa7331d2d_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "What was the lowest population ever recorded?",
+                "original_question": "When did the population reach the lowest ever?",
+                "answer": {
+                    "number": "40000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "76f64544-6e8e-4c96-968f-5cdf1f0dd5d8_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Was the population lower in 2008 or 1850?",
+                "original_question": "How many more people were in Iceland in 2008 than in 1850?",
+                "answer": {
+                    "number": "1850",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b1134e08-4a72-46dd-8f8d-21fabe92baf9_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Was the population lower in 1850 or 2008?",
+                "original_question": "How many more people were in Iceland in 2008 than in 1850?",
+                "answer": {
+                    "number": "1850",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b1134e08-4a72-46dd-8f8d-21fabe92baf9_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "Was the population higher in 2008 or 1850?",
+                "original_question": "How many more people were in Iceland in 2008 than in 1850?",
+                "answer": {
+                    "number": "2008",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b1134e08-4a72-46dd-8f8d-21fabe92baf9_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "Was the population higher in 1850 or 2008?",
+                "original_question": "How many more people were in Iceland in 2008 than in 1850?",
+                "answer": {
+                    "number": "2008",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b1134e08-4a72-46dd-8f8d-21fabe92baf9_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which year had a lesser population, 1703 or 1783?",
+                "original_question": "Which year had the least population, 1703 or 2008?",
+                "answer": {
+                    "number": "1783",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "acaef206-d550-40f1-b12d-9f6f0e6a28c7_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which year had a lesser population, 1783 or 1703?",
+                "original_question": "Which year had the least population, 1703 or 2008?",
+                "answer": {
+                    "number": "1783",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "acaef206-d550-40f1-b12d-9f6f0e6a28c7_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which year had a more population, 1703 or 1783?",
+                "original_question": "Which year had the least population, 1703 or 2008?",
+                "answer": {
+                    "number": "1703",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "acaef206-d550-40f1-b12d-9f6f0e6a28c7_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which year had a more population, 1783 or 1703?",
+                "original_question": "Which year had the least population, 1703 or 2008?",
+                "answer": {
+                    "number": "1703",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "acaef206-d550-40f1-b12d-9f6f0e6a28c7_4",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "history_2007"
+    },
+    {
+        "passage": " Coming off their home win over the Texans, the Browns flew to the University of Phoenix Stadium for a Week 13 interconference duel with the Arizona Cardinals. In the first quarter, Cleveland trailed early as Cardinals CB Roderick Hood returned an interception 71-yards for a touchdown, while QB Kurt Warner completed a 37-yard TD pass to TE Leonard Pope. The Browns would get on the board with kicker Phil Dawson getting a 37-yard field goal. In the second quarter, Cleveland started to rebound as QB Derek Anderson completed a 5-yard TD pass to RB Jamal Lewis for the only score of the period. In the third quarter, Arizona responded with Warner completing a 1-yard TD pass to WR Bryant Johnson. The Browns would reply with Anderson completing a 67-yard TD pass to WR Braylon Edwards. In the fourth quarter, the Cardinals increased their lead with kicker Neil Rackers getting a 33-yard field goal. Afterwards, Dawson gave Cleveland a 22-yard field goal, yet Arizona answered with Rackers completing a 19-yard field goal. At the end of the game, the Browns had one final chance to win it all. Winslow caught a 6-yard touchdown pass from Anderson in the corner of the endzone just beyond the goal line.",
+        "qa_pairs": [
+            {
+                "question": "How many touchdown passes were thrown in the first quarter?",
+                "original_question": "How many touchdown passes were thrown in the 1st half?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b7f31066-c6e9-4c11-8236-3e02b7f814e9_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Who threw the second touchdown pass of the game?",
+                "original_question": "Who threw the first touchdown pass of the game?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Derek Anderson"
+                    ]
+                },
+                "query_id": "2092d2f3-f9c1-4a5f-967c-ab7116521a64_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Who threw the longest touchdown pass of the first half?",
+                "original_question": "Who threw the longest touchdown pass of the game?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Kurt Warner"
+                    ]
+                },
+                "query_id": "454ae959-1c02-4c6f-b36c-527c349b9332_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many yards was the longest field goal of the second half?",
+                "original_question": "How many yards was the longest field goal?",
+                "answer": {
+                    "number": "33",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "1242bb5a-ad27-4240-9a6d-1c6eb73b93a4_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many field goals over 20 yards were kicked?",
+                "original_question": "How many field goals under 20 yards were kicked?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "18def079-2cf0-4676-9877-8c57a6ce0dcb_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many field goals were kicked in the first quarter?",
+                "original_question": "How many field goals were kicked in the fourth quarter?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e6def3dd-a600-4022-9a2b-6b493a0eabd6_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which player caught the longest touchdown pass of the first half?",
+                "original_question": "Which player caught the longest touchdown pass?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Leonard Pope"
+                    ]
+                },
+                "query_id": "e265b123-caec-4388-94be-e52b36a40c39_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "how many yards did anderson complete in the second half?",
+                "original_question": "how many yards did warner complete?",
+                "answer": {
+                    "number": "73",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "dfd35437-d49e-42c1-aa51-150ad03e54f6_1",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "nfl_547"
+    },
+    {
+        "passage": "In March 1626 the French and Spanish concluded the Treaty of Monz\u00f3n, suspension of fighting between the Duke of Savoy and the Republic of Genoa being an integral part of the agreement. The Treaty on 5 March 1626, restored the pre-1618 situation with important qualifications. Jurisdiction was nominally restored over the Valtellina; this was now recognized as Catholic, which strengthened its autonomy and introduced doubt as to who could decide on transit through the valley. Papal troops replaced the French though the forts were supposed to be destroyed. Monz\u00f3n represented a serious reverse for Richelieu who blamed his envoy for the terms and feigned illness to avoid seeing the furious Savoyard ambassador. Abandoned, Savoy was obliged to make its own peace and now sought a Spanish alliance and intrigued with French malcontents against Richelieu, including possible involvement in the Chalais plot to murder the cardinal in 1626. The Valtelline valley was returned to the Vatican. Spanish forces scored a series of striking successes. In 1627 they had their most famous victory in repulsing the English at Cadiz.  They also had a number of smaller victories, including regaining Bahia in Brazil and Breda in the Netherlands from the Dutch in the spring of 1625.",
+        "qa_pairs": [
+            {
+                "question": "What event happened first, the Spanish repulsed the English at Cadiz or the Spanish regained Bahia?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "the Spanish regained Bahia"
+                    ]
+                },
+                "query_id": "75612c7f-3e07-4e77-9747-8f3fb7d9315d_3",
+                "original_question": "What event happened first, the Spanish repulsed the English at Cadiz or the Spanish regained Bahia?"
+            },
+            {
+                "question": "What event happened second, the Spanish repulsed the English at Cadiz or the Spanish regained Bahia?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "the Spanish repulsed the English at Cadiz"
+                    ]
+                },
+                "query_id": "75612c7f-3e07-4e77-9747-8f3fb7d9315d_4",
+                "original_question": "What event happened first, the Spanish repulsed the English at Cadiz or the Spanish regained Bahia?"
+            }
+        ],
+        "passageID": "history_1234_3"
+    },
+    {
+        "passage": " Hoping to rebound from last week's heart-breaking loss, the Vikings traveled to Ralph Wilson Stadium for a match-up with the Buffalo Bills. In the first quarter, the Vikings drew first blood as kicker Ryan Longwell nailed a 37-yard field goal for the only score of the period. In the second quarter, Minnesota got into a tiny hole, as Bills RB Willis McGahee got a 1-yard TD run. Longwell would give the Vikings a 49-yard field goal as time ran out of the first half, but in the third quarter, the Vikes found themselves in a bit of a hole, as Buffalo QB J. P. Losman connected with WR Peerless Price on an 8-yard TD pass for the only score of the period. In the fourth quarter, Minnesota trailed even further, as Bills kicker Rian Lindell got a 28-yard field goal. The Vikings would try and comeback, as QB Brad Johnson completed a 29-yard TD pass to WR Marcus Robinson. The two-point conversion failed and during their next drive, they ran out of time. With their loss, the Vikings fell to 2-2.",
+        "qa_pairs": [
+            {
+                "question": "How many points did the Vikings lose by?",
+                "original_question": "How many points did the Bills win by?",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "124a1450-94ba-4046-8962-1fb480d6fbba_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many touchdowns in total were scored?",
+                "original_question": "How many points in total were scored?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8c675eff-f750-442a-acc6-862e2ff2998d_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many field goals did both teams score in total?",
+                "original_question": "How many field goals did both teams score in the first quarter?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "fe9a0f55-d7b0-4b0e-86c4-39e19140d80f_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which team went scoreless in the third quarter?",
+                "original_question": "Which team went scoreless in the first quarter?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Vikings"
+                    ]
+                },
+                "query_id": "08c52be3-8dc4-4957-b9f5-a07ce79d4c31_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which team lost the game?",
+                "original_question": "Which team won the game?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Vikings"
+                    ]
+                },
+                "query_id": "d4cb962a-48c9-4db9-8173-7675586bb4c4_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many yards was the longest Field Goal of the second half?",
+                "original_question": "Who had the longest Field Goal?",
+                "answer": {
+                    "number": "28",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0b0e89f8-cafe-4d03-bb1b-4e09b67db2df_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many yards was the second longest field goal?",
+                "original_question": "How many yards was the longest field goal?",
+                "answer": {
+                    "number": "37",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4311293b-ad00-4a93-b167-92196b891961_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many field goals did the Vikings have in the first quarter?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8b2445a6-f636-4872-8795-258e0cacaaac_1",
+                "dataset": "drop",
+                "original_question": "How many losses did the Vikings have at the start of this game?"
+            },
+            {
+                "question": "How many field goals were made in the second half?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b0356a07-f127-4988-8102-20e9b958c3ef_1",
+                "dataset": "drop",
+                "original_question": "How many field goals were made in the first half?"
+            },
+            {
+                "question": "Which team scored a longer touchdown pass in the second half, Bills or Vikings?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Vikings"
+                    ]
+                },
+                "query_id": "93a17f29-7720-4528-bddb-f5f9520cfd4a_1",
+                "dataset": "drop",
+                "original_question": "Which team scored more touchdowns in the first half, Vikings or Bills?"
+            },
+            {
+                "question": "How many rushing touchdowns were scored in the game?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "24b5208c-97ee-415d-b735-f66307a0d4c4_1",
+                "dataset": "drop",
+                "original_question": "How many touchdowns were scored in the game?"
+            },
+            {
+                "question": "Who caught the longest touchdown pass of the game?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Marcus Robinson"
+                    ]
+                },
+                "query_id": "3118b9bb-ff04-4588-9e76-87997f54bfd8_1",
+                "dataset": "drop",
+                "original_question": "Who threw the longest touchdown pass of the game?"
+            },
+            {
+                "question": "How many field goals did Ryan kick?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "6fbe7d6f-e5ab-4225-9731-5d3523206338_1",
+                "dataset": "drop",
+                "original_question": "Which kicker kicked more field goals?"
+            },
+            {
+                "question": "In which quarter was the longest field goal kicked?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "second"
+                    ]
+                },
+                "query_id": "8c745c11-40ae-4c80-ab79-7ed939482335_1",
+                "dataset": "drop",
+                "validated_answers": [
+                    {
+                        "number": "",
+                        "date": {
+                            "day": "",
+                            "month": "",
+                            "year": ""
+                        },
+                        "spans": [
+                            "second quarter"
+                        ]
+                    }
+                ],
+                "original_question": "Which kicker kicked the longest field goal?"
+            },
+            {
+                "question": "How many yards longer was Ryan Lindells first field goal compared to his shortest?",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e94b0a0a-33bc-43fc-81dd-f2056ce90fc0_1",
+                "dataset": "drop",
+                "original_question": "How many yards longer was Ryan Lindells second field goal compared to his first?"
+            },
+            {
+                "question": "What was longer, the shortest field goal or the shortest touchdown pass?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "shortest field goal"
+                    ]
+                },
+                "query_id": "93ad14ce-5686-455b-8fd5-7fa46c180ff2_1",
+                "dataset": "drop",
+                "validated_answers": [
+                    {
+                        "number": "",
+                        "date": {
+                            "day": "",
+                            "month": "",
+                            "year": ""
+                        },
+                        "spans": [
+                            "field goal"
+                        ]
+                    }
+                ],
+                "original_question": "Was there a longer field goal or touchdown pass?"
+            },
+            {
+                "question": "How many field goals did Ryan Longwell kick in the fourth quarter?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ad604a85-7651-486b-a1c4-62f043d56f7e_1",
+                "dataset": "drop",
+                "original_question": "How many field goals did Ryan Longwell kick?"
+            },
+            {
+                "question": "How many yards longer was Ryan Longwell's longest field goal than the longest touchdown pass?",
+                "answer": {
+                    "number": "20",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "bc455dce-6acd-47b7-8ef8-307afd39e9b5_1",
+                "dataset": "drop",
+                "original_question": "How many yards longer was Ryan Longwell's longest field goal than his shortest?"
+            },
+            {
+                "question": "How many yards was Ryan Longwell's shortest field goal in the first half?",
+                "answer": {
+                    "number": "49",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "dec0d5bd-8969-48e3-be0b-67336f5c95ea_1",
+                "dataset": "drop",
+                "original_question": "How many yards was Ryan Longwell's shortest field goal?"
+            }
+        ],
+        "passageID": "nfl_229"
+    },
+    {
+        "passage": "In 2011, the Church of England published statistics showing 1.7 million people attending at least one of its services each month, a level maintained since the turn of the millennium; approximately one million participating each Sunday and three millionp taking part in a Church of England service on Christmas Day or Christmas Eve. The church also claimed that 30% attend Sunday worship at least once a year; more than 40% attend a wedding in their local church and still more attend a funeral there. Nationally the Church of England baptises one child in ten (2011). In 2015, the churchs statistics showed that 2.6 million people attended a special Advent service, 2.4 million attended a Christmas service, 1.3 million attended an Easter service, and 980,000 attended service during an average week. In 2016, 2.6 million people attended a Christmas service, 1.2 million attended an Easter service, 1.1 million people attended a service in the Church of England each month, an average of 930,000 people attended a weekly service, an additional 180,000 attended a service for school each week, and an average of 740,000 people attended Sunday service.",
+        "qa_pairs": [
+            {
+                "original_question": "How many more people attended a Christmas service than an Easter service?",
+                "question": "How many fewer people attended a Christmas service than an Easter and special Advent service combined in 2015?",
+                "answer": {
+                    "number": "1100000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "2850f028-3da3-4ee3-bacf-16e1080ea04d_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which year had less people in attendance for a Christmas service, 2015 or 2016?",
+                "question": "Which year had less people in attendance for a Christmas service, 2015 or 2016?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": "2015"
+                    },
+                    "spans": []
+                },
+                "query_id": "283ef7d0-f8a9-41a5-9a10-8fb90a3d8f48_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which were there more participants for in the 2011 publishes statistics, each Sunday service or service on Christmas Day?",
+                "question": "Which were there more participants for in the 2011 publishes statistics, each Sunday service, Easter service or service on Christmas Day?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Christmas Day"
+                    ]
+                },
+                "query_id": "9a9ed671-8da0-4a7e-a942-a07177cab654_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "In 2015, how many services brought in more than a million attendants?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "9bf51408-966a-41bd-9aef-a75675ef4661_1",
+                "dataset": "drop",
+                "original_question": "In 2015, which services brought in more than a million attendants?"
+            },
+            {
+                "question": "How many years saw more than a million attendants for a Christmas service?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "920c696f-9063-4fab-8a9f-674156d4e088_1",
+                "dataset": "drop",
+                "original_question": "Which years saw more than a million attendants for a Christmas service?"
+            },
+            {
+                "question": "Which year saw more people attending Easter and Christmas service combined, 2015 or 2016?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": "2016"
+                    },
+                    "spans": []
+                },
+                "query_id": "ce2f4c56-ee4c-4ebc-bf11-61158537540b_1",
+                "dataset": "drop",
+                "original_question": "Which year saw more people attend an Easter service, 2015 or 2016?"
+            },
+            {
+                "question": "Which years saw between one and 1.5 million people attended Easter service?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "2015",
+                        "2016"
+                    ]
+                },
+                "query_id": "e72fbc34-04e1-427b-a020-e28617753db5_1",
+                "dataset": "drop",
+                "original_question": "Which years saw less than one million people attended Sunday service?"
+            },
+            {
+                "question": "How many more people attended Christmas and Easter Day service in 2015 than in 2016?",
+                "answer": {
+                    "number": "100000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "db944186-6af4-4b1f-98ec-e3319d18cd31_1",
+                "dataset": "drop",
+                "original_question": "How many more people attended Christmas Day service in 2011 than in 2016?"
+            },
+            {
+                "question": "How many fewer people attended Easter service in 2015 as compared to Christmas service in 2016?",
+                "answer": {
+                    "number": "1300000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b1efcd2a-2642-4f16-9d4f-2a5a1fe0ce66_1",
+                "dataset": "drop",
+                "original_question": "How many more people attended Easter service in 2015 than in 2016?"
+            },
+            {
+                "question": "Which years saw the highest attendance of people in Christmas service?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "2016"
+                    ]
+                },
+                "query_id": "736ae0d0-1792-4488-a073-923883ba3720_1",
+                "dataset": "drop",
+                "original_question": "Which years saw an attendance of 1000000 people attend a Christmas service?"
+            },
+            {
+                "question": "Approximately how many more million people attend Christmas services than attend church each Sunday in 2016?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "483d03d4-fef6-4e53-bdf5-f0c32ce00567_1",
+                "dataset": "drop",
+                "original_question": "Approximately how many more million people attend Christmas services than attend church each Sunday?"
+            },
+            {
+                "question": "Did more people attend a Christmas service in 2011, 2015 or in 2016?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "2011"
+                    ]
+                },
+                "query_id": "a1593bb9-bac3-4b1c-bd6c-a38a1c4098b7_1",
+                "dataset": "drop",
+                "original_question": "Did more people attend a Christmas service in 2011 or in 2015?"
+            },
+            {
+                "question": "Which year had the lowest attendance during Easter service?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "2015"
+                    ]
+                },
+                "query_id": "e2f3fd1d-5dd6-4f4a-8b43-8c14857b17e9_1",
+                "dataset": "drop",
+                "original_question": "Did fewer people attend an Easter service during 2015 or 2016?"
+            },
+            {
+                "question": "Which year had the least average attendance per week?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "2016"
+                    ]
+                },
+                "query_id": "2ae5780c-f7e7-40d1-970b-bfa0626f6dba_1",
+                "dataset": "drop",
+                "original_question": "How many fewer people attended on average per week in 2016 compared to 2015?"
+            },
+            {
+                "question": "Which did more people attend in 2015, a special Advent service, Christmas service or an Easter service?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "a special Advent service"
+                    ]
+                },
+                "query_id": "aafcd7d9-2e3a-4a75-9f8e-10515aa5eac2_1",
+                "dataset": "drop",
+                "original_question": "Which did more people attend in 2015, a special Advent service or an Easter service?"
+            },
+            {
+                "question": "How many more millions of people attended a Christmas service in 2015 compared to an Easter and Advent service combined?",
+                "answer": {
+                    "number": "2.5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "e219d843-786d-420a-a480-f719fdd7b92b_1",
+                "dataset": "drop",
+                "original_question": "How many more millions of people attended a Christmas service in 2015 compared to an Easter service?"
+            },
+            {
+                "question": "Which year did less people attend a Christmas service, 2015, 2011 or 2016?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": "2015"
+                    },
+                    "spans": []
+                },
+                "query_id": "11f45e9b-b51b-40e9-aeb2-f401092a0cd4_1",
+                "dataset": "drop",
+                "original_question": "Which year did less people attend a Christmas service, 2015 or 2016?"
+            }
+        ],
+        "passageID": "history_1722"
+    },
+    {
+        "passage": " After a tough road loss, the Bengals traveled west to take on the Broncos.  In the first quarter, they would score first when Andy Dalton found Tyler Kroft on a 1-yard pass (with a failed PAT) to make it 6-0.  The Broncos then took the lead when C.J. Anderson ran for a 3-yard touchdown to make it 7-6.  In the second quarter, the Bengals moved back into the lead when Dalton found Alex Erickson on a 29-yard pass to make it 13-7 at halftime.  In the third quarter, the Broncos came within 3 when Brandon McManus kicked a 45-yard field goal to make it 13-10.  Though in the fourth quarter, the Bengals moved up by double digits when Dalton found A.J. Green on an 18-yard pass to make it 20-10.  The Broncos then concluded the scoring of the game when Brock Osweiler found Demaryius Thomas on a 17-yard pass to make the final score 20-17. With the win, the Bengals improved to 4-6.  The team also won against the Broncos in Denver for the first time since 1975.",
+        "qa_pairs": [
+            {
+                "question": "In which quarters did Andy Dalton throw touchdown passes longer than 17 yards?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "second quarter",
+                        "fourth quarter"
+                    ]
+                },
+                "query_id": "6006ad92-44bd-4a1a-9191-0caee3889a02_1",
+                "original_question": "How many touchdown passes longer than 1 yard did Andy Dalton throw?"
+            },
+            {
+                "question": "How many yards longer was Andy Dalton's second touchdown pass than his last?",
+                "answer": {
+                    "number": "11",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "10f7a42e-ac1a-4b38-b102-2a0134326d97_1",
+                "original_question": "How many yards longer was Andy Dalton's second touchdown pass compared to his first?"
+            },
+            {
+                "question": "How many yards longer was Andy Dalton's longest touchdown pass than his shortest?",
+                "answer": {
+                    "number": "28",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "10f7a42e-ac1a-4b38-b102-2a0134326d97_2",
+                "original_question": "How many yards longer was Andy Dalton's second touchdown pass compared to his first?"
+            },
+            {
+                "question": "How many yards was the longest touchdown pass in the first half of the game?",
+                "answer": {
+                    "number": "29",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b197e9f5-5100-4b94-a6e7-a56b1fdd55de_1",
+                "original_question": "How many yards was the shortest touchdown pass?"
+            },
+            {
+                "question": "How many yards was the longest touchdown pass in the fourth quarter?",
+                "answer": {
+                    "number": "18",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b197e9f5-5100-4b94-a6e7-a56b1fdd55de_2",
+                "original_question": "How many yards was the shortest touchdown pass?"
+            },
+            {
+                "question": "How many yards was the shortest touchdown pass in the fourth quarter?",
+                "answer": {
+                    "number": "17",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b197e9f5-5100-4b94-a6e7-a56b1fdd55de_3",
+                "original_question": "How many yards was the shortest touchdown pass?"
+            },
+            {
+                "question": "Who caught the last touchdown pass of the game?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Demaryius Thomas"
+                    ]
+                },
+                "query_id": "b4042480-ad35-4d60-a5fa-778dcc90e14f_1",
+                "original_question": "Who threw the last touchdown pass of the game?"
+            },
+            {
+                "question": "Who scored the last touchdown run of the game?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "C.J. Anderson"
+                    ]
+                },
+                "query_id": "29f841d1-99e1-4fe6-8609-50ce31344b3d_1",
+                "original_question": "Who scored the first touchdown run of the game?"
+            },
+            {
+                "question": "Who caught the last touchdown pass in the first half of the game?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Alex Erickson"
+                    ]
+                },
+                "query_id": "b4042480-ad35-4d60-a5fa-778dcc90e14f_2",
+                "original_question": "Who threw the last touchdown pass of the game?"
+            },
+            {
+                "question": "Who threw a touchdown pass for the Bengals in the fourth quarter?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Dalton"
+                    ]
+                },
+                "query_id": "6b59f1fd-ff1c-4c0f-bd4d-8739dbcaa7c3_1",
+                "original_question": "Who scored for the Bengals in the fourth quarter?"
+            },
+            {
+                "question": "In which quarters did Denver make field goals?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "third quarter"
+                    ]
+                },
+                "query_id": "94c7eeed-b0b5-4acf-a535-b827193c3967_1",
+                "original_question": "How many field goals did Denver make?"
+            },
+            {
+                "question": "In which quarters did Denver make touchdowns?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "first quarter",
+                        "fourth quarter"
+                    ]
+                },
+                "query_id": "94c7eeed-b0b5-4acf-a535-b827193c3967_2",
+                "original_question": "How many field goals did Denver make?"
+            },
+            {
+                "question": "How many touchdowns did Denver make?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "94c7eeed-b0b5-4acf-a535-b827193c3967_3",
+                "original_question": "How many field goals did Denver make?"
+            },
+            {
+                "question": "Who threw the first touchdown pass of the game?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Andy Dalton"
+                    ]
+                },
+                "query_id": "b4042480-ad35-4d60-a5fa-778dcc90e14f_3",
+                "original_question": "Who threw the last touchdown pass of the game?"
+            },
+            {
+                "question": "Who threw the second to last touchdown pass of the game?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Dalton"
+                    ]
+                },
+                "query_id": "b4042480-ad35-4d60-a5fa-778dcc90e14f_4",
+                "original_question": "Who threw the last touchdown pass of the game?"
+            }
+        ],
+        "passageID": "nfl_3287"
+    },
+    {
+        "passage": "After the Partitions of the Polish-Lithuanian Commonwealth in 1932, the Grand Duchy of Lithuania was annexed by the Russian Empire. The Lithuanian National Revival emerged during the 19th century and the movement to establish an independent nation-state intensified during the early 20th century. On November 11, 1918 Germany signed an armistice on the Western Front and officially lost the war and control over Lithuania. Earlier on February 16, 1918, the Council of Lithuania declared the re-establishment of independence from all previous legal bonds with other states. Lithuanian territory was occupied by Germany during World War I from 1915 until the war ended in January 1918. The declaration asserted the right to self-determination, meaning the creation of a state within ethnic Lithuanian territories. The publication of the Act of Independence was initially suppressed by the German occupation forces, but on March 23, 1918, the Germans acknowledged the declaration; their plans had shifted to the establishment of a network of satellite countries. However, Germany did not allow the Council to establish a Lithuanian military force, police force, or civic institutions. The first national government, led by Augustinas Voldemaras, was formed. Voldemaras issued a declaration that Lithuania did not need a military force, as it was not planning to engage in warfare, and that only a small militia was needed. This view was unrealistic, since military conflicts soon erupted.",
+        "qa_pairs": [
+            {
+                "question": "What happened first, Germany signed an armistice or Germans acknowledged the declaration?",
+                "original_question": "What happened first, Germany signed an armistice or Germans acknowledged the declaration?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Germans acknowledged the declaration"
+                    ]
+                },
+                "query_id": "4441a8c2-de2e-4f3f-a7d0-141aef29f094_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened first, Germans acknowledged the declaration or Germany signed an armistice?",
+                "original_question": "What happened first, Germany signed an armistice or Germans acknowledged the declaration?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Germans acknowledged the declaration"
+                    ]
+                },
+                "query_id": "4441a8c2-de2e-4f3f-a7d0-141aef29f094_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened second, Germans acknowledged the declaration or Germany signed an armistice?",
+                "original_question": "What happened first, Germany signed an armistice or Germans acknowledged the declaration?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Germany signed an armistice"
+                    ]
+                },
+                "query_id": "4441a8c2-de2e-4f3f-a7d0-141aef29f094_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened later, Germany signed an armistice or Germans acknowledged the declaration?",
+                "original_question": "What happened first, Germany signed an armistice or Germans acknowledged the declaration?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Germany signed an armistice"
+                    ]
+                },
+                "query_id": "4441a8c2-de2e-4f3f-a7d0-141aef29f094_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened second: Partitions of the Polish-Lithuanian Commonwealth or Lithunia declared its independence?",
+                "original_question": "What happened second: Lithuania was annexed or Partitions of the Polish-Lithuanian Commonwealth?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Partitions of the Polish-Lithuanian Commonwealth"
+                    ]
+                },
+                "query_id": "372fa221-e9e5-4337-86c0-7be00beeb4f5_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened second: Lithunia declared its independence or Partitions of the Polish-Lithuanian Commonwealth?",
+                "original_question": "What happened second: Lithuania was annexed or Partitions of the Polish-Lithuanian Commonwealth?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Partitions of the Polish-Lithuanian Commonwealth"
+                    ]
+                },
+                "query_id": "372fa221-e9e5-4337-86c0-7be00beeb4f5_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened earlier: Partitions of the Polish-Lithuanian Commonwealth or Lithunia declared its independence?",
+                "original_question": "What happened second: Lithuania was annexed or Partitions of the Polish-Lithuanian Commonwealth?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Lithunia declared its independence"
+                    ]
+                },
+                "query_id": "372fa221-e9e5-4337-86c0-7be00beeb4f5_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened earlier: Lithunia declared its independence or Partitions of the Polish-Lithuanian Commonwealth?",
+                "original_question": "What happened second: Lithuania was annexed or Partitions of the Polish-Lithuanian Commonwealth?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Lithunia declared its independence"
+                    ]
+                },
+                "query_id": "372fa221-e9e5-4337-86c0-7be00beeb4f5_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which happened second, Lithuanian Council declaring the re-establishment of independence or Germany signing the armistice?",
+                "original_question": "Which happened first, Lithuanian Council declaring the re-establishment of independence or Germany signing the armistice?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Germany signed an armistice"
+                    ]
+                },
+                "query_id": "31d61a0a-1700-4ff4-a45c-39a15f731aab_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which happened second, Germany signing the armistice or Lithuanian Council declaring the re-establishment of independence?",
+                "original_question": "Which happened first, Lithuanian Council declaring the re-establishment of independence or Germany signing the armistice?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Germany signed an armistice"
+                    ]
+                },
+                "query_id": "31d61a0a-1700-4ff4-a45c-39a15f731aab_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which happened earlier, Lithuanian Council declaring the re-establishment of independence or Germany signing the armistice?",
+                "original_question": "Which happened first, Lithuanian Council declaring the re-establishment of independence or Germany signing the armistice?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Lithuanian Council declaring the re-establishment of independence"
+                    ]
+                },
+                "query_id": "31d61a0a-1700-4ff4-a45c-39a15f731aab_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which happened earlier, Germany signing the armistice or Lithuanian Council declaring the re-establishment of independence?",
+                "original_question": "Which happened first, Lithuanian Council declaring the re-establishment of independence or Germany signing the armistice?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Lithuanian Council declaring the re-establishment of independence"
+                    ]
+                },
+                "query_id": "31d61a0a-1700-4ff4-a45c-39a15f731aab_4",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "history_909_1"
+    },
+    {
+        "passage": "In March 1626 the French and Spanish concluded the Treaty of Monz\u00f3n, suspension of fighting between the Duke of Savoy and the Republic of Genoa being an integral part of the agreement. The Treaty on 5 March 1626, restored the pre-1618 situation with important qualifications. Jurisdiction was nominally restored over the Valtellina; this was now recognized as Catholic, which strengthened its autonomy and introduced doubt as to who could decide on transit through the valley. Papal troops replaced the French though the forts were supposed to be destroyed. Monz\u00f3n represented a serious reverse for Richelieu who blamed his envoy for the terms and feigned illness to avoid seeing the furious Savoyard ambassador. Abandoned, Savoy was obliged to make its own peace and now sought a Spanish alliance and intrigued with French malcontents against Richelieu, including possible involvement in the Chalais plot to murder the cardinal in 1626. The Valtelline valley was returned to the Vatican. Spanish forces scored a series of striking successes. In the spring of 1625 they regained Bahia in Brazil and Breda in the Netherlands from the Dutch. In the autumn they repulsed the English at Cadiz.",
+        "qa_pairs": [
+            {
+                "question": "What event happened second, the situation with important qualifications, or the involvement in the Chalais to murder the cardinal?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "the involvement in the Chalais to murder the cardinal"
+                    ]
+                },
+                "query_id": "ac35190c-2390-4c7b-90c8-6572b6c6907b_1",
+                "original_question": "What event happened first, the situation with important qualifications, or the involvement in the Chalais to murder the cardinal?"
+            },
+            {
+                "question": "How many years passed between when spansish forces regained Bahia and Breda, and the attempted cardinal assassination?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "283bf3ea-d085-4a33-90b5-0607863df5e9_1",
+                "original_question": "How many years passed between when spansish forces regained Bahia and Breda, and the attempted cardinal assisnation?"
+            },
+            {
+                "question": "How many countries did the Spanish regain cities from in 1625?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ddea0732-518b-4900-9b2a-35d1b23404d4_1",
+                "original_question": "Which two countries did the Spanish regain cities from in 1625?"
+            },
+            {
+                "question": "How many cities did the Spanish regain in 1625?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ddea0732-518b-4900-9b2a-35d1b23404d4_2",
+                "original_question": "Which two countries did the Spanish regain cities from in 1625?"
+            },
+            {
+                "question": "Which cities did the Spanish regain in 1625?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Bahia",
+                        "Breda"
+                    ]
+                },
+                "query_id": "ddea0732-518b-4900-9b2a-35d1b23404d4_3",
+                "original_question": "Which two countries did the Spanish regain cities from in 1625?"
+            },
+            {
+                "question": "Which city besides Breda did the Spanish regain in 1625?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Bahia"
+                    ]
+                },
+                "query_id": "ddea0732-518b-4900-9b2a-35d1b23404d4_4",
+                "original_question": "Which two countries did the Spanish regain cities from in 1625?"
+            },
+            {
+                "question": "Which city besides Bahia did the Spanish regain in 1625?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Breda"
+                    ]
+                },
+                "query_id": "ddea0732-518b-4900-9b2a-35d1b23404d4_5",
+                "original_question": "Which two countries did the Spanish regain cities from in 1625?"
+            },
+            {
+                "question": "Which country besides Brazil did the Spanish regain a city from in 1625?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Netherlands"
+                    ]
+                },
+                "query_id": "ddea0732-518b-4900-9b2a-35d1b23404d4_6",
+                "original_question": "Which two countries did the Spanish regain cities from in 1625?"
+            },
+            {
+                "question": "Which country besides the Netherlands did the Spanish regain a city from in 1625?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Brazil"
+                    ]
+                },
+                "query_id": "ddea0732-518b-4900-9b2a-35d1b23404d4_7",
+                "original_question": "Which two countries did the Spanish regain cities from in 1625?"
+            }
+        ],
+        "passageID": "history_1234"
+    }
+]

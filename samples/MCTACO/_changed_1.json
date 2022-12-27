@@ -1,0 +1,299 @@
+[
+    {
+        "sentence1": "In this way the other major congressional interests can be brought together in the new committee's work. How different were the matters prior to the new committee? ",
+        "qas": [
+            {
+                "sentence2": "the interests were discussed in separate committees ",
+                "label": "yes"
+            },
+            {
+                "sentence2": "there was another comittee for bringing the interests together ",
+                "label": "no"
+            },
+            {
+                "sentence2": "there was no joint comittee for discussing other major congressional interests. ",
+                "label": "yes"
+            },
+            {
+                "sentence2": "discussing other major congressional interests were of less importance  ",
+                "label": "no "
+            }
+        ]
+    },
+    {
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "qas": [
+            {
+                "sentence2": "few times in over a decades",
+                "label": "yes"
+            },
+            {
+                "sentence2": "every day",
+                "label": "no"
+            },
+            {
+                "sentence2": "never",
+                "label": "no"
+            },
+            {
+                "sentence2": "once every two seconds",
+                "label": "no"
+            },
+            {
+                "sentence2": "every two years",
+                "label": "no"
+            },
+            {
+                "sentence2": "once every two hours",
+                "label": "no"
+            },
+            {
+                "sentence2": "once per week",
+                "label": "no"
+            },
+            {
+                "sentence2": "every second",
+                "label": "no"
+            },
+            {
+                "sentence2": "every year",
+                "label": "no"
+            },
+            {
+                "sentence2": "once every two years",
+                "label": "no"
+            },
+            {
+                "sentence2": "twice a year",
+                "label": "no"
+            },
+            {
+                "sentence2": "every week",
+                "label": "no"
+            },
+            {
+                "sentence2": "each year",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "He also submitted various suggestions as to its initial programs after a lifetime research and became the first one to make changes. How often do they make changes to the programs?",
+        "qas": [
+            {
+                "sentence2": "once a second",
+                "label": "no"
+            },
+            {
+                "sentence2": "once a minute",
+                "label": "no"
+            },
+            {
+                "sentence2": "many times before the initial proposal",
+                "label": "no"
+            },
+            {
+                "sentence2": "once a few decades",
+                "label": "yes"
+            },
+            {
+                "sentence2": "each century",
+                "label": "yes"
+            },
+            {
+                "sentence2": "each minute",
+                "label": "no"
+            },
+            {
+                "sentence2": "once a hour",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "qas": [
+            {
+                "sentence2": "1 day",
+                "label": "yes"
+            },
+            {
+                "sentence2": "0.2 year",
+                "label": "no"
+            },
+            {
+                "sentence2": "1 week",
+                "label": "no"
+            },
+            {
+                "sentence2": "1 season",
+                "label": "no"
+            },
+            {
+                "sentence2": "1 year",
+                "label": "no"
+            },
+            {
+                "sentence2": "one day",
+                "label": "yes"
+            },
+            {
+                "sentence2": "1 million years",
+                "label": "no"
+            },
+            {
+                "sentence2": "2000 years",
+                "label": "no"
+            },
+            {
+                "sentence2": "0.5 year",
+                "label": "no"
+            },
+            {
+                "sentence2": "0.5 day",
+                "label": "yes"
+            },
+            {
+                "sentence2": "one year",
+                "label": "no"
+            },
+            {
+                "sentence2": "500 years",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "Every late evening after dinner we would go to the park and play Toodles' favorite game. What are you doing after the park",
+        "qas": [
+            {
+                "sentence2": "eating out",
+                "label": "no"
+            },
+            {
+                "sentence2": "going home",
+                "label": "yes"
+            },
+            {
+                "sentence2": "going home to have dinner",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before classes. What did they do after the morning?",
+        "qas": [
+            {
+                "sentence2": "they went to bed",
+                "label": "no"
+            },
+            {
+                "sentence2": "they sold a home",
+                "label": "no"
+            },
+            {
+                "sentence2": "they went to china",
+                "label": "no"
+            },
+            {
+                "sentence2": "they went to study",
+                "label": "yes"
+            },
+            {
+                "sentence2": "they had fun",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "qas": [
+            {
+                "sentence2": "1:00 PM",
+                "label": "yes"
+            },
+            {
+                "sentence2": "2:00 PM",
+                "label": "yes"
+            },
+            {
+                "sentence2": "4:00 PM",
+                "label": "yes"
+            },
+            {
+                "sentence2": "9:00 AM",
+                "label": "yes"
+            },
+            {
+                "sentence2": "1:00 AM",
+                "label": "yes"
+            },
+            {
+                "sentence2": "only on weekends",
+                "label": "no"
+            },
+            {
+                "sentence2": "during the day",
+                "label": "yes"
+            },
+            {
+                "sentence2": "3:00 AM",
+                "label": "yes"
+            },
+            {
+                "sentence2": "7:00 AM",
+                "label": "yes"
+            },
+            {
+                "sentence2": "a limited set of times",
+                "label": "no"
+            },
+            {
+                "sentence2": "many of the nights due to their flexibility",
+                "label": "yes"
+            },
+            {
+                "sentence2": "2:00 AM",
+                "label": "yes"
+            },
+            {
+                "sentence2": "11:00 AM",
+                "label": "yes"
+            }
+        ]
+    },
+    {
+        "sentence1": "Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. What happens once they are not surrounded by air molecules?",
+        "qas": [
+            {
+                "sentence2": "they cannot breath anymore",
+                "label": "yes"
+            },
+            {
+                "sentence2": "they can continue breathing",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are forced to have a child . Did they want children when they were younger?",
+        "qas": [
+            {
+                "sentence2": "yes.`",
+                "label": "no"
+            },
+            {
+                "sentence2": "yes, they did",
+                "label": "no"
+            },
+            {
+                "sentence2": "he says yes",
+                "label": "no"
+            },
+            {
+                "sentence2": "no",
+                "label": "yes"
+            }
+        ]
+    }
+]

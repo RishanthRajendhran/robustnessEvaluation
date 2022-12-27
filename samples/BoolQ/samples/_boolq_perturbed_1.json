@@ -1,0 +1,246 @@
+[
+    {
+        "title": "University of Mary Hardin\u2013Baylor",
+        "paragraph": "The University of Mary Hardin--Baylor (UMHB) is a Christian co-educational institution of higher learning located in Belton, Texas, United States. UMHB was chartered by the Republic of Texas in 1845 as Baylor Female College, the female department of what is now Baylor University. It has since become its own institution and grown to 3,914 students and awards degrees at the baccalaureate, master's, and doctoral levels. It is affiliated with the Baptist General Convention of Texas.",
+        "question": "is baylor and mary hardin baylor the same school",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "is baylor and mary hardin baylor different schools",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is baylor and UMHB the same school",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is baylor and UMHB different schools",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is the Republic of Texas and mary hardin baylor the same school",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is baylor and the Republic of Texas the same school",
+                "answer": "FALSE"
+            }
+        ]
+    },
+    {
+        "title": "MetLife Stadium",
+        "paragraph": "MetLife Stadium is an American sports stadium located in East Rutherford, New Jersey, 8 miles outside of New York City. It is part of the Meadowlands Sports Complex and serves as the home stadium for two National Football League (NFL) franchises: the New York Giants and the New York Jets. The stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets, who jointly built the stadium using private funds on land owned by the New Jersey Sports and Exposition Authority. The stadium opened as New Meadowlands Stadium in 2010. In 2011, MetLife, an insurance company based in New York City, acquired the naming rights to the stadium. At a construction cost of approximately $1.6 billion, it was the most expensive stadium ever built, at the time it opened, and is the second-largest stadium in the NFL in terms of seating capacity.",
+        "question": "do the jets and giants share a stadium",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "are the jets and giants the same team",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "are the jets and giants two different teams",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "did the jets and giants jointly build their stadium",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "do the jets and giants own the MetLife stadium",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "do the jets and giants share the naming rights for the MetLife stadium",
+                "answer": "FALSE"
+            }
+        ]
+    },
+    {
+        "title": "Fantastic Beasts and Where to Find Them (film)",
+        "paragraph": "Fantastic Beasts and Where to Find Them is a 2016 fantasy film directed by David Yates. A joint British and American production, it is a spin-off and prequel to the Harry Potter film series, and it was produced and written by J.K. Rowling in her screenwriting debut, and inspired by her 2001 book of the same name. The film stars Eddie Redmayne as Newt Scamander, with Katherine Waterston, Dan Fogler, Alison Sudol, Ezra Miller, Samantha Morton, Jon Voight, Carmen Ejogo, Ron Perlman, Colin Farrell and Johnny Depp in supporting roles. It is the first installment in the Fantastic Beasts film series, and ninth overall in the Wizarding World franchise, that began with the Harry Potter films.",
+        "question": "is fantastic beasts and where to find them a prequel",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "is \"fantastic beasts\" a prequel for \"where to find them\"",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is \"where to find them\" a prequel to \"fantastic beasts\"",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is \"where to find them\" a prequel to \"harry potter\"",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is \"where to find them\" the ninth prequel to \"harry potter\"",
+                "answer": "FALSE"
+            }
+        ]
+    },
+    {
+        "title": "Indiana Jones and the Temple of Doom",
+        "paragraph": "Indiana Jones and the Temple of Doom is a 1984 American action-adventure film directed by Steven Spielberg. It is the second installment in the Indiana Jones franchise and a prequel to the 1981 film Raiders of the Lost Ark, featuring Harrison Ford reprising his role as the title character. After arriving in North India, Indiana Jones is asked by desperate villagers to find a mystical stone and rescue their children from a Thuggee cult practicing child slavery, black magic and ritual human sacrifice in honor of the goddess Kali.",
+        "question": "is indiana jones temple of doom a prequel",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "is indiana jones 'temple of doom' a prequel",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is indiana jones 'Raiders of the Lost Ark' a prequel",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is indiana jones in 'temple of doom' practicing child slavery",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is indiana jones 'temple of doom' a North Indian movie",
+                "answer": "FALSE"
+            }
+        ]
+    },
+    {
+        "title": "Time in New Zealand",
+        "paragraph": "Time in New Zealand, by law, is divided into two standard time zones. The main islands use New Zealand Standard Time (NZST), 12 hours in advance of Coordinated Universal Time (UTC) / military M (Mike), while the outlying Chatham Islands use Chatham Standard Time (CHAST), 12 hours 45 minutes in advance of UTC / military M^ (Mike-Three).",
+        "question": "is all of new zealand in the same time zone",
+        "answer": "FALSE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "new zealand has different time zones",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "The New Zealand time zones are different but close to each other",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "new zealand has three time zones",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "new zealand has a single time zone",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "new zealand has multiple time zones",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "new zealand has two time zones",
+                "answer": "TRUE"
+            }
+        ]
+    },
+    {
+        "title": "The Golden Compass (film)",
+        "paragraph": "In 2011, Philip Pullman remarked at the British Humanist Association annual conference that due to the first film's disappointing sales in the United States, there would not be any sequels made.",
+        "question": "is there going to be another golden compass movie",
+        "answer": "FALSE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "is it true that there isn't going to be another golden compass movie",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "the British Humanist Association did announce that there isn't going to be another golden compass movie",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "Pullman did announce that there isn't going to be another golden compass movie",
+                "answer": "TRUE"
+            }
+        ]
+    },
+    {
+        "title": "Deion Sanders",
+        "paragraph": "Sanders played football primarily at cornerback, but also as a kick returner, punt returner, and occasionally wide receiver. He played in the National Football League (NFL) for the Atlanta Falcons, the San Francisco 49ers, the Dallas Cowboys, the Washington Redskins and the Baltimore Ravens, winning the Super Bowl with both the 49ers and the Cowboys. An outfielder in baseball, he played professionally for the New York Yankees, the Atlanta Braves, the Cincinnati Reds and the San Francisco Giants, and participated in the 1992 World Series with the Braves. He attended Florida State University, where he was recognized as a two-time All-American in football, and also played baseball and ran track.",
+        "question": "did deion sanders ever win a world series",
+        "answer": "FALSE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "did deion sanders ever play in world series",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "did deion sanders ever play in world series final",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "did deion sanders ever win a super bowl",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "did deion sanders ever play in world series with San Francisco 49ers",
+                "answer": "FALSE"
+            }
+        ]
+    },
+    {
+        "title": "1921 Tampa Bay hurricane",
+        "paragraph": "The storm brought strong winds to the Swan Islands, including hurricane-force winds on the main island. Heavy rains fell in Cuba, particularly in Pinar del R\u00edo Province, but only minor damage occurred. In Florida, storm surge and abnormally high tides caused damage along much of the state's west coast from Pasco County southward. Several neighborhoods and sections of Tampa were inundated, especially in Ballast Point, DeSoto Park, Edgewater Park, Hyde Park, Palmetto Beach, and other areas in the vicinity of Bayshore Boulevard. Strong winds also damaged hundreds of trees, signs, buildings, and homes. Four deaths occurred in Tampa, three from drownings and another after a man touched a live wire. The storm left two additional fatalities in St. Petersburg. A number of streets in Tarpon Springs were littered with masses of debris, with many structures and trees suffering extensive damage. Strong winds occurred as far east as the Atlantic coast of the state, though wind damage east of the Tampa Bay area was generally limited to downed trees and power lines, resulting in power outages, particularly in Orlando. Agriculture throughout the state experienced significant impact as well, including over $2 million (equivalent to $20 million in 2016) in damage and the loss of at least 800,000 boxes of citrus crops alone. Overall, the hurricane left at least eight deaths and about $10 million (equivalent to $110 million in 2016) in damage.",
+        "question": "has tampa ever been hit by a hurricane",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "has the east of tampa ever been hit by a hurricane",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "did tampa hurricane cause deaths",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "did tampa hurricane cause less than five deaths",
+                "answer": "FALSE"
+            }
+        ]
+    },
+    {
+        "title": "Anosmia",
+        "paragraph": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "question": "is it possible to have no sense of smell",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "",
+                "answer": ""
+            },
+            {
+                "perturbed_q": "is it possible to have no sense of smell forever",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is it possible to have no sense of smell temporary",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is it possible to have no sense of smell by just an accident",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is it possible to have no sense of smell due to blockage of nasal passage",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is it possible to have no sense of pain due to blockage of nasal passage",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is it possible to have nasal blockage due to no sense of smell",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is it possible to have inflammation of the nasal mucosa due to no sense of smell",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is it possible to have a destruction of one temporal lobe due to no sense of smell",
+                "answer": "FALSE"
+            }
+        ]
+    }
+]

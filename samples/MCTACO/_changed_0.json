@@ -1,0 +1,287 @@
+[
+    {
+        "sentence1": "Moreover, he said, technology now exists for stealing corporate secrets after they've been \"erased\" from a computer's memory. What happens after hacker fails to steal the corporate secrets?",
+        "qas": [
+            {
+                "sentence2": "the hacker returns the data",
+                "label": "no"
+            },
+            {
+                "sentence2": "they are sold off the black market",
+                "label": "no"
+            },
+            {
+                "sentence2": "tries another time ",
+                "label": "yes"
+            },
+            {
+                "sentence2": "the hacker returns the data",
+                "label": "no"
+            },
+            {
+                "sentence2": "the hacker sells the documents",
+                "label": "no"
+            },
+            {
+                "sentence2": "the hacker returned the data",
+                "label": "no"
+            },
+            {
+                "sentence2": "stops being a hacker ",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps even though he turned out to be innocent. What will happen next?",
+        "qas": [
+            {
+                "sentence2": "the fbi lose interest in the case ",
+                "label": "yes"
+            },
+            {
+                "sentence2": "nothing",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through the donation platform in very small amounts each time. How often did al Qaeda receive donations prior to 9/11?",
+        "qas": [
+            {
+                "sentence2": "5 hours a day",
+                "label": "no"
+            },
+            {
+                "sentence2": "once each month",
+                "label": "no"
+            },
+            {
+                "sentence2": "25 times a day",
+                "label": "yes"
+            },
+            {
+                "sentence2": "once a year",
+                "label": "no"
+            },
+            {
+                "sentence2": "every century",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "Despite his quick climb up the legal ladder, Bailey has always found time to help people by answering their questions online How often does he help people?",
+        "qas": [
+            {
+                "sentence2": "several times a day",
+                "label": "yes"
+            },
+            {
+                "sentence2": "multiple times in an hour",
+                "label": "no"
+            },
+            {
+                "sentence2": "weekly",
+                "label": "yes"
+            },
+            {
+                "sentence2": "several times in an hour",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?",
+        "qas": [
+            {
+                "sentence2": "died in prison",
+                "label": "no"
+            },
+            {
+                "sentence2": "worked as a well-known attorney",
+                "label": "no"
+            },
+            {
+                "sentence2": "he worked as a successful lawyer",
+                "label": "no"
+            },
+            {
+                "sentence2": "died as a lawyer",
+                "label": "no"
+            },
+            {
+                "sentence2": "was in jail",
+                "label": "yes"
+            },
+            {
+                "sentence2": "he was an immigrant ",
+                "label": "yes"
+            }
+        ]
+    },
+    {
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "qas": [
+            {
+                "sentence2": "almost never",
+                "label": "yes"
+            },
+            {
+                "sentence2": "every 20 seconds",
+                "label": "no"
+            },
+            {
+                "sentence2": "every other minute",
+                "label": "no"
+            },
+            {
+                "sentence2": "every week",
+                "label": "no"
+            },
+            {
+                "sentence2": "every hour",
+                "label": "no"
+            },
+            {
+                "sentence2": "every century",
+                "label": "no"
+            },
+            {
+                "sentence2": "every 180 years",
+                "label": "no"
+            },
+            {
+                "sentence2": "every 20 years",
+                "label": "no"
+            },
+            {
+                "sentence2": "every second",
+                "label": "no"
+            },
+            {
+                "sentence2": "every minute",
+                "label": "no"
+            },
+            {
+                "sentence2": "every 20 hours",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "qas": [
+            {
+                "sentence2": "half an hour",
+                "label": "yes"
+            },
+            {
+                "sentence2": "1 day",
+                "label": "no"
+            },
+            {
+                "sentence2": "18 seconds",
+                "label": "no"
+            },
+            {
+                "sentence2": "about an hour",
+                "label": "yes"
+            },
+            {
+                "sentence2": "21 days",
+                "label": "no"
+            },
+            {
+                "sentence2": "about one second",
+                "label": "no"
+            },
+            {
+                "sentence2": "several months",
+                "label": "no"
+            },
+            {
+                "sentence2": "about one hour",
+                "label": "yes"
+            },
+            {
+                "sentence2": "7 minutes",
+                "label": "no"
+            },
+            {
+                "sentence2": "18 minutes",
+                "label": "yes"
+            },
+            {
+                "sentence2": "7 weeks",
+                "label": "no"
+            },
+            {
+                "sentence2": "about an hours",
+                "label": "yes"
+            },
+            {
+                "sentence2": "162 seconds",
+                "label": "no"
+            },
+            {
+                "sentence2": "several weeks",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands in front of her in a disdaining way. What did she do after clasping her hands together?",
+        "qas": [
+            {
+                "sentence2": "she starting singing to the audience ",
+                "label": "no"
+            },
+            {
+                "sentence2": "she talked to the audience",
+                "label": "yes"
+            },
+            {
+                "sentence2": "she continued to do her makeup ",
+                "label": "no"
+            },
+            {
+                "sentence2": "she sat back to her seat ",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?",
+        "qas": [
+            {
+                "sentence2": "the explorer took them to the museum",
+                "label": "yes"
+            },
+            {
+                "sentence2": "more fish started to live there",
+                "label": "no"
+            },
+            {
+                "sentence2": "the explorer showed them to the museum",
+                "label": "yes"
+            },
+            {
+                "sentence2": "the explorer brought them to the museum",
+                "label": "yes"
+            },
+            {
+                "sentence2": "these two new crowd families lived",
+                "label": "no"
+            },
+            {
+                "sentence2": "the fossil turned into real humans",
+                "label": "no"
+            },
+            {
+                "sentence2": "the fossils were preserved ",
+                "label": "yes"
+            }
+        ]
+    }
+]

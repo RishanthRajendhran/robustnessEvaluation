@@ -1,0 +1,1238 @@
+[
+    {
+        "context": "Stelae have become threatened in modern times by plundering for sale on the international art market. Many stelae are found in remote areas and their size and weight prevents them from being removed intact. Various methods are used to cut or break a stela for easier transport, including power saws, chisels, acid and heat. When a monument is well preserved, the looters attempt to cut off its face for transport. Even when successful, this results in damage to inscriptions on the sides of the stela. At worst, this method results in complete fragmentation of the stela face with any recoverable sculpture removed for sale. Traceable fragments of well known monuments have been purchased by American museums and private collectors in the past. When such monuments are removed from their original context, their historical meaning is lost. Although museums have justified their acquisition of stelae fragments with the argument that such objects are better preserved in an institution, no stela has been sold in as good a condition as it was in its original location. After 1970 there was a sharp drop in Maya stelae available on the New York art market due to the ratification of a treaty with Mexico that guarantees the return of stolen pre-Columbian sculpture that was removed from the country after the ratification date. In the early 1970s some museums, such as that of the University of Pennsylvania, responded to international criticism by no longer purchasing archaeological artefacts that lack a legally documented history, including place of origin, previous owners and an export license. Harvard University also instituted a similar policy in the early 1970s.In 1972, the initially well preserved Stela 5 at Ixkun was smashed into pieces by looters, who heated it until it shattered and then stole various pieces. A number of remaining fragments of the monument were rescued by archaeologist Ian Graham and transferred to the mayor's office in Dolores, Pet\u00e9n, where they were eventually used as construction material before once again being recovered, this time by the Atlas Arqueol\u00f3gico de Guatemala in 1989, and moved to their archaeological laboratory. At the nearby site of Ixtonton, 7.5 kilometres (4.7 mi) from Ixkun, most of the stelae were robbed before the site's existence was reported to the Guatemalan authorities. By the time archaeologists visited the site in 1985 only 2 stelae remained.In 1974, a dealer in pre-Columbian artefacts by the name of Hollinshead arranged for the illegal removal of Machaquil\u00e1 Stela 2 from the Guatemalan jungle. He and his co-conspirators were prosecuted in the United States under the National Stolen Property Act and they were the first people to be convicted under this act with reference to national patrimony laws. The act states:\n\"whoever transports, transmits, or transfers in interstate or foreign commerce any goods ... of the value of $5,000 or more, knowing the",
+        "qas": [
+            {
+                "question": "What was the name of the artefact that was smashed into pieces by looters?",
+                "id": "7ceb022c1ca72aa17b44b5d8f3057d141c317c74",
+                "answers": [
+                    {
+                        "text": "Stela 5 at Ixkun",
+                        "answer_start": 1708
+                    },
+                    {
+                        "text": "Stela 5",
+                        "answer_start": 1708
+                    }
+                ]
+            },
+            {
+                "question": "What was the name of the person who preserved what was left of the artefact that was smashed into pieces by looters?",
+                "id": "8a6f5376f9d2504c8e326f43cd2a123809f4d4e2",
+                "answers": [
+                    {
+                        "text": "Ian Graham",
+                        "answer_start": 1903
+                    }
+                ],
+                "original_id": "7ceb022c1ca72aa17b44b5d8f3057d141c317c74"
+            },
+            {
+                "question": "How was an artefact shashed into pieces by looters?",
+                "id": "e3f7c45a3fae2eff931fec41c6a97e9e0c0c40e0",
+                "answers": [
+                    {
+                        "text": "heated it until it shattered",
+                        "answer_start": 1765
+                    }
+                ],
+                "original_id": "7ceb022c1ca72aa17b44b5d8f3057d141c317c74"
+            }
+        ]
+    },
+    {
+        "context": "At Montgomery Advertising in New York City, Duke Crawford is having trouble handling the account of cosmetics manufacturer Michele Bennett, one of the company's most important clients\u2014and his former fianc\u00e9e. Still determined to win him back, Michele refuses to sign a contract until Duke reciprocates her affection. When Duke threatens to quit Michele's account, his boss James Montgomery assigns him to do the book promotion for a new client, a nerve psychologist named J.O. Loring.\nWhile taking a taxi to the psychologist's office, Duke shaves with an electric razor he invented, but his nervousness and stress result in leaving half his mustache intact. When he arrives at the client's office, Duke discovers that J.O. Loring is in fact an attractive woman named Jo. Staring at the half a mustache, Jo mistakes him for one of her mentally disturbed patients. Determines to prove to himself that he is anesthetized from women, he kisses the doctor. Jo reacts by recommending that he read her book on stress relief titled Let's Live a Little. Later that night, Duke is unable to fall asleep.\nThe next morning, after Duke makes an appointment to see Jo as her patient, Jo advises him that if he wants his former fianc\u00e9e to sign the contract, he must wine and dine her. Following her advice, Duke arranges a date with Michele at a nightclub. Wanting to observe the encounter for scientific reasons, Jo arrives at the nightclub with her stuffy surgeon boyfriend, Dr. Richard Field. When Michele notices that Duke and Jo are falling in love, and when she is served a cake with an advertising contract inside instead of a marriage license, she throws his drink at him and storms out of the nightclub. Duke is reduced to a nerve-wracked state\u2014repeating ad slogans over and over.",
+        "qas": [
+            {
+                "question": "To whose office is Duke traveling when he shaves off half of his mustache?",
+                "id": "bd22d78f040a9b23068fdb9abb160529ec0c3883",
+                "answers": [
+                    {
+                        "text": "J.O. Loring",
+                        "answer_start": 471
+                    }
+                ]
+            },
+            {
+                "question": "What kind of doctor does Duke kiss?",
+                "id": "c17594a3bc06fdd1a8ba5f31f0421777d959052d",
+                "answers": [
+                    {
+                        "text": "nerve psychologist",
+                        "answer_start": 446
+                    }
+                ]
+            },
+            {
+                "question": "What is the full name of the person Michele wants to win back?",
+                "id": "874c401ad5dc0aef29997307859b23c5bf8f20ff",
+                "answers": [
+                    {
+                        "text": "Duke Crawford",
+                        "answer_start": 44
+                    }
+                ]
+            },
+            {
+                "question": "What is the full name of the person who invented an electric razor?",
+                "id": "9c0428d80f37febfae0a1cf92676a1751fa58b17",
+                "answers": [
+                    {
+                        "text": "Duke Crawford",
+                        "answer_start": 44
+                    }
+                ]
+            },
+            {
+                "question": "What is the full name of the person of the person who mistakes Duke for one of her mentally disturbed patients?",
+                "id": "228050c64d5c4f6b540c62de9b3765981982233f",
+                "answers": [
+                    {
+                        "text": "J.O. Loring",
+                        "answer_start": 717
+                    }
+                ]
+            },
+            {
+                "question": "What is the full name of the person Jo recommends that Duke must wine and dine?",
+                "id": "435b9b0bb19802ca2cb98360806a741bb3c42189",
+                "answers": [
+                    {
+                        "text": "Michele Bennett",
+                        "answer_start": 123
+                    }
+                ]
+            },
+            {
+                "question": "To which psycologist's office is Duke traveling when he shaves off half of his mustache?",
+                "id": "373800a8da66b3c0319ef3c918a3504ecef670e4",
+                "answers": [
+                    {
+                        "text": "J.O. Loring",
+                        "answer_start": 471
+                    }
+                ],
+                "original_id": "bd22d78f040a9b23068fdb9abb160529ec0c3883"
+            },
+            {
+                "question": "Who did the nerve psycology doctor kiss?",
+                "id": "b09479e737b22d3b12a78660b4feebf5e2650ff3",
+                "answers": [
+                    {
+                        "text": "Duke Crawford",
+                        "answer_start": 44
+                    }
+                ],
+                "original_id": "c17594a3bc06fdd1a8ba5f31f0421777d959052d"
+            },
+            {
+                "question": "What is the full name of the person whose boss is James Montgomery?",
+                "id": "a6b3f9d7e3fb2a21288e4dc2bcd55a0f4feb4291",
+                "answers": [
+                    {
+                        "text": "Duke Crawford",
+                        "answer_start": 44
+                    }
+                ],
+                "original_id": "874c401ad5dc0aef29997307859b23c5bf8f20ff"
+            },
+            {
+                "question": "What is the full name of the boss of the person who invented an electric razor?",
+                "id": "ec56207d9576bf495ee47c1eb71b7a1310416563",
+                "answers": [
+                    {
+                        "text": "James Montgomery",
+                        "answer_start": 372
+                    }
+                ],
+                "original_id": "9c0428d80f37febfae0a1cf92676a1751fa58b17"
+            },
+            {
+                "question": "What is the full name of the boyfriend of the psychologist who mistakes Duke for one of her mentally disturbed patients?",
+                "id": "e58dc0a8890e2b1bbe0574ee36cc710c05b0f6ee",
+                "answers": [
+                    {
+                        "text": "Richard Field",
+                        "answer_start": 1465
+                    }
+                ],
+                "original_id": "228050c64d5c4f6b540c62de9b3765981982233f"
+            },
+            {
+                "question": "What is the full name of the person Duke invites to wine and dine?",
+                "id": "a0cc3f23001414e18114805b04d5dbe5c2b7b736",
+                "answers": [
+                    {
+                        "text": "Michele Bennett",
+                        "answer_start": 123
+                    }
+                ],
+                "original_id": "435b9b0bb19802ca2cb98360806a741bb3c42189"
+            }
+        ]
+    },
+    {
+        "context": "The professors of the Institute of Child Psychology raise a foundling baby, whom they name \"Alpha\", as an experiment to see if a scientific upbringing can create a genius. By the time she is six years old, Alpha can speak Chinese, play chess and the harp, and has studied algebra and the campaigns of Napoleon, among other things.\nNewspaper reporter Mike Regan is assigned, over his protests, to write an article about her. He manages to secure an interview, despite the reluctance of the professors, and discovers that Alpha, while raised with loving care, has missed out on the joys of childhood. Disturbed by Mike's claim that magic is real, Alpha decides to investigate further and sneaks out to see Mike, leaving the confines of the institute for the first time in her life.\nShe enjoys the sights and sounds of New York as she makes her way to the offices of the newspaper. Mike is less than pleased to see her, but takes her along so he can keep a date with his girlfriend, nightclub singer Katie Mallory. Alpha takes an instant dislike to Katie; it turns out that the child has a crush on Mike. However, Katie's kindness and understanding soon win Alpha over.\nAn outbreak of measles at the Institute and the resulting quarantine force Mike to look after Alpha for a few days. That night, escaped convicted murderer Packy Roost shows up at Mike's apartment. While waiting for the reporter, he and Alpha become friends. When Mike does come back, Packy demands he find Lefty Moran, who can clear him of the crime. The reporter reluctantly agrees, eventually bringing in Lefty. It turns out that Lefty is the killer; the police take him away, and Packy is exonerated.",
+        "qas": [
+            {
+                "question": "What is the first name of the person that Mike is forced to write about? ",
+                "id": "4980e7217a37d4f95f614d6b999cc0b5412c2fa5",
+                "answers": [
+                    {
+                        "text": "Alpha",
+                        "answer_start": 92
+                    }
+                ]
+            },
+            {
+                "question": "What is the first name of the person that Mike secures an interview with?",
+                "id": "188785731d459abee54fabdf00be7f121524cab6",
+                "answers": [
+                    {
+                        "text": "Alpha",
+                        "answer_start": 92
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person Alpha sneaks out to see?",
+                "id": "811136a7e7a7c58ccabbcd4ed22d8962359eca65",
+                "answers": [
+                    {
+                        "text": "Regan",
+                        "answer_start": 355
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person Alpha has a crush on? ",
+                "id": "864961579f651b19cde370462ffebf0b6e5980fa",
+                "answers": [
+                    {
+                        "text": "Regan",
+                        "answer_start": 355
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person Alpha dislikes? ",
+                "id": "d94d21596de1e05d671267b1536f293367302b83",
+                "answers": [
+                    {
+                        "text": "Mallory",
+                        "answer_start": 1003
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person that could be cleared of a crime by Mike and Lefty?",
+                "id": "0ca6dae9d0ced0f1d7e3b419489d6aeb496a9aea",
+                "answers": [
+                    {
+                        "text": "Roost",
+                        "answer_start": 1328
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person who is exonerated? ",
+                "id": "0ee18e5a71aa8ab6f768a80f794cba253594abfb",
+                "answers": [
+                    {
+                        "text": "Roost",
+                        "answer_start": 1328
+                    }
+                ]
+            },
+            {
+                "question": "What is the full name of the person that could be cleared of a crime by Mike and Lefty?",
+                "id": "20968e65a3ebb217dc2713877d8d919299588662",
+                "answers": [
+                    {
+                        "text": "Packy Roost",
+                        "answer_start": 1322
+                    }
+                ],
+                "original_id": "0ca6dae9d0ced0f1d7e3b419489d6aeb496a9aea"
+            },
+            {
+                "question": "What is the full name of the person who is exonerated?",
+                "id": "87eeed2b11ca96056ae70cf8308a984b4981d75f",
+                "answers": [
+                    {
+                        "text": "Packy Roost",
+                        "answer_start": 1322
+                    }
+                ],
+                "original_id": "0ee18e5a71aa8ab6f768a80f794cba253594abfb"
+            },
+            {
+                "question": "What is the full name of the person that Mike is forced to write about?",
+                "id": "ae1e3ca14e6b063c989115f0284959be68fee00b",
+                "answers": [
+                    {
+                        "text": "Alpha",
+                        "answer_start": 92
+                    }
+                ],
+                "original_id": "4980e7217a37d4f95f614d6b999cc0b5412c2fa5"
+            },
+            {
+                "question": "What is the full name of the person that Mike secures an interview with?",
+                "id": "12a42149b0cee32121a391bb53015664963b7212",
+                "answers": [
+                    {
+                        "text": "Alpha",
+                        "answer_start": 92
+                    }
+                ],
+                "original_id": "188785731d459abee54fabdf00be7f121524cab6"
+            },
+            {
+                "question": "What is the job of the person Alpha dislikes?",
+                "id": "f400e5b19b818f9383487b3775aa6774f8e11699",
+                "answers": [
+                    {
+                        "text": "nightclub singer",
+                        "answer_start": 980
+                    }
+                ],
+                "original_id": "d94d21596de1e05d671267b1536f293367302b83"
+            },
+            {
+                "question": "What is the full name of the person Alpha dislikes?",
+                "id": "bb53d251d48e41275639c6a5fa54b513504badd1",
+                "answers": [
+                    {
+                        "text": "Katie Mallory",
+                        "answer_start": 997
+                    }
+                ],
+                "original_id": "d94d21596de1e05d671267b1536f293367302b83"
+            },
+            {
+                "question": "What is the full name of the boyfriend of the person whom Alpha dislikes?",
+                "id": "ddbc913f823f75f7a1608b567ce6e7aeaa5457ff",
+                "answers": [
+                    {
+                        "text": "Mike Regan",
+                        "answer_start": 350
+                    }
+                ],
+                "original_id": "d94d21596de1e05d671267b1536f293367302b83"
+            },
+            {
+                "question": "What is the job of the boyfriend of the person whom Alpha dislikes?",
+                "id": "4e3020ad1bcb53c6b4f2224c251e4a2083d31091",
+                "answers": [
+                    {
+                        "text": "Newspaper reporter",
+                        "answer_start": 331
+                    }
+                ],
+                "original_id": "d94d21596de1e05d671267b1536f293367302b83"
+            },
+            {
+                "question": "What is the job of the person Alpha sneaks out to see?",
+                "id": "f315a03b7a31df2228cdf6b744b7043a66e8286b",
+                "answers": [
+                    {
+                        "text": "Newspaper reporter",
+                        "answer_start": 331
+                    }
+                ],
+                "original_id": "811136a7e7a7c58ccabbcd4ed22d8962359eca65"
+            },
+            {
+                "question": "What is the full name of the person Alpha sneaks out to see?",
+                "id": "93eef2e56ddc4d2abac9edfbeeb25d8d9e1ac13f",
+                "answers": [
+                    {
+                        "text": "Mike Regan",
+                        "answer_start": 350
+                    }
+                ],
+                "original_id": "811136a7e7a7c58ccabbcd4ed22d8962359eca65"
+            },
+            {
+                "question": "What is the job of the person Alpha has a crush on?",
+                "id": "c02eec469b5e08c9c7c4b02e15af96b87f29280e",
+                "answers": [
+                    {
+                        "text": "Newspaper reporter",
+                        "answer_start": 331
+                    }
+                ],
+                "original_id": "864961579f651b19cde370462ffebf0b6e5980fa"
+            },
+            {
+                "question": "What is the full name of the person Alpha has a crush on?",
+                "id": "0dc750eb1cce0471ba73756e2c12bc2eb594e37e",
+                "answers": [
+                    {
+                        "text": "Mike Regan",
+                        "answer_start": 350
+                    }
+                ],
+                "original_id": "864961579f651b19cde370462ffebf0b6e5980fa"
+            }
+        ]
+    },
+    {
+        "context": "Once a photographer by day, spy by night, Matt Helm is now a happily retired secret agent, shooting photos of glamorous models instead of guns and enjoying a close relationship with his assistant, the lovely Lovey Kravezit. But then his old boss, Macdonald, coaxes him back to the agency ICE to thwart a new threat from the villainous organization Big O.\nThe sinister Tung-Tze is masterminding a diabolical scheme to drop a missile on an underground atomic bomb test in New Mexico and possibly instigate a nuclear war in the process. Helm's assignment is to stop him, armed with a wide assortment of useful spy gadgets, plus the assistance of the capable femme fatale, Tina, and the seemingly incapable Gail Hendricks, a beautiful but bumbling possible enemy agent.\nAlong the way, Helm is nearly sidetracked by a mysterious knife-wielding seductress and he witnesses the murder of a beautiful Big O operative, the sultry striptease artist Sarita.\nIn the end, Helm prevails, with Gail by his side as he all but singlehandedly destroys Tung-Tze's evil enterprise and plot to rule the world.",
+        "qas": [
+            {
+                "question": "What is the full name of the person that is armed with a wide assortment of useful spy gadgets?",
+                "id": "1b8456858c8b574a3ffc623cc6f49f9ccbdfdd75",
+                "answers": [
+                    {
+                        "text": "Matt Helm",
+                        "answer_start": 42
+                    }
+                ]
+            },
+            {
+                "question": "What is the first name of the person who prevails in his assignment? ",
+                "id": "b5c62612c01ed331dfc9112b56c38b5feee246a0",
+                "answers": [
+                    {
+                        "text": "Matt",
+                        "answer_start": 42
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person by Helms side when he prevails?",
+                "id": "4622ebd1a65c27921270e988b473ae7bd47b3523",
+                "answers": [
+                    {
+                        "text": "Hendricks",
+                        "answer_start": 708
+                    }
+                ]
+            },
+            {
+                "question": "What is the first name of the person who all but singlehandedly destroys Tung-Tze?",
+                "id": "294e312ff3855b890e71471706a6fa3c5c785584",
+                "answers": [
+                    {
+                        "text": "Matt",
+                        "answer_start": 42
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of person that accompanies the one who all but singlehandedly destroys Tung-Tze?",
+                "id": "ebee7c5e7ceb4c6832c805cd7b1fede6b02557d3",
+                "answers": [
+                    {
+                        "text": "Hendricks",
+                        "answer_start": 708
+                    }
+                ],
+                "original_id": "294e312ff3855b890e71471706a6fa3c5c785584"
+            },
+            {
+                "question": "What is the last name of the person that accompanies the one who prevails in his assignment?",
+                "id": "e175e7de78bc28c76457cca2203b91527c656f7c",
+                "answers": [
+                    {
+                        "text": "Hendricks",
+                        "answer_start": 708
+                    }
+                ],
+                "original_id": "b5c62612c01ed331dfc9112b56c38b5feee246a0"
+            },
+            {
+                "question": "What are the first names of the people assisting the person that is armed with a wide assortment of useful spy gadgets?",
+                "id": "e6dc2cfb53477557bc6c97d0bba943c73edf3058",
+                "answers": [
+                    {
+                        "text": "Tina",
+                        "answer_start": 669
+                    },
+                    {
+                        "text": "Gail",
+                        "answer_start": 703
+                    }
+                ],
+                "original_id": "1b8456858c8b574a3ffc623cc6f49f9ccbdfdd75"
+            },
+            {
+                "question": "What is the full name of the person whose side Gail is by?",
+                "id": "6e8857bde928df71c7ec34380d0baefe854aa727",
+                "answers": [
+                    {
+                        "text": "Matt Helm",
+                        "answer_start": 42
+                    }
+                ],
+                "original_id": "4622ebd1a65c27921270e988b473ae7bd47b3523"
+            },
+            {
+                "question": "What is the last name of the person by Helms side when he prevails?",
+                "id": "51057a2fc3c44792fcca8ee348d74f67023502e9",
+                "answers": [
+                    {
+                        "text": "Hendricks",
+                        "answer_start": 708
+                    }
+                ],
+                "original_id": "4622ebd1a65c27921270e988b473ae7bd47b3523"
+            }
+        ]
+    },
+    {
+        "context": "Tim Dingman and Nick Vanderpark are best friends, neighbors and co-workers at 3M. Nick is constantly coming up with crazy ideas to get rich quick, and when he invents Vapoorize, a spray that instantly disintegrates dog feces, he actually succeeds. As Nick's wealth continues to grow, so does Tim's envy, as he had initially scoffed at the idea and squandered an opportunity to invest and become mega-rich himself. Nick is blissfully unaware of Tim's jealousy, and his generosity only serves to make Tim more envious of him. Meanwhile, Nick's wife Natalie decides to run for state senate but is continually plagued by questions about her husband's product.\nAfter Tim's wife Debbie and children temporarily leave and he is fired from 3M, Tim's jealousy reaches new levels. In a bar, he meets J-Man, a bizarre drifter, who lends a sympathetic ear and offers advice. After a drunken night out, Tim accidentally kills Nick's beloved horse, Corky, and buries the horse in his abandoned swimming pool.\nNick offers a $50,000 reward for the return of his horse. J-Man and Tim concoct a plan whereby J-Man would discover the horse and claim the reward, splitting the proceeds. However a series of unfortunate events, including Tim's family getting holed up in J-Man's mountain cabin, leads to the horse's carcass being lost in a rain storm.\nNick reveals to Tim that he is going to Rome for the debut of Vapoorize there, and gives Tim the opportunity to join him in a 50-50 partnership, which he accepts. J-Man finds out that Tim is now rich, and, feeling betrayed, tries to blackmail him. After confessing to his wife, now enjoying her rich lifestyle, Tim agrees to pay J-Man; however, J-Man ups his demands and asks to be Tim's partner. Tim accidentally shoots him in the back with an arrow and J-Man, believing that Tim has tried to kill him, backs down in fear.",
+        "qas": [
+            {
+                "question": "Who is the wife of the best friend of the man who does not invest in Vapoorize?",
+                "id": "9e4f7d977b37771e489f45e6e483fdc2dc534814",
+                "answers": [
+                    {
+                        "text": "Natalie",
+                        "answer_start": 547
+                    }
+                ]
+            },
+            {
+                "question": "What is the first name of the person who's wife leaves them after they are fired?",
+                "id": "4b2b139d23c0653631a23d217b949342fb2c3176",
+                "answers": [
+                    {
+                        "text": "Tim",
+                        "answer_start": 662
+                    }
+                ]
+            },
+            {
+                "question": "What is the first name of the person that the man who owns the cabin try to blackmail?",
+                "id": "2f3aa22999cd4d78847f2481d6625367450a674c",
+                "answers": [
+                    {
+                        "text": "Tim",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "question": "Who is the wife of the man who does not invest in Vapoorize?",
+                "id": "04e2d774ef9230ab0fbcf202eb5e63e5826d67e1",
+                "answers": [
+                    {
+                        "text": "Debbie",
+                        "answer_start": 673
+                    }
+                ],
+                "original_id": "9e4f7d977b37771e489f45e6e483fdc2dc534814"
+            },
+            {
+                "question": "What is the last name of the person who does not invest in Vapoorize?",
+                "id": "f4247023dc6b931848467df7b3b6180fb0610e40",
+                "answers": [
+                    {
+                        "text": "Dingman",
+                        "answer_start": 4
+                    }
+                ],
+                "original_id": "9e4f7d977b37771e489f45e6e483fdc2dc534814"
+            },
+            {
+                "question": "What is the last name of the person who's wife leaves them after they are fired?",
+                "id": "6fd98123e112f5954f4c227cfa87f34de24bac30",
+                "answers": [
+                    {
+                        "text": "Dingman",
+                        "answer_start": 4
+                    }
+                ],
+                "original_id": "4b2b139d23c0653631a23d217b949342fb2c3176"
+            },
+            {
+                "question": "What is the full name of the best friend of the man who's wife leaves them after they are fired?",
+                "id": "d7024b8f1ac285c29b931f17047eaa56dcffdeeb",
+                "answers": [
+                    {
+                        "text": "Nick Vanderpark",
+                        "answer_start": 16
+                    }
+                ],
+                "original_id": "4b2b139d23c0653631a23d217b949342fb2c3176"
+            },
+            {
+                "question": "What is the last name of the person that someone tries to blackmail?",
+                "id": "a8476129f77297cab8776f485c89964d43b5b3e5",
+                "answers": [
+                    {
+                        "text": "Dingman",
+                        "answer_start": 4
+                    }
+                ],
+                "original_id": "2f3aa22999cd4d78847f2481d6625367450a674c"
+            },
+            {
+                "question": "What is the name of the wife of the person whom someone tries to blackmail?",
+                "id": "b967efd850e1c5d7a1b49d8ea909069d588dd6b2",
+                "answers": [
+                    {
+                        "text": "Debbie",
+                        "answer_start": 673
+                    }
+                ],
+                "original_id": "2f3aa22999cd4d78847f2481d6625367450a674c"
+            }
+        ]
+    },
+    {
+        "context": "On 4 February 2013, the University of Leicester confirmed that the skeleton was that of Richard III. The identification was based on mitochondrial DNA evidence, soil analysis, and dental tests, and physical characteristics of the skeleton consistent with contemporary accounts of Richard's appearance. Osteoarchaeologist Jo Appleby commented: \"The skeleton has a number of unusual features: its slender build, the scoliosis, and the battle-related trauma. All of these are highly consistent with the information that we have about Richard III in life and about the circumstances of his death.\"Caroline Wilkinson, Professor of Craniofacial Identification at the University of Dundee, led the project to reconstruct the face, commissioned by the Richard III Society. On 11 February 2014, the University of Leicester announced a project headed by Turi King to sequence the entire genome of Richard III and Michael Ibsen\u2014a direct female-line descendant of Richard's sister, Anne of York\u2014whose mitochondrial DNA confirmed the identification of the excavated remains. Richard III is thus the first ancient person with known historical identity whose genome has been sequenced. A study published in Nature in December 2014 confirmed a perfect whole-mitochondrial genome match between Richard's skeleton and Michael Ibsen and a near-perfect match between Richard and his other confirmed living relative. However, Y chromosome DNA inherited via the male line found no link with five other claimed living relatives, indicating that at least one \"false-paternity event\" occurred in the generations between Richard and these men. One of these five was found to be unrelated to the other four, showing that another false-paternity event had occurred in the four generations separating them.The story of the excavation and subsequent scientific investigation was told in a Channel 4 documentary, Richard III: The King in the Car Park, broadcast on 4 February 2013. It proved a ratings hit for the channel, watched by up to 4.9 million viewers, and won a Royal Television Society award. Channel 4 subsequently screened a follow-up documentary on 27 February 2014, Richard III: The Untold Story, which detailed the scientific and archaeological analyses that led to the identification of the skeleton as Richard III.",
+        "qas": [
+            {
+                "question": "What was the last name of the person that the Richard III Society commissioned for the reconstruction of the face?",
+                "id": "064154fdfc6ffe51d5f508aca90c9e519ac37c7f",
+                "answers": [
+                    {
+                        "text": "Wilkinson",
+                        "answer_start": 602
+                    }
+                ]
+            },
+            {
+                "question": "What did the Y chromosome DNA inherited via the male line that found no link with five other claimed living relatives indicate?",
+                "id": "2cc8db406f594f9e91d66670e1110e0d6d222393",
+                "answers": [
+                    {
+                        "text": "at least one \"false-paternity event\" occurred",
+                        "answer_start": 1522
+                    }
+                ]
+            },
+            {
+                "question": "What was the name of the documentary about the excavation on Channel 4?",
+                "id": "18a36a8c4352d2bb016eaad58906461b4f0b3fff",
+                "answers": [
+                    {
+                        "text": "Richard III: The King in the Car Park",
+                        "answer_start": 1882
+                    }
+                ]
+            },
+            {
+                "question": "What was the name of the follow-up documentary to Richard III: The King in the Car Park?",
+                "id": "9f345c288a46254410c69c3ab61aa355e9aee6d2",
+                "answers": [
+                    {
+                        "text": "Richard III: The Untold Story",
+                        "answer_start": 2149
+                    }
+                ]
+            },
+            {
+                "question": "What documentary proved to be a ratings hit for Channel 4?",
+                "id": "9fde6d29ee10ad6d5c9d768523eb349bb2a05f59",
+                "answers": [
+                    {
+                        "text": "Richard III: The King in the Car Park",
+                        "answer_start": 1882
+                    }
+                ],
+                "original_id": "18a36a8c4352d2bb016eaad58906461b4f0b3fff"
+            },
+            {
+                "question": "When was the documentary made about the excavation broadcast?",
+                "id": "b0971e6bdf0e60ad3156760a4da4d6ec41a7e86e",
+                "answers": [
+                    {
+                        "text": "4 February 2013",
+                        "answer_start": 3
+                    }
+                ],
+                "original_id": "18a36a8c4352d2bb016eaad58906461b4f0b3fff"
+            },
+            {
+                "question": "What was a sequel to the documentary made about the excavation on Channel 4?",
+                "id": "cbf7940b727697c51e5287d456e15a71b2902d47",
+                "answers": [
+                    {
+                        "text": "Richard III: The Untold Story",
+                        "answer_start": 2149
+                    }
+                ],
+                "original_id": "18a36a8c4352d2bb016eaad58906461b4f0b3fff"
+            },
+            {
+                "question": "When was the sequel to the documentary made about the excavation on Channel 4 broadcast?",
+                "id": "4742aab2428ccda29200c4615b70e5844e7c6c27",
+                "answers": [
+                    {
+                        "text": "27 February 2014",
+                        "answer_start": 2131
+                    }
+                ],
+                "original_id": "18a36a8c4352d2bb016eaad58906461b4f0b3fff"
+            },
+            {
+                "question": "A false paternity event was indicated to have occurred between Richard and whom?",
+                "id": "1da43ba8b7463788ee09cac4086aded94969b0d8",
+                "answers": [
+                    {
+                        "text": "five other claimed living relatives",
+                        "answer_start": 1469
+                    }
+                ],
+                "original_id": "2cc8db406f594f9e91d66670e1110e0d6d222393"
+            },
+            {
+                "question": "What documentary did the one that detailed the scientific and archeological analyses that led to the identification of a skeleton follow?",
+                "id": "d53ed48aa8d20bb7a011a8391117e09f737267d5",
+                "answers": [
+                    {
+                        "text": "Richard III: The King in the Car Park",
+                        "answer_start": 1882
+                    }
+                ],
+                "original_id": "9f345c288a46254410c69c3ab61aa355e9aee6d2"
+            },
+            {
+                "question": "What university is the person commissioned for the reconstruction of the face at?",
+                "id": "a7daa6e429cdceb5bbd49932612b4ef5d274d0af",
+                "answers": [
+                    {
+                        "text": "University of Dundee",
+                        "answer_start": 661
+                    }
+                ],
+                "original_id": "064154fdfc6ffe51d5f508aca90c9e519ac37c7f"
+            }
+        ]
+    },
+    {
+        "context": "Drowning Girl is derived from the splash page from \"Run for Love!\", illustrated by Tony Abruzzo and lettered by Ira Schnapp, in Secret Hearts #83 (November 1962), DC Comics. This is the same comic book issue that inspired Hopeless.In 1963, Lichtenstein was parodying various types of sources such as commercial illustrations, comic imagery and even modern masterpieces. The masterpieces represented what could have been dubbed the \"canon\" of art and was thought of as \"high art,\" while the \"low-art\" subject matter included comic strip images. His masterworks sources included the likes of C\u00e9zanne, Mondrian and Picasso. During this time in his career, Lichtenstein noted that \"the things that I have apparently parodied I actually admire.\" At the time, Lichtenstein was exploring the theme of \"industrialization of emotion\". In Lichtenstein's obituary, Los Angeles Times critic Christopher Knight said the work was \"a witty rejoinder to De Kooning's famously brushy paintings of women\". His comic romances often depicted stereotypical representations of thwarted passions. Although the Lichtenstein Foundation website claims that Lichtenstein did not begin using his opaque projector technique until the fall of 1963, Lichtenstein described his process for producing comics based art, including Drowning Girl:\nAs directly as possible ... From a cartoon, photograph or whatever, I draw a small picture\u2014the size that will fit into my opaque projector ... I don't draw a picture to reproduce it\u2014I do it in order to recompose it ... I project the drawing onto the canvas and pencil it in and then I play around with the drawing until it satisfies me.\nWhen Lichtenstein had his first solo show at the Leo Castelli Gallery in New York City in February 1962, it sold out before the opening. In addition to Drowning Girl, the exhibition included Look Mickey, Engagement Ring, Blam and The Refrigerator. The show ran from February 10 through March 3, 1962.  According to the Lichtenstein Foundation website, Drowning Girl was part of Lichtenstein's first exhibition at Ferus Gallery in Los Angeles from April 1 \u2013 April 27, 1963, featuring Masterpiece, Portrait of Madame C\u00e9zanne and other works from 1962 and 1963. It was also part of his second solo exhibition at the Leo Castelli Gallery from September 28 \u2013 October 24, 1963 that included Torpedo...Los!, Baseball Manager, In the Car, Conversation, and Whaam!. Marketing materials for the show included the lithograph Crak! The Museum of Modern Art acquired Drowning Girl in 1971, and their webpage for this work credits Philip Johnson and Mr. and Mrs. Bagley Wright for the acquisition.",
+        "qas": [
+            {
+                "question": "What is the last name of the person whose first and second exhibitions included Drowning Girl?",
+                "id": "36d5c10b09137c554f1b7e1f839dbf7baca99700",
+                "answers": [
+                    {
+                        "text": "Lichtenstein",
+                        "answer_start": 1967
+                    }
+                ]
+            },
+            {
+                "question": "What work was part of both first and second exhibitions of Lichtenstein?",
+                "id": "fa53b05b6e154d43327425be9b0da2f0f73baabf",
+                "answers": [
+                    {
+                        "text": "Drowning Girl",
+                        "answer_start": 0
+                    }
+                ],
+                "original_id": "36d5c10b09137c554f1b7e1f839dbf7baca99700"
+            },
+            {
+                "question": "What works were part of Lichtenstein's first solo exhibition?",
+                "id": "ad4948339d2b55b1d16edd4665c13885b38d3d04",
+                "answers": [
+                    {
+                        "text": "Drowning Girl",
+                        "answer_start": 0
+                    },
+                    {
+                        "text": "Look Mickey",
+                        "answer_start": 1839
+                    },
+                    {
+                        "text": "Engagement Ring",
+                        "answer_start": 1852
+                    },
+                    {
+                        "text": "Blam",
+                        "answer_start": 1869
+                    },
+                    {
+                        "text": "The Refrigerator",
+                        "answer_start": 1878
+                    }
+                ],
+                "original_id": "36d5c10b09137c554f1b7e1f839dbf7baca99700"
+            },
+            {
+                "question": "What works were part of Lichtenstein's second solo exhibition?",
+                "id": "b692ca9154f88c3bd2279aa88e55d9e983e969bd",
+                "answers": [
+                    {
+                        "text": "Drowning Girl",
+                        "answer_start": 0
+                    },
+                    {
+                        "text": "Torpedo...Los!",
+                        "answer_start": 2333
+                    },
+                    {
+                        "text": "Baseball Manager",
+                        "answer_start": 2349
+                    },
+                    {
+                        "text": "In the Car",
+                        "answer_start": 2367
+                    },
+                    {
+                        "text": "Conversation",
+                        "answer_start": 2379
+                    },
+                    {
+                        "text": "Whaam!",
+                        "answer_start": 2397
+                    }
+                ],
+                "original_id": "36d5c10b09137c554f1b7e1f839dbf7baca99700"
+            }
+        ]
+    },
+    {
+        "context": "Margaret Murray was born on 13 July 1863 in Calcutta, Bengal Presidency, then a major military city in British India. A member of the wealthy British imperial elite, she lived in the city with her family: parents James and Margaret Murray, an older sister named Mary, and her paternal grandmother and great-grandmother. James Murray, born in India of English descent, was a businessman and manager of the Serampore paper mills who was thrice elected President of the Calcutta Chamber of Commerce. His wife, Margaret (n\u00e9e Carr), had moved to India from Britain in 1857 to work as a missionary, preaching Christianity and educating Indian women. She continued with this work after marrying James and giving birth to her two daughters.\nAlthough most of their lives were spent in the European area of Calcutta, which was walled off from the indigenous sectors of the city, Murray encountered members of indigenous society through her family's employment of 10 Indian servants and through childhood holidays to Mussoorie. The historian Amara Thornton has suggested that Murray's Indian childhood continued to exert an influence over her throughout her life, expressing the view that Murray could be seen as having a hybrid transnational identity that was both British and Indian. During her childhood, Murray never received a formal education, and in later life expressed pride in the fact that she had never had to sit an exam before entering university.In 1870, Margaret and her sister Mary were sent to Britain, there moving in with their uncle John, a vicar, and his wife Harriet at their home in Lambourn, Berkshire. Although John provided them with a strongly Christian education and a belief in the inferiority of women, both of which she would reject, he awakened Murray's interest in archaeology through taking her to see local monuments. In 1873, the girls' mother arrived in Europe and took them with her to Bonn in Germany, where they both became fluent in German. In 1875 they returned to Calcutta, staying there till 1877. They then moved with their parents back to England, where they settled in Sydenham, South London. There, they spent much time visiting The Crystal Palace, while their father worked at his firm's London office. In 1880, they returned to Calcutta, where Margaret remained for the next seven years. She became a nurse at the Calcutta General Hospital, which was run by the Sisters of the Anglican Sisterhood of Clower, and there was involved with the hospital's attempts to deal with a cholera outbreak. In 1887, she returned to England, moving to Rugby, Warwickshire, where her uncle John had moved, now widowed. Here she took up employment as a social worker dealing with local underprivileged people. When her father retired and moved to England, she moved into his house in Bushey Heath, Hertfordshire, living with him until his death in 1891. In 1893 she then travelled to Madras, Tamil Nadu, where her sister had moved to with her new husband.",
+        "qas": [
+            {
+                "question": "What is the first name of the person who had an interest in archaeology?",
+                "id": "5d98f14bb75380ba1586a2f65b8c923f92282ebd",
+                "answers": [
+                    {
+                        "text": "Margaret",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "question": "What were the first names of the two daughters that Margaret had after marrying James?",
+                "id": "978d3c887fae3b05c825a84cd2726bf26bcb4f6f",
+                "answers": [
+                    {
+                        "text": "Margaret",
+                        "answer_start": 0
+                    },
+                    {
+                        "text": "Mary",
+                        "answer_start": 262
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person who lived in Calcutta with her family?",
+                "id": "da4630cdda35e10de72eedc75d04ff90313726f9",
+                "answers": [
+                    {
+                        "text": "Murray",
+                        "answer_start": 869
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person whose father was born in India of English descent?",
+                "id": "2a6093af10b3fa199df4f682b763cb3d2dcccfea",
+                "answers": [
+                    {
+                        "text": "Murray",
+                        "answer_start": 869
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person whose father was a businessman?",
+                "id": "1f2d418b1585cba1fe7e6f3000e18ebbc0996e11",
+                "answers": [
+                    {
+                        "text": "Murray",
+                        "answer_start": 869
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person whose father was manager of the Serampore paper mills?",
+                "id": "3091bdf28bf2034bc18e3e62552b758b4c395b95",
+                "answers": [
+                    {
+                        "text": "Murray",
+                        "answer_start": 869
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person whose father was thrice elected President of the Calcutta Chamber of Commerce?",
+                "id": "5b4df7425edc238e7938689532f1d6db2eba649e",
+                "answers": [
+                    {
+                        "text": "Murray",
+                        "answer_start": 869
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person whose mother had moved to India from Britain in 1857?",
+                "id": "c6654d39c09c54aeab690d33db6686bcf77a46da",
+                "answers": [
+                    {
+                        "text": "Murray",
+                        "answer_start": 869
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person whose mother worked as a missionary?",
+                "id": "b0355f7d1b2df3a0bf8e2545db48b46d773c5b0c",
+                "answers": [
+                    {
+                        "text": "Murray",
+                        "answer_start": 869
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person who married James and gave birth to her two daughters?",
+                "id": "ad54ee47627733ef1e38202bc10e8d2066474d6e",
+                "answers": [
+                    {
+                        "text": "Murray",
+                        "answer_start": 869
+                    }
+                ]
+            },
+            {
+                "question": "What is the full name of the person whose father was a businessman and manager of the Serampore paper mills?",
+                "id": "796581726377680a9dea7f8ffedcfb3c70d4d9f0",
+                "answers": [
+                    {
+                        "text": "Margaret Murray",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "question": "What is the full name of the person whose mother moved to India from Britain in 1857?",
+                "id": "2387974f0bbeb98f6032debc567cc7b5fa96d49c",
+                "answers": [
+                    {
+                        "text": "Margaret Murray",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "question": "What is the full name of the person whose mother worked as a missionary?",
+                "id": "c3670ba7eced9ad551e4ccec33b0519e0748c951",
+                "answers": [
+                    {
+                        "text": "Margaret Murray",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person who never had to sit an exam before entering university?",
+                "id": "270c93ef5bab94481f4f392a16831e583f0de68b",
+                "answers": [
+                    {
+                        "text": "Murray",
+                        "answer_start": 1178
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person who rejected a Christian education?",
+                "id": "eeb3aa4f720f594306eb33d02f8547386aaf0f0c",
+                "answers": [
+                    {
+                        "text": "Murray",
+                        "answer_start": 1178
+                    }
+                ]
+            },
+            {
+                "question": "What is the last name of the person who rejected the belief that women were inferior to men?",
+                "id": "ec112b1475d0dfa4ae23306eeea1c79dba2ed579",
+                "answers": [
+                    {
+                        "text": "Murray",
+                        "answer_start": 1178
+                    }
+                ]
+            },
+            {
+                "question": "What is the first name of the person who took his daughter to see local monuments?",
+                "id": "8031bcb5fd01f0084a3b04300d8168cd5ccf93b3",
+                "answers": [
+                    {
+                        "text": "James",
+                        "answer_start": 213
+                    }
+                ]
+            },
+            {
+                "question": "What is the first name of the person who took Murray to see local monuments?",
+                "id": "94136ea79192a7bd42eaf95f06f361132b546a8b",
+                "answers": [
+                    {
+                        "text": "John",
+                        "answer_start": 1543
+                    }
+                ],
+                "original_id": "5d98f14bb75380ba1586a2f65b8c923f92282ebd"
+            },
+            {
+                "question": "Where did  Margaret and James spend most of their lives?",
+                "id": "69a361f8b47ff12f95c0ae7e9dff5f07ddd8d6f7",
+                "answers": [
+                    {
+                        "text": "Calcutta",
+                        "answer_start": 44
+                    }
+                ],
+                "original_id": "978d3c887fae3b05c825a84cd2726bf26bcb4f6f"
+            },
+            {
+                "question": "What is the last name of the person who lived in Calcutta with Margaret?",
+                "id": "2f35de064706292256ef5a4b0ed2e0c4f2c007cb",
+                "answers": [
+                    {
+                        "text": "Murray",
+                        "answer_start": 9
+                    }
+                ],
+                "original_id": "da4630cdda35e10de72eedc75d04ff90313726f9"
+            },
+            {
+                "question": "What is the first name of the Margaret's father?",
+                "id": "f67a5524821ee83f77d89b0b7614a4ddc4ee2fd8",
+                "answers": [
+                    {
+                        "text": "James",
+                        "answer_start": 213
+                    }
+                ],
+                "original_id": "2a6093af10b3fa199df4f682b763cb3d2dcccfea"
+            },
+            {
+                "question": "What is the first name of the person whose husband was a businessman?",
+                "id": "9959df6dcd6b3438730164c50ebbdf814d9a0622",
+                "answers": [
+                    {
+                        "text": "Margaret",
+                        "answer_start": 0
+                    }
+                ],
+                "original_id": "1f2d418b1585cba1fe7e6f3000e18ebbc0996e11"
+            },
+            {
+                "question": "What is the name of industry Margaret's father was manager of?",
+                "id": "20d952a1a60146a59fbb67c5236e25109b03167a",
+                "answers": [
+                    {
+                        "text": "Serampore paper mills",
+                        "answer_start": 405
+                    }
+                ],
+                "original_id": "3091bdf28bf2034bc18e3e62552b758b4c395b95"
+            },
+            {
+                "question": "What is the full name of the mother of the person whose father was thrice elected President of the Calcutta Chamber of Commerce?",
+                "id": "545a54f615d4883c107850dac15066eed1c17bf0",
+                "answers": [
+                    {
+                        "text": "Margaret Murray",
+                        "answer_start": 0
+                    }
+                ],
+                "original_id": "5b4df7425edc238e7938689532f1d6db2eba649e"
+            },
+            {
+                "question": "What are the first names of the girls whose mother had moved to India from Britain in 1857?",
+                "id": "cd1d87dfc2cf6a2093faf1bcef9f6c6c8e1c0cf2",
+                "answers": [
+                    {
+                        "text": "Mary",
+                        "answer_start": 262
+                    },
+                    {
+                        "text": "Margaret",
+                        "answer_start": 0
+                    }
+                ],
+                "original_id": "c6654d39c09c54aeab690d33db6686bcf77a46da"
+            },
+            {
+                "question": "What was Mary's mother's job in India?",
+                "id": "56fc5d89e28db7e730dc2c38c8334f5d6a620a40",
+                "answers": [
+                    {
+                        "text": "missionary",
+                        "answer_start": 581
+                    }
+                ],
+                "original_id": "b0355f7d1b2df3a0bf8e2545db48b46d773c5b0c"
+            },
+            {
+                "question": "Who became fluent in German?",
+                "id": "fb01ccf17c2430b0641cfa612ed5794b0d5181bc",
+                "answers": [
+                    {
+                        "text": "Margaret",
+                        "answer_start": 0
+                    },
+                    {
+                        "text": "Margaret",
+                        "answer_start": 0
+                    }
+                ],
+                "original_id": "ad54ee47627733ef1e38202bc10e8d2066474d6e"
+            },
+            {
+                "question": "What is the full name of the wife of the person whose father was a businessman and manager of the Serampore paper mills?",
+                "id": "5928c976d444e3c8a8e14e2c7f5c31f2398bcdf1",
+                "answers": [
+                    {
+                        "text": "Margaret Murray",
+                        "answer_start": 0
+                    }
+                ],
+                "original_id": "796581726377680a9dea7f8ffedcfb3c70d4d9f0"
+            },
+            {
+                "question": "Where did Marget Murray live in 1877?",
+                "id": "d9a31e1e6de966fab255f58b1d30bee2158359fb",
+                "answers": [
+                    {
+                        "text": "Calcutta",
+                        "answer_start": 44
+                    }
+                ],
+                "original_id": "2387974f0bbeb98f6032debc567cc7b5fa96d49c"
+            },
+            {
+                "question": "What did Margaret's mother work as in 1880?",
+                "id": "57a25836004f60b11b390c0b2fa8781f2a403b27",
+                "answers": [
+                    {
+                        "text": "nurse",
+                        "answer_start": 2341
+                    }
+                ],
+                "original_id": "c3670ba7eced9ad551e4ccec33b0519e0748c951"
+            },
+            {
+                "question": "Where did Margaret's mother work in 1880?",
+                "id": "77aa4cf6edef4eb750bd9ad0ebc8d553c081855b",
+                "answers": [
+                    {
+                        "text": "Calcutta General Hospital",
+                        "answer_start": 2354
+                    }
+                ],
+                "original_id": "270c93ef5bab94481f4f392a16831e583f0de68b"
+            },
+            {
+                "question": "What is the last name of the person who awakened Murray's interet in archaeology?",
+                "id": "82a3a59ba787926936cf7490c3fb82e89e3f0fbd",
+                "answers": [
+                    {
+                        "text": "John",
+                        "answer_start": 1543
+                    }
+                ],
+                "original_id": "eeb3aa4f720f594306eb33d02f8547386aaf0f0c"
+            },
+            {
+                "question": "What is the first name of the wife of the person who taught Mary that women were inferior to men?",
+                "id": "8fe4add6e4d3a5274fde19f5a920d9b183d78d6b",
+                "answers": [
+                    {
+                        "text": "Harriet",
+                        "answer_start": 1571
+                    }
+                ],
+                "original_id": "ec112b1475d0dfa4ae23306eeea1c79dba2ed579"
+            },
+            {
+                "question": "Where did Mary's father work in 1878?",
+                "id": "e74731cca3b4780d86f4978aaa1caafc096deb97",
+                "answers": [
+                    {
+                        "text": "his firm's London office",
+                        "answer_start": 2216
+                    }
+                ],
+                "original_id": "8031bcb5fd01f0084a3b04300d8168cd5ccf93b3"
+            }
+        ]
+    },
+    {
+        "context": "Fryderyk Chopin was born in \u017belazowa Wola, 46 kilometres (29 miles) west of Warsaw, in what was then the Duchy of Warsaw, a Polish state established by Napoleon. The parish baptismal record gives his birthday as 22 February 1810, and cites his given names in the Latin form Fridericus Franciscus (in Polish, he was Fryderyk Franciszek). However, the composer and his family used the birthdate 1 March, which is now generally accepted as the correct date.\n   Fryderyk's father, Nicolas Chopin, was a Frenchman from Lorraine who had emigrated to Poland in 1787 at the age of sixteen. Nicolas tutored children of the Polish aristocracy, and in 1806 married Tekla Justyna Krzy\u017canowska, a poor relative of the Skarbeks, one of the families for whom he worked. Fryderyk was baptized on Easter Sunday, 23 April 1810, in the same church where his parents had married, in Broch\u00f3w. His eighteen-year-old godfather, for whom he was named, was Fryderyk Skarbek, a pupil of Nicolas Chopin. Fryderyk was the couple's second child and only son; he had an elder sister, Ludwika (1807\u20131855), and two younger sisters, Izabela (1811\u20131881) and Emilia (1812\u20131827). Nicolas was devoted to his adopted homeland, and insisted on the use of the Polish language in the household.In October 1810, six months after Fryderyk's birth, the family moved to Warsaw, where his father acquired a post teaching French at the Warsaw Lyceum, then housed in the Saxon Palace. Fryderyk lived with his family in the Palace grounds.  The father played the flute and violin; the mother played the piano and gave lessons to boys in the boarding house that the Chopins kept.  Chopin was of slight build, and even in early childhood was prone to illnesses.Fryderyk may have had some piano instruction from his mother, but his first professional music tutor, from 1816 to 1821, was the Czech pianist Wojciech \u017bywny. His elder sister Ludwika also took lessons from \u017bywny, and occasionally played duets with her brother. It quickly became apparent that he was a child prodigy. By the age of seven Fryderyk had begun giving public concerts, and in 1817 he composed two polonaises, in G minor and B-flat major.  His next work, a polonaise in A-flat major of 1821, dedicated to \u017bywny, is his earliest surviving musical manuscript.In 1817 the Saxon Palace was requisitioned by Warsaw's Russian governor for military use, and the Warsaw Lyceum was reestablished in the Kazimierz Palace (today the rectorate of Warsaw University). Fryderyk and his family moved to a building, which still survives, adjacent to the Kazimierz Palace. During this period, Fryderyk was sometimes invited to the Belweder Palace as playmate to the son of the ruler of Russian Poland, Grand Duke Constantine Pavlovich of Russia; he played the piano for Constantine Pavlovich and composed a march for him. Julian Ursyn Niemcewicz, in his dramatic eclogue, \"Nasze Przebiegi\" (\"Our Discourses\", 1818), attested to \"little Chopin's\" popularity.",
+        "qas": [
+            {
+                "question": "What was the actual birthdate for Fryderyk Chopin?",
+                "id": "93abf5f0d4bae666a4f60f984ca1ddebec92625d",
+                "answers": [
+                    {
+                        "text": "22 February 1810",
+                        "answer_start": 211
+                    }
+                ]
+            },
+            {
+                "question": "What city was Fryderyk Chopin baptitized?",
+                "id": "0f8c5e38503e4d95ce25a582d252da583057ff4d",
+                "answers": [
+                    {
+                        "text": "Broch\u00f3w",
+                        "answer_start": 863
+                    }
+                ]
+            },
+            {
+                "question": "What was the full name of the person Fryderyk Skarbek was the godfather of?",
+                "id": "c4fe5c8b676af81fbc864b72a7d6a33f7707b589",
+                "answers": [
+                    {
+                        "text": "Fryderyk Chopin",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "question": "What are the full names of the people who got married where Fryderyk Chopin was baptized?",
+                "id": "c92bab17a88114798031c54c091f662df1555812",
+                "answers": [
+                    {
+                        "text": "Nicolas Chopin",
+                        "answer_start": 477
+                    },
+                    {
+                        "text": "Tekla Justyna Krzy\u017canowska",
+                        "answer_start": 654
+                    }
+                ],
+                "original_id": "0f8c5e38503e4d95ce25a582d252da583057ff4d"
+            },
+            {
+                "question": "Which month was Frederyk Skarbek's godchild born?",
+                "id": "26778c51ca0103d2dc075693c314000e7e999929",
+                "answers": [
+                    {
+                        "text": "March",
+                        "answer_start": 395
+                    }
+                ],
+                "original_id": "c4fe5c8b676af81fbc864b72a7d6a33f7707b589"
+            },
+            {
+                "question": "What is the name of the person who was born on 22 February 1810?",
+                "id": "a515bb672117bdea5e19d3170d9cd26b5fc6ad3b",
+                "answers": [
+                    {
+                        "text": "Fryderyk Chopin",
+                        "answer_start": 0
+                    }
+                ],
+                "original_id": "93abf5f0d4bae666a4f60f984ca1ddebec92625d"
+            }
+        ]
+    }
+]

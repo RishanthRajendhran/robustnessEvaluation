@@ -1,0 +1,2045 @@
+[
+    {
+        "passage": "The Burmese now faced the largest Chinese army yet mobilized against them. Yet King Hsinbyushin did not seem to realize the gravity of the situation. Throughout the first two invasions, he had steadfastly refused to recall the main Burmese armies, which had been battling in Laos and Siam since January 1765, and laying siege to the Siamese capital of Ayutthaya since January 1766. Throughout 1767, when the Chinese were mobilizing for their most serious invasion yet, the Burmese were still focused on defeating the Siamese. Even after the Siamese capital was finally captured in April 1767, Hsinbyushin kept part of the troops in Siam during the rainy season months in order to mop up the remaining Siamese resistance during the winter months later that year. He actually allowed many Shan and Laotian battalions to demobilize at the start of the rainy season. As a result, when the invasion did come in November 1767, the Burmese defenses had not been upgraded to meet a much larger and a more determined foe. The Burmese command looked much like that of the second invasion. Hsinbyushin again assigned the same commanders of the second invasion to face off the Chinese. Maha Sithu led the main Burmese army, and was the overall commander of the Chinese theater, with Maha Thiha Thura and Ne Myo Sithu commanding two other Burmese armies. Balamindin again commanded the Kaungton fort.",
+        "qa_pairs": [
+            {
+                "question": "How many commanders were in charge of the Burmese armies?",
+                "original_question": "How many commanders were in charge of the main Burmese army?",
+                "answer": {
+                    "number": "4",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c917db96-7062-4644-bd5a-658a8482945a_1",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "history_1426"
+    },
+    {
+        "passage": "The sea waters along the Malay Peninsula favor molluscan growth, and there are about 280 edible fish species belonging to 75 families. Of those, 232 species  are found in mangroves and 149 species  reside in seagrass; so 101 species are common to both habitats. The sea also hosts many vulnerable fauna species, including dugong , several dolphin species, such as Irrawaddy Dolphin  and certain species of sea turtles: critically endangered leatherback turtle  and hawksbill turtle  and threatened green turtle  and Olive Ridley turtle . There are only about 150 dugongs in the Andaman Sea, scattered between Ranong and Satun Provinces. These species are sensitive to the degradation of seagrass meadows. Coral reefs are estimated to occupy 73,364 rai in the Andaman Sea with only 6.4 percent in ideal condition.",
+        "qa_pairs": [
+            {
+                "question": "how many species are sensitive to degradation of seagrass meadows?",
+                "original_question": "what are the species sensitive to degradation?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "02d64dc1-25a1-4b12-8ceb-d430fdce36c0_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "how many species are exclusively found in magroves?",
+                "original_question": "how many species in magroves are belongs to 75 families?",
+                "answer": {
+                    "number": "131",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3c97ef61-987e-4f96-9afc-2a43bb84e8be_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Where are there less edible fish species found, in mangroves or in seagrass?",
+                "original_question": "Where are there more edible fish species found?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "in seagrass"
+                    ]
+                },
+                "query_id": "675e147f-f66d-4660-92ad-ee3e76b3d4f0_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many species of critically endangered sea turtles are found?",
+                "original_question": "Which sea turtle is critically endangered, hawksbill or leatherback?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "852ec6df-0a9d-433a-a0a0-ccb39a47104d_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many of the edible fish specides are not found in seagrass?",
+                "original_question": "How many of the edible fish specides are not found in mangroves?",
+                "answer": {
+                    "number": "131",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d2b7b18d-6dc0-46f6-bdcb-9d6a360c56f2_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Are there more edible fish species in seagrass or dugongs in the sea?",
+                "original_question": "Are there more edible fish species or dugongs in the sea?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "dugongs"
+                    ]
+                },
+                "query_id": "60618e31-2ca9-4332-94b8-4cd935e11da9_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Are there more dugongs in the sea or edible fish species in seagrass?",
+                "original_question": "Are there more edible fish species or dugongs in the sea?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "dugongs"
+                    ]
+                },
+                "query_id": "60618e31-2ca9-4332-94b8-4cd935e11da9_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "Are there fewer edible fish species in seagrass or dugongs in the sea?",
+                "original_question": "Are there more edible fish species or dugongs in the sea?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "edible fish species"
+                    ]
+                },
+                "query_id": "60618e31-2ca9-4332-94b8-4cd935e11da9_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "Are there fewer dugongs in the sea or edible fish species in seagrass?",
+                "original_question": "Are there more edible fish species or dugongs in the sea?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "edible fish species"
+                    ]
+                },
+                "query_id": "60618e31-2ca9-4332-94b8-4cd935e11da9_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many different fauna species are vulnerable in the sea?",
+                "original_question": "How many of the four species of sea turtles are not considered endangered?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "cf80417b-7f81-4f3c-ac56-a1443ac1cfa1_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "What are the four types of sea turtles?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "leatherback turtle",
+                        "hawksbill turtle",
+                        "green turtle",
+                        "Olive Ridley turtle"
+                    ]
+                },
+                "query_id": "69025aba-0732-4026-b598-1d25e0eeccbd_1",
+                "dataset": "drop",
+                "original_question": "What are the four types of sea turtles?"
+            },
+            {
+                "question": "How many species of turtle are not critically endangered?",
+                "original_question": "What two species of turtle are not endangered?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b388b2e5-f0bb-4826-b1b6-1ff01bce3867_1",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "history_117"
+    },
+    {
+        "passage": "1921 Persian coup d'\u00e9tat, known in Iran as 3 Esfand coup d'\u00e9tat , refers to several major events in Persia  in 1921, which eventually led to the establishment of the Pahlavi dynasty as the ruling house of the country in 1925. The events began with a coup by the Persian Cossack Brigade headed by Reza Khan, and directed by the British, on 21 February 1921. With this coup Zia'eddin Tabatabaee took over power and became Prime Minister. The coup was largely bloodless and faced little resistance. With his expanded forces and the Cossack Brigade, Reza Khan launched successful military actions to eliminate separatist and dissident movements in Tabriz, Mashhad and the Janglis in Gilan. The campaign against Simko and the Kurds was less successful and lasted well into 1922, though eventually concluding with Persian success.",
+        "qa_pairs": [
+            {
+                "question": "Which was conquered by Tabatabaee later, Simko or Tabriz?",
+                "original_question": "Which was conquered by Tabatabaee first, Tabriz or Simko?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Simko"
+                    ]
+                },
+                "query_id": "fbb72b45-a52b-4d3a-83d3-6123c60ed1ed_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which was conquered by Tabatabaee later, Tabriz or Simko?",
+                "original_question": "Which was conquered by Tabatabaee first, Tabriz or Simko?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Simko"
+                    ]
+                },
+                "query_id": "fbb72b45-a52b-4d3a-83d3-6123c60ed1ed_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which was conquered by Tabatabaee earlier, Simko or Tabriz?",
+                "original_question": "Which was conquered by Tabatabaee first, Tabriz or Simko?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Tabriz"
+                    ]
+                },
+                "query_id": "fbb72b45-a52b-4d3a-83d3-6123c60ed1ed_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which was conquered by Tabatabaee earlier, Tabriz or Simko?",
+                "original_question": "Which was conquered by Tabatabaee first, Tabriz or Simko?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Tabriz"
+                    ]
+                },
+                "query_id": "fbb72b45-a52b-4d3a-83d3-6123c60ed1ed_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which was conquered by Tabatabaee first, Simko or Tabriz?",
+                "original_question": "Which was conquered by Tabatabaee first, Tabriz or Simko?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Tabriz"
+                    ]
+                },
+                "query_id": "fbb72b45-a52b-4d3a-83d3-6123c60ed1ed_5",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many years passed between the capture of Mashhad and the successful campaign against Simko and the Kurds?",
+                "original_question": "How many years passed between the coup by the Persian Cossack Brigade and the successful campaign against Simko and the Kurds?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "b3b9afb2-0b38-458a-a567-2b3407159464_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Who did the Persians succeed against in 1922?",
+                "original_question": "When did the Persians succeed?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Simko and the Kurds"
+                    ]
+                },
+                "query_id": "0363592f-9642-4c95-83ef-950ce66959d4_1",
+                "dataset": "drop",
+                "validated_answers": [
+                    {
+                        "number": "",
+                        "date": {
+                            "day": "",
+                            "month": "",
+                            "year": ""
+                        },
+                        "spans": [
+                            "Simko",
+                            "Kurds"
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "How many years did it take for the Pahlavi dynasty to be established as the ruling house of the country?",
+                "original_question": "How many years after the Persian coup d'\u00e9tat was the Pahlavi dynasty established as the ruling house of the country?",
+                "answer": {
+                    "number": "4",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "946c11c7-5733-4c21-8021-4cf6bea61825_1",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "history_43"
+    },
+    {
+        "passage": " Coming off their Thursday night road win over the Browns, the Broncos flew to the Georgia Dome for a Week 11 interconference duel with the Atlanta Falcons.  In the first quarter, Denver drew first blood as rookie FB Peyton Hillis got a 7-yard TD run.  The Falcons answered with former Broncos kicker Jason Elam getting a 46-yard field goal.  In the second quarter, Atlanta took the lead as Elam made a 36-yard field goal, while RB Michael Turner got a 9-yard TD run. This is still Matt Ryan's only loss at the Georgia Dome to date. In the third quarter, Denver regained the lead as Hillis got a 2-yard TD run.  In the fourth quarter, the Broncos increased their lead as kicker Matt Prater nailed a 20-yard field goal.  The Falcons tried to rally as Turner got a 28-yard TD run, yet Denver replied as QB Jay Cutler completed a 9-yard TD pass to TE Daniel Graham. On a side note, rookie FB Spencer Larsen became the first player in franchise history to start on offense and defense.  In addition to his fullback duties, he also started as middle linebacker, along with his special teams responsibilities.",
+        "qa_pairs": [
+            {
+                "question": "How many rookies scored a touchdown?",
+                "original_question": "How many rookies played in the game?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "42fc455f-c9b1-47f3-a057-b40786c7caa7_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many players got TD runs?",
+                "original_question": "Which players got TD runs?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3be36f32-f817-42f8-b739-c058048a9923_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Who kicked the longest field goal of the second half?",
+                "original_question": "Who kicked the longest field goal?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Matt Prater"
+                    ]
+                },
+                "query_id": "fcb336d6-cfed-48c9-a3a8-445165bc8f85_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How long was the longest field goal of the second half?",
+                "original_question": "How long was the longest field goal?",
+                "answer": {
+                    "number": "20",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "4b5d285e-2d98-48f1-9dec-14efab8e0f7d_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Who had the shortest TD run of the fourth quarter?",
+                "original_question": "Who had the shortest TD run?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Turner"
+                    ]
+                },
+                "query_id": "5c9aa943-1695-43eb-95a3-e06ca7212111_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "how many yards did Turner run?",
+                "original_question": "how many yards did peyton run?",
+                "answer": {
+                    "number": "37",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "21077d83-5963-40ef-a612-13879dfdb319_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "how many yards did turner run in the second quarter?",
+                "original_question": "how many yards did turner run?",
+                "answer": {
+                    "number": "9",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0f232aee-20a0-4546-bb86-c62aa01ea90e_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Who scored the first fied goal for the Falcons?",
+                "original_question": "Who scored the first touchdown for the Falcons?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Json Elam"
+                    ]
+                },
+                "query_id": "12d33eca-b9e9-47b9-9849-96b9a4ac713c_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Who caught the only touchdown pass of the game?",
+                "original_question": "Who had the only touchdown pass of the game?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Daniel Graham"
+                    ]
+                },
+                "query_id": "42b6db3a-0ba5-4ae4-ab7e-33f23c8aa91b_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many touchdowns were scored in the second half?",
+                "original_question": "How many touchdowns were scored in the first half?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d6e859aa-a92d-492d-a253-0af0134060e7_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "how many yards did Hillis run in the second half?",
+                "original_question": "how many yards did Hillis run?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d290a6ac-3bd6-4c28-9643-a3c2e81161a1_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "how many yards did elam get in the second quarter?",
+                "original_question": "how many yards did elam get?",
+                "answer": {
+                    "number": "36",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "68356f56-783a-4ec2-92a5-7067bff646de_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which player scored the first touchdown of the second half?",
+                "original_question": "Which player scored the last touchdown of the game?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Hillis"
+                    ]
+                },
+                "query_id": "031aa010-0d44-4413-99d0-17ec66a53be6_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many field goals of under 50 yards were there in the first half?",
+                "original_question": "How many field goals of over 40 yards were there in the game?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "c1114cd6-bbfc-4e1d-86d7-a2a98c7d1560_1",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "nfl_1030"
+    },
+    {
+        "passage": "When the Danes stalled and prolonged the fulfillment of some provisions of the Treaty of Roskilde by postponing payments and not blocking foreign fleets from access to the Baltic Sea, and with half of the 2,000 Danish soldiers that were obliged by Roskilde to enter Swedish service deserting, the Swedish king embarked from Kiel with a force of 10,000 men on 16 August. While everyone expected him to head for Royal Prussia, he disembarked on Zealand on 17 August, and headed for Copenhagen, which was defended by 10,650 Danes and 2,000 Dutch. This time however, the town did not surrender, and a long siege ensued. When Swedish forces took Kronborg in September, they controlled both sides of the \u00d8resund, yet in November a Dutch fleet broke the Swedish naval blockade of Copenhagen in the Battle of the Sound. Meanwhile, the anti-Swedish alliance had deployed an army to Denmark, to confront Charles X Gustav with a force of 14,500 Brandenburgers commanded by Frederick William, 10,600 Austrians commanded by Raimondo Montecuccoli, and 4,500 Poles commanded by Czarniecki. By January 1659, the allied forces stood at Fredriksodde, Kolding and Als. Charles X Gustav then tried a decisive assault on Copenhagen on 21 and 22 February, but was repelled.",
+        "qa_pairs": [
+            {
+                "original_question": "How many soldiers defended Copenhagen?",
+                "question": "How many soldiers did the Swedish king fight in Copenhagen?",
+                "answer": {
+                    "number": "12650",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "41fc018f-5053-4b9d-b5eb-23719a14a550_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many more Danes than Dutch were there to defeat Copenhagen ?",
+                "question": "How many more forces were defending Copenhagen in comparsion to Swedish forces?",
+                "answer": {
+                    "number": "2650",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "fd92c40c-f037-432c-a499-6443b3bd4e5a_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many more Danes than Dutch were there to defeat Copenhagen ?",
+                "question": "Were there more forces defending Copenhagen or Swedish forces?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "forces defending Copenhagen"
+                    ]
+                },
+                "query_id": "fd92c40c-f037-432c-a499-6443b3bd4e5a_2",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many more Danes than Dutch were there to defeat Copenhagen ?",
+                "question": "How many total forces combined were defending Copenhagen and with the Swedish king?",
+                "answer": {
+                    "number": "22650",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "fd92c40c-f037-432c-a499-6443b3bd4e5a_3",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "In Denmark were there more Bradenburgers or Austrians?",
+                "question": "How many combined forces were there in Denmark?",
+                "answer": {
+                    "number": "25100",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "63b3a6c7-28c1-4693-85f8-5952486af572_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "In Denmark were there more Bradenburgers or Austrians?",
+                "question": "How many people commanded the forces in Denmark?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "63b3a6c7-28c1-4693-85f8-5952486af572_2",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "In Denmark were there more Bradenburgers or Austrians?",
+                "question": "Which people commanded the forces in Denmark?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Raimondo Montecuccoli",
+                        "Frederick William",
+                        "Czarniecki"
+                    ]
+                },
+                "query_id": "63b3a6c7-28c1-4693-85f8-5952486af572_3",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many total soldiers were defending Copenhagen?",
+                "question": "How many more soldiers were defending Denmark as compared to Copenhagen?",
+                "answer": {
+                    "number": "6950",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "f65daa2f-e7c2-415f-b869-9e1cd9e6e6bb_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many more Brandenburgers were there than Austrians?",
+                "question": "How many more Brandenburgers and Poles were there combined than Austrians?",
+                "answer": {
+                    "number": "8400",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "5e81b50a-e13b-4e53-a717-955f3568f208_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many more Brandenburgers were there than Austrians?",
+                "question": "How many more Austrians and Poles were there combined than Brandenburgers?",
+                "answer": {
+                    "number": "600",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "5e81b50a-e13b-4e53-a717-955f3568f208_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "Which was attacked first, Copenhagen or Kronborg?",
+                "original_question": "Which was attacked first, Copenhagen or Kronborg?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Denmark"
+                    ]
+                },
+                "query_id": "7ea4c6f3-245f-4495-a065-29db840cf957_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many more Danes were there than Dutch?",
+                "question": "How many less Danes and Dutch soldiers were there combined as compared to Austrians and Poles soldiers?",
+                "answer": {
+                    "number": "2450",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0bf1f09e-4588-4ddc-b715-6dad20394cbf_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many more Danes were there than Dutch?",
+                "question": "How many more were Austrians and Poles combined soldiers as compared to Danes soldiers?",
+                "answer": {
+                    "number": "4450",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0bf1f09e-4588-4ddc-b715-6dad20394cbf_2",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which were there more of, Danes or Dutch?",
+                "question": "Which were there more of, Dutch or Poles?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Poles"
+                    ]
+                },
+                "query_id": "6e807049-801e-4e7b-a856-11c9a6b811cd_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which were there more of, Danes or Dutch?",
+                "question": "Which were there more of, Dutch, Danes or Poles?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Dutch"
+                    ]
+                },
+                "query_id": "6e807049-801e-4e7b-a856-11c9a6b811cd_2",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which were there more soldiers of, Brandenburgers or Austrians?",
+                "question": "Which were there less soldiers of, Danes or Austrians?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Austrians"
+                    ]
+                },
+                "query_id": "d43d9692-cc0d-491c-a640-4bef5f687313_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which were there more soldiers of, Brandenburgers or Austrians?",
+                "question": "Which were there less soldiers of, Danes or Austrians?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Brandenburgers"
+                    ]
+                },
+                "query_id": "d43d9692-cc0d-491c-a640-4bef5f687313_2",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many more Austrians were there than Poles?",
+                "question": "How many more Austrians were there than Poles and Dutch combined?",
+                "answer": {
+                    "number": "4100",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "0e6e9136-9b8b-42da-9e58-29b28cecee76_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which were there less soldiers of, Austrians or Poles?",
+                "question": "Who commanded less soldiers Frederick William, or Raimondo Montecuccoli?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Raimondo Montecuccoli"
+                    ]
+                },
+                "query_id": "c927ac9c-c3a8-4e16-92c1-49a7f074ef1b_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which were there less soldiers of, Austrians or Poles?",
+                "question": "Who commanded more soldiers, Czarniecki or Frederick William?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Frederick William"
+                    ]
+                },
+                "query_id": "c927ac9c-c3a8-4e16-92c1-49a7f074ef1b_2",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which were there less soldiers of, Austrians or Poles?",
+                "question": "Who commanded more soldiers Montecuccoli and Czarniecki or William?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "William"
+                    ]
+                },
+                "query_id": "c927ac9c-c3a8-4e16-92c1-49a7f074ef1b_3",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which were there less soldiers of, Austrians or Poles?",
+                "question": "Who had more soldiers Charles X Gustav or Swedish king?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Charles X Gustav"
+                    ]
+                },
+                "query_id": "c927ac9c-c3a8-4e16-92c1-49a7f074ef1b_4",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "history_1364"
+    },
+    {
+        "passage": "Although fighting in Pontiac's Rebellion began in 1763, rumors reached British officials as early as 1761 that discontented Native Americans were planning an attack. Senecas of the Ohio Country circulated messages in 1761 which called for the tribes to form a confederacy and drive away the British. The Mingos, led by Guyasuta and Tahaiadoris, were concerned about being surrounded by British forts. Similar war belts originated from Detroit and the Illinois Country. The Native Americans were not unified, however, and in June 1761, Native Americans at Detroit informed the British commander of the Seneca plot. After William Johnson held a large council with the tribes at Detroit in September 1762 a tenuous peace was maintained, but war belts continued to circulate. Violence finally erupted after the Native Americans learned in early 1763 of the imminent French cession of the pays d'en haut to the British.",
+        "qa_pairs": [
+            {
+                "question": "How many people led the Mingos tribe?",
+                "original_question": "What tribe was Tahaiadoris part of?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "a48697bf-91e2-4f16-90fd-42601b921ea8_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened later, Pontiac's Rebellion or the call for the tribes to form a confederacy?",
+                "original_question": "What happened flater , 1761 Johnson large council of tribes in Detroit or 1763 French cession pays d' en haut to the British ?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Pontiac's Rebellion"
+                    ]
+                },
+                "query_id": "9d487fbf-6065-43d3-95a5-405a86a2ecd5_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened later, the call for the tribes to form a confederacy or Pontiac's Rebellion?",
+                "original_question": "What happened flater , 1761 Johnson large council of tribes in Detroit or 1763 French cession pays d' en haut to the British ?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Pontiac's Rebellion"
+                    ]
+                },
+                "query_id": "9d487fbf-6065-43d3-95a5-405a86a2ecd5_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened earlier, Pontiac's Rebellion or the call for the tribes to form a confederacy?",
+                "original_question": "What happened flater , 1761 Johnson large council of tribes in Detroit or 1763 French cession pays d' en haut to the British ?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "the call for the tribes to form a confederacy"
+                    ]
+                },
+                "query_id": "9d487fbf-6065-43d3-95a5-405a86a2ecd5_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened earlier, the call for the tribes to form a confederacy or Pontiac's Rebellion?",
+                "original_question": "What happened flater , 1761 Johnson large council of tribes in Detroit or 1763 French cession pays d' en haut to the British ?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "the call for the tribes to form a confederacy"
+                    ]
+                },
+                "query_id": "9d487fbf-6065-43d3-95a5-405a86a2ecd5_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many people led the Mingos?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "048c0fa7-655b-49db-b76b-cdf2b38a7c13_1",
+                "dataset": "drop",
+                "original_question": "How many people led the Mingos?"
+            },
+            {
+                "question": "How many years did the peace last after the council?",
+                "original_question": "How many years before Pontiac's Rebellion began did Native Americans at Detroit inform the British commander of the Seneca plot?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "d47cf290-7f41-4363-bcc3-18f426672d20_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many tribes were hostile to the British?",
+                "original_question": "Which tribes were hostile to the British?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "17be4b02-e61f-42b9-b742-e294e97ca086_1",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "history_1184_1"
+    },
+    {
+        "passage": "In 2008, at another auction at Christies, Ulrich sold a 1982 Basquiat piece, Untitled (Boxer), for US $13,522,500 to an anonymous telephone bidder. Another record price for a Basquiat painting was made in 2007, when an untitled Basquiat work from 1981 sold at Sothebys in New York for US$14.6 million. In 2012, for the second year running, Basquiat was the most coveted contemporary (i.e. born after 1945) artist at auction, with \u20ac80 million in overall sales. That year, his Untitled (1981), a painting of a haloed, black-headed man with a bright red skeletal body, depicted amid the artists signature scrawls, was sold by Robert Lehrman for $16.3 million, well above its $12 million high estimate. A similar untitled piece, also undertaken in 1981 and formerly owned by the Israel Museum, sold for \u00a312.92 million at Christies London, setting a world auction record for Basquiats work. In 2013, Basquiats piece Dustheads sold for $48.8 million at Christies. In 2016 an untitled piece sold at Christies for $57.3 million to a Japanese businessman and collector, Yusaku Maezawa.",
+        "qa_pairs": [
+            {
+                "original_question": "How many more million was the painting of a haloed black-headed man with a bright red skeletal body sell above it's estimated amount?",
+                "question": "How many more million was Basquiat's Untitled (1981) sold above it's estimated amount?",
+                "answer": {
+                    "number": "4300000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "bc37f598-ab56-48c8-848a-aed4d0774b34_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which piece sold for more money, 1982 Basquiat piece, Untitled (Boxer) or an untitled Basquiat work from 1981 sold at Sothebys in New York?",
+                "question": "How many pieces sold for more than $13 million?",
+                "answer": {
+                    "number": "4",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "62e784b1-e8bb-4d3c-a562-740bcc6641fb_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which piece sold for more money, 1982 Basquiat piece, Untitled (Boxer) or an untitled Basquiat work from 1981 sold at Sothebys in New York?",
+                "question": "Which Basquiat piece was sold for the second highest price out of all his works?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Dustheads"
+                    ]
+                },
+                "query_id": "62e784b1-e8bb-4d3c-a562-740bcc6641fb_2",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which piece sold for more money, 1982 Basquiat piece, Untitled (Boxer) or an untitled Basquiat work from 1981 sold at Sothebys in New York?",
+                "question": "For how many more dollars was the latest sold Basquiat work over the earliest sold work?",
+                "answer": {
+                    "number": "42700000",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "62e784b1-e8bb-4d3c-a562-740bcc6641fb_3",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which piece sold for more money, 1982 Basquiat piece, Untitled (Boxer) or an untitled Basquiat work from 1981 sold at Sothebys in New York?",
+                "question": "Which Basquiat piece was sold for the third lowest price out of all his works?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "untitled Basquiat work from 1981"
+                    ]
+                },
+                "query_id": "62e784b1-e8bb-4d3c-a562-740bcc6641fb_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "In which year was a Basquiat sold for a higher amount, 2007 or 2008?",
+                "original_question": "In which year was a Basquiat sold for a higher amount, 2007 or 2008?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Yusaku Maezawa"
+                    ]
+                },
+                "query_id": "4799615a-59e8-42e3-a464-047c86ed0e09_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "In which year was a Basquiat sold for a higher amount, 2007 or 2008?",
+                "original_question": "In which year was a Basquiat sold for a higher amount, 2007 or 2008?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": "2016"
+                    },
+                    "spans": []
+                },
+                "query_id": "4799615a-59e8-42e3-a464-047c86ed0e09_2",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many more dollars was the Basquiat sold in 2007 than in 2008?",
+                "question": "How many more dollars was the Basquiat sold in 2016 than in 2008 and 2007 combined?",
+                "answer": {
+                    "number": "29177500",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "75cd2888-e0a2-4f10-904f-3f922cdaae90_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many more dollars was the Basquiat sold in 2007 than in 2008?",
+                "question": "How many less dollars was the Basquiat sold in 2008 than the most expensive Basquiat?",
+                "answer": {
+                    "number": "43777500",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "75cd2888-e0a2-4f10-904f-3f922cdaae90_2",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which painting was sold in 2008, one from the year 1982 or 1981?",
+                "question": "For how many dollars wre Basquiat work in 1981 and 1982 sold for combined?",
+                "answer": {
+                    "number": "28122500",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "16a9132c-49f7-4028-ac46-39ae55f90d53_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "Which year had a higher selling price for a Basquiat, 2013 or 2016?",
+                "question": "Which year had a lowest selling price for a Basquiat, 2013, 2008 or 2016?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": "2008"
+                    },
+                    "spans": []
+                },
+                "query_id": "1a4c9d52-e86d-4c41-9e69-5f64326c1eed_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many Basquiats were sold at Christies?",
+                "question": "How many more Basquiats were sold at Christies over Sothebys?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "43301279-47f4-4970-a63f-3404d1b7543e_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many Basquiats were sold at Christies?",
+                "question": "Which place sold more Basquiats Christies or Sothebys?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Christies"
+                    ]
+                },
+                "query_id": "43301279-47f4-4970-a63f-3404d1b7543e_2",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many Basquiats were sold from 2007 to 2016?",
+                "question": "How many Basquiats were sold from 2009 to 2016?",
+                "answer": {
+                    "number": "4",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "054e644a-a652-49c3-9b61-e786618fd24b_1",
+                "dataset": "drop"
+            },
+            {
+                "original_question": "How many 1980s Basquiat paintings were sold from the year 2007 to 2016?",
+                "question": "How many 1980s Basquiat paintings were sold from the year 2007 to 2010?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "bd1bf1a1-7df5-433e-81ab-348d95889a3a_1",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "history_2010"
+    },
+    {
+        "passage": "Urged by influential Jesuit priests who had come to Brazil with Mem de S\u00e1, named Jos\u00e9 de Anchieta and Manuel da N\u00f3brega, and who had played a big role in pacifying the Tamoios, Mem de S\u00e1 ordered his nephew, Est\u00e1cio de S\u00e1 to assemble a new attack force. Est\u00e1cio de S\u00e1 founded the city of Rio de Janeiro on March 1, 1565, and fought the Frenchmen for two more years. Helped by a military reinforcement sent by his uncle, on January 20, 1567, he imposed final defeat on the French forces and decisively expelled them from Brazil, but died a month later from wounds inflicted in the battle. Coligny's and Villegaignon's dream had lasted a mere 12 years. Largely in response to the two attempts of France to conquer territory in Brazil , between 1612 and 1615, the Portuguese crown decided to expand its colonization efforts in Brazil. Prior to this in 1560, Mem de S\u00e1, the new Governor-General of Brazil, received from the Portuguese government the command to expel the French. With a fleet of 26 warships and 2,000 soldiers, on 15 March 1560, he attacked and destroyed Fort Coligny within three days, but was unable to drive off their inhabitants and defenders, because they escaped to the mainland with the help of the Native Brazilians, where they continued to live and to work. Admiral Villegaignon had returned to France in 1558, disgusted with the religious tension that existed between French Protestants and Catholics, who had come also with the second group.",
+        "qa_pairs": [
+            {
+                "question": "How many priests influenced Mem de Sa?",
+                "original_question": "How many men did Mem de Sa have?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "3d8155d6-a740-47c6-8835-7c89c708fdb4_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "What was the point in time when the Portuguese crown decided to end his colonization efforts in Brazil?",
+                "original_question": "What was the former point in time did the Portuguese crown decide to expand its colonization efforts in Brazil?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": "1615"
+                    },
+                    "spans": []
+                },
+                "query_id": "0d7b1b72-55d4-4071-9220-80b35d25effa_1",
+                "dataset": "drop",
+                "validated_answers": [
+                    {
+                        "number": "1615",
+                        "date": {
+                            "day": "",
+                            "month": "",
+                            "year": ""
+                        },
+                        "spans": []
+                    }
+                ]
+            },
+            {
+                "question": "How many years did Est\u00e1cio de S\u00e1's attack last?",
+                "original_question": "How many years did France's two attempts to conquer territory in Brazil last?",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "994a37b1-9ad2-44ed-ab0d-3c6770134e85_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many years have passed from the time Mem de S\u00e1 received the command to expel the French until his nephew finished his attack on the French?",
+                "original_question": "How many years have passed from the time the new Governor-General of Brazil received the command to expel the French until the founding of Rio De Janeiro?",
+                "answer": {
+                    "number": "7",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "332b096b-18ea-4441-93d5-516f4a9a342a_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Did Mem de S\u00e1 command more warships or soldiers on 15 March 1560?",
+                "original_question": "How many soldiers and warships did Mem de S\u00e1 command on 15 March 1560?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "soldiers"
+                    ]
+                },
+                "query_id": "d7ffdf0d-bf9a-4404-9b1e-aeb2ad495bff_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "Did Mem de S\u00e1 command more soldiers or warships on 15 March 1560?",
+                "original_question": "How many soldiers and warships did Mem de S\u00e1 command on 15 March 1560?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "soldiers"
+                    ]
+                },
+                "query_id": "d7ffdf0d-bf9a-4404-9b1e-aeb2ad495bff_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "Did Mem de S\u00e1 command less soldiers or warships on 15 March 1560?",
+                "original_question": "How many soldiers and warships did Mem de S\u00e1 command on 15 March 1560?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "warships"
+                    ]
+                },
+                "query_id": "d7ffdf0d-bf9a-4404-9b1e-aeb2ad495bff_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "Did Mem de S\u00e1 command less warships or soldiers on 15 March 1560?",
+                "original_question": "How many soldiers and warships did Mem de S\u00e1 command on 15 March 1560?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "warships"
+                    ]
+                },
+                "query_id": "d7ffdf0d-bf9a-4404-9b1e-aeb2ad495bff_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened first: did Est\u00e1cio de S\u00e1 establish the city of Rio de Janeiro or did Mem de S\u00e1 attack the French?",
+                "original_question": "What happened first: city of Rio de Janeiro or expelled them from Brazil?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Mem de S\u00e1 attack the French"
+                    ]
+                },
+                "query_id": "07ade268-f960-4fe6-9b2c-265219eecc37_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened first: Mem de S\u00e1 attacked the French or Est\u00e1cio de S\u00e1 established the city of Rio de Janeiro?",
+                "original_question": "What happened first: city of Rio de Janeiro or expelled them from Brazil?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Mem de S\u00e1 attack the French"
+                    ]
+                },
+                "query_id": "07ade268-f960-4fe6-9b2c-265219eecc37_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened second: Mem de S\u00e1 attacked the French or Est\u00e1cio de S\u00e1 established the city of Rio de Janeiro?",
+                "original_question": "What happened first: city of Rio de Janeiro or expelled them from Brazil?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Est\u00e1cio de S\u00e1 established the city of Rio de Janeiro"
+                    ]
+                },
+                "query_id": "07ade268-f960-4fe6-9b2c-265219eecc37_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened second: Est\u00e1cio de S\u00e1 established the city of Rio de Janeiro or Mem de S\u00e1 attackeded the French?",
+                "original_question": "What happened first: city of Rio de Janeiro or expelled them from Brazil?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Est\u00e1cio de S\u00e1 established the city of Rio de Janeiro"
+                    ]
+                },
+                "query_id": "07ade268-f960-4fe6-9b2c-265219eecc37_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened second: Est\u00e1cio de S\u00e1 defeated the French or did his uncle attack Fort Coligny?",
+                "original_question": "What happened second: city of Rio de Janeiro or expelled them from Brazil?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Est\u00e1cio de S\u00e1 defeated the French"
+                    ]
+                },
+                "query_id": "0a63c9af-78dc-4a03-86cf-759ba2226d1e_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened second: Est\u00e1cio de S\u00e1's uncle attack Fort Coligny or Est\u00e1cio de S\u00e1 defeated the French?",
+                "original_question": "What happened second: city of Rio de Janeiro or expelled them from Brazil?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Est\u00e1cio de S\u00e1 defeated the French"
+                    ]
+                },
+                "query_id": "0a63c9af-78dc-4a03-86cf-759ba2226d1e_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened first: Est\u00e1cio de S\u00e1's uncle attack Fort Coligny or Est\u00e1cio de S\u00e1 defeated the French?",
+                "original_question": "What happened second: city of Rio de Janeiro or expelled them from Brazil?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Est\u00e1cio de S\u00e1's uncle attack Fort Coligny"
+                    ]
+                },
+                "query_id": "0a63c9af-78dc-4a03-86cf-759ba2226d1e_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened first: Est\u00e1cio de S\u00e1 defeated the French or Est\u00e1cio de S\u00e1's uncle attack Fort Coligny?",
+                "original_question": "What happened second: city of Rio de Janeiro or expelled them from Brazil?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Est\u00e1cio de S\u00e1's uncle attack Fort Coligny"
+                    ]
+                },
+                "query_id": "0a63c9af-78dc-4a03-86cf-759ba2226d1e_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened first, the attack on Fort Coligny, or the return of Admiral Villegaignon to France?",
+                "original_question": "What occurred later, the attack on Fort Coligny, or the return of Admiral Villegaignon to France?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "return of Admiral Villegaignon to France"
+                    ]
+                },
+                "query_id": "5857ca62-efc7-4dd8-ac8b-94d29ad3db1f_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened first, the return of Admiral Villegaignon to France, or the attack on Fort Coligny?",
+                "original_question": "What occurred later, the attack on Fort Coligny, or the return of Admiral Villegaignon to France?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "return of Admiral Villegaignon to France"
+                    ]
+                },
+                "query_id": "5857ca62-efc7-4dd8-ac8b-94d29ad3db1f_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened later, the return of Admiral Villegaignon to France, or the attack on Fort Coligny?",
+                "original_question": "What occurred later, the attack on Fort Coligny, or the return of Admiral Villegaignon to France?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "attack on Fort Coligny"
+                    ]
+                },
+                "query_id": "5857ca62-efc7-4dd8-ac8b-94d29ad3db1f_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened later, the attack on Fort Coligny or the return of Admiral Villegaignon to France?",
+                "original_question": "What occurred later, the attack on Fort Coligny, or the return of Admiral Villegaignon to France?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "attack on Fort Coligny"
+                    ]
+                },
+                "query_id": "5857ca62-efc7-4dd8-ac8b-94d29ad3db1f_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many years after Admiral Villegaignon returned to France did Est\u00e1cio de S\u00e1 attack the French?",
+                "original_question": "How many years after Admiral Villegaignon returned to France did Mem de S\u00e1 attack Fort Coligny?",
+                "answer": {
+                    "number": "7",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "5d242c5b-9401-45f1-bf5b-4bcaf9e17fc6_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened first, Rio de Janeiro was founded or Mem de S\u00e1 became the Governor-General of Brazil",
+                "original_question": "how many year's after Mem de S\u00e1 became the Governor-General of Brazil was Rio de Janeiro founded?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Rio de Janeiro was founded"
+                    ]
+                },
+                "query_id": "6b5e6962-5ba0-4b04-9b81-875388c6918a_1",
+                "dataset": "drop",
+                "validated_answers": [
+                    {
+                        "number": "5",
+                        "date": {
+                            "day": "",
+                            "month": "",
+                            "year": ""
+                        },
+                        "spans": [
+                            "founded the city of Rio de Janeiro"
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "What happened first, Mem de S\u00e1 became the Governor-General of Brazil or Rio de Janeiro was founded",
+                "original_question": "how many year's after Mem de S\u00e1 became the Governor-General of Brazil was Rio de Janeiro founded?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Rio de Janeiro was founded"
+                    ]
+                },
+                "query_id": "6b5e6962-5ba0-4b04-9b81-875388c6918a_2",
+                "dataset": "drop",
+                "validated_answers": [
+                    {
+                        "number": "5",
+                        "date": {
+                            "day": "",
+                            "month": "",
+                            "year": ""
+                        },
+                        "spans": [
+                            "founded the city of Rio de Janeiro"
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "What happened later, Rio de Janeiro was founded or Mem de S\u00e1 became the Governor-General of Brazil",
+                "original_question": "how many year's after Mem de S\u00e1 became the Governor-General of Brazil was Rio de Janeiro founded?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Mem de S\u00e1 became the Governor-General of Brazil"
+                    ]
+                },
+                "query_id": "6b5e6962-5ba0-4b04-9b81-875388c6918a_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened later, Mem de S\u00e1 became the Governor-General of Brazil or Rio de Janeiro was founded",
+                "original_question": "how many year's after Mem de S\u00e1 became the Governor-General of Brazil was Rio de Janeiro founded?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Mem de S\u00e1 became the Governor-General of Brazil"
+                    ]
+                },
+                "query_id": "6b5e6962-5ba0-4b04-9b81-875388c6918a_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened later, the French attempted to capture territory in Brazil or did Mem de S\u00e1 attacked the French?",
+                "original_question": "How many years passed between the founding of Rio de Janeiro and the expelling of French forces from Brazil?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "attempts of France to conquer territory in Brazil"
+                    ]
+                },
+                "query_id": "468ddd68-2d92-4f46-9f6c-fa848bd0d720_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened later, Mem de S\u00e1 attacked the French or the French attempted to capture territory in Brazil?",
+                "original_question": "How many years passed between the founding of Rio de Janeiro and the expelling of French forces from Brazil?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "attempts of France to conquer territory in Brazil"
+                    ]
+                },
+                "query_id": "468ddd68-2d92-4f46-9f6c-fa848bd0d720_2",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened earlier, the French attempted to capture territory in Brazil or did Mem de S\u00e1 attacked the French?",
+                "original_question": "How many years passed between the founding of Rio de Janeiro and the expelling of French forces from Brazil?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Mem de S\u00e1 attacked the French"
+                    ]
+                },
+                "query_id": "468ddd68-2d92-4f46-9f6c-fa848bd0d720_3",
+                "dataset": "drop"
+            },
+            {
+                "question": "What happened earlier, Mem de S\u00e1 attacked the French or the French attempted to capture territory in Brazil?",
+                "original_question": "How many years passed between the founding of Rio de Janeiro and the expelling of French forces from Brazil?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Mem de S\u00e1 attacked the French"
+                    ]
+                },
+                "query_id": "468ddd68-2d92-4f46-9f6c-fa848bd0d720_4",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many years after Est\u00e1cio de S\u00e1 found the city of Rio de Janeiro did the French end their attempts to conquer Brazil?",
+                "original_question": "How many years after Mem de S\u00e1 became the new Governor-General of Brazil did Est\u00e1cio de S\u00e1 find the city of Rio de Janeiro?",
+                "answer": {
+                    "number": "50",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "97a8573d-c372-47d5-b47a-65d86787a92b_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "What year was the attack from Mem de S\u00e1 over?",
+                "original_question": "What date was the attack of Fort Coligny over?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": "1560"
+                    },
+                    "spans": []
+                },
+                "query_id": "0964a66d-bae2-4ed7-ac4d-be6ff02a2ea4_1",
+                "dataset": "drop",
+                "validated_answers": [
+                    {
+                        "number": "1560",
+                        "date": {
+                            "day": "",
+                            "month": "",
+                            "year": ""
+                        },
+                        "spans": []
+                    }
+                ]
+            },
+            {
+                "question": "How many years before Est\u00e1cio de S\u00e1 founded the city of Rio de Janeiro did his uncle attack the French?",
+                "original_question": "How many years after Est\u00e1cio de S\u00e1 founded the city of Rio de Janeiro did he die?",
+                "answer": {
+                    "number": "5",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "987459ce-14d3-4bbe-8b94-1a1be24a14e2_1",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "history_588_1"
+    },
+    {
+        "passage": " Coming off yet another close win, this time over the Falcons, the Saints went home for a Week 15 Saturday night duel with the Dallas Cowboys. In the first quarter, Dallas would get off to a fast start with quarterback Tony Romo completing a 49-yard TD pass to wide receiver Miles Austin. The Cowboys then increased their lead later in the quarter with a 3-yard TD run by running back Marion Barber. In the second quarter, the Saints would score their only points of the half with kicker Garrett Hartley nailing a 34-yard field goal. However, the Cowboys took a 17-3 lead at halftime with kicker Nick Folk's 44-yard field goal. In the third quarter, Dallas scored the period's only points when running back Marion Barber got a 2-yard TD run. An exciting fourth quarter ensued. New Orleans got the first score of the period when running back Mike Bell scored a one yard TD run to make a 24-10 Dallas lead. Following a Dallas three-and-out, New Orleans made it a one touchdown game when quarterback Drew Brees hit wide receiver Lance Moore for a 7-yard TD pass. Dallas then marched down the field to the Saints' eight-yard line, but then kicker Nick Folk's game-icing 23-yard field goal hit the mark. However, unlike in such games against Washington and Atlanta, quarterback Drew Brees was sacked with 10 seconds left in the contest at the Dallas 48-yard line, forcing a fumble for the second time in the game by Dallas' DeMarcus Ware, which was then recovered by nose tackle Jay Ratliff. The Cowboys then took a knee to end the game. With the loss, the Saints fell to 13-1, ending their chance at a perfect season. Also with the Colts' win, the Saints held the 2nd best overall record of any team.",
+        "qa_pairs": [
+            {
+                "question": "Which player had the longest touchdown catch of the fourth quarter?",
+                "original_question": "Which player had the longest touchdown catch?",
+                "answer": {
+                    "number": "",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": [
+                        "Lance Moore"
+                    ]
+                },
+                "query_id": "35fb7dcd-1f9f-4e06-87f4-a055520b1336_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many yards difference were there between Garret Hartley's field goal and Nick Folk's fourth quarter field goal?",
+                "original_question": "How many yards difference were there between Nick Folk's longest field goal and Garret Hartley's?",
+                "answer": {
+                    "number": "11",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "475e2aec-e282-4637-a3ea-644dfaaa982a_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many yards in total were accumulated on rushing touchdowns in the second half?",
+                "original_question": "How many yards in total were accumulated on rushing touchdowns?",
+                "answer": {
+                    "number": "3",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "ecc17405-cba0-4e0c-b54c-17db41e3e6e5_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "How many rushing touchdowns total were scored in the first half?",
+                "original_question": "How many rushing touchdowns total were scored in the game?",
+                "answer": {
+                    "number": "1",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "1055096c-8c55-4116-8060-d9b25c094c57_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "how many yards were scored in field goals in the first half?",
+                "original_question": "how many yards did the cowboys get in the first?",
+                "answer": {
+                    "number": "78",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8c57bf4d-5fb2-4855-be88-316903ec8d89_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "how many yards did Folk nail in the fourth quarter?",
+                "original_question": "how many yards did hartley nail?",
+                "answer": {
+                    "number": "23",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "43c6a128-c4b5-4525-9ba5-f8bd73b843ec_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "how many yards did folk kick in the second half?",
+                "original_question": "how many yards did folk kick?",
+                "answer": {
+                    "number": "23",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "8cd1bfdb-837b-40f6-9aad-3ea84edb1fd7_1",
+                "dataset": "drop"
+            },
+            {
+                "question": "how many yards did barber run in the second half?",
+                "original_question": "how many yards did barber run/",
+                "answer": {
+                    "number": "2",
+                    "date": {
+                        "day": "",
+                        "month": "",
+                        "year": ""
+                    },
+                    "spans": []
+                },
+                "query_id": "40147614-bbe0-49c7-8300-09184a4cfe3f_1",
+                "dataset": "drop"
+            }
+        ],
+        "passageID": "nfl_1545_1"
+    }
+]
