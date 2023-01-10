@@ -1,0 +1,137 @@
+[
+    {
+        "background": "Habitat destruction has played a key role in extinctions, especially in relation to tropical forest destruction. Factors contributing to habitat loss include: overconsumption, overpopulation, land use change, deforestation, pollution (air pollution, water pollution, soil contamination) and global warming or climate change.Habitat size and numbers of species are systematically related. Physically larger species and those living at lower latitudes or in forests or oceans are more sensitive to reduction in habitat area. Conversion to \"trivial\" standardized ecosystems (e.g., monoculture following deforestation) effectively destroys habitat for the more diverse species that preceded the conversion. Even the simplest forms of agriculture affect diversity \u2013 through clearing/draining land, discouraging weeds and \"pests\", and encouraging just a limited set of domesticated plant and animal species. In some countries lack of property rights or lax law/regulatory enforcement necessarily leads to biodiversity loss (degradation costs having to be supported by the community).A 2007 study conducted by the National Science Foundation found that biodiversity and genetic diversity are codependent\u2014that diversity among species requires diversity within a species and vice versa. \"If any one type is removed from the system, the cycle can break down and the community becomes dominated by a single species.\"",
+        "situation": "Two continents had different histories. Asia was inhabited by many humans which destroyed most natural habitats through their activities. America was protective towards its environment and therefore thrived.",
+        "qas": [
+            {
+                "question": "In which country one would more likely see overpopulation, Indonesia or Papua New Guinea?",
+                "id": "2079882704",
+                "answers": [
+                    {
+                        "text": "Indonesia"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Most ants are generalist predators, scavengers, and indirect herbivores, but a few have evolved specialised ways of obtaining nutrition. It is believed that many ant species that engage in indirect herbivory rely on specialized symbiosis with their gut microbes to upgrade the nutritional value of the food they collect and allow them to survive in nitrogen poor regions, such as rainforest canopies. Leafcutter ants (Atta and Acromyrmex) feed exclusively on a fungus that grows only within their colonies. They continually collect leaves which are taken to the colony, cut into tiny pieces and placed in fungal gardens. Ergates specialise in related tasks according to their sizes. The largest ants cut stalks, smaller workers chew the leaves and the smallest tend the fungus. Leafcutter ants are sensitive enough to recognise the reaction of the fungus to different plant material, apparently detecting chemical signals from the fungus. If a particular type of leaf is found to be toxic to the fungus, the colony will no longer collect it. The ants feed on structures produced by the fungi called gongylidia. Symbiotic bacteria on the exterior surface of the ants produce antibiotics that kill bacteria introduced into the nest that may harm the fungi.",
+        "situation": "Bill and Chris are passionate entomologists. Bill knows everything there is to know about most ants except the Leafcutter ants. Chris studied Leafcutter ants extensively and exclusively for years now. They are good friends and exchange ideas often over a pint of beer.",
+        "qas": [
+            {
+                "question": "Which person read less about scavenger ants?",
+                "id": "907484487",
+                "answers": [
+                    {
+                        "text": "Dee"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "During sexual reproduction, mating with a close relative (inbreeding) often leads to inbreeding depression. Inbreeding depression is considered to be largely due to expression of deleterious recessive mutations. The effects of inbreeding have been studied in many vertebrate species.",
+        "situation": "Keith is a zoologist. He studies large predators. Last year, he was studying different species of lions. First, he visited the Gir forest in India. There he found the Asiatic Lions. Unfortunately, only few Asiatic Lions are left in the wild, and they have to mate with their close relatives. He then visited the Serengeti reserve in Tanzania. There he found that the African Lions were not forced to mate with close relatives due to their large number.",
+        "qas": [
+            {
+                "question": "Which place would see more inbreeding depression, Gir or Serengeti?",
+                "id": "2461344896",
+                "answers": [
+                    {
+                        "text": "Gir"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Solar radiation (or sunlight) is the energy Earth receives from the Sun. Earth also emits radiation back into space, but at longer wavelengths that we cannot see. Part of the incoming and emitted radiation is absorbed or reflected by the atmosphere. In May 2017, glints of light, seen as twinkling from an orbiting satellite a million miles away, were found to be reflected light from ice crystals in the atmosphere.",
+        "situation": "Mark was studying the effect of Sun's radiations on Earth. To that end, he studied Sun's radiations, which he labeled as rad A. Then he studied Earth's radiations, which he labeled as rad B. He also learned that longer wavelength radiations would produce heat.\n",
+        "qas": [
+            {
+                "question": "Which radiation have shorter wavelengths, rad A or rad B?",
+                "id": "1534723742",
+                "answers": [
+                    {
+                        "text": "rad A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "A godet (/\u0261o\u028a\u02c8de\u026a/ or /\u0261o\u028a\u02c8d\u025bt/)[1] is an extra piece of fabric in the shape of a circular sector which is set into a garment, usually a dress or skirt.[2] The addition of a godet causes the article of clothing in question to flare, thus adding width and volume.[3] Adding a godet to a piece of clothing also gives the wearer a wider range of motion.[4]",
+        "situation": "Dan is a dance instructor. In an upcoming dance competition he has to send two groups of students, group A and group B. He dressed group A students with godet. But he didn't dress group B students with godet. There are two categories of dance, category C and category D, in the dance competition. Category C requires lots of motion, but category D does not required much motion. Dan has to decide which of his student groups would compete in category C and which group to compete in category D. ",
+        "qas": [
+            {
+                "question": "Would groups A's clothing be more voluminous or less voluminous than group B's clothing?",
+                "id": "3911538049",
+                "answers": [
+                    {
+                        "text": "more voluminous"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Freezing is a common method of food preservation that slows both food decay and the growth of micro-organisms. Besides the effect of lower temperatures on reaction rates, freezing makes water less available for bacterial growth.\n\n",
+        "situation": "Robert, a baker, has just baked a large batch of cupcakes for his store. He won't be able to sell all of his cupcakes within the next week, so he has decided to store a portion of them in the freezer to preserve them for later. He is trying to decide if he should store the cupcakes at 0\u00b0 F or at 10\u00b0 F in the freezer.",
+        "qas": [
+            {
+                "question": "At which temperature will less water be available on the cupcakes for bacterial growth?",
+                "id": "4042253720",
+                "answers": [
+                    {
+                        "text": "0\u00b0 F"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "From the data he collected and documented, Aristotle inferred quite a number of rules relating the life-history features of the live-bearing tetrapods (terrestrial placental mammals) that he studied. Among these correct predictions are the following. Brood size decreases with (adult) body mass, so that an elephant has fewer young (usually just one) per brood than a mouse. Lifespan increases with gestation period, and also with body mass, so that elephants live longer than mice, have a longer period of gestation, and are heavier. As a final example, fecundity decreases with lifespan, so long-lived kinds like elephants have fewer young in total than short-lived kinds like mice.",
+        "situation": "Albert is a scientist who travels the planet looking for new species to discover and analyze. While on a safari in Australia, Albert discovered two new species of live-bearing tetrapods. In the first species, species A, the adult individuals had high body mass on average. In the second species, species B, the adult individuals had low body mass on average.",
+        "qas": [
+            {
+                "question": "Would tetB have larger or smaller brood size than tetA?",
+                "id": "3494933283",
+                "answers": [
+                    {
+                        "text": "larger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Population growth, especially in developing countries, should make people think about how fast they are consuming resources. Governments around the world should seriously consider these issues. Developing nations will also increase demands on natural resources as they build more factories ( Figure below ). Improvements in technology, conservation of resources, and controls in population growth could all help to decrease the demand on natural resources.",
+        "situation": "A new country called Zandonia has recently found itself in a crisis. They are consuming far to many natural resources. A recent study concluded that the amount of resources being consumed greatly increased over the past 3 years. This find coincides with a population boom in the region. Before the population boom the demand for natural recources was relatively stable.",
+        "qas": [
+            {
+                "question": "Will Zandonia's population becoming even greater cause the demand for natural resources to increase or decrease?",
+                "id": "1213619252",
+                "answers": [
+                    {
+                        "text": "decrease"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The Fink effect, also known as \"diffusion anoxia\",[1] \"diffusion hypoxia\",[2] or the \"third gas effect\",[3] is a factor that influences the pO2 (partial pressure of oxygen) within the alveolus. When water-insoluble gases such as anesthetic agent N2O (nitrous oxide) are breathed in large quantities they can be dissolved in body fluids rapidly. This leads to a temporary increase in both the concentrations and partial pressures of oxygen and carbon dioxide in the alveolus.",
+        "situation": "An accident occurred in a local chemical factory. Consequently, large amount of various gases been released to the atmosphere. Local hospital is evaluating all the patients who have been affected by this accident. John, a doctor at the hospital, is seeing two patients, patient A and patient B. He concluded that patient A was having Fink effect. But he didn't see any sign of Fink effect in patient B.",
+        "qas": [
+            {
+                "question": "Which patient would have breathed normal quantities of water-insoluble gases, patien A or patient B?",
+                "id": "2565365582",
+                "answers": [
+                    {
+                        "text": "patient B"
+                    }
+                ]
+            }
+        ]
+    }
+]

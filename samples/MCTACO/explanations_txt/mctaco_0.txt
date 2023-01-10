@@ -1,0 +1,348 @@
+PassageID: 0
+Passage: Moreover, he said, technology now exists for stealing corporate secrets after they've been "erased" from a computer's memory. What happens after a hacker fails to steal the corporate secrets?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: the hacker returns the data?
+Answer: no
+Explanation: Since the hacker failed, he has no data to return. Also, hackers do not usually return stolen data.
+
+QuestionID: 1
+Question: Is this the answer: they are sold off the black market?
+Answer: no
+Explanation: Since the hacker failed, he has no data to sell in the black market.
+
+QuestionID: 2
+Question: Is this the answer: tries another time ?
+Answer: yes
+Explanation: Since the hacker failed, he would try to hack another time.
+
+QuestionID: 3
+Question: Is this the answer: the hacker returns the data?
+Answer: no
+Explanation: Since the hacker failed, he has no data to return. Also, hackers do not usually return stolen data.
+
+QuestionID: 4
+Question: Is this the answer: the hacker sells the documents?
+Answer: no
+Explanation: Since the hacker failed, he has no documents to sell.
+
+QuestionID: 5
+Question: Is this the answer: the hacker returned the data?
+Answer: no
+Explanation: Since the hacker failed, he has no data to return. Also, hackers do not usually return stolen data.
+
+QuestionID: 6
+Question: Is this the answer: stops being a hacker ?
+Answer: no
+Explanation: There is no reason why the hacker should stop being one just because he failed once.
+
+--------------------------------------------------
+PassageID: 1
+Passage: Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps even though he turned out to be innocent. What will happen next?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: the FBI lose interest in the case ?
+Answer: yes
+Explanation: Since he turned out to be innocent, FBI will likely lose interest in the case.
+
+QuestionID: 1
+Question: Is this the answer: nothing?
+Answer: no
+Explanation: Ressam turning out to be innocent is bound to affect a case that was about proving him guilty.
+
+--------------------------------------------------
+PassageID: 2
+Passage: The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through the donation platform in very small amounts each time. How often did al Qaeda receive donations prior to 9/11?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 5 hours a day?
+Answer: no
+Explanation: Since only small donations were accepted each time, they would not have collected $30 million every year if they took donations only five times a day.
+
+QuestionID: 1
+Question: Is this the answer: once each month?
+Answer: no
+Explanation: Since only small donations were accepted each time, they would not have collected $30 million every year if they took donations only once in a month.
+
+QuestionID: 2
+Question: Is this the answer: 25 times a day?
+Answer: yes
+Explanation: Since only small donations were accepted each time, they would have had to collect multiple times a day to earn $30 million every year
+
+QuestionID: 3
+Question: Is this the answer: once a year?
+Answer: no
+Explanation: Since only small donations were accepted each time, they would not have collected $30 million every year if they took donations only once in a year.
+
+QuestionID: 4
+Question: Is this the answer: every century?
+Answer: no
+Explanation: Since only small donations were accepted each time, they would not have collected $30 million every year if they took donations only once in a century.
+
+--------------------------------------------------
+PassageID: 3
+Passage: Despite his quick climb up the legal ladder, Bailey has always found time to help people by answering their questions online. How often does he help people?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: several times a day?
+Answer: yes
+Explanation: Bailey is known to always make time to answer questions online.
+
+QuestionID: 1
+Question: Is this the answer: multiple times in an hour?
+Answer: no
+Explanation: Since Bailey is a successful lawyer, it would not practically feasible for him to answer questions multiple times in an hour.
+
+QuestionID: 2
+Question: Is this the answer: weekly?
+Answer: yes
+Explanation: Bailey is known to always make time to answer questions online.
+
+QuestionID: 3
+Question: Is this the answer: several times in an hour?
+Answer: no
+Explanation: Since Bailey is a successful lawyer, it would not practically feasible for him to answer questions multiple times in an hour.
+
+--------------------------------------------------
+PassageID: 4
+Passage: JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: died in prison?
+Answer: no
+Explanation: If he was dead before his political career, there would be no political career to speak of.
+
+QuestionID: 1
+Question: Is this the answer: worked as a well-known attorney?
+Answer: no
+Explanation: It is not unusual for attorneys to enter politics.
+
+QuestionID: 2
+Question: Is this the answer: he worked as a successful lawyer?
+Answer: no
+Explanation: It is not unusual for lawyers to enter politics.
+
+QuestionID: 3
+Question: Is this the answer: died as a lawyer?
+Answer: no
+Explanation: If he was dead before his political career, there would be no political career to speak of.
+
+QuestionID: 4
+Question: Is this the answer: was in jail?
+Answer: yes
+Explanation: Convicts cannot enter politics in the US.
+
+QuestionID: 5
+Question: Is this the answer: he was an immigrant ?
+Answer: yes
+Explanation: It is unusual but not impossible for immigrants to become political figures. This would explain why Hamilton never thought he would become one.
+
+--------------------------------------------------
+PassageID: 5
+Passage: She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: almost never?
+Answer: yes
+Explanation: Since she does not like puppies, she probably never asks for one.
+
+QuestionID: 1
+Question: Is this the answer: every 20 seconds?
+Answer: no
+Explanation: Since she does not like puppies, she probably never asks for one.
+
+QuestionID: 2
+Question: Is this the answer: every other minute?
+Answer: no
+Explanation: Since she does not like puppies, she probably never asks for one.
+
+QuestionID: 3
+Question: Is this the answer: every week?
+Answer: no
+Explanation: Since she does not like puppies, she probably never asks for one.
+
+QuestionID: 4
+Question: Is this the answer: every hour?
+Answer: no
+Explanation: Since she does not like puppies, she probably never asks for one.
+
+QuestionID: 5
+Question: Is this the answer: every century?
+Answer: no
+Explanation: Since she does not like puppies, she probably never asks for one.
+
+QuestionID: 6
+Question: Is this the answer: every 180 years?
+Answer: no
+Explanation: Since she does not like puppies, she probably never asks for one.
+
+QuestionID: 7
+Question: Is this the answer: every 20 years?
+Answer: no
+Explanation: Since she does not like puppies, she probably never asks for one.
+
+QuestionID: 8
+Question: Is this the answer: every second?
+Answer: no
+Explanation: Since she does not like puppies, she probably never asks for one.
+
+QuestionID: 9
+Question: Is this the answer: every minute?
+Answer: no
+Explanation: Since she does not like puppies, she probably never asks for one.
+
+QuestionID: 10
+Question: Is this the answer: every 20 hours?
+Answer: no
+Explanation: Since she does not like puppies, she probably never asks for one.
+
+--------------------------------------------------
+PassageID: 6
+Passage: One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: half an hour?
+Answer: yes
+Explanation: Brooklyn and Manhattan are boroughs in New York 12 miles apart.
+
+QuestionID: 1
+Question: Is this the answer: 1 day?
+Answer: no
+Explanation: 1 day is too long just to travel the 12 miles between Brooklyn and Manhattan.
+
+QuestionID: 2
+Question: Is this the answer: 18 seconds?
+Answer: no
+Explanation: 18 seconds is too short to travel the 12 miles between Brooklyn and Manhattan.
+
+QuestionID: 3
+Question: Is this the answer: about an hour?
+Answer: yes
+Explanation: Brooklyn and Manhattan are boroughs in New York 12 miles apart.
+
+QuestionID: 4
+Question: Is this the answer: 21 days?
+Answer: no
+Explanation: 21 days is too long just to travel the 12 miles between Brooklyn and Manhattan.
+
+QuestionID: 5
+Question: Is this the answer: about one second?
+Answer: no
+Explanation: About 1 second is too short to travel the 12 miles between Brooklyn and Manhattan.
+
+QuestionID: 6
+Question: Is this the answer: several months?
+Answer: no
+Explanation: Several months is too long just to travel the 12 miles between Brooklyn and Manhattan.
+
+QuestionID: 7
+Question: Is this the answer: about one hour?
+Answer: yes
+Explanation: Brooklyn and Manhattan are boroughs in New York 12 miles apart.
+
+QuestionID: 8
+Question: Is this the answer: 7 minutes?
+Answer: no
+Explanation: 7 minutes is too short to travel the 12 miles between Brooklyn and Manhattan.
+
+QuestionID: 9
+Question: Is this the answer: 18 minutes?
+Answer: yes
+Explanation: Brooklyn and Manhattan are boroughs in New York 12 miles apart.
+
+QuestionID: 10
+Question: Is this the answer: 7 weeks?
+Answer: no
+Explanation: 7 weeks is too long just to travel the 12 miles between Brooklyn and Manhattan.
+
+QuestionID: 11
+Question: Is this the answer: about an hours?
+Answer: yes
+Explanation: Brooklyn and Manhattan are boroughs in New York 12 miles apart.
+
+QuestionID: 12
+Question: Is this the answer: 162 seconds?
+Answer: no
+Explanation: 162 seconds is too short to travel the 12 miles between Brooklyn and Manhattan.
+
+QuestionID: 13
+Question: Is this the answer: several weeks?
+Answer: no
+Explanation: Several weeks is too long just to travel the 12 miles between Brooklyn and Manhattan.
+
+--------------------------------------------------
+PassageID: 7
+Passage: A thin, washed-out, pretty woman stood up, and clasped her hands in front of her in a disdaining way. What did she do after clasping her hands together?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: she started singing to the audience ?
+Answer: no
+Explanation: Given that the woman was scornful, it is unlikely that she’d sing a song.
+
+QuestionID: 1
+Question: Is this the answer: she talked to the audience?
+Answer: yes
+Explanation: People usually stand up tp draw attention typically when they are about to say something.
+
+QuestionID: 2
+Question: Is this the answer: she continued to do her makeup ?
+Answer: no
+Explanation: It would not be possible to do makeup with hands clasped.
+
+QuestionID: 3
+Question: Is this the answer: she sat back to her seat ?
+Answer: no
+Explanation: People usually stand up tp draw attention typically when they are about to say something.
+
+--------------------------------------------------
+PassageID: 8
+Passage: These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: the explorer took them to the museum?
+Answer: yes
+Explanation: Fossils are often taken to a museum after their discovery.
+
+QuestionID: 1
+Question: Is this the answer: more fish started to live there?
+Answer: no
+Explanation: The area is no longer at the bottom of the sea. 
+
+QuestionID: 2
+Question: Is this the answer: the explorer showed them to the museum?
+Answer: yes
+Explanation: Fossils are often taken to a museum after their discovery.
+
+QuestionID: 3
+Question: Is this the answer: the explorer brought them to the museum?
+Answer: yes
+Explanation: Fossils are often taken to a museum after their discovery.
+
+QuestionID: 4
+Question: Is this the answer: these two new crowd families lived?
+Answer: no
+Explanation: 
+
+QuestionID: 5
+Question: Is this the answer: the fossil turned into real humans?
+Answer: no
+Explanation: Fossils are inanimate.
+
+QuestionID: 6
+Question: Is this the answer: the fossils were preserved ?
+Answer: yes
+Explanation: Fossils are often preserved after their discovery.
+
+--------------------------------------------------
+
+
+

@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "0_0",
+        "sentence1": "Moreover, he said, technology now exists for stealing corporate secrets after they've been \"erased\" from a computer's memory. What happens after a hacker fails to steal the corporate secrets?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: the hacker sells the documents?",
+        "label": "no",
+        "explanation": "Since the hacker failed, he has no documents to sell."
+    },
+    {
+        "PassageID": "0_1",
+        "sentence1": "Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps even though he turned out to be innocent. What will happen next?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: nothing?",
+        "label": "no",
+        "explanation": "Ressam turning out to be innocent is bound to affect a case that was about proving him guilty."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through the donation platform in very small amounts each time. How often did al Qaeda receive donations prior to 9/11?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: 25 times a day?",
+        "label": "yes",
+        "explanation": "Since only small donations were accepted each time, they would have had to collect multiple times a day to earn $30 million every year"
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "Despite his quick climb up the legal ladder, Bailey has always found time to help people by answering their questions online. How often does he help people?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: several times a day?",
+        "label": "yes",
+        "explanation": "Bailey is known to always make time to answer questions online."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: died as a lawyer?",
+        "label": "no",
+        "explanation": "If he was dead before his political career, there would be no political career to speak of."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "QuestionID": "5",
+        "sentence2": "Is this the answer: every century?",
+        "label": "no",
+        "explanation": "Since she does not like puppies, she probably never asks for one."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "QuestionID": "9",
+        "sentence2": "Is this the answer: 18 minutes?",
+        "label": "yes",
+        "explanation": "Brooklyn and Manhattan are boroughs in New York 12 miles apart."
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands in front of her in a disdaining way. What did she do after clasping her hands together?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: she continued to do her makeup ?",
+        "label": "no",
+        "explanation": "It would not be possible to do makeup with hands clasped."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: the explorer showed them to the museum?",
+        "label": "yes",
+        "explanation": "Fossils are often taken to a museum after their discovery."
+    }
+]

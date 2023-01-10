@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "0_0",
+        "sentence1": "",
+        "QuestionID": "0",
+        "sentence2": "The companies regularly ignore government orders to upgrade coal-burning electricity plants , according to ministry data . And as with the oil companies , the power companies  ((exert)) have an outsize influence over environmental policy debates . In 2011 , during a round of discussions over stricter emissions standards , the China Electricity Council , which represents the companies ,  [[pushed]] back hard against the proposals , saying that the costs of upgrading the plants would be too high . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?",
+        "label": "vague",
+        "explanation": "Companies have not only exerted influence in the past but they also continue to do so even now and in the future."
+    },
+    {
+        "PassageID": "0_1",
+        "sentence1": "",
+        "QuestionID": "0",
+        "sentence2": "The FAA on Friday announced it will  ((close)) 149 regional airport control towers because of forced spending cuts --  [[sparing]] 40 others that the FAA had been expected to shutter .  When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?",
+        "label": "before",
+        "explanation": "The spared airports were ones that were not closed. Only after the closure event happened can we determine which were spared."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "",
+        "QuestionID": "1",
+        "sentence2": "Traditionally , the ( intentionally ) funny lines by our presidents have  ((had)) one thing in common : They were self-deprecating . Sure , before Obama, some presidents have  [[used]] jokes to take jabs at their opponents , but not to the extent of Obama . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?",
+        "label": "after",
+        "explanation": "Jokes have been used by presidents before Obama began using them."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "",
+        "QuestionID": "0",
+        "sentence2": "President Barack Obama arrived in refugee-flooded Jordan on Friday after scoring a diplomatic coup just before leaving Israel when Prime Minister Benjamin Netanyahu apologized to Turkey for a 2010 commando raid that  ((killed)) nine activists on a Turkish vessel in a Gaza-bound flotilla . The apology , long  [[sought]] by Turkish Prime Minister Recep Erdogan , eased strained feelings between Turkey and Israel , two vital U.S. allies in the Middle East . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?",
+        "label": "before",
+        "explanation": "Apology for an incident can be sought only after the happening of that incident."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "",
+        "QuestionID": "0",
+        "sentence2": "While partisan division is the central characteristic of the modern Congress , women have begun to crack away at the gridlock by forming coalitions that have surprised leaders of both parties . Senator Kirsten E. Gillibrand , Democrat of New York , and Senator Susan Collins , Republican of Maine ,  ((led)) the repeal in the Senate of \" do n't ask , do n't tell \" in 2010 , allowing gay men and women to serve openly in the military . This year , all four of the female Senate Republicans split with their party and voted with Senate Democrats to reauthorize the Violence Against Women Act , which had  [[lapsed]] during the last Congress . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?",
+        "label": "vague",
+        "explanation": "It is not clear whether the act lapsed before or after 2010."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "",
+        "QuestionID": "0",
+        "sentence2": "Heavy snow is causing disruption to transport across the UK , with heavy rainfall  ((bringing)) flooding to the south-west of England . Rescuers searching for a woman trapped in a landslide at her home in Looe , Cornwall , said they had  [[found]] a body . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?",
+        "label": "before",
+        "explanation": "The woman died while being trapped in a landslide after the rainfall had occurred."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "",
+        "QuestionID": "0",
+        "sentence2": "It had a multiplying effect . \" We were  ((pleased)) that England and New Zealand knew about it , and we  [[thought]] that 's where it would stop . \" . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?",
+        "label": "before",
+        "explanation": "They thought that it would stop only after they learnt that England and New Zealand knew about it, making them pleased."
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "",
+        "QuestionID": "0",
+        "sentence2": "Raymond Roth , 48 , of Massapequa , New York , was first reported missing in the waters off Jones Beach late last July by his 22-year-old son , Jonathan Roth . Several days into an extensive search involving multiple agencies , New York State Park Police said , authorities  ((learned)) the missing man was in South Carolina , where he had been pulled over for speeding . The day before Raymond Roth was pulled over , his wife , Evana ,  [[showed]] authorities e-mails she had discovered that appeared to detail a plan between him and his son to fake his death . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?",
+        "label": "after",
+        "explanation": "The authorities found the man and learned about his whereabouts a day after his wife had shown the emails."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "",
+        "QuestionID": "1",
+        "sentence2": "((Finishing)) in 3:07:35 , he  [[won]] the Gusher Marathon . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?",
+        "label": "simultaneous",
+        "explanation": "Gusher would have won the race right when he finished it by crossing the line."
+    }
+]

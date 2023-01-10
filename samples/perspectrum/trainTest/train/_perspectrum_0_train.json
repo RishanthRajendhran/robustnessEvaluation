@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "0_0",
+        "sentence1": "Consider the following two claims: Claim 1: should Scotland go independent and Claim2: Scotland should not go independent .",
+        "QuestionID": "5",
+        "sentence2": "Perspective: Scotland has different interests to rUK. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?",
+        "label": "neg",
+        "explanation": "Differences of interests to the UK which makes amicable decision making difficult is one reason why Scotland should go independent."
+    },
+    {
+        "PassageID": "0_1",
+        "sentence1": "Consider the following two claims: Claim 1: should we increase nasa funding and Claim2: should we decrease nasa funding .",
+        "QuestionID": "13",
+        "sentence2": "Perspective: The rich countries of the world should actively look for ways to increase. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?",
+        "label": "pos",
+        "explanation": "The US being a rich country is one reason why NASA\u2019s funding should be increased."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "Consider the following two claims: Claim 1: I believe research into Artificial Intelligence should be banned much like Nuclear Weapon technology. and Claim2: Unlike Nuclear Weapon technology, I believe research into Artificial Intelligence should be encouraged.",
+        "QuestionID": "1",
+        "sentence2": "Perspective: Doing so could mean that we are asking too much of technology. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?",
+        "label": "unk",
+        "explanation": "This perspective does not speak to why or why not should AI research be banned."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "Consider the following two claims: Claim 1: There is no productive reason to have, \"Under God\" in the US Pledge of Allegiance and, \"In God We Trust\" on the dollar bill. and Claim2: It is essential to have, \"Under God\" in the US Pledge of Allegiance and, \"In God We Trust\" on the dollar bill.",
+        "QuestionID": "1",
+        "sentence2": "Perspective: Removing under god would promote religious tolerance. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?",
+        "label": "neg",
+        "explanation": "Promoting religious tolerance could be a reason why they should not be present."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "Consider the following two claims: Claim 1: should active euthanasia be legalized worldwide and Claim2: Active euthanasia should be banned worldwide .",
+        "QuestionID": "0",
+        "sentence2": "Perspective: To deny this right is to prolong the suffering for individuals and families, something that I can simply not condone. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?",
+        "label": "neg",
+        "explanation": "Prolonging people\u2019s suffering is wrong which is why euthanasia should not be banned."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "Consider the following two claims: Claim 1: should they pay college athletes and Claim2: should they ask college athletes to play for free? .",
+        "QuestionID": "10",
+        "sentence2": "Perspective: Encouraging future female athletes. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?",
+        "label": "neg",
+        "explanation": "If athletes played for free, there would be no additional motivation for future female athletes."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "Consider the following two claims: Claim 1: I believe religion, no matter which one, has always just been used to oppress people and has nothing good in it and Claim2: I believe religion is beneficial to people, despite having been used to oppress people.",
+        "QuestionID": "3",
+        "sentence2": "Perspective: It's not like no one has ever asked them before. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?",
+        "label": "unk",
+        "explanation": "This perspective does not speak to why or why not is religion beneficial."
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "Consider the following two claims: Claim 1: I think religion has a place in politics. and Claim2: I think religion should not have a place in politics.",
+        "QuestionID": "7",
+        "sentence2": "Perspective: Religion is unnecessary. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?",
+        "label": "neg",
+        "explanation": "Since it is unnecessary, religion should not have a place in politics."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "Consider the following two claims: Claim 1: Philosophy has no tangible value as an academic field of study. and Claim2: Philosophy does have tangible values as an academic field of study.",
+        "QuestionID": "12",
+        "sentence2": "Perspective: No it has proved opposite. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?",
+        "label": "unk",
+        "explanation": "This perspective does not speak to why or why doesn\u2019t philosophy have tangible benefits."
+    }
+]

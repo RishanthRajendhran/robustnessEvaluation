@@ -1,0 +1,646 @@
+[
+    {
+        "PassageID": "0_0",
+        "sentence1": "Moreover, he said, technology now exists for stealing corporate secrets after they've been \"erased\" from a computer's memory. What happens after a hacker fails to steal the corporate secrets?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: the hacker returns the data?",
+        "label": "no",
+        "explanation": "Since the hacker failed, he has no data to return. Also, hackers do not usually return stolen data."
+    },
+    {
+        "PassageID": "0_0",
+        "sentence1": "Moreover, he said, technology now exists for stealing corporate secrets after they've been \"erased\" from a computer's memory. What happens after hacker steal the corporate secrets?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: the hacker returns the data?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_0",
+        "sentence1": "Moreover, he said, technology now exists for stealing corporate secrets after they've been \"erased\" from a computer's memory. What happens after a hacker fails to steal the corporate secrets?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: they are sold off the black market?",
+        "label": "no",
+        "explanation": "Since the hacker failed, he has no data to sell in the black market."
+    },
+    {
+        "PassageID": "0_0",
+        "sentence1": "Moreover, he said, technology now exists for stealing corporate secrets after they've been \"erased\" from a computer's memory. What happens after hacker steal the corporate secrets?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: they are sold off the black market?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "0_0",
+        "sentence1": "Moreover, he said, technology now exists for stealing corporate secrets after they've been \"erased\" from a computer's memory. What happens after a hacker fails to steal the corporate secrets?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: the hacker returns the data?",
+        "label": "no",
+        "explanation": "Since the hacker failed, he has no data to return. Also, hackers do not usually return stolen data."
+    },
+    {
+        "PassageID": "0_0",
+        "sentence1": "Moreover, he said, technology now exists for stealing corporate secrets after they've been \"erased\" from a computer's memory. What happens after hacker steal the corporate secrets?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: the hacker returns the data?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_0",
+        "sentence1": "Moreover, he said, technology now exists for stealing corporate secrets after they've been \"erased\" from a computer's memory. What happens after a hacker fails to steal the corporate secrets?",
+        "QuestionID": "5",
+        "sentence2": "Is this the answer: the hacker returned the data?",
+        "label": "no",
+        "explanation": "Since the hacker failed, he has no data to return. Also, hackers do not usually return stolen data."
+    },
+    {
+        "PassageID": "0_0",
+        "sentence1": "Moreover, he said, technology now exists for stealing corporate secrets after they've been \"erased\" from a computer's memory. What happens after hacker steal the corporate secrets?",
+        "QuestionID": "5",
+        "sentence2": "Is this the answer: the hacker returned the data?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_1",
+        "sentence1": "Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps even though he turned out to be innocent. What will happen next?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: the FBI lose interest in the case ?",
+        "label": "yes",
+        "explanation": "Since he turned out to be innocent, FBI will likely lose interest in the case."
+    },
+    {
+        "PassageID": "0_1",
+        "sentence1": "Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps. What will happen next?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: the fbi loses interest?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through the donation platform in very small amounts each time. How often did al Qaeda receive donations prior to 9/11?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: 5 hours a day?",
+        "label": "no",
+        "explanation": "Since only small donations were accepted each time, they would not have collected $30 million every year if they took donations only five times a day."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through donations. How often did al Qaeda receive donations prior to 9/11?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: 5 hours a day?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through the donation platform in very small amounts each time. How often did al Qaeda receive donations prior to 9/11?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: once each month?",
+        "label": "no",
+        "explanation": "Since only small donations were accepted each time, they would not have collected $30 million every year if they took donations only once in a month."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through donations. How often did al Qaeda receive donations prior to 9/11?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: each month?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through donations. How often did al Qaeda receive donations prior to 9/11?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: monthly?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through donations. How often did al Qaeda receive donations prior to 9/11?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: every month?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through the donation platform in very small amounts each time. How often did al Qaeda receive donations prior to 9/11?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: once a year?",
+        "label": "no",
+        "explanation": "Since only small donations were accepted each time, they would not have collected $30 million every year if they took donations only once in a year."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through the donation platform in very small amounts each time. How often did al Qaeda receive donations prior to 9/11?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: every century?",
+        "label": "no",
+        "explanation": "Since only small donations were accepted each time, they would not have collected $30 million every year if they took donations only once in a century."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through donations. How often did al Qaeda receive donations prior to 9/11?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: every century?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "Despite his quick climb up the legal ladder, Bailey has always found time to help people by answering their questions online. How often does he help people?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: multiple times in an hour?",
+        "label": "no",
+        "explanation": "Since Bailey is a successful lawyer, it would not practically feasible for him to answer questions multiple times in an hour."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "Despite his quick climb up the legal ladder, Bailey has always found time to help out in causes he feels strongly about. How often does he help out in causes he feels strongly about?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: a few times a hour?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "Despite his quick climb up the legal ladder, Bailey has always found time to help people by answering their questions online. How often does he help people?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: weekly?",
+        "label": "yes",
+        "explanation": "Bailey is known to always make time to answer questions online."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "Despite his quick climb up the legal ladder, Bailey has always found time to help out in causes he feels strongly about. How often does he help out in causes he feels strongly about?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: weekly?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "Despite his quick climb up the legal ladder, Bailey has always found time to help people by answering their questions online. How often does he help people?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: several times in an hour?",
+        "label": "no",
+        "explanation": "Since Bailey is a successful lawyer, it would not practically feasible for him to answer questions multiple times in an hour."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "Despite his quick climb up the legal ladder, Bailey has always found time to help out in causes he feels strongly about. How often does he help out in causes he feels strongly about?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: several times a hour?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: died in prison?",
+        "label": "no",
+        "explanation": "If he was dead before his political career, there would be no political career to speak of."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: worked as a well-known attorney?",
+        "label": "no",
+        "explanation": "It is not unusual for attorneys to enter politics."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: he worked as a successful lawyer?",
+        "label": "no",
+        "explanation": "It is not unusual for lawyers to enter politics."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: was in jail?",
+        "label": "yes",
+        "explanation": "Convicts cannot enter politics in the US."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?",
+        "QuestionID": "5",
+        "sentence2": "Is this the answer: he was an immigrant ?",
+        "label": "yes",
+        "explanation": "It is unusual but not impossible for immigrants to become political figures. This would explain why Hamilton never thought he would become one."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: almost never?",
+        "label": "yes",
+        "explanation": "Since she does not like puppies, she probably never asks for one."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: every 20 seconds?",
+        "label": "no",
+        "explanation": "Since she does not like puppies, she probably never asks for one."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, if she could have one. How often did she ask for a puppy?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: every 20 seconds?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: every other minute?",
+        "label": "no",
+        "explanation": "Since she does not like puppies, she probably never asks for one."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, if she could have one. How often did she ask for a puppy?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: every other minute?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: every week?",
+        "label": "no",
+        "explanation": "Since she does not like puppies, she probably never asks for one."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, if she could have one. How often did she ask for a puppy?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: every week?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: every hour?",
+        "label": "no",
+        "explanation": "Since she does not like puppies, she probably never asks for one."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, if she could have one. How often did she ask for a puppy?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: every hour?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "QuestionID": "6",
+        "sentence2": "Is this the answer: every 180 years?",
+        "label": "no",
+        "explanation": "Since she does not like puppies, she probably never asks for one."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, if she could have one. How often did she ask for a puppy?",
+        "QuestionID": "6",
+        "sentence2": "Is this the answer: every 180 years?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "QuestionID": "7",
+        "sentence2": "Is this the answer: every 20 years?",
+        "label": "no",
+        "explanation": "Since she does not like puppies, she probably never asks for one."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, if she could have one. How often did she ask for a puppy?",
+        "QuestionID": "7",
+        "sentence2": "Is this the answer: every 20 years?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "QuestionID": "8",
+        "sentence2": "Is this the answer: every second?",
+        "label": "no",
+        "explanation": "Since she does not like puppies, she probably never asks for one."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, if she could have one. How often did she ask for a puppy?",
+        "QuestionID": "8",
+        "sentence2": "Is this the answer: every second?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "QuestionID": "9",
+        "sentence2": "Is this the answer: every minute?",
+        "label": "no",
+        "explanation": "Since she does not like puppies, she probably never asks for one."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, if she could have one. How often did she ask for a puppy?",
+        "QuestionID": "9",
+        "sentence2": "Is this the answer: every minute?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?",
+        "QuestionID": "10",
+        "sentence2": "Is this the answer: every 20 hours?",
+        "label": "no",
+        "explanation": "Since she does not like puppies, she probably never asks for one."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "She told them that she would help take care of the puppy, if she could have one. How often did she ask for a puppy?",
+        "QuestionID": "10",
+        "sentence2": "Is this the answer: every 20 hours?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: half an hour?",
+        "label": "yes",
+        "explanation": "Brooklyn and Manhattan are boroughs in New York 12 miles apart."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: 1 day?",
+        "label": "no",
+        "explanation": "1 day is too long just to travel the 12 miles between Brooklyn and Manhattan."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How long did the trip take?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: 1 day?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: 18 seconds?",
+        "label": "no",
+        "explanation": "18 seconds is too short to travel the 12 miles between Brooklyn and Manhattan."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How long did the trip take?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: 18 seconds?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: about an hour?",
+        "label": "yes",
+        "explanation": "Brooklyn and Manhattan are boroughs in New York 12 miles apart."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How long did the trip take?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: about an hour?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: 21 days?",
+        "label": "no",
+        "explanation": "21 days is too long just to travel the 12 miles between Brooklyn and Manhattan."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How long did the trip take?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: 21 days?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "QuestionID": "5",
+        "sentence2": "Is this the answer: about one second?",
+        "label": "no",
+        "explanation": "About 1 second is too short to travel the 12 miles between Brooklyn and Manhattan."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How long did the trip take?",
+        "QuestionID": "5",
+        "sentence2": "Is this the answer: about one second?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "QuestionID": "6",
+        "sentence2": "Is this the answer: several months?",
+        "label": "no",
+        "explanation": "Several months is too long just to travel the 12 miles between Brooklyn and Manhattan."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How long did the trip take?",
+        "QuestionID": "6",
+        "sentence2": "Is this the answer: several months?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "QuestionID": "7",
+        "sentence2": "Is this the answer: about one hour?",
+        "label": "yes",
+        "explanation": "Brooklyn and Manhattan are boroughs in New York 12 miles apart."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How long did the trip take?",
+        "QuestionID": "7",
+        "sentence2": "Is this the answer: about one hour?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "QuestionID": "8",
+        "sentence2": "Is this the answer: 7 minutes?",
+        "label": "no",
+        "explanation": "7 minutes is too short to travel the 12 miles between Brooklyn and Manhattan."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How long did the trip take?",
+        "QuestionID": "8",
+        "sentence2": "Is this the answer: 7 minutes?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "QuestionID": "10",
+        "sentence2": "Is this the answer: 7 weeks?",
+        "label": "no",
+        "explanation": "7 weeks is too long just to travel the 12 miles between Brooklyn and Manhattan."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How long did the trip take?",
+        "QuestionID": "10",
+        "sentence2": "Is this the answer: 7 weeks?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "QuestionID": "11",
+        "sentence2": "Is this the answer: about an hours?",
+        "label": "yes",
+        "explanation": "Brooklyn and Manhattan are boroughs in New York 12 miles apart."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How long did the trip take?",
+        "QuestionID": "11",
+        "sentence2": "Is this the answer: about an hours?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "QuestionID": "12",
+        "sentence2": "Is this the answer: 162 seconds?",
+        "label": "no",
+        "explanation": "162 seconds is too short to travel the 12 miles between Brooklyn and Manhattan."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How long did the trip take?",
+        "QuestionID": "12",
+        "sentence2": "Is this the answer: 162 seconds?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?",
+        "QuestionID": "13",
+        "sentence2": "Is this the answer: several weeks?",
+        "label": "no",
+        "explanation": "Several weeks is too long just to travel the 12 miles between Brooklyn and Manhattan."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How long did the trip take?",
+        "QuestionID": "13",
+        "sentence2": "Is this the answer: several weeks?",
+        "label": "no"
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands in front of her in a disdaining way. What did she do after clasping her hands together?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: she started singing to the audience ?",
+        "label": "no",
+        "explanation": "Given that the woman was scornful, it is unlikely that she\u2019d sing a song."
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands in front of her in a disdaining way. What did she do after clasping her hands together?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: she talked to the audience?",
+        "label": "yes",
+        "explanation": "People usually stand up tp draw attention typically when they are about to say something."
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands in front of her. What did she do after clasping her hands together?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: she talked to the audience?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands in front of her. What did she do after clasping her hands together?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: she spoke to the audience?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "A thin, washed-out, pretty woman stood up, and clasped her hands in front of her in a disdaining way. What did she do after clasping her hands together?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: she sat back to her seat ?",
+        "label": "no",
+        "explanation": "People usually stand up tp draw attention typically when they are about to say something."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: the explorer took them to the museum?",
+        "label": "yes",
+        "explanation": "Fossils are often taken to a museum after their discovery."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: more fish started to live there?",
+        "label": "no",
+        "explanation": "The area is no longer at the bottom of the sea."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: the explorer brought them to the museum?",
+        "label": "yes",
+        "explanation": "Fossils are often taken to a museum after their discovery."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: these two new crowd families lived?",
+        "label": "no",
+        "explanation": ""
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?",
+        "QuestionID": "5",
+        "sentence2": "Is this the answer: the fossil turned into real humans?",
+        "label": "no",
+        "explanation": "Fossils are inanimate."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?",
+        "QuestionID": "6",
+        "sentence2": "Is this the answer: the fossils were preserved ?",
+        "label": "yes",
+        "explanation": "Fossils are often preserved after their discovery."
+    }
+]

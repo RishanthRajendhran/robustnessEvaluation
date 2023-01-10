@@ -1,0 +1,82 @@
+[
+    {
+        "PassageID": "2_8",
+        "sentence1": "Background: Saturated hydrocarbons are given the general name of alkanes . The name of specific alkanes always ends in \u2013 ane . The first part of the name indicates how many carbon atoms each molecule of the alkane has. The smallest alkane is methane. It has just one carbon atom. The next largest is ethane with two carbon atoms. The chemical formulas and properties of methane, ethane, and other small alkanes are listed in the Table below . The boiling and melting points of alkanes are determined mainly by the number of carbon atoms they have. Alkanes with more carbon atoms generally boil and melt at higher temperatures. Situation: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.",
+        "QuestionID": "0",
+        "sentence2": "Is Alkane A smaller or larger than Alkane B?",
+        "label": "smaller",
+        "explanation": ""
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "Background: Saturated hydrocarbons are given the general name of alkanes . The name of specific alkanes always ends in \u2013 ane . The first part of the name indicates how many carbon atoms each molecule of the alkane has. The smallest alkane is methane. It has just one carbon atom. The next largest is ethane with two carbon atoms. The chemical formulas and properties of methane, ethane, and other small alkanes are listed in the Table below . The boiling and melting points of alkanes are determined mainly by the number of carbon atoms they have. Alkanes with more carbon atoms generally boil and melt at higher temperatures. Situation: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.",
+        "QuestionID": "1",
+        "sentence2": "Is Alkane B smaller or larger than Alkane C?",
+        "label": "smaller",
+        "explanation": ""
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "Background: Saturated hydrocarbons are given the general name of alkanes . The name of specific alkanes always ends in \u2013 ane . The first part of the name indicates how many carbon atoms each molecule of the alkane has. The smallest alkane is methane. It has just one carbon atom. The next largest is ethane with two carbon atoms. The chemical formulas and properties of methane, ethane, and other small alkanes are listed in the Table below . The boiling and melting points of alkanes are determined mainly by the number of carbon atoms they have. Alkanes with more carbon atoms generally boil and melt at higher temperatures. Situation: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.",
+        "QuestionID": "2",
+        "sentence2": "Is Alkane B smaller or larger than Alkane A?",
+        "label": "larger",
+        "explanation": ""
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "Background: Saturated hydrocarbons are given the general name of alkanes . The name of specific alkanes always ends in \u2013 ane . The first part of the name indicates how many carbon atoms each molecule of the alkane has. The smallest alkane is methane. It has just one carbon atom. The next largest is ethane with two carbon atoms. The chemical formulas and properties of methane, ethane, and other small alkanes are listed in the Table below . The boiling and melting points of alkanes are determined mainly by the number of carbon atoms they have. Alkanes with more carbon atoms generally boil and melt at higher temperatures. Situation: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.",
+        "QuestionID": "3",
+        "sentence2": "Is Alkane C smaller or larger than Alkane A?",
+        "label": "larger",
+        "explanation": ""
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "Background: Saturated hydrocarbons are given the general name of alkanes . The name of specific alkanes always ends in \u2013 ane . The first part of the name indicates how many carbon atoms each molecule of the alkane has. The smallest alkane is methane. It has just one carbon atom. The next largest is ethane with two carbon atoms. The chemical formulas and properties of methane, ethane, and other small alkanes are listed in the Table below . The boiling and melting points of alkanes are determined mainly by the number of carbon atoms they have. Alkanes with more carbon atoms generally boil and melt at higher temperatures. Situation: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.",
+        "QuestionID": "4",
+        "sentence2": "Is Alkane A smaller or larger than Alkane C?",
+        "label": "smaller",
+        "explanation": ""
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "Background: Saturated hydrocarbons are given the general name of alkanes . The name of specific alkanes always ends in \u2013 ane . The first part of the name indicates how many carbon atoms each molecule of the alkane has. The smallest alkane is methane. It has just one carbon atom. The next largest is ethane with two carbon atoms. The chemical formulas and properties of methane, ethane, and other small alkanes are listed in the Table below . The boiling and melting points of alkanes are determined mainly by the number of carbon atoms they have. Alkanes with more carbon atoms generally boil and melt at higher temperatures. Situation: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.",
+        "QuestionID": "5",
+        "sentence2": "Does Alkane A have more or less carbon atoms than Alkane B?",
+        "label": "less",
+        "explanation": ""
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "Background: Saturated hydrocarbons are given the general name of alkanes . The name of specific alkanes always ends in \u2013 ane . The first part of the name indicates how many carbon atoms each molecule of the alkane has. The smallest alkane is methane. It has just one carbon atom. The next largest is ethane with two carbon atoms. The chemical formulas and properties of methane, ethane, and other small alkanes are listed in the Table below . The boiling and melting points of alkanes are determined mainly by the number of carbon atoms they have. Alkanes with more carbon atoms generally boil and melt at higher temperatures. Situation: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.",
+        "QuestionID": "6",
+        "sentence2": "Does Alkane B have more or less carbon atoms than Alkane C?",
+        "label": "less",
+        "explanation": ""
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "Background: Saturated hydrocarbons are given the general name of alkanes . The name of specific alkanes always ends in \u2013 ane . The first part of the name indicates how many carbon atoms each molecule of the alkane has. The smallest alkane is methane. It has just one carbon atom. The next largest is ethane with two carbon atoms. The chemical formulas and properties of methane, ethane, and other small alkanes are listed in the Table below . The boiling and melting points of alkanes are determined mainly by the number of carbon atoms they have. Alkanes with more carbon atoms generally boil and melt at higher temperatures. Situation: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.",
+        "QuestionID": "7",
+        "sentence2": "Does Alkane A have more or less carbon atoms than Alkane C?",
+        "label": "less",
+        "explanation": ""
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "Background: Saturated hydrocarbons are given the general name of alkanes . The name of specific alkanes always ends in \u2013 ane . The first part of the name indicates how many carbon atoms each molecule of the alkane has. The smallest alkane is methane. It has just one carbon atom. The next largest is ethane with two carbon atoms. The chemical formulas and properties of methane, ethane, and other small alkanes are listed in the Table below . The boiling and melting points of alkanes are determined mainly by the number of carbon atoms they have. Alkanes with more carbon atoms generally boil and melt at higher temperatures. Situation: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.",
+        "QuestionID": "8",
+        "sentence2": "Does Alkane C have more or less carbon atoms than Alkane A?",
+        "label": "more",
+        "explanation": ""
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "Background: Saturated hydrocarbons are given the general name of alkanes . The name of specific alkanes always ends in \u2013 ane . The first part of the name indicates how many carbon atoms each molecule of the alkane has. The smallest alkane is methane. It has just one carbon atom. The next largest is ethane with two carbon atoms. The chemical formulas and properties of methane, ethane, and other small alkanes are listed in the Table below . The boiling and melting points of alkanes are determined mainly by the number of carbon atoms they have. Alkanes with more carbon atoms generally boil and melt at higher temperatures. Situation: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.",
+        "QuestionID": "9",
+        "sentence2": "Does Alkane B have more or less carbon atoms than Alkane A?",
+        "label": "more",
+        "explanation": ""
+    }
+]

@@ -1,0 +1,1247 @@
+PassageID: 0
+Passage: Consider the following two claims: Claim 1: should Scotland go independent and Claim2: Scotland should not go independent .
+
+Questions:
+QuestionID: 0
+Question: Perspective: If Scotland were independent then it would have more power in important areas. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Gaining more power is one reason why Scotland should go independent.
+
+QuestionID: 1
+Question: Perspective: If Scotland were independent then it would have more power in important areas. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Gaining more power is one reason why Scotland should go independent.
+
+QuestionID: 2
+Question: Perspective: Independence would give Scotland clout where it matters. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Gaining clout is one reason why Scotland should go independent.
+
+QuestionID: 3
+Question: Perspective: Independence would give Scotland clout where it matters. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Gaining clout is one reason why Scotland should go independent. 
+
+QuestionID: 4
+Question: Perspective: An independent Scotland nation-state would give it more influence. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Gaining influence is one reason why Scotland should go independent.
+
+QuestionID: 5
+Question: Perspective: An independent Scotland nation-state would give it more influence. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Gaining influence is one reason why Scotland should go independent.
+
+QuestionID: 6
+Question: Perspective: Scotland will be unable to survive economically without England. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Financial dependence on England is one reason why Scotland should not go independent.
+
+QuestionID: 7
+Question: Perspective: Scotland will be unable to survive economically without England. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Financial dependence on England is one reason why Scotland should not go independent.
+
+QuestionID: 8
+Question: Perspective: An independent Scotland has enormous economic potential to join other small European nations, especially as a leader in technology and renewable energy. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: The economic potential that Scotland would develop is one reason why it should go independent.
+
+QuestionID: 9
+Question: Perspective: An independent Scotland has enormous economic potential to join other small European nations, especially as a leader in technology and renewable energy. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: The economic potential that Scotland would develop is one reason why it should go independent.
+
+QuestionID: 10
+Question: Perspective: Scotland has different interests to the UK. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Differences of interests to the UK which makes amicable decision making difficult is one reason why Scotland should go independent.
+
+QuestionID: 11
+Question: Perspective: Scotland has different interests to rUK. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Differences of interests to the UK which makes amicable decision making difficult is one reason why Scotland should go independent.
+
+QuestionID: 12
+Question: Perspective: We believe that the Scottish Parliament should have the right to hold another referendum if there is clear and sustained evidence that independence has become the preferred option of a majority of the Scottish people – or if there is a significant and material change in the circumstances that prevailed in 2014, such as Scotland being taken out of the EU against our will. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should Scotland go independent.
+
+QuestionID: 13
+Question: Perspective: We believe that the Scottish Parliament should have the right to hold another referendum if there is clear and sustained evidence that independence has become the preferred option of a majority of the Scottish people – or if there is a significant and material change in the circumstances that prevailed in 2014, such as Scotland being taken out of the EU against our will. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should Scotland go independent.
+
+QuestionID: 14
+Question: Perspective: Scotland has a proud history and has demonstrated since devolution different political interests. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Differing political interests is one reason why Scotland should go independent.
+
+QuestionID: 15
+Question: Perspective: Scotland has a proud history and has demonstrated since devolution different political interests. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Differing political interests is one reason why Scotland should go independent.
+
+QuestionID: 16
+Question: Perspective: Scotland would not be able to survive independently without England. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Scotland’s dependence on England for survival is one reason why it should not go independent.
+
+QuestionID: 17
+Question: Perspective: Scotland would not be able to survive independently without England. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Scotland’s dependence on England for survival is one reason why it should not go independent.
+
+QuestionID: 18
+Question: Perspective: The referendum on Scottish independence held on 18 September 2014 saw Scotland vote to remain part of the United Kingdom (UK), with 55% voting against the proposal for Scotland to become an independent country and 45% voting in favour. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Majority of the  Scottish people voted against going independent.
+
+QuestionID: 19
+Question: Perspective: The referendum on Scottish independence held on 18 September 2014 saw Scotland vote to remain part of the United Kingdom (UK), with 55% voting against the proposal for Scotland to become an independent country and 45% voting in favour. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Majority of the Scottish people voted against going independent.
+
+QuestionID: 20
+Question: Perspective: Though the proposal for Scotland to become an independent country was voted down in 2014, the referendum resulted in the Scottish Parliament gaining additional powers through the Scotland Act 2016, which increased the devolved powers in areas such as taxation and some aspects of welfare provision. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should Scotland go independent.
+
+QuestionID: 21
+Question: Perspective: Though the proposal for Scotland to become an independent country was voted down in 2014, the referendum resulted in the Scottish Parliament gaining additional powers through the Scotland Act 2016, which increased the devolved powers in areas such as taxation and some aspects of welfare provision. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should Scotland go independent.
+
+QuestionID: 22
+Question: Perspective: An independent trust fund discourages investment. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should Scotland go independent.
+
+QuestionID: 23
+Question: Perspective: An independent trust fund discourages investment. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should Scotland go independent.
+
+QuestionID: 24
+Question: Perspective: Independent bloggers lack the credibility of newspapers. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should Scotland go independent.
+
+QuestionID: 25
+Question: Perspective: Independent bloggers lack the credibility of newspapers. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should Scotland go independent.
+
+QuestionID: 26
+Question: Perspective: Republika Srpska  cannot survive economically as an independent state. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should Scotland go independent.
+
+QuestionID: 27
+Question: Perspective: Republika Srpska  cannot survive economically as an independent state. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should Scotland go independent.
+
+--------------------------------------------------
+PassageID: 1
+Passage: Consider the following two claims: Claim 1: should we increase nasa funding and Claim2: should we decrease nasa funding .
+
+Questions:
+QuestionID: 0
+Question: Perspective: Economic impact of NASA funding [ edit ]. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: The positive impact that NASA has on the economy gives reason to increase  NASA’s funding.
+
+QuestionID: 1
+Question: Perspective: Economic impact of NASA funding [ edit ]. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: The positive impact that NASA has on the economy gives reason to increase  NASA’s funding.
+
+QuestionID: 2
+Question: Perspective: Since its inception, the United States has spent $601.31 billion (in nominal dollars) on NASA. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 3
+Question: Perspective: Since its inception, the United States has spent $601.31 billion (in nominal dollars) on NASA. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 4
+Question: Perspective: NASA's budget for fiscal year (FY) 2019 is $21.5 billion. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 5
+Question: Perspective: NASA's budget for fiscal year (FY) 2019 is $21.5 billion. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 6
+Question: Perspective: NASA's budget peaked in 1964–66 when it consumed roughly 4% of all federal spending. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 7
+Question: Perspective: NASA's budget peaked in 1964–66 when it consumed roughly 4% of all federal spending. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 8
+Question: Perspective: NASA's spending peaked in 1966 during the Apollo program. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 9
+Question: Perspective: NASA's spending peaked in 1966 during the Apollo program. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 10
+Question: Perspective: NASA is very Hazardous. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: The hazard that NASA poses gives reason why its funding should not be increased.
+
+QuestionID: 11
+Question: Perspective: NASA is very Hazardous. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: The hazard that NASA poses gives reason to decrease its funding.
+
+QuestionID: 12
+Question: Perspective: Anti-terrorism legislation is not how we should fight terrorism. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 13
+Question: Perspective: Anti-terrorism legislation is not how we should fight terrorism. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 14
+Question: Perspective: University's could use alternate funding. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 15
+Question: Perspective: University's could use alternate funding. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 16
+Question: Perspective: State funding should be used elsewhere. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Other areas needing funding is one reason why NASA’s funding should not be increased.
+
+QuestionID: 17
+Question: Perspective: State funding should be used elsewhere. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Other areas needing funding is one reason why NASA’s funding should be decreased.
+
+QuestionID: 18
+Question: Perspective: We should not be encouraging interest in material things. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 19
+Question: Perspective: We should not be encouraging interest in material things. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 20
+Question: Perspective: Year NASA budget Nominal Dollars. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 21
+Question: Perspective: Year NASA budget Nominal Dollars. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 22
+Question: Perspective: 352,000 (mostly skilled) jobs created or saved. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 23
+Question: Perspective: 352,000 (mostly skilled) jobs created or saved. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 24
+Question: Perspective: Museum charges can be offset by government funding. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 25
+Question: Perspective: Museum charges can be offset by government funding. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak about why or why not should NASA’s funding be increased.
+
+QuestionID: 26
+Question: Perspective: The rich countries of the world should actively look for ways to increase. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: The US being a rich country is one reason why NASA’s funding should be increased.
+
+QuestionID: 27
+Question: Perspective: The rich countries of the world should actively look for ways to increase. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: The US being a rich country is one reason why NASA’s funding should not be decreased.
+
+--------------------------------------------------
+PassageID: 2
+Passage: Consider the following two claims: Claim 1: I believe research into Artificial Intelligence should be banned much like Nuclear Weapon technology. and Claim2: Unlike Nuclear Weapon technology, I believe research into Artificial Intelligence should be encouraged.
+
+Questions:
+QuestionID: 0
+Question: Perspective: Given these concerns about the effectiveness of blanket bans, I believe that AI researchers should instead be thinking of more proactive technical solutions to ameliorate potential misuses of AI technologies. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since blanket bans are ineffective, AI research should not be banned.
+
+QuestionID: 1
+Question: Perspective: Given these concerns about the effectiveness of blanket bans, I believe that AI researchers should instead be thinking of more proactive technical solutions to ameliorate potential misuses of AI technologies. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since blanket bans are ineffective, AI research should be encouraged so that it comes up with ways to prevent misuse. 
+
+QuestionID: 2
+Question: Perspective: Doing so could mean that we are asking too much of technology. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should AI research be banned.
+
+QuestionID: 3
+Question: Perspective: Doing so could mean that we are asking too much of technology. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should AI research be banned.
+
+QuestionID: 4
+Question: Perspective: Should one military power start developing systems capable of selecting targets and operating autonomously without direct human control, it would start an arms race similar to the one for the atom bomb, the authors argue.Unlike nuclear weapons, however, AI requires no specific hard-to-create materials and will be difficult to monitor. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since AI solutions for the military are difficult to monitor and easy to make, AI research should be banned.
+
+QuestionID: 5
+Question: Perspective: Should one military power start developing systems capable of selecting targets and operating autonomously without direct human control, it would start an arms race similar to the one for the atom bomb, the authors argue.Unlike nuclear weapons, however, AI requires no specific hard-to-create materials and will be difficult to monitor. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since AI solutions for the military are difficult to monitor and easy to make, AI research should not be encouraged.
+
+QuestionID: 6
+Question: Perspective: The authors argue that AI can be used to make the battlefield a safer place for military personnel, but that offensive weapons that operate on their own would lower the threshold of going to battle and result in greater loss of human life. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since AI would make the battlefield safer, AI research should not be banned.
+
+QuestionID: 7
+Question: Perspective: The authors argue that AI can be used to make the battlefield a safer place for military personnel, but that offensive weapons that operate on their own would lower the threshold of going to battle and result in greater loss of human life. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since AI would make the battlefield safer, AI research should be encouraged.
+
+QuestionID: 8
+Question: Perspective: Apart from the difficulty of pinning down exactly what the ban entails for states that want to follow it – is the ban against autonomy or intelligence?. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Difficulty in elaborating on what such a ban would mean is one reason why AI research should not be banned.
+
+QuestionID: 9
+Question: Perspective: Apart from the difficulty of pinning down exactly what the ban entails for states that want to follow it – is the ban against autonomy or intelligence?. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: A ban on AI research could be seen as a ban on autonomy and intelligence which is why AI research should be encouraged.
+
+QuestionID: 10
+Question: Perspective: Misuses of it can thus be as hard to control by fiat and bans – as with cyber warfare, for example. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Difficulty in enforcement is one reason why AI research should not be banned.
+
+QuestionID: 11
+Question: Perspective: Misuses of it can thus be as hard to control by fiat and bans – as with cyber warfare, for example. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Difficulty in enforcement is one reason why AI research should be encouraged.
+
+QuestionID: 12
+Question: Perspective: Smoking shouldn't be banned. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should AI research be banned.
+
+QuestionID: 13
+Question: Perspective: Smoking shouldnt be banned. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should AI research be banned.
+
+QuestionID: 14
+Question: Perspective: This would render such bans at best a pyrrhic victory for the proponents of peace, and at worst entail the ironic and unintended effect of tying the hands of the “good actors” behind their backs, while doing little to stop the bad ones. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: A ban on AI research may do more harm than good which is why AI research should not be banned.
+
+QuestionID: 15
+Question: Perspective: This would render such bans at best a pyrrhic victory for the proponents of peace, and at worst entail the ironic and unintended effect of tying the hands of the “good actors” behind their backs, while doing little to stop the bad ones. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: A ban on AI research may do more harm than good which is why AI research should be encouraged.
+
+QuestionID: 16
+Question: Perspective: Given these significantly lower barriers to entry, even if the UN and some constituent states agreed to a ban, it is far from clear that it would stop other rogue state and non-state actors from procuring and deploying such technology for malicious purposes. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Difficulty in enforcement would make bans ineffective which is why AI research should not be banned.
+
+QuestionID: 17
+Question: Perspective: Given these significantly lower barriers to entry, even if the UN and some constituent states agreed to a ban, it is far from clear that it would stop other rogue state and non-state actors from procuring and deploying such technology for malicious purposes. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Difficulty in enforcement would make bans ineffective which is why AI research should be encouraged.
+
+QuestionID: 18
+Question: Perspective: If I choose to go somewhere, I should be allowed to smoke there. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should AI research be banned.
+
+QuestionID: 19
+Question: Perspective: If I choose to go somewhere, I should be allowed to smoke there. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should AI research be banned.
+
+QuestionID: 20
+Question: Perspective: Countries need to design nuclear devices to adapt with changing defensive technology. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should AI research be banned.
+
+QuestionID: 21
+Question: Perspective: Countries need to design nuclear devices to adapt with changing defensive technology. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should AI research be banned.
+
+QuestionID: 22
+Question: Perspective: I am gratified that my colleagues are volunteering their efforts to ensure beneficial uses of artificial intelligence (AI) technology. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: The benefits of AI is one reason why AI research should not be banned.
+
+QuestionID: 23
+Question: Perspective: I am gratified that my colleagues are volunteering their efforts to ensure beneficial uses of artificial intelligence (AI) technology. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: The benefits of AI is one reason why AI research should be encouraged.
+
+QuestionID: 24
+Question: Perspective: Adverts create funding to enable research into better drugs. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should AI research be banned.
+
+QuestionID: 25
+Question: Perspective: Adverts create funding to enable research into better drugs. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should AI research be banned.
+
+QuestionID: 26
+Question: Perspective: Subbarao Kambhampati is a professor of computer science at Arizona State University, and the president of the Association for the Advancement of Artificial Intelligence. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should AI research be banned.
+
+QuestionID: 27
+Question: Perspective: Subbarao Kambhampati is a professor of computer science at Arizona State University, and the president of the Association for the Advancement of Artificial Intelligence. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should AI research be banned.
+
+--------------------------------------------------
+PassageID: 3
+Passage: Consider the following two claims: Claim 1: There is no productive reason to have, "Under God" in the US Pledge of Allegiance and, "In God We Trust" on the dollar bill. and Claim2: It is essential to have, "Under God" in the US Pledge of Allegiance and, "In God We Trust" on the dollar bill.
+
+Questions:
+QuestionID: 0
+Question: Perspective: “Under God” is part of American tradition and history. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Being a part of the tradition is one reason why it should be in the Pledge of Allegiance.
+
+QuestionID: 1
+Question: Perspective: “Under God” is part of American tradition and history. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Being a part of the tradition is one reason why it should be in the Pledge of Allegiance.
+
+QuestionID: 2
+Question: Perspective: Removing under god would promote religious tolerance. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Promoting religious tolerance could be a reason why they should be removed. 
+
+QuestionID: 3
+Question: Perspective: Removing under god would promote religious tolerance. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation:  Promoting religious tolerance could be a reason why they should not be present.
+
+QuestionID: 4
+Question: Perspective: Keeping the word "God" in the pledge of allegiance discriminates against those who do not believe in God. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Such a discrimination is why they should be removed.
+
+QuestionID: 5
+Question: Perspective: Keeping the word "God" in the please of allegiance discriminates against those who do not believe in God. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Such a discrimination is why they should not be present.
+
+QuestionID: 6
+Question: Perspective: There is evidence that god exists. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: The existence of god is one reason why they should not be removed.
+
+QuestionID: 7
+Question: Perspective: There is evidence that god exists. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: The existence of god is one reason why they should be present.
+
+QuestionID: 8
+Question: Perspective: The Bible says God created the world. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: God being the creator of the world is one reason why they should not be removed.
+
+QuestionID: 9
+Question: Perspective: The Bible says God created the world. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: God being the creator of the world is one reason why they should be present.
+
+QuestionID: 10
+Question: Perspective: This is why we believe in God: -. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Belief in God is one reason why they should not be removed.
+
+QuestionID: 11
+Question: Perspective: This is why we believe in God: -. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Belief in God is one reason why they should be present.
+
+QuestionID: 12
+Question: Perspective: Science can support the existence of God. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Scientific support for God’s existence is one reason why they should not be removed.
+
+QuestionID: 13
+Question: Perspective: Science can support the existance of God. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Scientific support for God’s existence is one reason why they should be present.
+
+QuestionID: 14
+Question: Perspective: The US had to take action in the circumstances under War Powers. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should the word ‘god’ appear in the pledge of allegiance and the dollar bill.
+
+QuestionID: 15
+Question: Perspective: The US had to take action in the circumstances under War Powers. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should the word ‘god’ appear in the pledge of allegiance and the dollar bill.
+
+QuestionID: 16
+Question: Perspective: Life is ridiculous without a God.  Belief in God is the only sane thing we discuss. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: The positive effect of belief in god is one reason why they should not be removed.
+
+QuestionID: 17
+Question: Perspective: Life is ridiculous without a God.  Belief in God is the only sane thing we discuss. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: The positive effect of belief in god is one reason why they should be present.
+
+QuestionID: 18
+Question: Perspective: It's not a statement about orthodox religious dogma but it does imply a broadly shared moral worldview. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since they represent a shared moral worldview, they should not be removed.
+
+QuestionID: 19
+Question: Perspective: It's not a statement about orthodox religious dogma but it does imply a broadly shared moral worldview. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since they represent a shared moral worldview, they should be present.
+
+QuestionID: 20
+Question: Perspective: The introduction to the article claims "support for Judeo-Christian values". What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should the word ‘god’ appear in the pledge of allegiance and the dollar bill.
+
+QuestionID: 21
+Question: Perspective: The introduction to the article claims "support for Judeo-Christian values". What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should the word ‘god’ appear in the pledge of allegiance and the dollar bill.
+
+QuestionID: 22
+Question: Perspective: Children should not be forced to pledge allegiance until they understand all the ramifications of such a pledge. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since children are too young to decide whether or not God exists, they should be removed to avoid biasing them.
+
+QuestionID: 23
+Question: Perspective: Children should not be forced to pledge allegiance until they understand all the ramifications of such a pledge. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since children are too young to decide whether or not God exists, they should not be present to avoid biasing them.
+
+QuestionID: 24
+Question: Perspective: our lives belong to god. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since we are indebted to god, they should not be removed.
+
+QuestionID: 25
+Question: Perspective: our lives belong to god. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since we are indebted to god, they should be present.
+
+QuestionID: 26
+Question: Perspective: If there were a God there would be irrefutable evidence of His existence and people would feel compelled to believe by the fact of it:. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: There would be no need to reinforce the belief in god this way while there is other irrefutable evidence and hence they should be removed.
+
+QuestionID: 27
+Question: Perspective: If there were a God there would be irrefutable evidence of His existence and people would feel compelled to belief by the fact of it:. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: There would be no need to reinforce the belief in god this way while there is other irrefutable evidence and hence they should not be present.
+
+--------------------------------------------------
+PassageID: 4
+Passage: Consider the following two claims: Claim 1: should active euthanasia be legalized worldwide and Claim2: Active euthanasia should be banned worldwide .
+
+Questions:
+QuestionID: 0
+Question: Perspective: To deny this right is to prolong the suffering for individuals and families, something that I can simply not condone. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Prolonging people’s suffering is wrong which is why euthanasia should be legalized.
+
+QuestionID: 1
+Question: Perspective: To deny this right is to prolong the suffering for individuals and families, something that I can simply not condone. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Prolonging people’s suffering is wrong which is why euthanasia should not be banned.
+
+QuestionID: 2
+Question: Perspective: The goals of the medical profession should continue to remain one of saving lives but this should not be at the expense of compassion and a terminally ill individual's right to choose to end his or her life and die with dignity. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Respecting people’s right to choose is one reason why euthanasia should be legalized.
+
+QuestionID: 3
+Question: Perspective: The goals of the medical profession should continue to remain one of saving lives but this should not be at the expense of compassion and a terminally ill individual's right to choose to end his or her life and die with dignity. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Respecting people’s right to choose is one reason why euthanasia should not be banned.
+
+QuestionID: 4
+Question: Perspective: To allow a terminally ill individual to end their life is the only humane, rational and compassionate choice. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Showing compassion to people’s sufferings is one reason why euthanasia should be legalized.
+
+QuestionID: 5
+Question: Perspective: To allow a terminally ill individual to end their life is the only humane, rational and compassionate choice. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Showing compassion to people’s sufferings is one reason why euthanasia should not be banned.
+
+QuestionID: 6
+Question: Perspective: Many people are opposed to legislation that would allow "end of life" choices. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since many people are against it, euthanasia should not be legalized.
+
+QuestionID: 7
+Question: Perspective: Many people are opposed to legislation that would allow "end of life" choices. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since many people are against it, euthanasia should be banned.
+
+QuestionID: 8
+Question: Perspective: The ability of the wealthy to travel to countries where it is lawful for the terminally ill to end their lives has the discriminatory impact of treating the haves and have-nots unequally. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: To avoid such a discrimination, euthanasia should be legalized.
+
+QuestionID: 9
+Question: Perspective: The ability of the wealthy to travel to countries where it is lawful for the terminally ill to end their lives has the discriminatory impact of treating the haves and have-nots unequally. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: To avoid such a discrimination, euthanasia should not be banned.
+
+QuestionID: 10
+Question: Perspective: • The patient must be terminally ill. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should euthanasia be legalized.
+
+QuestionID: 11
+Question: Perspective: • The patient must be terminally ill. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should euthanasia be legalized.
+
+QuestionID: 12
+Question: Perspective: Medical science allows us to control death, suicide and euthanasia are sensible corollaries to that. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since euthanasia is not far-fetched from what existing medical procedures achieve, it should be legalized.
+
+QuestionID: 13
+Question: Perspective: Medical science allows us to control death, suicide and euthanasia are sensible corollaries to that. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since euthanasia is not far-fetched from what existing medical procedures achieve, it should not be banned.
+
+QuestionID: 14
+Question: Perspective: In conclusion, the only humane choice is to allow individuals who are suffering to choose to end their suffering. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Legalizing euthanasia is the only humane thing to do.
+
+QuestionID: 15
+Question: Perspective: In conclusion, the only humane choice is to allow individuals who are suffering to choose to end their suffering. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Banning euthanasia would be inhumane.
+
+QuestionID: 16
+Question: Perspective: Efforts to change government policies on euthanasia of humans in the 20th and 21st centuries have met limited success in Western countries. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should euthanasia be legalized.
+
+QuestionID: 17
+Question: Perspective: Efforts to change government policies on euthanasia of humans in the 20th and 21st centuries have met limited success in Western countries. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not should euthanasia be legalized.
+
+--------------------------------------------------
+PassageID: 5
+Passage: Consider the following two claims: Claim 1: should they pay college athletes and Claim2: should they ask college athletes to play for free? .
+
+Questions:
+QuestionID: 0
+Question: Perspective: College sports should be for competition not money. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since sports are not for money, they should not be paid.
+
+QuestionID: 1
+Question: Perspective: College sports should be for competition not money. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since sports are not for money, they should play for free.
+
+QuestionID: 2
+Question: Perspective: This leaves the student without the ability to play or earn an education. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Supporting the student’s education financially is one reason why they should be paid.
+
+QuestionID: 3
+Question: Perspective: This leaves the student without the ability to play or earn an education. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Supporting the student’s education financially is one reason why they should not be asked to play for free.
+
+QuestionID: 4
+Question: Perspective: The tragedy at the heart of college sports is not that some college athletes are getting paid, but that more of them are not. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since not getting paid is tragic, athletes should be paid.
+
+QuestionID: 5
+Question: Perspective: The tragedy at the heart of college sports is not that some college athletes are getting paid, but that more of them are not. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since not getting paid is tragic, athletes should not be asked to play for free.
+
+QuestionID: 6
+Question: Perspective: Celebrities, like athletes, enhance the nation’s image and generate revenue. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not athletes should be paid.
+
+QuestionID: 7
+Question: Perspective: Celebrities, like athletes, enhance the nation’s image and generate revenue. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not athletes should be paid.
+
+QuestionID: 8
+Question: Perspective: When you combine so much money with such high, almost tribal, stakes—football boosters are famously rabid in their zeal to have their alma mater win—corruption is likely to follow. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since money can motivate people to take wrong ways, athletes should not be paid.
+
+QuestionID: 9
+Question: Perspective: When you combine so much money with such high, almost tribal, stakes—football boosters are famously rabid in their zeal to have their alma mater win—corruption is likely to follow. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since money can motivate people to take wrong ways, athletes should be asked to play for free.
+
+QuestionID: 10
+Question: Perspective: Educators are in thrall to their athletic departments because of these television riches and because they respect the political furies that can burst from a locker room. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not athletes should be paid.
+
+QuestionID: 11
+Question: Perspective: Educators are in thrall to their athletic departments because of these television riches and because they respect the political furies that can burst from a locker room. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not athletes should be paid.
+
+QuestionID: 12
+Question: Perspective: I’ve been writing about this issue for several years now calling for college athletes to be paid the wages that they deserve and am sad to acknowledge that very little has changed since I was a college athlete at UCLA, so poor that I and most of my teammates could barely scrape by. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since athletes are struggling to barely scrape, they should be paid.
+
+QuestionID: 13
+Question: Perspective: I’ve been writing about this issue for several years now calling for college athletes to be paid the wages that they deserve and am sad to acknowledge that very little has changed since I was a college athlete at UCLA, so poor that I and most of my teammates could barely scrape by. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since athletes are struggling to barely scrape, they should not be asked to play for free.
+
+QuestionID: 14
+Question: Perspective: The NCAA, in its zealous defense of bogus principles, sometimes destroys the dreams of innocent young athletes. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not athletes should be paid.
+
+QuestionID: 15
+Question: Perspective: The NCAA, in its zealous defense of bogus principles, sometimes destroys the dreams of innocent young athletes. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not athletes should be paid.
+
+QuestionID: 16
+Question: Perspective: Protecting young and vulnerable athletes. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: To protect the young athletes, they should be paid.
+
+QuestionID: 17
+Question: Perspective: Protecting young and vulnerable athletes. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: To protect the young athletes, they should not be asked to play for free.
+
+QuestionID: 18
+Question: Perspective: Observers on all sides express jumbled emotions about youth and innocence, venting against professional mores or greedy amateurs. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not athletes should be paid.
+
+QuestionID: 19
+Question: Perspective: Observers on all sides express jumbled emotions about youth and innocence, venting against professional mores or greedy amateurs. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not athletes should be paid.
+
+QuestionID: 20
+Question: Perspective: Encouraging future female athletes. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: If athletes were paid, that could serve as a motivation for future female atheletes.
+
+QuestionID: 21
+Question: Perspective: Encouraging future female athletes. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: If athletes played for free, there would be no additional motivation for future female athletes.
+
+QuestionID: 22
+Question: Perspective: The government shouldn't pay for financial assistance. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not athletes should be paid.
+
+QuestionID: 23
+Question: Perspective: The government shouldn't pay for financial assistance. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not athletes should be paid.
+
+QuestionID: 24
+Question: Perspective: The list of scandals goes on. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not athletes should be paid.
+
+QuestionID: 25
+Question: Perspective: The list of scandals goes on. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not athletes should be paid.
+
+--------------------------------------------------
+PassageID: 6
+Passage: Consider the following two claims: Claim 1: I believe religion, no matter which one, has always just been used to oppress people and has nothing good in it and Claim2: I believe religion is beneficial to people, despite having been used to oppress people.
+
+Questions:
+QuestionID: 0
+Question: Perspective: No it has proved the opposite. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 1
+Question: Perspective: No it has proved opposite. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 2
+Question: Perspective: American society has always been deeply ambivalent about this question. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 3
+Question: Perspective: American society has always been deeply ambivalent about this question. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 4
+Question: Perspective: Spirituality has no place in science. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since religion is not scientific, religion is not beneficial.
+
+QuestionID: 5
+Question: Perspective: Spirituality has no place in science. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since religion is not scientific, religion is not beneficial.
+
+QuestionID: 6
+Question: Perspective: It's not like no one has ever asked them before. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 7
+Question: Perspective: It's not like no one has ever asked them before. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 8
+Question: Perspective: It has been proven that Vegetarians Live Longer. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 9
+Question: Perspective: It has been proven that Vegetarians Live Longer. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 10
+Question: Perspective: Blood has been spilt. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 11
+Question: Perspective: Blood has been spilt. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 12
+Question: Perspective: When groups feel threatened, they retreat into tribalism. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 13
+Question: Perspective: When groups feel threatened, they retreat into tribalism. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 14
+Question: Perspective: It has later been extremely well documented the the. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 15
+Question: Perspective: It has later been extremely well documented the the. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 16
+Question: Perspective: Despite attempts at aid it has only been detrimental to Africa. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 17
+Question: Perspective: Despite attempts at aid it has only been detrimental to Africa. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 18
+Question: Perspective: As a result, many on the left have turned against universalist rhetoric (for example, All Lives Matter), viewing it as an attempt to erase the specificity of the experience and oppression of historically marginalized minorities. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 19
+Question: Perspective: As a result, many on the left have turned against universalist rhetoric (for example, All Lives Matter), viewing it as an attempt to erase the specificity of the experience and oppression of historically marginalized minorities. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 20
+Question: Perspective: When groups feel mistreated and disrespected, they close ranks and become more insular, more defensive, more punitive, more us-versus-them. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 21
+Question: Perspective: When groups feel mistreated and disrespected, they close ranks and become more insular, more defensive, more punitive, more us-versus-them. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 22
+Question: Perspective: It's been too long and reparations no longer matter. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 23
+Question: Perspective: It's been too long and reparations no longer matter. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 24
+Question: Perspective: For today’s Left, blindness to group identity is the ultimate sin, because it masks the reality of group hierarchies and oppression in America. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 25
+Question: Perspective: For today’s Left, blindness to group identity is the ultimate sin, because it masks the reality of group hierarchies and oppression in America. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 26
+Question: Perspective: Reality TV has always been the guidebook for this presidency. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+QuestionID: 27
+Question: Perspective: Reality TV has always been the guidebook for this presidency. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not is religion beneficial. 
+
+--------------------------------------------------
+PassageID: 7
+Passage: Consider the following two claims: Claim 1: I think religion has a place in politics. and Claim2: I think religion should not have a place in politics.
+
+Questions:
+QuestionID: 0
+Question: Perspective: People in power who think they've got a personal pipeline to the divine make me nervous. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Possible discrimination against other beliefs is one reason why religion should not have a place in politics.
+
+QuestionID: 1
+Question: Perspective: People in power who think they've got a personal pipeline to the divine make me nervous. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Possible discrimination against other beliefs is one reason why religion should not have a place in politics.
+
+QuestionID: 2
+Question: Perspective: So, I don't like the role that religion – to be specific, Christianity – plays too often in American politics. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since religion can have a bad influence on politics, they should not have a place in politics.
+
+QuestionID: 3
+Question: Perspective: So, I don't like the role that religion – to be specific, Christianity – plays too often in American politics. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since religion can have a bad influence on politics, they should not have a place in politics.
+
+QuestionID: 4
+Question: Perspective: Religion gives people a reason to live. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since religion serves an important purpose, it should have a place in politics.
+
+QuestionID: 5
+Question: Perspective: Religion gives people a reason to live. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since religion serves an important purpose, it should have a place in politics.
+
+QuestionID: 6
+Question: Perspective: Most Democrats don't understand that politics is more like religion than it is like shopping. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Poor understanding of politicians is one reason why religion should not have a place in politics.
+
+QuestionID: 7
+Question: Perspective: Most Democrats don't understand that politics is more like religion than it is like shopping. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Poor understanding of politicians is one reason why religion should not have a place in politics.
+
+QuestionID: 8
+Question: Perspective: Practicing your religion is a right, not a privilege. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Right to practice one’s beliefs is a reason why religion should be allowed in politics.
+
+QuestionID: 9
+Question: Perspective: Practicing your religion is a right, not a privilege. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Right to practice one’s beliefs is a reason why religion should not be banned from politics.
+
+QuestionID: 10
+Question: Perspective: The “great secular hope” was that religion would fade out of the political landscape, Spencer writes. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Spencer hoped that religion would eventually not have a place in politics.
+
+QuestionID: 11
+Question: Perspective: The “great secular hope” was that religion would fade out of the political landscape, Spencer writes. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Spencer hoped that religion would eventually not have a place in politics.
+
+QuestionID: 12
+Question: Perspective: Politics involved in this system put world safety in jeopardy. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since religion might jeopardize world safety, it should have no place in politics.
+
+QuestionID: 13
+Question: Perspective: Politics involved in this system put world safety in jeopardy. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since religion might jeopardize world safety, it should have no place in politics.
+
+QuestionID: 14
+Question: Perspective: Religion is unnecessary. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since it is unnecessary, religion should not have a place in politics.
+
+QuestionID: 15
+Question: Perspective: Religion is unnecessary. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since it is unnecessary, religion should not have a place in politics.
+
+QuestionID: 16
+Question: Perspective: It is a mockery of religion. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since mixing religion with politics would lead to its mockery, it should not have a place in politics.
+
+QuestionID: 17
+Question: Perspective: It is a mockery of religion. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since mixing religion with politics would lead to its mockery, it should not have a place in politics.
+
+QuestionID: 18
+Question: Perspective: There is not a place for religion in public schools. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since there is no place for religion in schools, neither should there be place for it in politics.
+
+QuestionID: 19
+Question: Perspective: There is not a place for religion in public schools. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since there is no place for religion in schools, neither should there be place for it in politics.
+
+QuestionID: 20
+Question: Perspective: Spirituality has no place in science. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not religion should have a place in politics.
+
+QuestionID: 21
+Question: Perspective: Spirituality has no place in science. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not religion should have a place in politics.
+
+QuestionID: 22
+Question: Perspective: Celebrities becoming involved in politics can be detrimental to democracy. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not religion should have a place in politics.
+
+QuestionID: 23
+Question: Perspective: Celebrities becoming involved in politics can be detrimental to democracy. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not religion should have a place in politics.
+
+QuestionID: 24
+Question: Perspective: Politics should not include the head of the state as in a monarchy. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not religion should have a place in politics.
+
+QuestionID: 25
+Question: Perspective: Politics should not include the head of the state as in a monarchy. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why not religion should have a place in politics.
+
+QuestionID: 26
+Question: Perspective: No, we weren't created to be a Christian nation, even though the Founding Fathers had Christians in their ranks. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since the intention was not to create a religious state, religion should not have a place in politics.
+
+QuestionID: 27
+Question: Perspective: No, we weren't created to be a Christian nation, even though the Founding Fathers had Christians in their ranks. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since the intention was not to create a religious state, religion should not have a place in politics.
+
+--------------------------------------------------
+PassageID: 8
+Passage: Consider the following two claims: Claim 1: Philosophy has no tangible value as an academic field of study. and Claim2: Philosophy does have tangible values as an academic field of study.
+
+Questions:
+QuestionID: 0
+Question: Perspective: Philosophers have investigated the criteria by which a scientific theory can be said to have successfully explained a phenomenon, as well as what it means to say a scientific theory has explanatory power. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since philosophy can be used to speak about the explainability of a theory, it does have tangible benefits.
+
+QuestionID: 1
+Question: Perspective: Philosophers have investigated the criteria by which a scientific theory can be said to have successfully explained a phenomenon, as well as what it means to say a scientific theory has explanatory power. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since philosophy can be used to speak about the explainability of a theory, it does have tangible benefits.
+
+QuestionID: 2
+Question: Perspective: Philosophies of the particular sciences range from questions about the nature of time raised by Einstein's general relativity, to the implications of economics for public policy. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since questions in philosophy have wide-ranging manifestations, it does have tangible values of an academic study.
+
+QuestionID: 3
+Question: Perspective: Philosophies of the particular sciences range from questions about the nature of time raised by Einstein's general relativity, to the implications of economics for public policy. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since questions in philosophy have wide-ranging manifestations, it does have tangible values of an academic study.
+
+QuestionID: 4
+Question: Perspective: In their view, whether theories are true or not is beside the point, because the purpose of science is to make predictions and enable effective technology. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 5
+Question: Perspective: In their view, whether theories are true or not is beside the point, because the purpose of science is to make predictions and enable effective technology. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 6
+Question: Perspective: The individual's voice has a much higher perceived value than it has in the past. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 7
+Question: Perspective: The individual's voice has a much higher perceived value than it has in the past. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 8
+Question: Perspective: Academic work produced by means of public funds belongs to the public. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 9
+Question: Perspective: Academic work produced by means of public funds belongs to the public. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 10
+Question: Perspective: The idea of the general will is at the heart of Rousseau's philosophy. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 11
+Question: Perspective: The idea of the general will is at the heart of Rousseau's philosophy. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 12
+Question: Perspective: a good option for an un-academic child. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 13
+Question: Perspective: a good option for an un-academic child. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 14
+Question: Perspective: Veganism is a philosophy and way of life and a vegan diet is a part of it. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 15
+Question: Perspective: Veganism is a philosophy and way of life and a vegan diet is a part of it. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 16
+Question: Perspective: Philosophy of science is a sub-field of philosophy concerned with the foundations, methods, and implications of science. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since philosophy can be used to study the methods and implications of science, an academic study, it does have tangible values of an academic study.
+
+QuestionID: 17
+Question: Perspective: Philosophy of science is a sub-field of philosophy concerned with the foundations, methods, and implications of science. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since philosophy can be used to study the methods and implications of science, an academic study, it does have tangible values of an academic study.
+
+QuestionID: 18
+Question: Perspective: Finally, a tradition in continental philosophy approaches science from the perspective of a rigorous analysis of human experience. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: neg
+Explanation: Since some branches of philosophy do involve rigorous analysis, it does have tangible values of an academic study.
+
+QuestionID: 19
+Question: Perspective: Finally, a tradition in continental philosophy approaches science from the perspective of a rigorous analysis of human experience. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: pos
+Explanation: Since some branches of philosophy do involve rigorous analysis, it does have tangible values of an academic study.
+
+QuestionID: 20
+Question: Perspective: There is no such thing as intellectual property, since you cannot own an idea:. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 21
+Question: Perspective: There is no such thing as intellectual property, since you cannot own an idea:. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 22
+Question: Perspective: This article is about the concept. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 23
+Question: Perspective: This article is about the concept. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 24
+Question: Perspective: No it has proved opposite. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 25
+Question: Perspective: No it has proved opposite. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 26
+Question: Perspective: One approach is to acknowledge that induction cannot achieve certainty, but observing more instances of a general statement can at least make the general statement more probable. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+QuestionID: 27
+Question: Perspective: One approach is to acknowledge that induction cannot achieve certainty, but observing more instances of a general statement can at least make the general statement more probable. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?
+Answer: unk
+Explanation: This perspective does not speak to why or why doesn’t philosophy have tangible benefits.
+
+--------------------------------------------------
+
+

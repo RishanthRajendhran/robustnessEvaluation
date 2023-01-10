@@ -1,0 +1,686 @@
+[
+    {
+        "original_claim": "I believe authoritarian regimes are better for minorities in the middle east. .",
+        "contrast_claim": "I believe authoritarian regimes hurt minorities in the middle east.",
+        "perspectives": [
+            {
+                "perspective": "It Harms Ethnic Minorities",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The remaining countries of the Middle East are categorized as authoritarian regimes, with the lowest scores held by Saudi Arabia and Yemen.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "I know it's bad for me.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Alternatives are better",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "There are a number of pro-democracy movements in the Middle East.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Does not provide guarantees for the protection of other Russian minorities",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The 'Middle Way' has international support",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "A prominent figure in this movement is Saad Eddin Ibrahim who advocates and campaigns for democracy in Egypt and the wider region, working with the Ibn Khaldun Centre for Development Studies[17] and serving on the Board of Advisors for the Project on Middle East Democracy.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Freedom House categorizes Israel and Tunisia as \"Free\".",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "score Freedom",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The 1957 Eisenhower Doctrine was the beginning of a policy of American democracy promotion in the Middle East and North Africa (MENA), leading, for example, to American intervention on behalf of the democratically elected government in the 1958 Lebanon crisis.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "liberties Regime",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It is better for them in the long run",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "in the long run children are better off with rules and restrictions",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "Soccer will never become a major sport in the US.",
+        "contrast_claim": "Soccer is already a major sport in the US.",
+        "perspectives": [
+            {
+                "perspective": "It undermines the reputation of a sport.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "There\u2019s the competition too.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Participation in sport promotes a healthy lifestyle",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It's another in a long list of changes that will make this sport better than it already is.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Without the beacon of a pro league, soccer was relegated to leagues of dedicated immigrants who shrugged off the scorn of the neighbors who eagerly assimilated into \u201cAmerican\u201d sports like gridiron football, baseball and basketball.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It's a major part of the game.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It\u2019s certainly close to thriving here in the States.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The internet will become better",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The use of animals in sport demeans humans",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The use of animals in sport is demeaning to humans.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "And maybe a wave of talent can coincide with a run of good luck as it did in 2002, when the US men made it to the quarter-finals.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The USA had a good foothold 90 years ago, with a promising young American Soccer League providing the backbone of the players who reached the 1930 World Cup semi-finals (although only 13 teams entered.)",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "They are entertaining and inspirational to young women all over the world.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Using animals in sport demeans humans.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should there be an ethics to technology",
+        "contrast_claim": "should there be no ethics boundaries to technology",
+        "perspectives": [
+            {
+                "perspective": "In the latter case, the ethics of technology quickly break down into the ethics of various human endeavors as they are altered by new technologies.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Technoethics involves the ethical aspects of technology within a society that is shaped by technology.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Lastly,we should also remember that ethic's is a very broadly defined term which is incompetent to influence something as fast changing and ever improving field as technology.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Technoethical perspectives are constantly in transition as technology advances in areas unseen by creators, as users change the intended uses of new technologies.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Technoethics views technology and ethics as socially embedded enterprises and focuses on discovering the ethical use of technology, protecting against the misuse of technology[2], and devising common principles to guide new advances in technological development and application to benefit society.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "It is often held that technology itself is incapable of possessing moral or ethical qualities, since \"technology\" is merely tool making.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Whether merely a lifeless amoral 'tool' or a solidified embodiment of human values \"ethics of technology\" refers to two basic subdivisions:-",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The ethics involved in the development of new technology\u2014whether it is always, never, or contextually right or wrong to invent and implement a technological innovation.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The short term and longer term ethical considerations for technologies do not just engage the creator and producer but makes the user question their beliefs in correspondence with this technology and how governments must allow, react to, change, and/or deny technologies.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Using theories and methods from multiple domains, technoethics provides insights on ethical aspects of technological systems and practices, examines technology-related social policies and interventions, and provides guidelines for how to ethically use new advancements in technology.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Technoethics [ edit ]",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "There is no need for an AU force",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Technology is ready and available and proven to be robust",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Technology is available",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "Cloth car seats are better than leather",
+        "contrast_claim": "Leather car seats are better than cloth.",
+        "perspectives": [
+            {
+                "perspective": "Better car and medical technology has saved lives, not cameras",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "There are better, more sustainable options available.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Iron from meat is often cited as better than vegetables.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Cameras don't save lives, better car and medical technology do,",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Under these conditions Presstoff tends to delaminate and lose cohesion.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "A fermentation method of making collagen, the main chemical in real leather, is under development.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It is better to save lives than stand idly by.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Patients will be better informed than under the status quo",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Clothing and fabric uses [ edit ]",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Other methods of justice work far better than rehabilitation",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "But some are worse than others.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "State resources could be better used in areas other than supporting free university education",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Despite sometimes numerous hardware issues, Macs continue are better than PCs for many reasons",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Many different methods for the manufacture of imitation leathers have been developed.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "I think that \"bodily autonomy\", by itself, is a horrible reason to justify abortion. .",
+        "contrast_claim": "Bodily autonomy is a good justification to abortion.",
+        "perspectives": [
+            {
+                "perspective": "Abortion promotes a culture in which human life is disposable.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "They shouldn\u2019t have to justify wanting bodily autonomy.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Abortion could be a potential detriment to society.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "I think they should have these rights.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Abortion is justified as a means of population control.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The US Supreme Court has declared abortion to be a \"fundamental right\" guaranteed by the US Constitution.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "I hold that it is an excellent thing for a doctor to practise forecasting.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Provides autonomy for developing countries",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Mary Anne Warren, in her article arguing for the permissibility of abortion,[2] holds that moral opposition to abortion is based on the following argument:",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Participation Is Good In Itself",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Abortion is unconstitutional.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The view that abortion should in most or all circumstances be legal generally rests on the claims: (1) that women have a right to control what happens in and to their own bodies; (2) that abortion is a just exercise of this right; and (3) that the law should not criminalize just exercises of the right to control one's own body and its life-support functions.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "I think the right to receive publications is such a fundamental right.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Religion gives people a reason to live",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "It's not racist to say that you would never date a black / asian / white (etc) person because we're entitled to ANY sexual preference without prejudices.",
+        "contrast_claim": "It's racist to say that you would never date a black / asian / white (etc) person because we're entitled to ANY sexual preference without prejudices.",
+        "perspectives": [
+            {
+                "perspective": "Where will you get the chance to say what you really mean?",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "You won't get any.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It would never work",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "LGBT publications are guilty too.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "There are some things you simply never want to say at work.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "We're not free to report as we should anymore.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Shangela, an actor, tells me that racism from the LGBT community \u201churts more because it\u2019s coming from people that I\u2019m meant to share a kinship with\u201d.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The rainbow flag is whiter than it appears.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Indians are not my type.\u201d",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "As Rodriguez puts it, seeing dating app profiles rejecting entire ethnic groups causes \u201cinternalised racism, decreased self-esteem and psychological distress.\u201d",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "\u201cThe gay media is completely whitewashed.\u201d",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Because you can play golf without breaking a sweat, and drink and smoke while doing it,  it is not a sport.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "And then there\u2019s the other side of the equation: objectification.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Racism is a serious problem within the LGBT community and needs to be addressed.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "We need to keep working on A.I., even if this could mean the end of the human race",
+        "contrast_claim": "We should stop working on A.I. because A.I. could mean the end of the human race",
+        "perspectives": [
+            {
+                "perspective": "AGI would be capable of recursive self-improvement, leading to the rapid emergence of artificial superintelligence (ASI), the limits of which are unknown, shortly after technological singularity is achieved.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Public figures such as Stephen Hawking and Elon Musk have expressed concern that full artificial intelligence could result in human extinction.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "It is speculated that over many iterations, such an AI would far surpass human cognitive abilities.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "If a superhuman intelligence were to be invented\u2014either through the amplification of human intelligence or through artificial intelligence\u2014it would bring to bear greater problem-solving and inventive skills than current humans are capable of.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Good's scenario runs as follows: as computers increase in power, it becomes possible for people to build a machine that is more intelligent than humanity; this superhuman intelligence possesses greater problem-solving and inventive skills than current humans are capable of.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Intelligence explosion is a possible outcome of humanity building artificial general intelligence (AGI).",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "A number of futures studies scenarios combine elements from both of these possibilities, suggesting that humans are likely to interface with computers, or upload their minds to computers, in a way that enables substantial intelligence amplification.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Technology forecasters and researchers disagree about if or when human intelligence is likely to be surpassed.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Doing so could mean that we are asking too much of technology",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "We could spend the money elsewhere.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "There is no need to do this when the market has already limited working hours",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Most proposed methods for creating superhuman or transhuman minds fall into one of two categories: intelligence amplification of human brains and artificial intelligence.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Non-AI singularity [ edit ]",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Where will this then end...",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "A female president wouldn't run a nation as well as a man",
+        "contrast_claim": "A female president would be as good as male preseident.",
+        "perspectives": [
+            {
+                "perspective": "Having women in power makes a real difference.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "If women ruled the world, they would stop being fragile, they would stop being dependent, they would never be the victim, they would never be abused.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "We don\u2019t know what the world would look like if women ruled it, but something\u2019s not working at the moment.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "\u2018Historically, women in power out-men the men\u2019",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The first job of the woman in charge is to liberate the men.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Historically, what we\u2019ve seen is that when women achieve power in a man\u2019s world, they often out-men the men.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Given the challenges of being in charge, you\u2019d think they would be more than happy to hand over the headache and see what difference having women in charge makes.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "I\u2019m not a fan of biological determinism, even when it\u2019s working in women\u2019s favour \u2013 so I\u2019m not sure I subscribe to the idea that women are innately caring and collegiate and men thrusting and ambitious.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "As a tool for cultural integration",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "When women are free and happy, they will know how to rule the world.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "\u2018Women would never be the victim\u2019",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "\u2018Unseen female executives mobilise other women\u2019",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "\u2018Women are taking their rightful place as equals\u2019",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "as soon as a baby is conceived, it is a living being",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should the us abolish the estate tax",
+        "contrast_claim": "should the us increase the estate tax",
+        "perspectives": [
+            {
+                "perspective": "The inheritance tax is too much as it is and should be reduced.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Of these deductions, the most important is the deduction for property passing to (or in certain kinds of trust, for) the surviving spouse, because it can eliminate any federal estate tax for a married decedent.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "In addition to the federal estate tax, many states have enacted similar taxes.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The estate tax in the United States is a tax on the transfer of the estate of a deceased person.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The federal estate tax is imposed \"on the transfer of the taxable estate of every decedent who is a citizen or resident of the United States.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Deductions include but are not limited to:",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "If an asset is left to a spouse or a federally recognized charity, the tax usually does not apply.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "[11] Certain deductions from the gross estate\" are allowed to arrive at the \"taxable estate.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Beginning in 2005, inheritance or estate taxes paid to states or the District of Columbia.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Earmarks aren't the best way to spend tax dollars.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The US did not have the right intentions",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The US' intentions were wrong.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It was illegal for the US to act.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Those able to pay more should pay more into the tax system",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            }
+        ]
+    }
+]

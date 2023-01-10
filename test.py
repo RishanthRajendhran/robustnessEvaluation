@@ -2,8 +2,6 @@ import json
 from os.path import exists
 from pathlib import Path
 import argparse
-import numpy as np
-import keras
 import torch
 import transformers
 import os
@@ -62,7 +60,7 @@ parser.add_argument(
 
 parser.add_argument(
     "-dataset",
-    choices = ["condaqa", "boolq"],
+    choices = ["condaqa", "boolq", "ropes"],
     required = True,
 )
 
@@ -136,7 +134,7 @@ def readJSON(filePath, dataset):
         f = open(filePath, "r")
         data = json.load(f)
         return data
-#---------------------------------------------------------------------------
+# #---------------------------------------------------------------------------
 def _generatePrompt(data, promptType, bestPromptType=1, isTest=False):
     prompts = []
 
@@ -169,6 +167,53 @@ def _generatePrompt(data, promptType, bestPromptType=1, isTest=False):
                 out += ".\n"
             prompts.append(out)
     return prompts
+#---------------------------------------------------------------------------
+# def _generatePrompt(data, promptType, bestPromptType=1, isTest=False):
+#     prompts = []
+
+#     if promptType == 4:
+#         if not isTest:
+#             prompts.append("Answer the following yes/no/don’t know question by reasoning step by step.\n")
+#         promptType = bestPromptType
+#     elif promptType == 5:
+#         if not isTest:
+#             prompts.append("Give the rationale before answering.\n")
+#         promptType = bestPromptType
+#     passages = {}
+#     for d in data:
+#         if d["sentence1"] not in passages.keys():
+#             passages[d["sentence1"]] = []
+#         exp = ""
+#         if "explanation" in d.keys():
+#             exp = d["explanation"]
+#         curQue = {
+#             "sentence2": d["sentence2"],
+#             "label": d["label"],
+#             "explanation": exp
+#         }
+#         passages[d["sentence1"]].append(curQue)
+#     for p in passages.keys():
+#         if promptType == 1 or promptType == 2 or promptType == 3:
+#             out = "Passage: "
+#             out += p
+#             out += " Answer the following questions based on this passage:\n"
+#             for q in passages[p]:
+#                 out += "Question: "
+#                 out += q["sentence2"]
+#                 out += "\nGive the rationale before answering. "
+#                 if promptType == 2:
+#                     out += "Answer: "
+#                 if promptType == 3:
+#                     out += "Lets think step by step."
+#                 if not isTest:
+#                     if "explanation" not in d.keys():
+#                         raise Exception("Cannot do CoT prompting without explanations!")
+#                     out += d["explanation"]
+#                     out += " So the answer is "
+#                     out += d["label"]
+#                     out += ".\n"
+#             prompts.append(out)
+#     return prompts
 #---------------------------------------------------------------------------
 def generateTrainPrompt(data, promptType, bestPromptType=1):
     return _generatePrompt(data,promptType, bestPromptType)
@@ -205,38 +250,54 @@ if not os.path.exists(f"./testOuts"):
 if not os.path.exists(f"./testOuts/{dataset}"):
     os.makedirs(f"./testOuts/{dataset}")
 
-pipe_flan = transformers.pipeline("text2text-generation", model=f"google/flan-t5-{modelSize}", device="cuda:0", model_kwargs={"torch_dtype":torch.bfloat16})
-print(f"Model: FLANT5-{modelSize}")
-for trainFile in trainFiles:
-    #Contingency
-    #Remove after first successful run
-    print(f"#{trainFile}")
-    #---------------------------------
-    if not zeroShot:
-        trainData = readJSON(trainFile, dataset)
-        trainPrompt = generateTrainPrompt(trainData, promptType, bestPromptType)
-    testOuts = []
-    for testFile in testFiles:
+#Only do inferencing
+with torch.no_grad():
+    pipe_flan = transformers.pipeline("text2text-generation", model=f"google/flan-t5-{modelSize}", device="cuda:0", model_kwargs={"torch_dtype":torch.bfloat16})
+    print(f"Model: FLANT5-{modelSize}")
+    for trainFile in trainFiles:
         #Contingency
         #Remove after first successful run
-        print(f"##{testFile}")
+        print(f"#{trainFile}")
         #---------------------------------
-        testData = readJSON(testFile, dataset)
-        for testEx in testData:
-            testPrompt = generateTestPrompt(testEx, promptType, bestPromptType)
-            if not zeroShot:
-                finalPrompt = ("".join(trainPrompt)) + testPrompt
-            else:
-                finalPrompt = testPrompt
-            
-            output_flan = pipe_flan(finalPrompt, max_length=100)[0]["generated_text"]
-            testEx["output"] = output_flan
-            testOuts.append(testEx)
-            
+        if not zeroShot:
+            trainData = readJSON(trainFile, dataset)
+            trainPrompt = generateTrainPrompt(trainData, promptType, bestPromptType)
+        for testFile in testFiles:
             #Contingency
             #Remove after first successful run
-            print(testEx)
+            print(f"##{testFile}")
             #---------------------------------
+            testData = readJSON(testFile, dataset)
+            testOuts = []
+            for testEx in testData:
+                testPrompt = generateTestPrompt(testEx, promptType, bestPromptType)
+                if not zeroShot:
+                    finalPrompt = ("".join(trainPrompt)) + testPrompt
+                else:
+                    finalPrompt = testPrompt                           
 
-        with open(f'./testOuts/{dataset}/{trainFile.split("/")[-1].split(".")[0]}__{testFile.split("/")[-1].split(".")[0]}__{promptType}__{zeroShot}.json', 'w') as fout:
-            json.dump(testOuts , fout)
+                torch.cuda.empty_cache()
+                
+                output_flan = pipe_flan(finalPrompt, max_length=100)[0]["generated_text"]
+                
+                testEx["output"] = output_flan
+                testOuts.append(testEx)                           
+
+                torch.cuda.empty_cache()
+                
+                # del testPrompt
+                # del finalPrompt
+                # del testEx
+                # del output_flan
+                # gc.collect()
+                # torch.cuda.empty_cache()
+
+                # #Contingency
+                # #Remove after first successful run
+                # print(testEx)
+                #---------------------------------
+
+            with open(f'./testOuts/{dataset}/{trainFile.split("/")[-1].split(".")[0]}__{testFile.split("/")[-1].split(".")[0]}__{promptType}__{zeroShot}.json', 'w') as fout:
+                json.dump(testOuts , fout)
+        print("*****")
+    print("-----")

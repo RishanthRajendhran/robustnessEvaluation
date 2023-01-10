@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "2_0",
+        "sentence1": "Trying to live a regular life, she later adopted the name Fontaine -- the name of her mother's second husband. What happened after she changed her name?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: she has an easier life ?",
+        "label": "yes",
+        "explanation": "She changed her name to live a regular life."
+    },
+    {
+        "PassageID": "2_1",
+        "sentence1": "She temporarily used the stage name Fontaine -- the name of her mother's second husband and soon changed to another one. Is she known as Fontaine today?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: yes?",
+        "label": "no",
+        "explanation": "She changed her name again after changing it to Fontaine."
+    },
+    {
+        "PassageID": "2_2",
+        "sentence1": "Durer's father died in 1502, and his estranged mother died in 1513. How often did Durer visit his mother's grave?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: once a minute?",
+        "label": "no",
+        "explanation": "Durer was estranged from his mother which would mean that they were not on good terms."
+    },
+    {
+        "PassageID": "2_3",
+        "sentence1": "Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. How long do the stations remain pressurized?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: for as long as it's needed ?",
+        "label": "yes",
+        "explanation": "Space stations need to be pressurized as long as it is in use as there is no air in space."
+    },
+    {
+        "PassageID": "2_4",
+        "sentence1": "In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: august?",
+        "label": "no",
+        "explanation": "It does not snow in August."
+    },
+    {
+        "PassageID": "2_5",
+        "sentence1": "Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: three times a week?",
+        "label": "no",
+        "explanation": "They probably don\u2019t go to the playground often before because if they have, they wouldn\u2019t have been surprised."
+    },
+    {
+        "PassageID": "2_6",
+        "sentence1": "Danny was spending less and less time at home with his wife and children. Although over the years things got better, his wife was still not happy about the past.  Would the wife still be upset about this in six years?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: no?",
+        "label": "yes",
+        "explanation": "Since Danny has not been spending enough time at home with his wife, she is unlikely to get over her upset."
+    },
+    {
+        "PassageID": "2_7",
+        "sentence1": "He was running all around the pond and barking at the ducks when he saw someone breaking in. What did he do after barking at the ducks?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: he went home?",
+        "label": "no",
+        "explanation": "If he had gone home, he couldn't have seen the break-in happening."
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "Upon graduation in 1975, she entered private law practice in Oxford, and eventually changed to a different profession. How many cases does she work on a month now?",
+        "QuestionID": "6",
+        "sentence2": "Is this the answer: 6?",
+        "label": "no",
+        "explanation": "She changed her profession and is not practicing law anymore."
+    }
+]

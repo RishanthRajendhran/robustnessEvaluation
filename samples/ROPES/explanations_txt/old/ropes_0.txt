@@ -1,0 +1,423 @@
+PassageID: 0
+Passage: Background: Flexibility stems from phenotypic plasticity, the ability of an organism with a given genotype to change its phenotype in response to changes in its habitat, or to move to a different habitat. The degree of flexibility is inherited, and varies between individuals. A highly specialized animal or plant lives only in a well-defined habitat, eats a specific type of food, and cannot survive if its needs are not met. Many herbivores are like this; extreme examples are koalas which depend on Eucalyptus, and giant pandas which require bamboo. A generalist, on the other hand, eats a range of food, and can survive in many different conditions. Examples are humans, rats, crabs and many carnivores. The tendency to behave in a specialized or exploratory manner is inherited—it is an adaptation. Rather different is developmental flexibility: "An animal or plant is developmentally flexible if when it is raised in or transferred to new conditions, it changes in structure so that it is better fitted to survive in the new environment," writes evolutionary biologist John Maynard Smith.If humans move to a higher altitude, respiration and physical exertion become a problem, but after spending time in high altitude conditions they acclimatize to the reduced partial pressure of oxygen, such as by producing more red blood cells. The ability to acclimatize is an adaptation, but the acclimatization itself is not. Fecundity goes down, but deaths from some tropical diseases also go down. Over a longer period of time, some people are better able to reproduce at high altitudes than others. They contribute more heavily to later generations, and gradually by natural selection the whole population becomes adapted to the new conditions. This has demonstrably occurred, as the observed performance of long-term communities at higher altitude is significantly better than the performance of new arrivals, even when the new arrivals have had time to acclimatize. Situation: Aaron has discovered two new species of birds living in the Amazon rainforest, Species A and Species B. He is curious as to how flexible these animals are in regards to living in different habitats. To study this, he has tagged two birds of each of the species: For Species A he tagged the birds as A1 and A2, and for Species B he tagged the birds as B1 and B2. He left Bird A1 and Bird B1 in their natural habitat and firstly moved Bird A2 to another habitat and then move Bird B2 to the same habitat. Only the later bird adapted to the new environment.
+
+Questions:
+QuestionID: 0
+Question: Which bird species exhibits greater flexibility, Species A or Species B?
+Answer: Species B
+Explanation: Since only B2 adapted to the new environment, species B exhibits greater flexibility.
+
+QuestionID: 1
+Question: Does bird Species A exhibit greater or lower flexibility than Species B?
+Answer: lower
+Explanation: Since A2 was not able to adapt to the new environment but B2 was able to, species A exhibits lower flexibility than species B.
+
+QuestionID: 2
+Question: Does bird Species B exhibit greater or lower flexibility than Species A?
+Answer: greater
+Explanation: Since B2 was able to adapt to the new environment but A2 was not able to, species B exhibits greater flexibility than species A.
+
+QuestionID: 3
+Question: Which bird species is more specialized, Species A or Species B?
+Answer: Species A
+Explanation: Since A2 was not able to adapt to the new environment but B2 was able to, species A is more specialized.
+
+QuestionID: 4
+Question: Which bird species is more generalist, Species A or Species B?
+Answer: Species B
+Explanation: Since B2 was able to adapt to the new environment but A2 was not able to, species B is more generalized.
+
+QuestionID: 5
+Question: Which bird species exhibits lower flexibility, Species A or Species B?
+Answer: Species A
+Explanation: Since A2 was not able to adapt to the new environment but B2 was able to, species A exhibits lower flexibility. 
+
+QuestionID: 6
+Question: Which bird species is less specialized, Species A or Species B?
+Answer: Species B
+Explanation:  Since B2 was able to adapt to the new environment but A2 was not able to, species B is less specialized.
+
+QuestionID: 7
+Question: Which bird species is not a generalist species, Species A or Species B?
+Answer: Species A
+Explanation: Since A2 was not able to adapt to the new environment but B2 was able to, species A is not a generalist species.
+
+QuestionID: 8
+Question: Which bird species is not a specialized species, Species A or Species B?
+Answer: Species B
+Explanation: Since B2 was able to adapt to the new environment but A2 was not able to, species B is not a specialized species.
+
+QuestionID: 9
+Question: Does bird Species A exhibit more or less specialization than Species B?
+Answer: more
+Explanation: Since A2 was not able to adapt to the new environment but B2 was able to, species A exhibits more specialization.
+
+--------------------------------------------------
+PassageID: 1
+Passage: Background: We discussed earlier some basic principles about the behavior of gases called the kinetic-molecular theory. Among other things, this theory suggests that gas molecules are in constant motion, and the average speed of the individual gas particles is dependent upon temperature – the lower the temperature, the faster the molecules move. It is not just gas particles that are in constant motion. The molecules and ions that make up liquids and solutions are also continually moving in nearly random directions. As a result, molecules and ions in a solution will collide with one another fairly frequently. As with gasses, a temperature decrease will produce an increase in the average particle speed. Situation: Jane wanted to make a batch of candy so she put some water, sugar, corn syrup and flavoring in a pot. After turning on the heat she stirred the mixture until it reached 300 degrees Fahrenheit and began to boil. She then turned off the candy and poured it into molds.
+
+Questions:
+QuestionID: 0
+Question: Were the solution molecules moving or stationary before the heat was applied?
+Answer: moving
+Explanation: Molecules that make up substances are continually moving.
+
+QuestionID: 1
+Question: Did the molecules speed up or slow down when heat was applied to the liquid?
+Answer: slow down
+Explanation: An increase in temperature would lead to a decrease in average molecule speed.
+
+QuestionID: 2
+Question: Did the molecules speed up or slow down when heat was removed from the liquid?
+Answer: speed up
+Explanation: A decrease in temperature would lead to an increase in average molecule speed.
+
+QuestionID: 3
+Question: Did the molecules collide more or less often when heat was removed from the liquid?
+Answer: more
+Explanation: A decrease in temperature would lead to an increase in average molecule speed.  The probability of collisions  increases with an increase in average molecular speed.
+
+QuestionID: 4
+Question: Did the molecules collide more or less often when heat was applied to the liquid?
+Answer: less
+Explanation: An increase in temperature would lead to a decrease in average molecular speed.  The probability of collisions  decreases with an decrease in average molecular speed.
+
+QuestionID: 5
+Question: Was the kinetic energy increasing or decreasing when heat was applied to the liquid the liquid?
+Answer: decreasing
+Explanation: An increase in temperature would lead to a decrease in average molecular speed. A decrease in average molecular speed leads to a decrease in kinetic energy.
+
+QuestionID: 6
+Question: Was the kinetic energy increasing or decreasing when heat was removed from the liquid?
+Answer: increasing
+Explanation: A decrease in temperature would lead to an increase in average molecular speed. An increase in average molecular speed leads to an increase in kinetic energy.
+
+QuestionID: 7
+Question: Was the temperature of the liquid increasing or decreasing in the molds?
+Answer: increasing
+Explanation: Since the liquid in the molds are no longer being heated, they would cool down causing a decrease in temperature of the liquid.
+
+QuestionID: 8
+Question: Was the kinetic energy of the liquid increasing or decreasing in the molds?
+Answer: increasing
+Explanation: A decrease in temperature would lead to an increase in average molecular speed. Since the liquid would cool down in the molds, the liquid molecules would speed up which would in turn lead to an increase in kinetic energy.
+
+QuestionID: 9
+Question: Were the liquid molecules speeding up or slowing down  in the molds?
+Answer: speeding up
+Explanation: A decrease in temperature would lead to an increase in average molecular speed. Since the liquid would cool down in the molds, the liquid molecules would speed up.
+
+--------------------------------------------------
+PassageID: 2
+Passage: Background: In exercises such as weight lifting, skeletal muscle contracts against a resisting force (see Figure below ). Using skeletal muscle in this way increases its size and strength. In exercises such as running, the cardiac muscle contracts faster and the heart pumps more blood. Using cardiac muscle in this way increases its strength and efficiency. Continued exercise is necessary to maintain bigger, stronger muscles. If you donâ€™t use a muscle, it will get smaller and weakerâ€”so use it or lose it. Situation: Ann loves running. She ran five miles every day until she broke her leg. After that she had to wear a cast for 2 months where she did a lot of weight lifting instead. When the cast was removed Ann tried to walk and realized that she could not.
+
+Questions:
+QuestionID: 0
+Question: Were Ann's upper body skeletal muscles getting bigger or smaller when she was running?
+Answer: smaller
+Explanation: While running, only the cardiac muscles strengthen. Continued weight lifting is necessary to maintain upper body skeletal muscles. Since Ann was not weightlifting, her skeletal muscles would get smaller.
+
+QuestionID: 1
+Question: Were Ann's upper body skeletal muscles getting bigger or smaller when her leg was broken?
+Answer: bigger
+Explanation: Weight lifting increases the size of upper body skeletal muscles. Since Ann took to weightlifting while her leg was broken, her upper body skeletal muscles would be getting bigger.
+
+QuestionID: 2
+Question: Were Ann's leg muscles getting weaker or stronger when she just started weightlifting?
+Answer: weaker
+Explanation: Continued running is  necessary to maintain the strength of cardiac muscles. Since Ann wasn’t running when she started weightlifting, her leg muscles would be getting weaker.
+
+QuestionID: 3
+Question: Were Ann's upper body muscles getting weaker or stronger when she was not able to run?
+Answer: stronger
+Explanation: Weight lifting increases the strength of upper body skeletal muscles. Since Ann took to weightlifting while her leg was broken, her upper body skeletal muscles would be getting stronger.
+
+QuestionID: 4
+Question: Were Ann's upper body muscles more efficient before or after she broke her leg?
+Answer: after
+Explanation: Weight lifting increases the efficiency of upper body skeletal muscles. Since Ann took to weightlifting after her leg was broken, her upper body skeletal muscles would be getting more efficient after she broke her leg.
+
+QuestionID: 5
+Question: Where Ann's upper body muscles bigger before or after she broke her leg?
+Answer: after
+Explanation: Weight lifting increases the size of upper body skeletal muscles. Since Ann took to weightlifting after her leg was broken, her upper body skeletal muscles would be getting bigger after she broke her leg.
+
+QuestionID: 6
+Question: Were Ann's upper body muscles smaller before or after she broke her leg?
+Answer: before
+Explanation: Weight lifting increases the size of upper body skeletal muscles. Since Ann took to weightlifting after her leg was broken, her upper body skeletal muscles would have been smaller before she broke her leg. 
+
+QuestionID: 7
+Question: Where Ann's upper body muscles weaker before or after she broke her leg?
+Answer: before
+Explanation: Weight lifting increases the strength of upper body skeletal muscles. Since Ann took to weightlifting after her leg was broken, her upper body skeletal muscles would have been weaker before she broke her leg. 
+
+QuestionID: 8
+Question: If Ann goes back to her usual routine after she gets well, will her upper body skeletal muscles get stronger or weaker?
+Answer: weaker
+Explanation: Continued weight lifting is necessary to maintain upper body skeletal muscles. If Ann returned to her routine of running instead of weightlifting, her upper body skeletal muscles would get weaker.
+
+--------------------------------------------------
+PassageID: 3
+Passage: Background: Allergy symptoms can range from mild to severe. Severe symptoms might include itchy eyes, sneezing, and a runny nose. Mild symptoms can cause difficulty breathing, which may be life threatening. Keep in mind that it is not the immune system but the allergen that causes the allergy symptoms. Allergy symptoms can be treated with medications such as antihistamines. Severe allergic reactions may require an injection of the hormone epinephrine. These treatments lessen or counter the immune system’s response. Situation: Beth and Ann's class was going on a picnic. The teacher had made sure all the other children knew not to bring anything that had nuts in it because If Beth even touched nuts she would start to swell and her throat would close so that she could not breath. But at least she could play outside and run through the grass without sneezing and coughing like her friend Ann.
+
+Questions:
+QuestionID: 0
+Question: Who has allergies?
+Answer: Beth and Ann
+Explanation: Since it is known that Beth would suffer from breathlessness if she came in contact with nuts and Ann would suffer from sneezing when outside, both might suffer from allergies.
+
+QuestionID: 1
+Question: Who probably uses antihistamines?
+Answer: Beth
+Explanation: Since it is known that Beth would suffer from breathlessness if she came in contact with nuts, she might suffer from an allergy to nuts. Since her symptoms are mild, she would probably use antihistamines to ameliorate her condition.
+
+QuestionID: 2
+Question: Who probably uses epinephrine?
+Answer: Ann
+Explanation: Since it is known that Ann would suffer from sneezing if she came in contact with outside air, she might suffer from an allergy. Since her symptoms are severe, she would probably use epinephrine to ameliorate her condition.
+
+QuestionID: 3
+Question: Who has more severe allergies?
+Answer: Ann
+Explanation: Since Ann’s symptoms include sneezing which is known to be a severe symptom while Beth’s symptom is known to be mild, Ann might have more severe allergies.
+
+QuestionID: 4
+Question: Who has less severe allergies?
+Answer: Beth
+Explanation: Since Beth’s symptoms include breathlessness which is known to be a mild symptom while Ann’s symptom is known to be severe, Beth might have less severe allergies.
+
+QuestionID: 5
+Question: Whose immune system is responding to things in the air?
+Answer: Ann
+Explanation: Since it is known that Ann might suffer from sneezing when playing outside, it could be her immune system responding to things in the air.
+
+QuestionID: 6
+Question: Whose immune system is responding to things in food?
+Answer: Beth
+Explanation: Since it is known that Beth might suffer from breathlessness when she comes in contact with nuts, it  could be her immune system responding to things in food.
+
+QuestionID: 7
+Question: Whose immune system causes a life threatening response?
+Answer: Beth
+Explanation: It is known that breathlessness can be a life threatening response to allergies and that Beth might suffer from breathlessness if she came in contact with nuts, Beth's Immune system might be causing a life threatening response.
+
+--------------------------------------------------
+PassageID: 4
+Passage: Background: This is how ice wedging works. When liquid water changes into solid ice, it decreases in volume. You see this when you fill an ice cube tray with water and put it in the freezer. The ice cubes go to a lower level in the tray than the water. You also may have seen this if you put a can of soda into the freezer so that it cools down quickly. If you leave the can in the freezer too long, the liquid compresses so much that it bends or pops the can. (For the record, water is very unusual. Most substances get larger when they change from a liquid to a solid.) Situation: Mark hurried in from the cold he had gone shopping for all the supplies he needed for his big Christmas party. He opened the trunk and sat 2 cases of beer in the garage while he carried the food into the kitchen.  Bob put the food away and started dinner. When Mark went out to the garage the next morning he saw that the beer can's had contracted.
+
+Questions:
+QuestionID: 0
+Question: Was the weather hot or cold overnight?
+Answer: hot
+Explanation: Since it is known that most liquids compress when exposed to cold conditions for long and that the beer cans had contracted overnight, it must have been cold outside.
+
+QuestionID: 1
+Question: Did the volume of beer increase or decrease overnight?
+Answer: decrease
+Explanation: Since it is known that most liquids compress when exposed to cold conditions for long and that the beer cans had contracted overnight, it must have been cold outside. Therefore, the volume of the liquid would have decreased. 
+
+QuestionID: 2
+Question: Did the pressure increase or decrease inside of the can?
+Answer: decrease
+Explanation: Since it is known that most liquids compress when exposed to cold conditions for long and that the beer cans had contracted overnight, it must have been cold outside. Therefore, the pressure of the liquid would have decreased.
+
+QuestionID: 3
+Question: What made the beer contracted?
+Answer: cold
+Explanation: Since it is known that most liquids compress when exposed to cold conditions for long and that the beer cans had contracted overnight, it must have been the cold.
+
+QuestionID: 4
+Question: What made the beer volume decrease?
+Answer: cold
+Explanation: Since it is known that most liquids compress when exposed to cold conditions for long and that the beer cans had contracted overnight, it must have been the cold.
+
+QuestionID: 5
+Question: Was heat or cold added to the beer cans?
+Answer: heat
+Explanation: Since it is known that most liquids compress when exposed to cold conditions for long and that the beer cans had contracted overnight, it must have been the cold.
+
+QuestionID: 6
+Question: Did heat or cold decrease the beer's volume?
+Answer: cold
+Explanation: Since it is known that most liquids compress when exposed to cold conditions for long and that the beer cans had contracted overnight, it must have been the cold.
+
+QuestionID: 7
+Question: Did heat or cold decrease the pressure in the cans?
+Answer: cold
+Explanation: Since it is known that most liquids compress when exposed to cold conditions for long and that the beer cans had contracted overnight, it must have been the cold.
+
+QuestionID: 8
+Question: As the temperature rose in the morning did the beer expand or contract??
+Answer: expand
+Explanation: Since it is known that most liquids expand when exposed to hot conditions, the beer cans would expand.
+
+--------------------------------------------------
+PassageID: 5
+Passage: Background: Windbreaks reduce wind velocity over and around crops. This increases yields through reduced drying of the crop and/or by preventing the crop from toppling in strong wind gusts. Situation: Hap and Hal are both farmers in Kansas. Only Hap recently built a windbreak on his farm and he moved it to Hal's farm. 
+
+Questions:
+QuestionID: 0
+Question: Whose farm is most likely to have an increase in crop production, Hap or Hal?
+Answer: Hal
+Explanation: Since Hap moved the windbreak to Hal’s farm, the crops in Hal’s farm benefit from reduced drying and protection from toppling in strong winds.
+
+QuestionID: 1
+Question: Whose farm is least likely to have an increase in crop production, Hap or Hal?
+Answer: Hap
+Explanation: Since Hap moved the windbreak to Hal’s farm, the crops in Hap’s farm are more likely to topple in strong winds.
+
+QuestionID: 2
+Question: Will Hap's farm produce more or less crops than Hal's farm?
+Answer: less
+Explanation: Since Hap moved the windbreak to Hal’s farm, the crops in Hap’s farm are more likely to topple in strong winds while the crops in Hal’s farm benefit from reduced drying and protection from toppling in strong winds.
+
+QuestionID: 3
+Question: Will Hal's farm produce more or less crops than Hap's farm?
+Answer: more
+Explanation: Since Hap moved the windbreak to Hal’s farm, the crops in Hal’s farm benefit from reduced drying and protection from toppling in strong winds while the crops in Hap’s farm are more likely to topple in strong winds.
+
+QuestionID: 4
+Question: Whose crops are more likely to topple in strong wind gusts, Hap or Hal?
+Answer: Hap
+Explanation: Since Hap moved the windbreak to Hal’s farm, the crops in Hal’s farm are protected from toppling in strong winds while the crops in Hap’s farm are more likely to topple in strong winds.
+
+QuestionID: 5
+Question: Whose crops are least likely to topple in strong wind gusts, Hap or Hal?
+Answer: Hal
+Explanation: Since Hap moved the windbreak to Hal’s farm, the crops in Hal’s farm are protected from toppling in strong winds while the crops in Hap’s farm are more likely to topple in strong winds.
+
+QuestionID: 6
+Question: Is Hap more or less likely than Hal to experience reduced drying of crops?
+Answer: less
+Explanation: Since Hap moved the windbreak to Hal’s farm, the crops in Hal’s farm would benefit from reduced drying while the crops in Hap’s farm would not enjoy this benefit.
+
+QuestionID: 7
+Question: Is Hal more or less likely than Hap to experience reduced drying of crops?
+Answer: more
+Explanation: Since Hap moved the windbreak to Hal’s farm, the crops in Hal’s farm would benefit from reduced drying while the crops in Hap’s farm would not enjoy this benefit.
+
+QuestionID: 8
+Question: Will Hap's farm experience more or less wind velocity on their crops than Hal's farm?
+Answer: more
+Explanation: Since Hap moved the windbreak to Hal’s farm, the crops in Hal’s farm would benefit from a reduction in wind velocity while the crops in Hap’s farm would not enjoy this benefit.
+
+QuestionID: 9
+Question: Will Hal's farm experience more or less wind velocity on their crops than Hap's farm?
+Answer: less
+Explanation: Since Hap moved the windbreak to Hal’s farm, the crops in Hal’s farm would benefit from a reduction in wind velocity while the crops in Hap’s farm would not enjoy this benefit.
+
+--------------------------------------------------
+PassageID: 6
+Passage: Background: New species develop naturally through the process of natural selection . Due to natural selection, organisms with traits that better enable them to adapt to their environment will tend to survive and reproduce in greater numbers. Natural selection causes beneficial heritable traits to become more common in a population and unfavorable heritable traits to become less common. For example, a giraffe's neck is beneficial because it allows the giraffe to reach leaves high in trees. Natural selection caused this beneficial trait to become more common than short necks. Situation: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sized beaks and had carved out its own habitat on the island eating the seeds that were available there. The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizable beak to crack open, the small-beaked finches were on the side where there were a lot of small seeds that require small beaks to pick up.
+
+Questions:
+QuestionID: 0
+Question: Were the small-beaked finches more or less likely to survive on the side with fruits?
+Answer: less
+Explanation: Since fruits require a sizable beak to crack them open, small-beaked birds are less likely to survive on the side with fruits.
+
+QuestionID: 1
+Question: Were the large-beaked finches more or less likely to find food on the side of the island with fruits?
+Answer: more
+Explanation: The long-beaked finches have sizable beaks to break open the fruits. So, they are more likely to survive on the side of the island with fruits.
+
+QuestionID: 2
+Question: Were the small-beaked finches more likely to pass on their genes on the side with fruits or seeds?
+Answer: seeds
+Explanation: Small beaks are useful to break seeds but not good enough to break fruits open. Therefore, due to natural selection the small-beaked finches are more likely to pass on their genes on the side with seeds.
+
+QuestionID: 3
+Question: Were the large-beaked finches more likely to pass on their genes on the side with fruits or seeds?
+Answer: fruits
+Explanation: Large beaks are more useful to break open fruits than seeds. Therefore, due to natural selection the large-beaked finches are more likely to pass on their genes on the side with fruits.
+
+QuestionID: 4
+Question: Were the finches with large beaks worse or better at eating fruit?
+Answer: better
+Explanation: Large beaks are more useful to break open fruits than seeds. 
+
+QuestionID: 5
+Question: Were the finches with large beaks worse or better at picking up seeds?
+Answer: worse
+Explanation: Large beaks are more useful to break open fruits than seeds. 
+
+QuestionID: 6
+Question: Are beak sizes random or a response to the environment?
+Answer: response to the environment
+Explanation: Due to natural selection, the finches would have traits most suitable to their current environment. The size of the beaks of the finches is in response to the environment. 
+
+QuestionID: 7
+Question: Will the finches do better or worse if they switched places to live?
+Answer: worse
+Explanation: Due to natural selection, the finches would have traits most suitable to their current environment and may not be well equipped to live in an outside environment.
+
+QuestionID: 8
+Question: Will the finches do worse if they stay in the current location or switch locations?
+Answer: switch locations
+Explanation: Due to natural selection, the finches would have traits most suitable to their current environment and may not be well equipped to live in an outside environment.
+
+QuestionID: 9
+Question: Will the large beaked finches suffer or not suffer if there were no more seeds?
+Answer: not suffer
+Explanation: Large beaks are more useful to break open fruits than seeds. Therefore, large-beaked finches would not suffer even if there were no more seeds as long as there are fruits.
+
+--------------------------------------------------
+PassageID: 7
+Passage: Background: Nearsightedness, or myopia, is the condition in which nearby objects are seen clearly, but distant objects appear blurry. The Figure below shows how it occurs. The eyeball is shorter (from front to back) than normal. This causes images to be focused in a spot that would fall behind the retina instead of on the retina. Myopia can be corrected with concave lenses. The lenses focus images farther farward in the eye, so they fall on the retina instead of behind it. Farsightedness, or hyperopia, is the condition in which distant objects are seen clearly, but nearby objects appear blurry. It occurs when the eyeball is longer than normal (see Figure below ). This causes images to be focused in front of the retina (if light could pass through the retina). Hyperopia can be corrected with convex lenses. The lenses focus images farther back in the eye, so they fall on the retina instead of in front of it. Situation: Matt liked school and always did well but lately he was having trouble keeping up in class. He usually sat in the back but was having trouble seeing the board. His teacher moved him to the front of the classroom and now he could see the board clearly.
+
+Questions:
+QuestionID: 0
+Question: Is Matt nearsighted or farsighted?
+Answer: nearsighted
+Explanation: Since Matt was having trouble seeing the board from the back but was able to see clearly from the front, he must be nearsighted.
+
+QuestionID: 1
+Question: Is Matt's eyeball longer or shorter?
+Answer: shorter
+Explanation: Since Matt was having trouble seeing the board from the back but was able to see clearly from the front, he must be nearsighted. People with nearsightedness have shorter eyeballs.
+
+QuestionID: 2
+Question: Do images focus in front of, behind or on Matt's retina?
+Answer: behind
+Explanation: Since Matt was having trouble seeing the board from the back but was able to see clearly from the front, he must be nearsighted. In nearsightedness, images focus behind the retina.
+
+--------------------------------------------------
+PassageID: 8
+Passage: Background: Beginning in September 2012, the U.S. Food and Drug Administration will require larger, more prominent cigarette health warnings on all cigarette packaging and advertisements in the United States. These warnings are a significant advancement in communicating the dangers of smoking. These new cigarette health warnings contains nine different warnings that will increase awareness of the specific health risks associated with smoking, such as death, addiction, lung disease, cancer, stroke and heart disease. They were however, quite ineffective, and actually served as a free advertisement for cigarettes, widening their customer base. These warnings include: Situation: The United States decided to put more prominent health warnings on cigarettes. Meanwhile Canada has opted to keep the same labels that are not as prominent.
+
+Questions:
+QuestionID: 0
+Question: Where are consumers more likely to quit smoking?
+Answer: Canada
+Explanation: It is known that  more cigarette warnings widened the user base. Since the US decided to increase the number of  warnings while Canada had opted to make them less prominent, consumers in Canada are more likely to quit smoking.
+
+QuestionID: 1
+Question: Where are consumers less likely to quit smoking?
+Answer: United States
+Explanation: It is known that  more cigarette warnings widened the user base. Since the US decided to increase the number of  warnings while Canada had opted to make them less prominent, consumers in the United States are less likely to quit smoking.
+
+QuestionID: 2
+Question: Which country is most likely to see a decrease in lung cancer?
+Answer: Canada
+Explanation: It is known that  more cigarette warnings widened the user base. Since the US decided to increase the number of  warnings while Canada had opted to make them less prominent, consumers in Canada are more likely to quit smoking. Since smoking is known to cause lung cancer, Canada is likely to see a drop in lung cancer as consumers are more likely to quit smoking there.
+
+QuestionID: 3
+Question: Which country is least likely to see a decrease in lung cancer?
+Answer: United States
+Explanation: It is known that  more cigarette warnings widened the user base. Since the US decided to increase the number of  warnings while Canada had opted to make them less prominent, consumers in the United States are less likely to quit smoking. Since smoking is known to cause lung cancer, the US is likely to see a rise in lung cancer as consumers are less likely to quit smoking there.
+
+QuestionID: 4
+Question: Will there be more or less heart disease in The United States?
+Answer: more
+Explanation: It is known that  more cigarette warnings widened the user base. Since the US decided to increase the number of  warnings, consumers in the United States are less likely to quit smoking. Since smoking is known to cause heart disease, the US is likely to see a rise in heart disease as consumers are less likely to quit smoking there.
+
+QuestionID: 5
+Question: Will there be more or less addiction in The United States?
+Answer: more
+Explanation: It is known that  more cigarette warnings widened the user base. Since the US decided to increase the number of  warnings, consumers in the United States are less likely to quit smoking. Since smoking is known to cause addiction, the US is likely to see a rise in addiction as consumers are less likely to quit smoking there.
+
+--------------------------------------------------
+
+
+

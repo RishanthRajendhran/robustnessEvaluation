@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "1_0",
+        "sentence1": "The University of Mary Hardin--Baylor (UMHB) is a Christian co-educational institution of higher learning located in Belton, Texas, United States. UMHB was chartered by the Republic of Texas in 1845 as Baylor Female College, the female department of what is now Baylor University. It has since become its own institution and grown to 3,914 students and awards degrees at the baccalaureate, master's, and doctoral levels. It is affiliated with the Baptist General Convention of Texas.",
+        "QuestionID": "5",
+        "sentence2": "is baylor and the Republic of Texas the same school",
+        "label": "no",
+        "explanation": "The University of Mary Hardin--Baylor (UMHB) is a university that was chartered by the Republic of Texas. They are different organizations."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "MetLife Stadium is an American sports stadium located in East Rutherford, New Jersey, 8 miles outside of New York City. It is part of the Meadowlands Sports Complex and serves as the home stadium for two National Football League (NFL) franchises: the New York Giants and the New York Jets. The stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets, who jointly built the stadium using private funds on land owned by the New Jersey Sports and Exposition Authority. The stadium opened as New Meadowlands Stadium in 2010. In 2011, MetLife, an insurance company based in New York City, acquired the naming rights to the stadium. At a construction cost of approximately $1.6 billion, it was the most expensive stadium ever built, at the time it opened, and is the second-largest stadium in the NFL in terms of seating capacity.",
+        "QuestionID": "1",
+        "sentence2": "are the jets and giants the same team",
+        "label": "no",
+        "explanation": "The Jets and the Giants are two different National Football League (NFL) franchises."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "Fantastic Beasts and Where to Find Them is a 2016 fantasy film directed by David Yates. A joint British and American production, it is a spin-off and prequel to the Harry Potter film series, and it was produced and written by J.K. Rowling in her screenwriting debut, and inspired by her 2001 book of the same name. The film stars Eddie Redmayne as Newt Scamander, with Katherine Waterston, Dan Fogler, Alison Sudol, Ezra Miller, Samantha Morton, Jon Voight, Carmen Ejogo, Ron Perlman, Colin Farrell and Johnny Depp in supporting roles. It is the first installment in the Fantastic Beasts film series, and ninth overall in the Wizarding World franchise, that began with the Harry Potter films.",
+        "QuestionID": "3",
+        "sentence2": "is \"where to find them\" a prequel to \"harry potter\"",
+        "label": "yes",
+        "explanation": "Fantastic Beasts and Where to Find Them is a spin-off and prequel to the Harry Potter film series."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "Indiana Jones and the Temple of Doom is a 1984 American action-adventure film directed by Steven Spielberg. It is the second installment in the Indiana Jones franchise and a prequel to the 1981 film Raiders of the Lost Ark, featuring Harrison Ford reprising his role as the title character. After arriving in North India, Indiana Jones is asked by desperate villagers to find a mystical stone and rescue their children from a Thuggee cult practicing child slavery, black magic and ritual human sacrifice in honor of the goddess Kali.",
+        "QuestionID": "1",
+        "sentence2": "is indiana jones 'temple of doom' a prequel",
+        "label": "yes",
+        "explanation": "Indiana Jones and the Temple of Doom is a prequel to the film Raiders of the Lost Ark."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Time in New Zealand, by law, is divided into two standard time zones. The main islands use New Zealand Standard Time (NZST), 12 hours in advance of Coordinated Universal Time (UTC) / military M (Mike), while the outlying Chatham Islands use Chatham Standard Time (CHAST), 12 hours 45 minutes in advance of UTC / military M^ (Mike-Three).",
+        "QuestionID": "1",
+        "sentence2": "new zealand has different time zones",
+        "label": "yes",
+        "explanation": "Time in New Zealand is divided into two standard time zones."
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "In 2011, Philip Pullman remarked at the British Humanist Association annual conference that due to the first film's disappointing sales in the United States, there would not be any sequels made.",
+        "QuestionID": "2",
+        "sentence2": "the British Humanist Association did announce that there isn't going to be another golden compass movie",
+        "label": "no",
+        "explanation": "It was Philip Pullman who remarked at the British Humanist Association annual conference that there would not be any sequels made."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "Sanders played football primarily at cornerback, but also as a kick returner, punt returner, and occasionally wide receiver. He played in the National Football League (NFL) for the Atlanta Falcons, the San Francisco 49ers, the Dallas Cowboys, the Washington Redskins and the Baltimore Ravens, winning the Super Bowl with both the 49ers and the Cowboys. An outfielder in baseball, he played professionally for the New York Yankees, the Atlanta Braves, the Cincinnati Reds and the San Francisco Giants, and participated in the 1992 World Series with the Braves. He attended Florida State University, where he was recognized as a two-time All-American in football, and also played baseball and ran track.",
+        "QuestionID": "2",
+        "sentence2": "did deion sanders ever play in world series final",
+        "label": "no",
+        "explanation": "We only know that Deion Sanders participated in the 1992 World Series with the Braves. We do not know if the Braves reached the final that year."
+    },
+    {
+        "PassageID": "1_7",
+        "sentence1": "The storm brought strong winds to the Swan Islands, including hurricane-force winds on the main island. Heavy rains fell in Cuba, particularly in Pinar del R\u00edo Province, but only minor damage occurred. In Florida, storm surge and abnormally high tides caused damage along much of the state's west coast from Pasco County southward. Several neighborhoods and sections of Tampa were inundated, especially in Ballast Point, DeSoto Park, Edgewater Park, Hyde Park, Palmetto Beach, and other areas in the vicinity of Bayshore Boulevard. Strong winds also damaged hundreds of trees, signs, buildings, and homes. Four deaths occurred in Tampa, three from drownings and another after a man touched a live wire. The storm left two additional fatalities in St. Petersburg. A number of streets in Tarpon Springs were littered with masses of debris, with many structures and trees suffering extensive damage. Strong winds occurred as far east as the Atlantic coast of the state, though wind damage east of the Tampa Bay area was generally limited to downed trees and power lines, resulting in power outages, particularly in Orlando. Agriculture throughout the state experienced significant impact as well, including over $2 million (equivalent to $20 million in 2016) in damage and the loss of at least 800,000 boxes of citrus crops alone. Overall, the hurricane left at least eight deaths and about $10 million (equivalent to $110 million in 2016) in damage.",
+        "QuestionID": "2",
+        "sentence2": "did tampa hurricane cause deaths",
+        "label": "yes",
+        "explanation": "During the Tampa Bay hurricane in 1921, four deaths occurred in Tampa."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.",
+        "QuestionID": "1",
+        "sentence2": "is it possible to have no sense of smell forever",
+        "label": "yes",
+        "explanation": "Anosmia in some forms, such as from an accident, can be permanent."
+    }
+]

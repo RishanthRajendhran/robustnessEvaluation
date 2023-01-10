@@ -1,0 +1,656 @@
+[
+    {
+        "original_claim": "should scotland go independent",
+        "contrast_claim": "Scotland should not go independent",
+        "perspectives": [
+            {
+                "perspective": "If Scotland were independent then it would have more power in important areas.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Independence would give Scotland clout where it matters",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "An independent Scotland nation-state would give it more influence.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Scotland will be unable to survive economically without England",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "An independent Scotland has enormous economic potential to join other small European nations, especially as a leader in technology and renewable energy",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Scotland has different interests to rUK",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "We believe that the Scottish Parliament should have the right to hold another referendum if there is clear and sustained evidence that independence has become the preferred option of a majority of the Scottish people \u2013 or if there is a significant and material change in the circumstances that prevailed in 2014, such as Scotland being taken out of the EU against our will.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Scotland has a proud history and has demonstrated since devolution different political interests",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Scotland would not be able to survive independently without England.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The referendum on Scottish independence held on 18 September 2014 saw Scotland vote to remain part of the United Kingdom (UK), with 55% voting against the proposal for Scotland to become an independent country and 45% voting in favour.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Though the proposal for Scotland to become an independent country was voted down in 2014, the referendum resulted in the Scottish Parliament gaining additional powers through the Scotland Act 2016, which increased the devolved powers in areas such as taxation and some aspects of welfare provision.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "An independent trust fund discourages investment.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Independent bloggers lack the credibility of newspapers.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Republika Srpska  cannot survive economically as an independent state.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should we increase nasa funding",
+        "contrast_claim": "should we decrease nasa funding",
+        "perspectives": [
+            {
+                "perspective": "Economic impact of NASA funding [ edit ]",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Since its inception, the United States has spent $601.31 billion (in nominal dollars) on NASA.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "NASA's budget for fiscal year (FY) 2019 is $21.5 billion.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "NASA's budget peaked in 1964\u201366 when it consumed roughly 4% of all federal spending.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "NASA's spending peaked in 1966 during the Apollo program",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "NASA is very Hazardous",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Anti-terrorism legislation is not how we should fight terrorism",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "University's could use alternate funding.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "State funding should be used elsewhere",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "We should not be encouraging interest in material things",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Year NASA budget Nominal Dollars",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "352,000 (mostly skilled) jobs created or saved",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Museum charges can be offset by government funding",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The rich countries of the world should actively look for ways to increase.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            }
+        ]
+    },
+    {
+        "original_claim": "I believe research into Artificial Intelligence should be banned much like Nuclear Weapon technology.",
+        "contrast_claim": "Unlike Nuclear Weapon technology, I believe research into Artificial Intelligence should be encouraged.",
+        "perspectives": [
+            {
+                "perspective": "Given these concerns about the effectiveness of blanket bans, I believe that AI researchers should instead be thinking of more proactive technical solutions to ameliorate potential misuses of AI technologies.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Doing so could mean that we are asking too much of technology",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Should one military power start developing systems capable of selecting targets and operating autonomously without direct human control, it would start an arms race similar to the one for the atom bomb, the authors argue.Unlike nuclear weapons, however, AI requires no specific hard-to-create materials and will be difficult to monitor.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The authors argue that AI can be used to make the battlefield a safer place for military personnel, but that offensive weapons that operate on their own would lower the threshold of going to battle and result in greater loss of human life.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Apart from the difficulty of pinning down exactly what the ban entails for states that want to follow it \u2013 is the ban against autonomy or intelligence?",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Misuses of it can thus be as hard to control by fiat and bans \u2013 as with cyber warfare, for example.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Smoking shouldnt be banned",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "This would render such bans at best a pyrrhic victory for the proponents of peace, and at worst entail the ironic and unintended effect of tying the hands of the \u201cgood actors\u201d behind their backs, while doing little to stop the bad ones.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Given these significantly lower barriers to entry, even if the UN and some constituent states agreed to a ban, it is far from clear that it would stop other rogue state and non-state actors from procuring and deploying such technology for malicious purposes.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "If I choose to go somewhere, I should be allowed to smoke there.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Countries need to design nuclear devices to adapt with changing defensive technology.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "I am gratified that my colleagues are volunteering their efforts to ensure beneficial uses of artificial intelligence (AI) technology.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Adverts create funding to enable research into better drugs.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Subbarao Kambhampati is a professor of computer science at Arizona State University, and the president of the Association for the Advancement of Artificial Intelligence.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "There is no productive reason to have, \"Under God\" in the US Pledge of Allegiance and, \"In God We Trust\" on the dollar bill.",
+        "contrast_claim": "It is essential to have, \"Under God\" in the US Pledge of Allegiance and, \"In God We Trust\" on the dollar bill.",
+        "perspectives": [
+            {
+                "perspective": "\u201cUnder God\u201d is part of American tradition and history",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Removing under god would promote religious tolerance",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Keeping the word \"God\" in the please of allegiance discriminates against those who do not believe in God.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "There is evidence that god exists.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The Bible says God created the world",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "This is why we believe in God: -",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Science can support the existance of God",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The US had to take action in the circumstances under War Powers.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Life is ridiculous without a God.  Belief in God is the only sane thing we discuss.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "It's not a statement about orthodox religious dogma but it does imply a broadly shared moral worldview.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The introduction to the article claims \"support for Judeo-Christian values\".",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Children should not be forced to pledge allegiance until they understand all the ramifications of such a pledge.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "our lives belong to god",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "If there were a God there would be irrefutable evidence of His existence and people would feel compelled to belief by the fact of it:",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            }
+        ]
+    },
+    {
+        "original_claim": "should active euthanasia be legalized worldwide",
+        "contrast_claim": "Active euthanasia should be banned worldwide",
+        "perspectives": [
+            {
+                "perspective": "To deny this right is to prolong the suffering for individuals and families, something that I can simply not condone.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The goals of the medical profession should continue to remain one of saving lives but this should not be at the expense of compassion and a terminally ill individual's right to choose to end his or her life and die with dignity.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "To allow a terminally ill individual to end their life is the only humane, rational and compassionate choice.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Many people are opposed to legislation that would allow \"end of life\" choices.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The ability of the wealthy to travel to countries where it is lawful for the terminally ill to end their lives has the discriminatory impact of treating the haves and have-nots unequally.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "\u2022 The patient must be terminally ill.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Medical science allows us to control death, suicide and euthanasia are sensible corollaries to that.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "In conclusion, the only humane choice is to allow individuals who are suffering to choose to end their suffering.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Efforts to change government policies on euthanasia of humans in the 20th and 21st centuries have met limited success in Western countries.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should they pay college athletes",
+        "contrast_claim": "should they ask college athletes to play for free?",
+        "perspectives": [
+            {
+                "perspective": "College sports should be for competition not money.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "This leaves the student without the ability to play or earn an education.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The tragedy at the heart of college sports is not that some college athletes are getting paid, but that more of them are not.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Celebrities, like athletes, enhance the nation\u2019s image and generate revenue",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "When you combine so much money with such high, almost tribal, stakes\u2014football boosters are famously rabid in their zeal to have their alma mater win\u2014corruption is likely to follow.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Educators are in thrall to their athletic departments because of these television riches and because they respect the political furies that can burst from a locker room.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "I\u2019ve been writing about this issue for several years now calling for college athletes to be paid the wages that they deserve and am sad to acknowledge that very little has changed since I was a college athlete at UCLA, so poor that I and most of my teammates could barely scrape by.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The NCAA, in its zealous defense of bogus principles, sometimes destroys the dreams of innocent young athletes.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Protecting young and vulnerable athletes",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Observers on all sides express jumbled emotions about youth and innocence, venting against professional mores or greedy amateurs.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Encouraging future female athletes",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The government shouldn't pay for financial assistance",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The list of scandals goes on.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "I believe religion, no matter which one, has always just been used to oppress people and has nothing good in it",
+        "contrast_claim": "I believe religion is benefitial to people, despite having been used to oppress people.",
+        "perspectives": [
+            {
+                "perspective": "No it has proved opposite.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "American society has always been deeply ambivalent about this question.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Spirituality has no place in science.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "It's not like no one has ever asked them before.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It has been proven that Vegetarians Live Longer",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Blood has been spilt",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "When groups feel threatened, they retreat into tribalism.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It has later been extremely well documented the the.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Despite attempts at aid it has only been detrimental to Africa.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "As a result, many on the left have turned against universalist rhetoric (for example, All Lives Matter), viewing it as an attempt to erase the specificity of the experience and oppression of historically marginalized minorities.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "When groups feel mistreated and disrespected, they close ranks and become more insular, more defensive, more punitive, more us-versus-them.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It's been too long and reparations no longer matter",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "For today\u2019s Left, blindness to group identity is the ultimate sin, because it masks the reality of group hierarchies and oppression in America.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Reality TV has always been the guidebook for this presidency.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "I think religion has a place in politics.",
+        "contrast_claim": "I think religion should not have a place in politics.",
+        "perspectives": [
+            {
+                "perspective": "People in power who think they've got a personal pipeline to the divine make me nervous.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "So, I don't like the role that religion \u2013 to be specific, Christianity \u2013 plays too often in American politics.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Religion gives people a reason to live",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Most Democrats don't understand that politics is more like religion than it is like shopping.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Practicing your religion is a right, not a priveledge.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The \u201cgreat secular hope\u201d was that religion would fade out of the political landscape, Spencer writes.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Politics involved in this system put world safety in jeopardy.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Religion is unnecessary.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "It is a mockery of religion.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "There is not a place for religion in public schools.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Spirituality has no place in science.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Celebrities becoming involved in politics can be detrimental to democracy.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Politics should not include the head of the state as in a monarchy.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "No, we weren't created to be a Christian nation, even though the Founding Fathers had Christians in their ranks.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "original_claim": "Philosophy has no tangible value as an academic field of study.",
+        "contrast_claim": "Philosophy does have tangible values as an academic field of study.",
+        "perspectives": [
+            {
+                "perspective": "Philosophers have investigated the criteria by which a scientific theory can be said to have successfully explained a phenomenon, as well as what it means to say a scientific theory has explanatory power.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Philosophies of the particular sciences range from questions about the nature of time raised by Einstein's general relativity, to the implications of economics for public policy.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "In their view, whether theories are true or not is beside the point, because the purpose of science is to make predictions and enable effective technology.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The individual's voice has a much higher perceived value than it has in the past.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Academic work produced by means of public funds belongs to the public",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The idea of the general will is at the heart of Rousseau's philosophy.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "a good option for an un-academic child",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Veganism is a philosophy and way of life and a vegan diet is a part of it.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Philosophy of science is a sub-field of philosophy concerned with the foundations, methods, and implications of science.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Finally, a tradition in continental philosophy approaches science from the perspective of a rigorous analysis of human experience.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "There is no such thing as intellectual property, since you cannot own an idea:",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "This article is about the concept.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "No it has proved opposite.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "One approach is to acknowledge that induction cannot achieve certainty, but observing more instances of a general statement can at least make the general statement more probable.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    }
+]

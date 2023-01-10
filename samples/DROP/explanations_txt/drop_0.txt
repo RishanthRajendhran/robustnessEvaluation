@@ -1,0 +1,755 @@
+PassageID: 0
+Passage: On 31 January 1919, because of the pressure from the Triple Entente representatives, the attack on Skoczów was cancelled, and the Czechoslovak army ceased fighting. The Czechoslovak army withdrew to the new Green Line, established by the International Commission Agreement on the basis of the Czechoslovak-Polish Treaty, concluded on 3 February 1919 in Paris. On 30 January 1919 Josef Šnejdárek had received the order to cross the Vistula and secure the railway line between Bohumín and Jablunkov. They crossed the river and the Polish troops retreated to Skoczów, where the front line was stalled. Further Czechoslovak reinforcements arrived, which gave Šnejdárek an advantage over the Polish units. The Czechoslovak army prepared for an attack on Skoczów assuming that it would lead to the collapse of the Polish defenses. Earlier, Cieszyn Silesia was occupied without a fight on 27 January 1919. All this had started on 23 January 1919 at 11:00 in Cieszyn Silesia when Polish commander Franciszek Latinik and Czechoslovak officer Josef Šnejdárek met with a group of officers, consisting of English, French, Italian and U.S. representatives . The Polish side was given an ultimatum, that they evacuate the area to the Biała River in less than two hours. After the expiry of this period the Czechoslovak army started its operations at 13:00 following its operational guidelines to seize Bohumín and Karviná. From the east, at the same time, an attack was launched by the Italian legionnaire unit. The Czechoslovak army moved forward, and took Bohumín , Orlová and Karviná.  Polish troops retreated to the river Vistula.
+
+Questions:
+QuestionID: 0
+Question: What happened later: Šnejdárek received orders to cross the Vistula or did he met with a group of officers?
+Answer: Šnejdárek received orders to cross the Vistula
+Explanation: Šnejdárek had received the order to cross the Vistula 7 days after his meeting with the group of officers. 
+
+QuestionID: 1
+Question: What happened later: Šnejdárek met with a group of officers or Šnejdárek received orders to cross the Vistula?
+Answer: Šnejdárek received orders to cross the Vistula
+Explanation: Šnejdárek had received the order to cross the Vistula 7 days after his meeting with the group of officers.
+
+QuestionID: 2
+Question: What happened first: Šnejdárek received orders to cross the Vistula or Šnejdárek met with a group of officers?
+Answer: Šnejdárek met with a group of officers
+Explanation: Šnejdárek met with the group of officers 7 days before he received the order to cross the Vistula. 
+
+QuestionID: 3
+Question: What happened first: Šnejdárek met with a group of officers or Šnejdárek received orders to cross the Vistula?
+Answer: Šnejdárek met with a group of officers
+Explanation: Šnejdárek met with the group of officers 7 days before he received the order to cross the Vistula. 
+
+QuestionID: 4
+Question: What happened second: the Polish were asked to evacuate or Šnejdárek received orders to cross the Vistula?
+Answer: Šnejdárek received orders to cross the Vistula
+Explanation: Šnejdárek had received the order to cross the Vistula 7 days after the Polish asked to evacuate.
+
+QuestionID: 5
+Question: What happened second: Šnejdárek received orders to cross the Vistula or the Polish were asked to evacuate?
+Answer: Šnejdárek received orders to cross the Vistula
+Explanation: Šnejdárek had received the order to cross the Vistula 7 days after the Polish asked to evacuate.
+
+QuestionID: 6
+Question: What happened earlier: the Polish were asked to evacuate or Šnejdárek received orders to cross the Vistula?
+Answer: the Polish were asked to evacuate
+Explanation: The Polish asked to evacuate 7 days before Šnejdárek had received the order to cross the Vistula. 
+
+QuestionID: 7
+Question: What happened first: Šnejdárek received orders to cross the Vistula or the Polish were asked to evacuate?
+Answer: the Polish were asked to evacuate
+Explanation: The Polish asked to evacuate 7 days before Šnejdárek had received the order to cross the Vistula.
+
+QuestionID: 8
+Question: What happened first: Polish troops retreated to Skoczów or the Czechoslovak-Polish Treaty?
+Answer: Polish troops retreated to Skoczów
+Explanation: The Polish troops retreated to Skoczów 4 days before the Czechoslovak-Polish Treaty concluded.
+
+QuestionID: 9
+Question: What happened first: the Czechoslovak-Polish Treaty or Polish troops retreated to Skoczów?
+Answer: Polish troops retreated to Skoczów
+Explanation: The Polish troops retreated to Skoczów 4 days before the Czechoslovak-Polish Treaty concluded.
+
+QuestionID: 10
+Question: What happened second: Polish troops retreated to Skoczów or the Czechoslovak-Polish Treaty?
+Answer: Czechoslovak-Polish Treaty
+Explanation: The Czechoslovak-Polish Treaty concluded 4 days after the Polish troops retreated to Skoczów.
+
+QuestionID: 11
+Question: What happened later: the Czechoslovak-Polish Treaty or Polish troops retreated to Skoczów?
+Answer: Czechoslovak-Polish Treaty
+Explanation: The Czechoslovak-Polish Treaty concluded 4 days after the Polish troops retreated to Skoczów.
+
+QuestionID: 12
+Question: What happened second: attack on Skoczów was cancelled or the Polish troops retreated to Skoczów?
+Answer: attack on Skoczów was cancelled
+Explanation: The attack on Skoczów was cancelled a day after the Polish troops retreated to Skoczów.
+
+QuestionID: 13
+Question: What happened second: the Polish troops retreated to Skoczów or attack on Skoczów was cancelled?
+Answer: attack on Skoczów was cancelled
+Explanation: The attack on Skoczów was cancelled a day after the Polish troops retreated to Skoczów.
+
+QuestionID: 14
+Question: What happened first: attack on Skoczów was cancelled or the Polish troops retreated to Skoczów?
+Answer: Polish troops retreated to Skoczów
+Explanation: The Polish troops retreated to Skoczów a day before the attack on Skoczów was cancelled.
+
+QuestionID: 15
+Question: What happened earlier: the Polish troops retreated to Skoczów or attack on Skoczów was cancelled?
+Answer: Polish troops retreated
+Explanation:The Polish troops retreated to Skoczów a day before the attack on Skoczów was cancelled.
+
+QuestionID: 16
+Question: Which event happened later, the occupation of Silesia, or the crossing of Vistula?
+Answer: the crossing of Vistula
+Explanation: The crossing of Vistula happened 3 days after the occupation of Cieszyn Silesia.
+
+QuestionID: 17
+Question: Which event happened later, or crossing of Vistula or the occupation of Silesia?
+Answer: the crossing of Vistula
+Explanation: The crossing of Vistula happened 3 days after the occupation of Cieszyn Silesia.
+
+QuestionID: 18
+Question: Which event happened earlier, the occupation of Silesia, or the crossing of Vistula?
+Answer: the occupation of Silesia
+Explanation: The occupation of Cieszyn Silesia happened 3 days before the crossing of Vistula happened.
+
+QuestionID: 19
+Question: Which event happened earlier, or crossing of Vistula or the occupation of Silesia?
+Answer: the occupation of Silesia
+Explanation: The occupation of Cieszyn Silesia happened 3 days before the crossing of Vistula happened.
+
+QuestionID: 20
+Question: How many cities did the Czechoslovak army attack on 23 January 1919?
+Answer: 3
+Explanation: The Czechoslovak army attacked 3 cities: Bohumín, Orlová and Karviná, on 23rd January 1919.
+
+QuestionID: 21
+Question: How many countries participated in the Treaty?
+Answer: 2
+Explanation: The Czechoslovak-Polish Treaty was between the Czechoslovaks and the Polish.
+
+QuestionID: 22
+Question: How many different nations attacked on 23 January 1919?
+Answer: 2
+Explanation: On 23rd January 1919 Czechoslovak army started its operations to seize Bohumín and Karviná while the Italian legionnaire unit attacked from the east.
+
+QuestionID: 23
+Question: How many places did the Czechoslovak seize in the attack on 23 January?
+Answer: 3
+Explanation: In the attack on 23 January 1919 the Czechoslovak army seized 3 cities: Bohumín, Orlová and Karviná.
+
+--------------------------------------------------
+PassageID: 1
+Passage:  Coming off a heartbreaking home loss to the Colts, the Texans stayed at home for a Week 6 duel with the Miami Dolphins.  In the first quarter, Houston trailed early as Dolphins QB Chad Pennington completed a 53-yard TD pass to RB Patrick Cobbs.  The Texans would respond with kicker Kris Brown getting a 27-yard field goal.  In the second quarter, Miami added onto its lead as Pennington completed an 80-yard TD pass to Cobbs.  Houston would answer with Brown kicking a 33-yard field goal and WR Jacoby Jones returning a punt 70 yards for a touchdown. In the third quarter, the Texans took the lead with QB Matt Schaub completing a 12-yar TD pass to WR Andre Johnson, but the Dolphins replied with RB Ricky Williams getting a 5-yard TD run.  In the fourth quarter, Houston regained the lead as Brown got a 42-yard field goal, yet Miami struck back RB Ronnie Brown got a 6-yard TD run.  Fortunately, the Texans got the last laugh as Schaub got the game-winning 3-yard TD run (with a failed 2-point conversion). With the thrilling win, Houston won its first game of the season and improved to 1-4.
+
+Questions:
+QuestionID: 0
+Question: Which team scored first in second quarter?
+Answer: Miami Dolphins
+Explanation: In the first quarter, Houston trailed early. Their opponent, the Miami Dolphins, must have scored first.
+
+QuestionID: 1
+Question: How many 30+ yard filed goals did Kris Brown make in second quarter?
+Answer: 1
+Explanation: In the second quarter, Kris Brown kicked a 33-yard field goal. That was the only 30+ yard field goals made by Kris Brown.
+
+QuestionID: 2
+Question: How many times did Patrick Cobbs and Chad Pennington connect to make a touchdown pass?
+Answer: 2
+Explanation: Chad Pennington completed two TD passes to RB Patrick Cobbs: one in the first quarter and another in the second quarter.
+
+QuestionID: 3
+Question: Who made the third longest TD pass of the game?
+Answer: Matt Schaub
+Explanation:  Matt Schaub completed a 12-yard TD pass which was the third longest in the game.
+
+QuestionID: 4
+Question: Who caught the second smallest and second longest TD pass of the game?
+Answer: Patrick Cobbs
+Explanation:  In the second quarter, Pennington completed an 80-yard TD pass to Cobbs who caught it and that was the longest TD pass in the game.
+
+QuestionID: 5
+Question: Which team scored second last?
+Answer: Miami Dolphins
+Explanation: Miami Dolphins’ Brown got a 6-yard TD run before Schaub got the game-winning 3-yard TD run.
+
+QuestionID: 6
+Question: How many yards are the top second and third longest touchdown passes combined?
+Answer: 65
+Explanation:  Pennington completed a 53-yard TD pass which was the second longest. Matt Schaub completed a 12-yard TD pass which was the third longest in the game. The top second and third longest passes were 65 yards combined.
+
+QuestionID: 7
+Question: How many yards is the difference between the shortest field goal and last field goal made?
+Answer: 15
+Explanation: Kris Brown got a 27-yard field goal which was the shortest goal in the game and then a 42-yard field goal which was the last field goal in the game. Therefore, the difference between the shortest field goal and last field goal made is 15.
+
+QuestionID: 8
+Question: How many yards combined are the two shortest field goals and two shortest TD passes combined?
+Answer: 125
+Explanation: Kris Brown got a 27-yard field goal which was the shortest goal in the game and a 33-yard field goal which was the second shortest field goal in the game. Matt Schaub completed a 12-yard TD pass which was the shortest TD pass in the game. Pennington completed a 53-yard TD pass which was the second shortest TD pass in the game. The two shortest field goals and two shortest TD passes combined come to 125 yards.
+
+QuestionID: 9
+Question: How many total field goal yards did Kris Brown make?
+Answer: 42
+Explanation: Kris Brown made a 27-yard field goal in the first quarter, a 33-yard field goal in the second and a 42-yard field goal in the fourth. In total, Brown made 102 field goal yards in total.
+
+QuestionID: 10
+Question: How many total yards did Chad Pennington throw for touchdown passes over Matt Schaub?
+Answer: 121
+Explanation: Chad Pennington completed a 53-yard TD pass in the first quarter and a 80-yard TD pass in the second quarter while Matt Schaub completed his only TD pass in the game during the third quarter with a 12-yard TD pass. In total, Pennington threw 121 yards for touchdown passes over Matt Schaub.
+
+QuestionID: 11
+Question: How many field goals between 40 and 50 yards were made?
+Answer: 1
+Explanation: Brown kicked a 33-yard field goal in the second quarter which was the only field goal between 40 and 50 yards.
+
+QuestionID: 12
+Question: How many players had touchdown passes smaller than 20 yards?
+Answer: 1
+Explanation: Matt Schaub completed a 12-yard TD pass in the third quarter making it the only touchdown pass smaller than 20 yards.
+
+QuestionID: 13
+Question: How many yards longer was Chad Pennington's second touchdown pass compared to Schaub's first?
+Answer: 68
+Explanation: Pennington completed his second touchdown pass with a 80-yard TD pass while Matt Schaub completed his first touchdown pass with a 12-yard TD pass. Therefore, Chad Pennington's second touchdown pass was 68 yards longer when compared to Schaub's first.
+
+QuestionID: 14
+Question: How many reception yards greater than 60 yards did Patrick Cobbs have?
+Answer: 80
+Explanation: Cobbs received a 80-yards touchdown pass in the second quarter which was his only reception yards greater than 60 yards.
+
+--------------------------------------------------
+PassageID: 2
+Passage: In March 1626 the French and Spanish concluded the Treaty of Monzón, suspension of fighting between the Duke of Savoy and the Republic of Genoa being an integral part of the agreement. The Treaty on 5 March 1626, restored the pre-1618 peace. Jurisdiction was nominally restored over the Valtellina; this was now recognized as Catholic, which strengthened its autonomy and introduced doubt as to who could decide on transit through the valley. Papal troops replaced the French though the forts were supposed to be destroyed. Monzón represented a serious reverse for Richelieu who blamed his envoy for the terms and feigned illness to avoid seeing the furious Savoyard ambassador. Abandoned, Savoy was obliged to make its own peace and now sought a Spanish alliance and intrigued with French malcontents against Richelieu, including possible involvement in the Chalais plot to murder the cardinal in 1626. The Valtelline valley was returned to the Vatican. Spanish forces scored a series of striking successes. In the spring of 1625 they regained Bahia in Brazil and Breda in the Netherlands from the Dutch, which turned into a situation with important qualifications. In the autumn they repulsed the English at Cadiz.
+
+Questions:
+QuestionID: 0
+Question: What event happened first, the situation with important qualifications, or the involvement in the Chalais to murder the cardinal?
+Answer: the situation with important qualifications
+Explanation: The Spanish regained Bahia in Brazil and Breda in the Netherlands, an event regarded as one with important qualifications, a year before the involvement in the Chalais to murder the cardinal happened.
+
+QuestionID: 1
+Question: What event happened second, the situation with important qualifications, or the involvement in the Chalais to murder the cardinal?
+Answer: the involvement in the Chalais to murder the cardinal
+Explanation: The involvement in the Chalais to murder the cardinal happened a year after the Spanish regained Bahia in Brazil and Breda in the Netherlands, an event which is regarded as one with important qualifications.
+
+--------------------------------------------------
+PassageID: 3
+Passage: Angola has a population of 24,383,301 inhabitants according to the preliminary results of its 2014 census, the first one conducted or carried out since 15 December 1970. It is composed of Ovimbundu (language Umbundu) 37%, Northern Mbundu people (language Kimbundu) 23%, Bakongo 13%, and 32% other ethnic groups (including the Chokwe people, the Ovambo people, the Ganguela and the Xindonga) as well as about 2% mestiços (mixed European and African), 1.6% Chinese and 1% European. The Ambundu and Ovimbundu ethnic groups combined form a majority of the population, at 62%. The population is forecast to grow to over 60 million people to 2050, 2.7 times the 2014 population. However, on 23 March 2016, official data revealed by Angolas National Statistic Institute - Instituto Nacional de Estatística (INE), states that Angola has a population of 25.789.024 inhabitants.
+
+Questions:
+QuestionID: 0
+Question: How many fewer residents of Angola were there in 2014 than in 2016?
+Answer: 1405723
+Explanation: Angola had a population of 24,383,301 according to the 2014 census and a population of 25,789,024 according to the 2016 census. There were 1405723 fewer residents of Angola in 2014 than in 2016.
+
+QuestionID: 1
+Question: How many ethnic groups had a higher percentage than Bakongo?
+Answer: 2
+Explanation: Only the Ovimbundu (37%) and the Northern Mbundu (23%) people had higher percentage than Bakongo.
+
+QuestionID: 2
+Question: Which ethnic groups had a higher percentage than Bakongo?
+Answer: Northern Mbundu, Ovimbundu
+Explanation: Only the Ovimbundu (37%) and the Northern Mbundu (23%) people had higher percentage than Bakongo.
+
+QuestionID: 3
+Question: Which ethnic groups had a higher percentage than 10%?
+Answer: Northern Mbundu, Ovimbundu, Bakongo, other ethnic groups
+Explanation: Four groups had a higher percentage than 10%: Ovimbundu (37%), Northern Mbundu (23%), Bakongo (13%) and other ethnic groups (32%).
+
+QuestionID: 4
+Question: How many groups had a higher percentage than 10%?
+Answer: 4
+Explanation: Four groups had a higher percentage than 10%: Ovimbundu (37%), Northern Mbundu (23%), Bakongo (13%) and other ethnic groups (32%).
+
+QuestionID: 5
+Question: Which ethnic groups had a lower percentage than 10%?
+Answer: mestiços, Chinese, European
+Explanation: Only the mestiços (mixed European and African) (2%), the Chinese (1.6%) and the Europeans (1%) had a lower percentage than 10%.
+
+QuestionID: 6
+Question: How many groups had a lower percentage than 10%?
+Answer: 3
+Explanation: Only three groups had a lower percentage than 10%: the mestiços (mixed European and African) (2%), the Chinese (1.6%) and the Europeans (1%).
+
+QuestionID: 7
+Question: What percent of the population are in Ambundu ethnic groups?
+Answer: 25
+Explanation: The Ovimbundus constituted 37% of the population of Angola. Also, The Ambundu and Ovimbundu ethnic groups combined form a majority of the population, at 62%. Therefore, the Ambundus constituted 25% of the population of Angola.
+
+QuestionID: 8
+Question: What was the second largest ethnic group in Angola in 2014?
+Answer: Northern Mbundu people
+Explanation: The Mbundu people were the second largest ethnic group in Angola constituting 23% of the population.
+
+QuestionID: 9
+Question: What language was spoken by the second largest ethnic group in Angola in 2014?
+Answer: Kimbundu
+Explanation: The Mbundu people who spoke the Kimbundu language were the second largest ethnic group in Angola constituting 23% of the population.
+
+QuestionID: 10
+Question: What was the third largest ethnic group in Angola in 2014?
+Answer: Bakongo
+Explanation: The Bakango people were the third largest ethnic group in Angola constituting 13% of the population.
+
+QuestionID: 11
+Question: What was the smallest ethnic group in Angola in 2014?
+Answer: European
+Explanation: The Europeans constituted only 1% of the population of Angola making them the smallest ethnic group in Angola in 2014.
+
+QuestionID: 12
+Question: What was the smallest ethnic group in Angola in 2014 that made up more than 10% of the population?
+Answer: Bakongo
+Explanation: Among the three groups: Ovimbundu, Mbundu and Bakongo, who made up more than 10% of the population, the Bakongo people were the smallest ethnic group.
+
+QuestionID: 13
+Question: What was the largest ethnic group in Angola in 2014 that made up less than 10% of the population?
+Answer: mestiços
+Explanation: Among the three groups: Ovimbundu, Mbundu and Bakongo, who made up more than 10% of the population, the mestiços people were the largest ethnic group.
+
+QuestionID: 14
+Question: What language was spoken by the largest ethnic group in Angola in 2014?
+Answer: Umbundu
+Explanation: The Ovimbundu people who spoke the Umbundu language constituted 37% of the population of Angola, making them the largest ethnic group of Angola in 2014. 
+
+--------------------------------------------------
+PassageID: 4
+Passage: A 2016 survey conducted by the Razumkov Centre found that 70% of the population declared themselves believers in any religion, while 6.3% declared themselves non-believers, and 2.7% declared to be atheists. Of the total Ukraian population, 81.9% declared to be Christians, comprising a 63.4% who declared to be Eastern Orthodox Church, 8.5% Ukrainian Greek Catholic Church, 7.1% simply christians, 1.9% Protestantism, and 1.0% Catholic Church. Islam comprises 1.1% of the population, while Judaism and Hinduism were the religions of 0.2% of the population each. A further 16.3% of the population believed in some other religion not identifying in one of those listed hitherto; it may comprise Rodnovery and other faiths.
+
+Questions:
+QuestionID: 0
+Question: Were there more believers, non-believers or atheists?
+Answer: believers
+Explanation: 70% identified themselves as believers, 6.3% identified themselves as non-believers while 2.7% identified themselves as atheists. Clearly there were more believers than non-believers or atheists.
+
+QuestionID: 1
+Question: Were there more believers or non-believers and atheists combined?
+Answer: believers
+Explanation: 70% identified themselves as believers, 6.3% identified themselves as non-believers while 2.7% identified themselves as atheists. Clearly there were more believers than non-believers and atheists combined.
+
+QuestionID: 2
+Question: How many more percent of the people consider themselves believers compared to non-believers and atheists combined?
+Answer: 61
+Explanation: 70% identified themselves as believers and 6.3% identified themselves as non-believers while 2.7% identified themselves as atheists. Therefore, 61% more people consider themselves believers compared to non-believers and atheists combined.
+
+QuestionID: 3
+Question: How many percent of the total Ukrainian population were not declared to Eastern Orthodox or Ukrainian Greek Catholic Church?
+Answer: 28.1
+Explanation: 63.4% declared themselves to be Eastern Orthodox Church and 8.5% Ukrainian Greek Catholic Church. Therefore, 28.1% of the people were not declared to Eastern Orthodox or Ukrainian Greek Catholic Church.
+
+QuestionID: 4
+Question: How many less percent of the total Ukraian population were from Catholic Church as compared to Eastern Orthodox or Ukrainian Greek Catholic Church combined?
+Answer: 80.9
+Explanation: 63.4% declared themselves to be Eastern Orthodox Church, 8.5% Ukrainian Greek Catholic Church and 1.0% Catholic  Church. Therefore, there were 70.9% less percentage of people from  the Catholic Church as compared to Eastern Orthodox or Ukrainian Greek Catholic Church combined 
+
+QuestionID: 5
+Question: How many more percent of the total Ukraian population were from Eastern Orthodox and Catholic Church combined as compared to Ukrainian Greek Catholic Church?
+Answer: 55.9
+Explanation: 63.4% declared themselves to be Eastern Orthodox Church, 8.5% Ukrainian Greek Catholic Church and 1.0% Catholic  Church. Therefore, 55.9% more percent of the total Ukraian population were from Eastern Orthodox and Catholic Church combined as compared to Ukrainian Greek Catholic Church.
+
+QuestionID: 6
+Question: How many percent of the total Ukraian population did Eastern Orthodox, Catholic Church and Ukrainian Greek Catholic Church make combined?
+Answer: 72.9
+Explanation: 63.4% declared themselves to be Eastern Orthodox Church, 8.5% Ukrainian Greek Catholic Church and 1.0% Catholic  Church. Therefore, 72.9% percent of the total Ukrainian population was made up of Eastern Orthodox, Catholic Church and Ukrainian Greek Catholic Church combined.
+
+QuestionID: 7
+Question: Where there more people in the Eastern Orthodox CHurch, Protestantism or the Ukrainian Greek Catholic Church?
+Answer: Eastern Orthodox Church
+Explanation: 63.4% declared themselves to be Eastern Orthodox Church, 8.5% Ukrainian Greek Catholic Church and 1.9% Protestantism. Therefore, there were more people in the Eastern Orthodox Church than Protestantism or the Ukrainian Greek Catholic Church.
+
+QuestionID: 8
+Question: Where there more people in the Eastern Orthodox CHurch, Catholic Church or the Ukrainian Greek Catholic Church?
+Answer: Eastern Orthodox Church
+Explanation: 63.4% declared themselves to be Eastern Orthodox Church and 8.5% Ukrainian Greek Catholic Church. Therefore, there were more people in the Eastern Orthodox Church than the Ukrainian Greek Catholic Church.
+
+QuestionID: 9
+Question: Which had less people, Protestantism, Judaism or Islam?
+Answer: Judaism
+Explanation: 1.9% declared themselves to be from Protestantism, 1.1% from Islam and 0.2% from Judaism. Clearly, Judaism had lesser people.
+
+QuestionID: 10
+Question: Which had less people, Protestantism, simply christians or Islam?
+Answer: Islam
+Explanation: 1.9% declared themselves to be from Protestantism, 7.1% simply christians and 1.1% from Islam. Clearly, Islam had lesser people.
+
+QuestionID: 11
+Question: How many religions had less than 2% of the population each?
+Answer: Protestantism, Catholic Church, Islam, Judaism, Hinduism
+Explanation: 1.9% declared themselves to be from Protestantism, 1.0% Catholic Church, 1.1% from Islam, 0.2% from Hinduism and 0.2% from Judaism. These were the only groups which had less than 2% of the population each.
+
+QuestionID: 12
+Question: How many religions had less than 2% of the population each?
+Answer: 4
+Explanation: 1.9% declared themselves to be from Protestantism, 1.0% Catholic Church, 1.1% from Islam, 0.2% from Hinduism and 0.2% from Judaism. These four groups had less than 2% of the population each.
+
+QuestionID: 13
+Question: How many religions had less than 2% of the population each?
+Answer: 3
+Explanation: 1.9% declared themselves to be from Protestantism, 1.0% Catholic Church, 1.1% from Islam, 0.2% from Hinduism and 0.2% from Judaism. These four groups had less than 2% of the population each.
+
+QuestionID: 14
+Question: How many more percent of people considered themselves believers and non-believers than atheists?
+Answer: 73.6
+Explanation: 70% identified themselves as believers, 6.3% identified themselves as non-believers while 2.7% identified themselves as atheists. Clearly there were 73.6% more believers and non-believers than atheists.
+
+QuestionID: 15
+Question: Which church had more members, the Ukrainian Greek Catholic Church, Catholic Church or the Eastern Orthodox Church?
+Answer: Eastern Orthodox Church
+Explanation: 63.4% declared themselves to be Eastern Orthodox Church, 8.5% Ukrainian Greek Catholic Church and 1% from the Catholic Church. Therefore, there were more people in the Eastern Orthodox Church than the Ukrainian Greek Catholic Church or the Catholic Church.
+
+QuestionID: 16
+Question: Which church had less members, the Ukrainian Greek Catholic Church, Catholic Church or the Eastern Orthodox Church?
+Answer: Catholic Church
+Explanation: 63.4% declared themselves to be Eastern Orthodox Church, 8.5% Ukrainian Greek Catholic Church and 1% from the Catholic Church. Therefore, there were less people in the Catholic Church than the Eastern Orthodox Church or the Ukrainian Greek Catholic Church.
+
+QuestionID: 17
+Question: How many more percent of people considered themselves as simply christians compared to Protestants or Islam?
+Answer: 4.1
+Explanation: 7.1% declared themselves to be simply Christians, 1.9% Protestants and 1.1% from Islam. Therefore, there were 4.1% more people who considered themselves as simply christians compared to Protestants or Islam.
+
+QuestionID: 18
+Question: How many more percent of people considered themselves as simply christians compared to Protestants or Catholic Church?
+Answer: 4.2
+Explanation: 7.1% declared themselves to be simply Christians, 1.9% Protestants and 1.0% from Catholic Church. Therefore, there were 4.1% more people who considered themselves as simply christians compared to Protestants or Catholic Church.
+
+QuestionID: 19
+Question: How many percent of people did not consider themselves to be Eastern Orthodox Church or Ukrainian Greek Catholic Church?
+Answer: 28.1
+Explanation: 63.4% declared themselves to be Eastern Orthodox Church and 8.5% from Ukrainian Greek Catholic Church. Therefore, there were 28.1% people who did not consider themselves to be Eastern Orthodox Church or Ukrainian Greek Catholic Church.
+
+QuestionID: 20
+Question: How many percent of people did not consider themselves to be Eastern Orthodox Church, Catholic Church or Ukrainian Greek Catholic Church?
+Answer: 27.1
+Explanation: 63.4% declared themselves to be Eastern Orthodox Church, 8.5% from Ukrainian Greek Catholic Church and 1.0% from Catholic Church. Therefore, there were 27.1% people who did not consider themselves to be Eastern Orthodox Church, Catholic Church or Ukrainian Greek Catholic Church.
+
+QuestionID: 21
+Question: Which group had fewer members Judaism, Catholic Church or Islam?
+Answer: Judaism
+Explanation: 1.0% declared themselves to be from the Catholic Church, 1.1% from Islam and 0.2% from Judaism. Clearly, Judaisim had fewer members.
+
+QuestionID: 22
+Question: Which group had more members Judaism, Catholic Church or Islam?
+Answer: Islam
+Explanation: 1.0% declared themselves to be from the Catholic Church, 1.1% from Islam and 0.2% from Judaism. Clearly, Islam had more members.
+
+QuestionID: 23
+Question: Which religious groups had more than 5% of the population?
+Answer: Eastern Orthodox Church, Ukrainian Greek Catholic Church, simply christians
+Explanation: Three groups had more than 5% of the population: Eastern Orthodox Church, Ukrainian Greek Catholic Church and simply christians.
+
+QuestionID: 24
+Question: Which religious groups had between 1% and 10% of the population?
+Answer: Protestantism, simply christians, Ukrainian Greek Catholic Church
+Explanation: Four groups had between 1% and 10% of the population: Ukrainian Greek Catholic Church, simply christians, Protestantism and from Islam.
+
+QuestionID: 25
+Question: Which section of population made the second largest percentage of population out of believers, non-believers and atheists?
+Answer: non-believers
+Explanation: 70% identified themselves as believers and 6.3% identified themselves as non-believers while 2.7% identified themselves as atheists. Therefore, the non-believers made up the second largest percentage of the population.
+
+QuestionID: 26
+Question: Which was the most prevalent denomination of the Christian religion in the Ukrainian population?
+Answer: Eastern Orthodox
+Explanation: 63.4% declared themselves to be Eastern Orthodox Church making them the most prevalent denomination of the Christian religion in the Ukrainian population.
+
+QuestionID: 27
+Question: Which was the least prevalent denomination of the Christian religion in the Ukrainian population?
+Answer: simply christians
+Explanation: 1.0% declared themselves to be from the Catholic Church making them the least prevalent denomination of the Christian religion in the Ukrainian population.
+
+QuestionID: 28
+Question: How many more percent of the population considered themselves Eastern Orthodox than the second most populous Christian denomination?
+Answer: 54.9
+Explanation: 63.4% declared themselves to be Eastern Orthodox Church, making it the most populous Christian denomination and 8.5% Ukrainian Greek Catholic Church, making it the second most populous Christian denomination. 
+
+QuestionID: 29
+Question: Were there more followers of the Catholic Church or of Islam?
+Answer: Catholic Church
+Explanation: 1.0% declared themselves to be Catholic Church and 1.1% from Islam. Therefore, there were more followers of Islam than the Catholic Church.
+
+--------------------------------------------------
+PassageID: 5
+Passage: The first war began as a result of disputes between a prominent African merchant, John Cabess  who had armed forces loyal to him, in Eguafo and the Dutch West India Company . Cabess was a formal and loyal ally to the British Royal African Company and assisted their operations in the region. The Dutch, in competition with the Royal African Company, had a series of disputes with Cabess including an instance in 1684 with the Dutch panyarring Cabess and taking his goods. The disputes intensified in November 1694 when Cabess invited the British Royal African Company to return to Komenda and then attacked Dutch miners outside of the city. With the British reoccupying the former British fort in Komenda they were fired upon by the Dutch fort. As a result of these hostilities, the British, Dutch, and Eguafo king began contacting possible allies in surrounding African kingdoms to prepare for a war. Cabess Terra and Twifo initially joined the Dutch, but this alliance was stopped when Denkyira threatened to attack Twifo if war should break out. The Adoms took money from Eguafo to remain neutral in any fighting. War broke out in February 1695 when the forces of John Cabess attacked the Dutch fort and prevented reinforcements. On April 28, 1695, the Twifo forces were defeated. The war then largely took the form of panyarring where one force would seize members of other groups regularly. A short-lived peace settlement was reached in the end of 1695, a few months after an unfortunate incident when the Dutch head at the fort, Willem Bosman, drew a pistol and attempted to shoot at Cabess.
+
+Questions:
+QuestionID: 0
+Question: What happened last, Willem Bosman attempting to shoot Cabess or a short-lived peace settlement?
+Answer: a short-lived peace settlement
+Explanation: A short-lived peace settlement was reached a few months after Willem Bosman attempted to shoot at Cabess. 
+
+QuestionID: 1
+Question: What happened last, a short-lived peace settlement, or Willem Bosman attempting to shoot Cabess?
+Answer: a short-lived peace settlement
+Explanation: A short-lived peace settlement was reached a few months after Willem Bosman attempted to shoot at Cabess. 
+
+QuestionID: 2
+Question: What happened first, Willem Bosman attempting to shoot Cabess or a short-lived peace settlement?
+Answer: Willem Bosman attempting to shoot Cabess
+Explanation: Willem Bosman attempted to shoot at Cabess a few months before a short-lived peace settlement was reached.
+
+QuestionID: 3
+Question: What happened first, a short-lived peace settlement, or Willem Bosman attempting to shoot Cabess?
+Answer: Willem Bosman attempting to shoot Cabess
+Explanation: Willem Bosman attempted to shoot at Cabess a few months before a short-lived peace settlement was reached.
+
+--------------------------------------------------
+PassageID: 6
+Passage: Hoping to rebound from their home loss to the Chiefs, the Raiders flew to Qualcomm Stadium for a Week 14 AFC West rematch with the San Diego Chargers.  In the first quarter, Oakland trailed early as Chargers kicker Nate Kaeding getting a 20-yard field goal, along with RB LaDainian Tomlinson getting a 3-yard TD pass to Philip Rivers.  The Raiders continued to trail as QB Philip Rivers completed an 8-yard TD pass to RB Darren Sproles and a 59-yard TD pass to WR Vincent Jackson, while Kaeding got a 39-yard field goal. RB Darren Sproles also made a 6-yard TD pass back to Philip Rivers. Oakland responded with CB Justin Miller returning a kickoff 98 yards for a touchdown.  After a scoreless third quarter, San Diego pulled away in the fourth quarter as Rivers hooked up with Sproles again on an 18-yard TD pass. With the loss, not only did the Raiders fall to 3-10, but they also suffered their sixth-straight 10-loss season.
+
+Questions:
+QuestionID: 0
+Question: How many TD passes did Darren Sproles throw?
+Answer: 1
+Explanation: Darren Sproles made a 6-yard TD pass which was his only TD pass in the game.
+
+QuestionID: 1
+Question: How many TD passes of at least 7 yards did Rivers make?
+Answer: 3
+Explanation: Philip Rivers completed three TD passes of at least 7 yards in the game: an 8-yard TD pass to RB Darren Sproles, a 59-yard TD pass to WR Vincent Jackson and an 18-yard TD pass to Sproles.
+
+QuestionID: 2
+Question: Which player caught the shortest TD pass?
+Answer: Philip Rivers
+Explanation: RB LaDainian Tomlinson got a 3-yard TD pass to Philip Rivers and this was the shortest TD pass in the game. 
+
+QuestionID: 3
+Question: Which player caught the last touchdown of the game?
+Answer: Sproles
+Explanation: Rivers hooked up with Sproles on an 18-yard TD pass which was the last touchdown in the game.
+
+QuestionID: 4
+Question: How many yards longer was Philip Rivers' longest touchdown pass compared to Sproles' longest TD pass?
+Answer: 53
+Explanation: Philip Rivers’ longest touchdown pass wass a 59-yard TD pass while Sproles’ longest TD pass was a 6-yard TD pass. 
+
+--------------------------------------------------
+PassageID: 7
+Passage: Most of the area was inhabited by Poles, Germans, and Kashubians. The census of 1910 showed that there were 528,000 Poles (including West Slavic Kashubians) compared to 385,000 Germans in the region. The census included German soldiers stationed in the area as well as public officials sent to administer the area. Since 1886, a Prussian Settlement Commission was set up by Prussia to enforce German settlement while at the same time Poles, Jews and Germans migrated west during the Ostflucht. In 1921 the proportion of Germans in Pomerania (where the Corridor was located) was 18.8% (175,771). Over the next decade, the German population decreased by another 70,000 to a share of 9.6%. There was also a Jewish minority. in 1905, Kashubians numbered about 72,500. After the occupation by Nazi Germany, a census was made by the German authorities in December 1939. 71% of people declared themselves as Poles, 188,000 people declared Kashubian as their language, 100,000 of those declared themselves Polish.
+
+Questions:
+QuestionID: 0
+Question: Which groups inhabited the area?
+Answer: Poles, Germans, and Kashubians
+Explanation: Most of the area was inhabited by Poles, Germans, and Kashubians.
+
+QuestionID: 1
+Question: Were there more Polish speakers or Kashubian in 1939?
+Answer: Kashubian
+Explanation: 188,000 people declared Kashubian as their language and 100,000 of those declared themselves Polish. Clearly there were more Kashubian speakers in 1939. 
+
+QuestionID: 2
+Question: Were there more Kashubian speakers or Polish speakers in 1939?
+Answer: Kashubian
+Explanation: 188,000 people declared Kashubian as their language and 100,000 of those declared themselves Polish. Clearly there were more Kashubian speakers in 1939. 
+
+QuestionID: 3
+Question: Were there fewer Polish speakers or Kashubian in 1939?
+Answer: Polish
+Explanation: 188,000 people declared Kashubian as their language and 100,000 of those declared themselves Polish. Clearly there were fewer Polish speakers in 1939. 
+
+QuestionID: 4
+Question: Were there fewer Kashubian speakers or Polish speakers in 1939?
+Answer: Polish
+Explanation: 188,000 people declared Kashubian as their language and 100,000 of those declared themselves Polish. Clearly there were fewer Polish speakers in 1939. 
+
+QuestionID: 5
+Question: How many ethnicities migrated during the Ostflucht?
+Answer: 3
+Explanation: Poles, Jews and Germans migrated west during the Ostflucht.
+
+QuestionID: 6
+Question: How much lower was the number of Polish speakers in 1939 than the number of Poles in 1910?
+Answer: 428000
+Explanation: The census of 1910 showed that there were 528,000 Poles while in the 1939 census only 100,000 people declared themselves Polish.
+
+QuestionID: 7
+Question: In 1905, how many more Germans were present than Kashubians in Pomerania?
+Answer: 33271
+Explanation: In 1905, Kashubians numbered about 72,500. We do not know the number of Germans during this period.
+
+QuestionID: 8
+Question: In December of 1939, which language was less commonly spoken, Kashubian or Polish?
+Answer: Polish
+Explanation: 188,000 people declared Kashubian as their language and 100,000 declared themselves Polish. Clearly Polish was spoken less than Kashubian.
+
+--------------------------------------------------
+PassageID: 8
+Passage: The 2010 United States Census reported that Amador County had a population of 38,091. The racial makeup of Amador County was 419 (1.1%) Asian (U.S. Census), 678 (1.8%) Native American (U.S. Census), 77 (0.2%) Pacific Islander (U.S. Census), 962 (2.5%) African American (U.S. Census), 33,149 (87.0%) White (U.S. Census), 1,450 (3.8%) from Race (United States Census), and 1,356 (3.6%) from two or more races.  Hispanic (U.S. Census) or Latino (U.S. Census) of any race were 4,756 persons (12.5%).
+
+Questions:
+QuestionID: 0
+Question: How many in percent from the 2010 United States Census for Amador County weren't white?
+Answer: 11.2
+Explanation: Amador County had 87% Whites. The remaining 11.2% weren’t Whites.
+
+QuestionID: 1
+Question: How many in percent from the 2010 United States Census for Amador County were African American or Native American?
+Answer: 4.3
+Explanation: Amador County had 1.8% Native Americans and 2.5% African Americans.
+
+QuestionID: 2
+Question: How many people from the 2010 United States Census for Amador County weren't from two or more races?
+Answer: 36735
+Explanation: Amador County had a population of 38,091 out of which 1,356 (3.6%) belonged to two or more races. The remaining 36735 people weren't from two or more races.
+
+QuestionID: 3
+Question: How many people from the 2010 United States Census for Amador County were Asian and African American?
+Answer: 1381
+Explanation: Amador County had 419 (1.1%) Asians and 962 (2.5%) African Americans.
+
+QuestionID: 4
+Question: Were there fewer Asian or African American citizens in Amador County according to the 2010 census?
+Answer: Asian
+Explanation: Amador County had 419 (1.1%) Asians and 962 (2.5%) African Americans. Clearly there were fewer Asians.
+
+QuestionID: 5
+Question: Were there fewer African American or Asian citizens in Amador County according to the 2010 census?
+Answer: Asian
+Explanation: Amador County had 419 (1.1%) Asians and 962 (2.5%) African Americans. Clearly there were fewer Asians.
+
+QuestionID: 6
+Question: Were there more Asian or African American citizens in Amador County according to the 2010 census?
+Answer: African American
+Explanation: Amador County had 419 (1.1%) Asians and 962 (2.5%) African Americans. Clearly there were more African Americans..
+
+QuestionID: 7
+Question: Were there more African American or Asian citizens in Amador County according to the 2010 census?
+Answer: African American
+Explanation: Amador County had 419 (1.1%) Asians and 962 (2.5%) African Americans. Clearly there were more African Americans.
+
+QuestionID: 8
+Question: Were there fewer African American or Native American citizens in Amador County according to the 2010 census?
+Answer: Native American
+Explanation: Amador County had 419  678 (1.8%) Native Americans and 962 (2.5%) African Americans. Clearly there were fewer Native Americans.
+
+QuestionID: 9
+Question: Were there fewer Native American or African American citizens in Amador County according to the 2010 census?
+Answer: Native American
+Explanation: Amador County had 678 (1.8%) Native Americans and 962 (2.5%) African Americans. Clearly there were fewer Native Americans.
+
+QuestionID: 10
+Question: Were there more African American or Native American citizens in Amador County according to the 2010 census?
+Answer: African American
+Explanation: Amador County had 678 (1.8%) Native Americans and 962 (2.5%) African Americans. Clearly there were more African Americans.
+
+QuestionID: 11
+Question: Were there more Native American or African American citizens in Amador County according to the 2010 census?
+Answer: African American
+Explanation: Amador County had 678 (1.8%) Native Americans and 962 (2.5%) African Americans. Clearly there were more African Americans.
+
+QuestionID: 12
+Question: Were there fewer Asian or Native American citizens in Amador County according to the 2010 census?
+Answer: Asian
+Explanation: Amador County had 678 (1.8%) Native Americans and 419 (1.1%) Asians. Clearly there were fewer Asians.
+
+QuestionID: 13
+Question: Were there fewer Native American or Asian citizens in Amador County according to the 2010 census?
+Answer: Asian
+Explanation: Amador County had 678 (1.8%) Native Americans and 419 (1.1%) Asians. Clearly there were fewer Asians.
+
+QuestionID: 14
+Question: Were there more Asian or Native American citizens in Amador County according to the 2010 census?
+Answer: Native American
+Explanation: Amador County had 678 (1.8%) Native Americans and 419 (1.1%) Asians. Clearly there were more Native Americans.
+
+QuestionID: 15
+Question: Were there more Native American or Asian citizens in Amador County according to the 2010 census?
+Answer: Native American
+Explanation: Amador County had 678 (1.8%) Native Americans and 419 (1.1%) Asians. Clearly there were more Native Americans.
+
+QuestionID: 16
+Question: How many more African Americans were there compared to Native Americans in percent?
+Answer: 0.7
+Explanation: Amador County had 678 (1.8%) Native Americans and 962 (2.5%) African Americans. Clearly there were 0.7% more African Americans.
+
+QuestionID: 17
+Question: Which race was identified as having the second fewest number of people?
+Answer: Asian
+Explanation: In Amador County, Pacific Islanders (77) had the fewest number of people followed by the Asians (419).
+
+QuestionID: 18
+Question: Which group from the census is smaller: White or African American?
+Answer: African American
+Explanation: Amador County had 33,149 (87.0%) White and 962 (2.5%) African Americans. Clearly the African American group was smaller.
+
+QuestionID: 19
+Question: Which group from the census is smaller: African American or White?
+Answer: African American
+Explanation: Amador County had 33,149 (87.0%) White and 962 (2.5%) African Americans. Clearly the African American group was smaller.
+
+QuestionID: 20
+Question: Which group from the census is larger: White or African American?
+Answer: White
+Explanation: Amador County had 33,149 (87.0%) White and 962 (2.5%) African Americans. Clearly the White group was larger.
+
+QuestionID: 21
+Question: Which group from the census is larger: African American or White?
+Answer: White
+Explanation: Amador County had 33,149 (87.0%) White and 962 (2.5%) African Americans. Clearly the White group was larger.
+
+QuestionID: 22
+Question: Which groups from the census have population smaller than 1000?
+Answer: Asian, African American, Native American, Pacific Islander
+Explanation: Populations of Asians (419), African Americans (962), Native Americans (678) and the Pacific Islanders (77) were less than 1000.
+
+QuestionID: 23
+Question: Which group from the census is smaller: Native American or Asian?
+Answer: Asian
+Explanation: In Amador County, there were 419 (1.1%) Asian (U.S. Census)  and  678 (1.8%) Native American (U.S. Census). Clearly the Aisan group was smaller.
+
+QuestionID: 24
+Question: Which group from the census is smaller: Asian or Native American?
+Answer: Asian
+Explanation: In Amador County, there were 419 (1.1%) Asian (U.S. Census)  and  678 (1.8%) Native American (U.S. Census). Clearly the Aisan group was smaller.
+
+QuestionID: 25
+Question: Which group from the census is larger: Native American or Asian?
+Answer: Native American
+Explanation: In Amador County, there were 419 (1.1%) Asian (U.S. Census)  and  678 (1.8%) Native American (U.S. Census). Clearly the Native American group was larger.
+
+QuestionID: 26
+Question: Which group from the census is larger: Asian or Native American?
+Answer: Native American
+Explanation: In Amador County, there were 419 (1.1%) Asian (U.S. Census)  and  678 (1.8%) Native American (U.S. Census). Clearly the Native American group was larger.
+
+QuestionID: 27
+Question: Which groups from the census have population smaller than 500 people?
+Answer: Asian, Pacific Islander
+Explanation: Populations of Asians (419) and the Pacific Islanders (77) were less than 500.
+
+QuestionID: 28
+Question: How many people in Amador County were not White or Asian in 2010?
+Answer: 4523
+Explanation: Amador County, which had a population of 38,091, had 33142  Whites and 419 Asians. The remaining 4523 people were not White or Asian
+
+QuestionID: 29
+Question: How many races were measured in Amador County in the 2010 United States Census?
+Answer: 6
+Explanation: The 2010 Census of Amador County included Asians, Native Americans, Pacific Islanders, African American, Whites and Races.
+
+QuestionID: 30
+Question: What group was the largest racial population in Amador County in 2010?
+Answer: White
+Explanation: There were 33,149 Whites making up to 87% of the total population making them the largest racial group in Amador County
+
+QuestionID: 31
+Question: How many percent of Amador County's population was not Native American?
+Answer: 98.2
+Explanation: Native Americans constituted 1.8% of the total population. The remaining 98.2% of the population were not  Native Americans.
+
+QuestionID: 32
+Question: How many groups are smaller than 2%?
+Answer: 3
+Explanation: The Asians (1.1%), Native Americans (1.8%) and the Pacific Islanders (0.2%) had a population below 2%.
+
+QuestionID: 33
+Question: Which group from the census is larger than 20%?
+Answer: White
+Explanation: Only the White group (87.0%) was larger than 20%.
+
+QuestionID: 34
+Question: Which group from the census is smaller: Native American or Pacific Islander?
+Answer: Pacific Islander
+Explanation: There were 678 (1.8%) Native Americans and 77 (0.2%) Pacific Islanders. Clearly the Pacific Islander group was smaller.
+
+QuestionID: 35
+Question: Which group from the census is smaller: Pacific Islander or Native American?
+Answer: Pacific Islander
+Explanation: There were 678 (1.8%) Native Americans and 77 (0.2%) Pacific Islanders. Clearly the Pacific Islander group was smaller.
+
+QuestionID: 36
+Question: Which group from the census is larger: Native American or Pacific Islander?
+Answer: Native American
+Explanation: There were 678 (1.8%) Native Americans and 77 (0.2%) Pacific Islanders. Clearly the Native Americans group was larger.
+
+QuestionID: 37
+Question: Which group from the census is larger: Pacific Islander or Native American?
+Answer: Native American
+Explanation: There were 678 (1.8%) Native Americans and 77 (0.2%) Pacific Islanders. Clearly the Native Americans group was larger.
+
+--------------------------------------------------

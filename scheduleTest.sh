@@ -8,6 +8,8 @@
 #SBATCH --mem=128GB
 #SBATCH -o outputs-%j
 
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:../miniconda3/lib
+
 ISTRAINDIR=false
 ISTESTDIR=false
 
@@ -58,11 +60,12 @@ fi
 # echo "isTestDir = $ISTESTDIR"
 # echo "Dataset = $DATASET"
 
-source ~/miniconda3/etc/profile.d/conda.sh
-conda activate flant5Env
+source /scratch/general/vast/u1419542/miniconda3/etc/profile.d/conda.sh
+conda activate /scratch/general/vast/u1419542/miniconda3/envs/flant5Env
 
 # wandb disabled 
-export TRANSFORMER_CACHE="/scratch/general/vast/u1419542/huggingface_cache"
+# mkdir /scratch/general/vast/u1419542/huggingface_cache
+export TRANSFORMERS_CACHE="/scratch/general/vast/u1419542/huggingface_cache"
 if [ "$ISTRAINDIR" = true ] ; then 
     if [ "$ISTESTDIR" = true ] ; then 
         python3.9 test.py -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir -isTestDir ;

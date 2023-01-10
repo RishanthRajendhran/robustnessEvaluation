@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "1_0",
+        "sentence1": "In this way the other major congressional interests can be brought together in the new committee's work. How different were the matters prior to the new committee?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: discussing other major congressional interests were of less importance  ?",
+        "label": "no",
+        "explanation": "If discussing other major congressional interests were of less importance, a new committee would not have been created for that purpose."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: never?",
+        "label": "no",
+        "explanation": "Kevin is currently travelling to England to meet Erin."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "He also submitted various suggestions as to its initial programs after a lifetime of research and became the first one to make changes. How often do they make changes to the programs?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: once a few decades?",
+        "label": "yes",
+        "explanation": "Changes have been made to the program for the first time now."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "QuestionID": "10",
+        "sentence2": "Is this the answer: one year?",
+        "label": "no",
+        "explanation": "The submarine was probably at the bottom of the sea for a day to finish the exploration."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Every late evening after dinner we would go to the park and play Toodles' favorite game. What are you doing after the park",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: going home?",
+        "label": "yes",
+        "explanation": "Since it is late at night, we might go home to sleep."
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before classes. What did they do after the morning?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: they went to bed?",
+        "label": "no",
+        "explanation": "They attended classes after their trip to the library in the morning."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "QuestionID": "10",
+        "sentence2": "Is this the answer: many of the nights due to their flexibility?",
+        "label": "yes",
+        "explanation": "The factory is designed to shift flexibly and make chips at any time of the day."
+    },
+    {
+        "PassageID": "1_7",
+        "sentence1": "Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. What happens once they are not surrounded by air molecules?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: they cannot breath anymore?",
+        "label": "yes",
+        "explanation": "When there is no air, one becomes breathless."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are forced to have a child . Did they want children when they were younger?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: no?",
+        "label": "yes",
+        "explanation": "Since they were forced to have children, they could not have wanted children when they were younger."
+    }
+]

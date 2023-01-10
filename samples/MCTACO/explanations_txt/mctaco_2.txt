@@ -1,0 +1,283 @@
+PassageID: 0
+Passage: Trying to live a regular life, she later adopted the name Fontaine -- the name of her mother's second husband. What happened after she changed her name?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: she has an easier life ?
+Answer: yes
+Explanation: She changed her name to live a regular life.
+
+QuestionID: 1
+Question: Is this the answer: she used the pseudonym for her work?
+Answer: yes
+Explanation: She changed her name to live a regular life which would mean that she had a different name before.
+
+QuestionID: 2
+Question: Is this the answer: she tried to reveal her actual identity ?
+Answer: no
+Explanation: Changing one’s name is one way of hiding one’s actual identity.
+
+--------------------------------------------------
+PassageID: 1
+Passage: She temporarily used the stage name Fontaine -- the name of her mother's second husband and soon changed to another one. Is she known as Fontaine today?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: yes?
+Answer: no
+Explanation: She changed her name again after changing it to Fontaine.
+
+QuestionID: 1
+Question: Is this the answer: no?
+Answer: yes
+Explanation: She changed her name again after changing it to Fontaine.
+
+--------------------------------------------------
+PassageID: 2
+Passage: Durer's father died in 1502, and his estranged mother died in 1513. How often did Durer visit his mother's grave?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every hour?
+Answer: no
+Explanation: Durer was estranged from his mother which would mean that they were not on good terms. 
+
+QuestionID: 1
+Question: Is this the answer: once a minute?
+Answer: no
+Explanation: Durer was estranged from his mother which would mean that they were not on good terms. 
+
+QuestionID: 2
+Question: Is this the answer: every second?
+Answer: no
+Explanation: Durer was estranged from his mother which would mean that they were not on good terms. 
+
+QuestionID: 3
+Question: Is this the answer: hourly?
+Answer: no
+Explanation: Durer was estranged from his mother which would mean that they were not on good terms. 
+
+QuestionID: 4
+Question: Is this the answer: once a century?
+Answer: no
+Explanation: Durer was estranged from his mother which would mean that they were not on good terms. 
+
+QuestionID: 5
+Question: Is this the answer: every year?
+Answer: no
+Explanation: Durer was estranged from his mother which would mean that they were not on good terms. 
+
+QuestionID: 6
+Question: Is this the answer: almost never?
+Answer: yes
+Explanation: Durer was estranged from his mother which would mean that they were not on good terms. 
+
+--------------------------------------------------
+PassageID: 3
+Passage: Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. How long do the stations remain pressurized?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: just a couple minutes?
+Answer: no
+Explanation: Space stations need to be pressurized as long as it is in use as there is no air in space. 
+
+QuestionID: 1
+Question: Is this the answer: for as long as it's needed ?
+Answer: yes
+Explanation: Space stations need to be pressurized as long as it is in use as there is no air in space.
+
+QuestionID: 2
+Question: Is this the answer: two minutes?
+Answer: no
+Explanation: Space stations need to be pressurized as long as it is in use as there is no air in space.
+
+QuestionID: 3
+Question: Is this the answer: for hours as long as the workers are in them?
+Answer: yes
+Explanation: Space stations need to be pressurized as long as it is in use as there is no air in space.
+
+--------------------------------------------------
+PassageID: 4
+Passage: In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: august?
+Answer: no
+Explanation: It does not snow in August.
+
+QuestionID: 1
+Question: Is this the answer: in february?
+Answer: yes
+Explanation: It usually snows in February.
+
+QuestionID: 2
+Question: Is this the answer: december?
+Answer: yes
+Explanation: It usually snows in December.
+
+QuestionID: 3
+Question: Is this the answer: he rejoined his family?
+Answer: no
+Explanation: 
+
+QuestionID: 4
+Question: Is this the answer: in september?
+Answer: no
+Explanation: It does not snow in September.
+
+QuestionID: 5
+Question: Is this the answer: november?
+Answer: yes
+Explanation: It usually snows in November.
+
+QuestionID: 6
+Question: Is this the answer: september?
+Answer: no
+Explanation: It does not snow in September.
+
+QuestionID: 7
+Question: Is this the answer: june?
+Answer: no
+Explanation: It does not snow in June.
+
+QuestionID: 8
+Question: Is this the answer: in january?
+Answer: yes
+Explanation: It usually snows in January.
+
+--------------------------------------------------
+PassageID: 5
+Passage: Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: they go to the playground twice a night?
+Answer: no
+Explanation: They probably don’t go to the playground often before because if they have, they wouldn’t have been surprised. 
+
+QuestionID: 1
+Question: Is this the answer: twice a minute?
+Answer: no
+Explanation: They probably don’t go to the playground often before because if they have, they wouldn’t have been surprised.
+
+QuestionID: 2
+Question: Is this the answer: three times a week?
+Answer: no
+Explanation: They probably don’t go to the playground often before because if they have, they wouldn’t have been surprised.
+
+QuestionID: 3
+Question: Is this the answer: few times a year?
+Answer: yes
+Explanation: They have probably gone a few times before.
+
+QuestionID: 4
+Question: Is this the answer: three times per week?
+Answer: no
+Explanation: They probably don’t go to the playground often before because if they have, they wouldn’t have been surprised.
+
+QuestionID: 5
+Question: Is this the answer: they go to the playground twice a minute?
+Answer: no
+Explanation: They probably don’t go to the playground often before because if they have, they wouldn’t have been surprised.
+
+QuestionID: 6
+Question: Is this the answer: once a week?
+Answer: no
+Explanation: They probably don’t go to the playground often before because if they have, they wouldn’t have been surprised.
+
+QuestionID: 7
+Question: Is this the answer: they go to the playground once every few days?
+Answer: no
+Explanation: They probably don’t go to the playground often before because if they have, they wouldn’t have been surprised.
+
+QuestionID: 8
+Question: Is this the answer: they go to the playground once every few centuries?
+Answer: no
+Explanation: They probably don’t go to the playground often before because if they have, they wouldn’t have been surprised.
+
+QuestionID: 9
+Question: Is this the answer: once a second?
+Answer: no
+Explanation: They probably don’t go to the playground often before because if they have, they wouldn’t have been surprised.
+
+--------------------------------------------------
+PassageID: 6
+Passage: Danny was spending less and less time at home with his wife and children. Although over the years things got better, his wife was still not happy about the past.  Would the wife still be upset about this in six years?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: yes?
+Answer: no
+Explanation: Since Danny has not been spending enough time at home with his wife, she is unlikely to get over her upset.
+
+QuestionID: 1
+Question: Is this the answer: no?
+Answer: yes
+Explanation: Since Danny has not been spending enough time at home with his wife, she is unlikely to get over her upset.
+
+--------------------------------------------------
+PassageID: 7
+Passage: He was running all around the pond and barking at the ducks when he saw someone breaking in. What did he do after barking at the ducks?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: he chased the robbers?
+Answer: yes
+Explanation: Since he saw the break-in happening, he would have tried to catch the perpetrators. 
+
+QuestionID: 1
+Question: Is this the answer: he died?
+Answer: no
+Explanation: If he had died, he couldn't have seen the break-in happening.
+
+QuestionID: 2
+Question: Is this the answer: he went home?
+Answer: no
+Explanation: If he had gone home, he couldn't have seen the break-in happening.
+
+--------------------------------------------------
+PassageID: 8
+Passage: Upon graduation in 1975, she entered private law practice in Oxford, and eventually changed to a different profession. How many cases does she work on a month now?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 0?
+Answer: yes
+Explanation: She changed her profession and is not practicing law anymore.
+
+QuestionID: 1
+Question: Is this the answer: none?
+Answer: yes
+Explanation: She changed her profession and is not practicing law anymore.
+
+QuestionID: 2
+Question: Is this the answer: 3?
+Answer: no
+Explanation: She changed her profession and is not practicing law anymore.
+
+QuestionID: 3
+Question: Is this the answer: 120?
+Answer: no
+Explanation: She changed her profession and is not practicing law anymore.
+
+QuestionID: 4
+Question: Is this the answer: one or two?
+Answer: no
+Explanation: She changed her profession and is not practicing law anymore.
+
+QuestionID: 5
+Question: Is this the answer: 2?
+Answer: no
+Explanation: She changed her profession and is not practicing law anymore.
+
+QuestionID: 6
+Question: Is this the answer: 6?
+Answer: no
+Explanation: She changed her profession and is not practicing law anymore.
+
+--------------------------------------------------
+
+
+

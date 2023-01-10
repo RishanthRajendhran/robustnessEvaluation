@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "2_0",
+        "sentence1": "Consider the following two claims: Claim 1: I believe authoritarian regimes are better for minorities in the middle east. . and Claim2: I believe authoritarian regimes hurt minorities in the middle east.",
+        "QuestionID": "10",
+        "sentence2": "Perspective: The 1957 Eisenhower Doctrine was the beginning of a policy of American democracy promotion in the Middle East and North Africa (MENA), leading, for example, to American intervention on behalf of the democratically elected government in the 1958 Lebanon crisis. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?",
+        "label": "unk",
+        "explanation": "This perspective does not speak to whether authoritarian regimes hurt minorities in the middle east or not."
+    },
+    {
+        "PassageID": "2_1",
+        "sentence1": "Consider the following two claims: Claim 1: Soccer will never become a major sport in the US. and Claim2: Soccer is already a major sport in the US.",
+        "QuestionID": "3",
+        "sentence2": "Perspective: It's another in a long list of changes that will make this sport better than it already is. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?",
+        "label": "unk",
+        "explanation": "This perspective does not speak to whether soccer is a major sport in the US or not."
+    },
+    {
+        "PassageID": "2_2",
+        "sentence1": "Consider the following two claims: Claim 1: should there be an ethics to technology and Claim2: should there be no ethics boundaries to technology .",
+        "QuestionID": "6",
+        "sentence2": "Perspective: Whether merely a lifeless amoral 'tool' or a solidified embodiment of human values \"ethics of technology\" refers to two basic subdivisions:-. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?",
+        "label": "unk",
+        "explanation": "This perspective does not speak to whether technology should have an ethics boundary or not."
+    },
+    {
+        "PassageID": "2_3",
+        "sentence1": "Consider the following two claims: Claim 1: Cloth car seats are better than leather and Claim2: Leather car seats are better than cloth.",
+        "QuestionID": "1",
+        "sentence2": "Perspective: There are better, more sustainable options available. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?",
+        "label": "unk",
+        "explanation": "This perspective does not speak to which among cloth car seats and leather  car seats are better."
+    },
+    {
+        "PassageID": "2_4",
+        "sentence1": "Consider the following two claims: Claim 1: I think that \"bodily autonomy\", by itself, is a horrible reason to justify abortion. . and Claim2: Bodily autonomy is a good justification to abortion.",
+        "QuestionID": "2",
+        "sentence2": "Perspective: Abortion could be a potential detriment to society. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?",
+        "label": "pos",
+        "explanation": "Abortions can be detrimental to society."
+    },
+    {
+        "PassageID": "2_5",
+        "sentence1": "Consider the following two claims: Claim 1: It's not racist to say that you would never date a black / asian / white (etc) person because we're entitled to ANY sexual preference without prejudices. and Claim2: It's racist to say that you would never date a black / asian / white (etc) person because we're entitled to ANY sexual preference without prejudices.",
+        "QuestionID": "6",
+        "sentence2": "Perspective: Shangela, an actor, tells me that racism from the LGBT community \u201churts more because it\u2019s coming from people that I\u2019m meant to share a kinship with\u201d. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?",
+        "label": "unk",
+        "explanation": "This perspective does not speak to whether or not it is racist to say that one does not want to date people from a particular ethnicity."
+    },
+    {
+        "PassageID": "2_6",
+        "sentence1": "Consider the following two claims: Claim 1: We need to keep working on A.I., even if this could mean the end of the human race and Claim2: We should stop working on A.I. because A.I. could mean the end of the human race .",
+        "QuestionID": "3",
+        "sentence2": "Perspective: If a superhuman intelligence were to be invented\u2014either through the amplification of human intelligence or through artificial intelligence\u2014it would bring to bear greater problem-solving and inventive skills than current humans are capable of. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?",
+        "label": "pos",
+        "explanation": "A lot of unsolved world problems could potentially be solved with AI."
+    },
+    {
+        "PassageID": "2_7",
+        "sentence1": "Consider the following two claims: Claim 1: A female president wouldn't run a nation as well as a man and Claim2: A female president would be as good as male president.",
+        "QuestionID": "9",
+        "sentence2": "Perspective: When women are free and happy, they will know how to rule the world. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?",
+        "label": "pos",
+        "explanation": "A woman becoming president would mean that women are happy and free."
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "Consider the following two claims: Claim 1: should the us abolish the estate tax and Claim2: should the us increase the estate tax .",
+        "QuestionID": "1",
+        "sentence2": "Perspective: Of these deductions, the most important is the deduction for property passing to (or in certain kinds of trust, for) the surviving spouse, because it can eliminate any federal estate tax for a married decedent. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?",
+        "label": "unk",
+        "explanation": "This perspective does not speak to whether the US should abolish estate tax or increase it."
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "0_0",
+        "sentence1": "",
+        "QuestionID": "1",
+        "sentence2": "I rate this 10 out of 10. Why?<br /><br />* It offers insight into something I barely understand - the surfers surf because it's all they want to do; Nothing else seems to matter as much to them as surfing; Nor is it a temporary thing - it's a lifetime for these guys * Buried in the movie is a great history of surfing; I have never surfed, but I love surfing movies, and have seen many. None taught me what this movie did * The movie was very well edited. It flowed well. The interviews were outstanding * It's interesting from start to finish<br /><br />In summary, it's about as good as a documentary as I have seen, so I have to rate it in terms of that. So 10/10. What is the sentiment of this review: Positive or Negative?",
+        "label": "Positive",
+        "explanation": "The reviewer was impressed with the editing and the story of the movie. They found it to be insightful like no other surfing movie."
+    },
+    {
+        "PassageID": "0_1",
+        "sentence1": "\"When my now college age daughter was in preschool, this miniseries appeared on A&E from 8-9 each morning. My neighbor and I made a pact that we wouldn't miss a minute of Jane Eyre and our kids were late for preschool every morning for the whole week.",
+        "QuestionID": "0",
+        "sentence2": "Good choice in your dreams. <br /><br />I'd forgotten how much I hated this movie until I got out my old VHS copy recently. Timothy Dalton is very handsome, but still perfect as Rochester. The dark, craggy face, the imperious demeanor tempered with humor and tenderness were straight from the pages of the book. Although Dalton eats a little scenery, I couldn't sit through an adaptation starring wimpy William Hurt or grumpy Ciaran Hinds. The trick here is that women love Dalton and get caught up in the romance. <br /><br />I would love to know what's become of Zelah Clarke. She is dead on as Jane, quiet, formal, saying volumes with but a look. The sparkle in her eyes gives viewers a glimpse of the strength and spirited nature that helped Jane survive the mistreatment she endured in youth. Criticism of her performance as \"\"wooden\"\" is well said. A servant in a proper English household would have maintained just such a demeanor, but she speaks passionately when overcome with emotion. Unlike many other screen Janes, she appears plain enough to be Jane yet pretty enough to allow the audience to buy Rochester's attraction to her. <br /><br />Bronte's dialog is a large part of why the book endures the script keeps much of it intact. Dalton and Clarke do not capture any interplay between Jane and Rochester. Although Jane appears as plain and sweet as vanilla custard, she refuses to be cowed by the dark, blustery Rochester. The two leads play off each other beautifully. <br /><br />This is the best romance novel ever. \". What is the sentiment of this review: Positive or Negative?",
+        "label": "Negative",
+        "explanation": "The reviewer regrets having spent time watching the movie. They also felt that it lacked the nuances that the novel, whose adaptation the movie is, had."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "We start all of our reviews with the following information. My wife and I have seen nearly 100 movies per year for the past 15 years. Recently, we were honored by receiving lifetime movie passes to any movie any time at no cost! So we can see whatever we want whenever we want. The point of this is that CRITICS count for ZERO. Your local critics or the national critics like Ebert are really no different than you or me. The only difference is that they get to write about the movie and are forced to see hundreds of movies whether they want to or not. Therefore, it is our belief that if you get your money's worth for two hours of enjoyment that is good enough for us! We NEVER EVER listen or read the critics. We only care about our friends and those who we know like the same things as us. Well enough about that.",
+        "QuestionID": "0",
+        "sentence2": "<br /><br />Unfortunately,the critics were right on this one. This movie is very bad. not just bad but very bad. The critics are a bunch of geniuses. They hated the nudity and language and so did I. It wasn't worth the price of the ticket (free for me!!). Every movie cannot be an academy award nominee. But this was miles from it. Sharon Stone is ugly and does a poor job in the movie and it confirms to me that critics are sometimes right. What is the sentiment of this review: Positive or Negative?",
+        "label": "Negative",
+        "explanation": "The reviewer agrees with the critics\u2019 poor opinion about the movie. They felt that the movie had unnecessary nudity and poor acting."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "",
+        "QuestionID": "1",
+        "sentence2": "I swear when I first saw this movie,I cried my eyes out! A STAR IS BORN is the movie that lets you know what love is really like despite the obstacles John Norman (Kris Kristofferson) and Esther (Streisand) face. You also experience what it's like to lose a love like that by the end of the movie. Streisand and Kristofferson have such great chemistry together and the music is fantastic! When Streisand sings With one more look at you/Watch closely now, it's just pure magic! This movie made the song Evergreen one of my favorites,and Queen Bee is such a fun song. Also I love the fashion of the '70s (except Streisand's afro. Besides that,she's a beauty. ). A Star is Born is my number one favorite movie. This movie is a pleasure to watch and is a heart-breaker at the end. What is the sentiment of this review: Positive or Negative?",
+        "label": "Positive",
+        "explanation": "The reviewer calls the movie a pleasurable watch and felt that the songs were fantastic. She deems it to be her most favourite movie."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "",
+        "QuestionID": "1",
+        "sentence2": "\"I gave it a 2 instead of a 1 because I think \"\"The Wild Women of Wongo\"\" is worse. This is an exercise in patience. It's like having your teeth cleaned by a bad dental hygienist. There's no plot. There's no logic. There is certainly no acting (although the shark has some quality dialogue). We don't wonder about anything. We don't know how people got where they got. It's always amazing to me how things like this even get released. I agree with the previous writer that it isn't even funny bad. I know. It's about 90 minutes long and that will fill up about that much space on a DVD collection. It's like a paperweight. Or a bad painting you bought at a starving artists' sale. It covers the crack in the wall. \". What is the sentiment of this review: Positive or Negative?",
+        "label": "Negative",
+        "explanation": "The reviewer felt it was a tedious watch and that it had poor and incoherent plot and bad acting."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "",
+        "QuestionID": "1",
+        "sentence2": "This movie was so bad I couldn't sit through it without doing something else. There was no plot and no point. I was thoroughly bored and for a film about a stand up comedian, I couldn't recall one joke or funny line worthy of the description. Politicians with no charisma speaking technical jargon could not be less entertaining. <br /><br />So how was this made? Is there no quality control in film? Watching the girls in bikinis was the only distraction during this horrible experience. <br /><br />It's hard to imagine that Adam Sandler who has become popular and has appeared in fine comedies was able to survive after this kind of exposure. He was not funny in the least in this movie so it proves that the writing is so vital in effective comedy. What is the sentiment of this review: Positive or Negative?",
+        "label": "Negative",
+        "explanation": "The reviewer found the comedy in the movie ineffective and felt that there was no plot and that the dialogues were boring."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "",
+        "QuestionID": "1",
+        "sentence2": "OK we all love the daisy dukes, but what is up with this cast. Lets start, Jessica Simpson as Daisy, there is not one thing country about this girl and Daisy was not ditzy! Uncle Jesse was probably the closest one to resemble the original. No offense to Burt, but I never noticed Boss HOg being so tall. That was part of the humor of Boss Hog was his size. Did they even try someone like Danny Devito?!? OK , now get this they cast Jessica Simpson did anyone take a look at her husband? He matches Luke Duke to a tee!!!!!! Cleary these producers did not look at the appearance of the old cast members. The screen t's were never present on the dukes!! This made the movie a turn off from the beginning. I give this a HUGE thumbs down. What is the sentiment of this review: Positive or Negative?",
+        "label": "Negative",
+        "explanation": "The reviewer gave the movie a thumbs down as she felt that none of the actors fit their characters and that the movie was a turn off right from the start."
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "You know? Our spirit is based on that revolution, it's asleep. I can explain, I think!! Well. Until that happened on 25th April 1974, our freedom was limited, we didn't have liberty of speech, but when we got it at the revolution, it seems that Portuguese People lost his opinion, we don't use our liberty of speech! That's all a consequence of the revolution! I think that's clear!. About the movie.",
+        "QuestionID": "1",
+        "sentence2": "I think that it has a few mistakes on some character's acting, but by the way I used to watch Portuguese movies. It's quite good!! I like it very much!. What is the sentiment of this review: Positive or Negative?",
+        "label": "Positive",
+        "explanation": "The reviewer felt that even though the acting wasn\u2019t top-notch, it was quite good for a Portuguese movie and felt that the movie was good."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "A spoiler.",
+        "QuestionID": "1",
+        "sentence2": "<br /><br />What three words can guarantee you a terrible film? Cheap Canadian Production. THE BRAIN fits those words perfectly. Terrible script, idiotic acting and hilarious special effects make this a must for every BAD movie fan. The horror is hilarious. The post production team looks like it gave up. What makes THE BRAIN admirable is in the second half, it actually tries to be good! Can a bit of ingenuity and consistency save what is already a joke?<br /><br />It's around Christmas time. A mother and daughter are murdered by one of the funniest looking villains ever. The day later, a rebel teen gets into enough trouble that he is sent for a psychiatric analysis. <br /><br />If a cop 's head is chopped off and a stranger with blood on him and a bloody axe told you some kids did it, who would you believe? What begins as funny turns dull and tiring toward the end when THE BRAIN tries to be serious. A child cannot be frightened by the scary moments. THE BRAIN is too funny a concept to try and be gritty. The Psychological Research Institute is larger than major manufacturing plants! Our ugly villain and its cohorts get credit for pulling some of the worst acting I have seen. Viewer discretion advised heavily. What is the sentiment of this review: Positive or Negative?",
+        "label": "Negative",
+        "explanation": "The reviewer was not impressed with the script, acting and special effects. They also felt that the story was dull and tiring."
+    }
+]

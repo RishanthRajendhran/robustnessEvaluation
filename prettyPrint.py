@@ -8,7 +8,16 @@ parser = argparse.ArgumentParser()
 
 parser.add_argument(
     "-dataset",
-    choices=["boolq", "ropes", "drop", "mctaco", "quoref", "imdb", "matres", "nlvr2"],
+    choices=["boolq", 
+            "ropes", 
+            "drop", 
+            "mctaco", 
+            "quoref", 
+            "imdb", 
+            "matres", 
+            "nlvr2",
+            "perspectrum",
+            ],
     required=True,
     help="Name of dataset",
 )
@@ -80,7 +89,8 @@ def prettyPrint(a, dataset):
             print("\n")
             print("Questions:")
             for q in range(len(p["qas"])):
-                print(f"QuestionID: {q}")
+                qID = p["qas"][q]["id"]
+                print(f"QuestionID: {qID}")
 
                 que = p["qas"][q]["question"]  
                 print(f"Question: {que}")
@@ -357,6 +367,53 @@ def prettyPrint(a, dataset):
         #     print(f"Explanation: {exp}",end="")
         #     print("\n")
         #     print("-"*50)
+    elif dataset == "perspectrum":
+        for i in range(len(a)):
+            print(f"PassageID: {i}")
+            p = a[i]
+            passage = "Consider the following two claims: "
+            passage += "Claim 1: " + p["original_claim"]
+            passage += " and "
+            passage += "Claim2: " + p["contrast_claim"]
+            if passage.strip()[-1] != ".":
+                passage += " ."
+            print(f"Passage: {passage}",end="")
+            print("\n")
+            print("Questions:")
+
+            for q in range(len(p["perspectives"])):
+                print(f"QuestionID: {q}")
+                que = p["perspectives"][q]["perspective"]  
+                que = que.strip()
+                queAttach = " What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?"
+                if que.strip()[-1] != ".":
+                    queAttach = "." + queAttach
+                print(f"Question: Perspective: {que}{queAttach}")
+
+                ans = p["perspectives"][q]["original_stance_label"]
+                print(f"Answer: {ans}")
+
+                exp = ""
+                if "explanation1" in p["perspectives"][q].keys():
+                    exp = p["qas"][q]["explanation1"]
+                print(f"Explanation: {exp}",end="")
+                print("\n")
+
+                print(f"QuestionID: {q}")
+                queAttach = " What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?"
+                if que.strip()[-1] != ".":
+                    queAttach = "." + queAttach
+                print(f"Question: Perspective: {que}{queAttach}")
+
+                ans = p["perspectives"][q]["contrast_stance_label"]
+                print(f"Answer: {ans}")
+
+                exp = ""
+                if "explanation2" in p["perspectives"][q].keys():
+                    exp = p["qas"][q]["explanation2"]
+                print(f"Explanation: {exp}",end="")
+                print("\n")
+            print("-"*50)
     else:
         print(f"Unrecognized dataset!")
 #------------------------------------

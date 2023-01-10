@@ -1,0 +1,681 @@
+[
+    {
+        "original_claim": "Circumcision should not be done to infants.",
+        "contrast_claim": "Circumcision should definitely be done to infants.",
+        "perspectives": [
+            {
+                "perspective": "Circumcision may be used to treat pathological phimosis, refractory balanoposthitis and chronic or recurrent urinary tract infections (UTIs).",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Circumcision is contraindicated in infants with certain genital structure abnormalities, such as a misplaced urethral opening (as in hypospadias and epispadias), curvature of the head of the penis (chordee), or ambiguous genitalia, because the foreskin may be needed for reconstructive surgery.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The circumcision procedure causes pain, and for neonates this pain may interfere with mother-infant interaction or cause other behavioral changes,[33] so the use of analgesia is advocated.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "There are plausible explanations based on human biology for how circumcision can decrease the likelihood of female-to-male HIV transmission.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The positions of the world's major medical organizations range from considering elective circumcision of babies and children as having no benefit and significant risks, to the procedure having a modest health benefit that outweighs small risks.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The finding that circumcision significantly reduces female-to-male HIV transmission has prompted medical organizations serving communities affected by endemic HIV/AIDS to promote circumcision as an additional method of controlling the spread of HIV.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The foreskin extends out from the base of the glans and covers the glans when the penis is flaccid.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "There is strong evidence that circumcision reduces the risk of men acquiring HIV infection in areas of the world with high rates of HIV.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "For infant circumcision, devices such as the Gomco clamp, Plastibell and Mogen clamp are commonly used in the USA.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Removal of the foreskin",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Removal of the foreskin from the human penis",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Male circumcision reduces the risk of HIV infection among heterosexual men in sub-Saharan Africa.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Neonatal circumcision is usually elected by the parents for non-medical reasons, such as religious beliefs or personal preferences, possibly driven by societal norms.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "An estimated one-third of males worldwide are circumcised.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "Men should sit down to urinate in any private restroom.",
+        "contrast_claim": "Men should be allowed to stand while peeing in private restrooms.",
+        "perspectives": [
+            {
+                "perspective": "The toilet seat functions as a comic standby for sight gags relating to toilet humor.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Advocates claim that they allow the toilet to be used as a more comfortable seat and provide another way of decorating a bathroom, while critics view them as a sanitation problem which creates unnecessary work.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Toilet seats often have a lid.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Some seats are made of various types of wooden materials, like oak or walnut, and others are made soft for added comfort.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The issue of men leaving the seat up or putting it back down after use (particularly for the benefit of women), is a perennial topic of discussion and light humor; with it often being argued that leaving the toilet seat up is more efficient for men, but putting it down is more considerate of women.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "A hinged unit consisting of a round open seat which is bolted onto the bowl of a toilet used in a sitting position",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The seat is generally lifted when a man stands to urinate, or while cleaning the toilet.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The purpose for this seat design is to prevent genitals contacting the seat.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Special hinges provide resistance, allowing the seat to lower slowly.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "A toilet seat consists of the seat itself, which may be contoured forum the user to sit on, and the lid, which covers the toilet when it is not in use \u2013 the lid may be absent in some cases, particularly in public restrooms.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Toilet seats are manufactured in a range of different styles and colors, and they may be furnished matching the style of the toilet itself.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The price of toilet seats varies quite considerably.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "A seatless toilet has no toilet seat.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should cheaters be given a second chance",
+        "contrast_claim": "cheaters do not deserve a second chance",
+        "perspectives": [
+            {
+                "perspective": "I would just be so upset that that guy cheated and stole that moment away from me.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Given the science of anti-doping today, and the complexity of these cases, I'd argue that you simply cannot make this decision, and if your punishment option is to hand out a lifetime ban, I'd argue that you're far less likely to find dopers guilty when presented with this defence!",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "It's just too harsh \u2013 you would not find this kind of extreme requirement in any other profession.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "A second playoff for a lower-tier college football championship may be a slippery slope.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "There is no time to hold a second referendum",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The media should not be controlled by a celebrity",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It doesn't maybe mean that you are a horrible person and that you should be ostracised by your community, but it should mean that you are never allowed to compete again.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The corollary is that a negative doping test also does not mean you're not doping, but this is a mindset that I think many have yet to recognize!",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "And sadly, the science is, as of this moment, not able to provide those guarantees, and there is always some doubt if an athlete wants to contest the origin of a doping positive.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Marriage should be between a man and a woman",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Positive dope tests are not always the result of cheating, even if they're true",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "And thankfully I don't think I have competed against someone who has tested positive.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "This is basic economics \u2013 disincentivize doping through increased probability of being caught and harsher punishment when caught.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Pre-nuptial agreements constitutes a serious chance of abuse",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "I believe homeschooling is bad for children and should be outlawed at a State level.",
+        "contrast_claim": "Homeschooling is good for children and should be encouraged.",
+        "perspectives": [
+            {
+                "perspective": "Many parents who opt to home-school their children say they are avoiding bullying, exam pressure and stress.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "For others it is not just an interlude; it\u2019s their lives.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The home-schooling movement emerged in the 1970s, when it was considered a fringe pursuit.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "He believed that if you give a child the freedom to follow their own interests, and a rich assortment of resources, they will do the actual learning themselves.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The economics of homeschooling is beneficial.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "There are families that dip into home-education for short periods \u2013 to get into competitive secondary schools, or retake A-levels, for example.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Some parents do the teaching; others subcontract it to experts \u2013 club leaders, online schools, tutors.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Children aren\u2019t the best judge of what to learn or what lifestyle to adopt.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Homeschooling Is Economically Beneficial",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Not with the way the classroom is structured, and the way the curriculum is followed.\u201d",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "\u201cIt used to be a philosophical ethos; now it\u2019s about children having some sort of difficulty at school,\u201d says Edwina Theunissen, former trustee of Education Otherwise, a home-education charity founded in 1977.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The cost can be up to \u00a334,000 a year, according to Stephen Spriggs, head of education at William Clarence, a tutoring company that offers a 30-hour-a-week home-education programme.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Yes, I believe it is possible to rehabilitate torture victims.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Should be tried at home",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should we raise the age of consent",
+        "contrast_claim": "should we lower the age of consent",
+        "perspectives": [
+            {
+                "perspective": "Lowering the age of consent will cause criminal dangers.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Lowering the age of consent will increase crimes and potential victims.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "If the consent age is lowered, more people will be in danger.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Parental consent would create two 'classes\u2019 of pupil.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Lowering the age of consent will open the door to more criminal problems",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "There will be more criminal danger if the age of consent is lowered",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "There have been many initiatives to raise the age of consent.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "In the late-19th century, a \"social purity movement\" composed of Christian feminist reform groups began advocating a raise in the age of consent to 16, with the goal of raising it ultimately to 18, and by 1920 almost all states had raised their age of consent to 16 or 18.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Initiatives to change the age of consent [ edit ]",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "In 1275, the age of consent in England was set at 12 (Westminster 1 statute), the first time an age of consent had been set in England.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Over the course of American history, the most commonly observed age of consent was 10 years.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "According to sociologist Matthew Waites, in the 1970s, a number of grassroots political actions took place in Britain in favor of lowering the age of consent, which he described as based on claims of children's rights, gay liberation, or as a way to avoid unwanted pregnancies or sexually transmitted infections.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The government should not prioritise one age group over another",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It is wrong (and illiberal) to legislate how anyone should raise their child.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "I believe Terrorists have a right to a fair trial",
+        "contrast_claim": "Terrorists do not deserve a fair trial",
+        "perspectives": [
+            {
+                "perspective": "Juries need to have all the information possible in order to reach a fair verdict.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "As a minimum the right to fair trial includes the following fair trial rights in civil and criminal proceedings:[2]",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "In the United States the right to a fair trial is sometimes illusory.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "All individuals, including politicians, have a basic right to privacy.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The right to a fair trial has been defined in numerous regional and international human rights instruments.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The European Court of Human Rights and the Inter-American Court of Human Rights have clarified that the right to a fair trial applies to all types of judicial proceedings, whether civil or criminal.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The right to equality before the law is sometimes regarded as part of the right to a fair trial.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The right to a fair trial is also enshrined in articles 5, 6 and 7 of the European Convention on Human Rights and articles 2 to 4 of the 7th Protocol to the Convention.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Trial by jury is a fundamental right and should never be abridged.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The right to a fair trial is enshrined in articles 3, 7 and 26 of the African Charter on Human and Peoples' Rights (ACHPR).",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Both the European Court of Human Rights and the Inter-American Court of Human Rights have clarified that the right to a fair trial applies not only to judicial proceedings, but also administrative proceedings.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Fair trial rights [ edit ]",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "In Europe special proceeding may also be subject to Article 6 of the European Convention on Human Rights.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The right to a fair trial is furthermore enshrined in articles 3, 8, 9 and 10 of the American Convention on Human Rights.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            }
+        ]
+    },
+    {
+        "original_claim": "should happiness be the purpose of life",
+        "contrast_claim": "Happiness should not be the purpose of life.",
+        "perspectives": [
+            {
+                "perspective": "\u201cIt\u2019s all very well to think the meaning of life is happiness, but what happens when you\u2019re unhappy?",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "\u201c\u2018Happiness\u2019 is a pointless goal.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "This fits in with his claim that you must pursue proper meaning rather than happiness.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Not enough sources for life to be supported.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "We must not forget, says Peterson, that we are corrupt and pathetic , and capable of great malevolence.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Children should work because a job teaches valuable life skills.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Religion offers a life purpose to people.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Family life will be strengthened during a shared day of Sabbath",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Everyone should have the resources to live a healthy, productive life.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The outcome of the Palestinian elections should not be rewarded with aid.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Artefacts should be accessible to the largest amount of visitors possible",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "His YouTube videos have had 35m views.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It\u2019s just not going to do the job.\u201d",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "So if we are all monsters, how are we to be saved?",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should we live in space",
+        "contrast_claim": "should we drop the ambition to live in space",
+        "perspectives": [
+            {
+                "perspective": "Diseases behave and develop differently in microgravity, which assists scientists in finding cures.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Humanity in many ways defines itself through exploration, and space is the next logical frontier",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "A lot, and until we properly understand how weightlessness affects humans, we won\u2019t be able to send this era\u2019s pioneers further afield to places such as Mars or wandering asteroids.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "That\u2019s where the vast array of communications and navigation satellites live, speeding at thousands of miles an hour to avoid plummeting back to earth.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Scientists have found living organisms in space",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "We explore space and create important new technologies to advance our economy.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "We imagine astronauts floating in free space or bouncing in moon craters, yet the majority of those lucky enough have instead spun around in low Earth\u2019s orbit \u2013 between 99 and a few hundred miles high.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Comparing their bodies throughout, scientists were able to assess how bones, muscles and other parts of the body deteriorate in space.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Even though we did not go back to deep space, humans have begun to live and work outside the Earth\u2019s atmosphere, often conducting experiments on themselves to determine the effects of weightlessness, or microgravity, on the human body.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "There are three up there at the moment, speeding around the globe once every 90 minutes.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The first space race was part of the chest-beating of the cold war, but since then human space exploration has been more about countries working together than against each other.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Space is already used for military purposes",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "we should still work in an office with our colleagues.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "We should not be encouraging interest in material things",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should an employer be able to fire an employee if the latter is often ill",
+        "contrast_claim": "should an employer be banned from firing an employee if the latter is often ill",
+        "perspectives": [
+            {
+                "perspective": "[A]n employer may terminate its employees at will, for any or no reason ... the employer may act peremptorily, arbitrarily, or inconsistently, without providing specific protections such as prior warning, fair procedures, objective evaluation, or preferential reassignment ...",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "If the employer fires the employee in violation of an implied employment contract, the employer may be found liable for breach of contract.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "U.S. states (Blue) without a public policy exception",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The implied-contract theory to circumvent at-will employment must be treated with caution.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Some courts saw the rule as requiring the employee to prove an express contract for a definite term in order to maintain an action based on termination of the employment.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Unions shouldn't be able to strike, since it gives them too much power over their employer.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Teenagers and young adults won't be able to find employment, if minimum wage is increased.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "If made illegal, prostitution will move to an underground black market.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Under the public policy exception, an employer may not fire an employee, if the termination would violate the state's public policy doctrine or a state or federal statute.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "An aggressive move by Labour would be to the left.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "We should be able to protect our homes from intruders",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "In this diagram, the pink states have the 'exception', which protects the employee.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "gays should be able to use thier rights",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The fourteen states having no such exception are:",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    }
+]

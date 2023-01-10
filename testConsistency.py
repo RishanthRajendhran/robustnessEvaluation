@@ -35,7 +35,17 @@ parser.add_argument(
 
 parser.add_argument(
     "-dataset",
-    choices=["condaqa","boolq"],
+    choices=[
+        "condaqa",
+        "boolq",
+        "ropes",
+        "drop",
+        "quoref",
+        "mctaco",
+        "imdb",
+        "matres",
+        "perspectrum"
+    ],
     required=True,
 )
 
@@ -89,28 +99,48 @@ def main():
                 else:
                     numEditTypes[d["PassageEditID"]] += 1
             if passId not in passages.keys():
-                passages[passId] = {}
-            if questionID not in passages[passId].keys():
-                passages[passId][questionID] = {
-                    "score": 0,
-                    "count": 0,
-                    "failureEditTypes": [],
-                    "failureCases": [],
-                }
-            passages[passId][questionID]["count"] += 1
+                if dataset in ["condaqa", "perspectrum", "mctaco", "ropes"]:
+                    passages[passId] = {}
+                else:
+                    passages[passId] = {
+                        "score": 0,
+                        "count": 0,
+                        "failureEditTypes": [],
+                        "failureCases": [],
+                    }
+            if dataset in ["condaqa", "perspectrum", "mctaco", "ropes"]:
+                if questionID not in passages[passId].keys():
+                    passages[passId][questionID] = {
+                        "score": 0,
+                        "count": 0,
+                        "failureEditTypes": [],
+                        "failureCases": [],
+                    }
+            if dataset in ["condaqa", "perspectrum", "mctaco", "ropes"]:
+                passages[passId][questionID]["count"] += 1
+            else:
+                passages[passId]["count"] += 1
             if answer == corrAnswer or ((" " + corrAnswer + " ") in answer and abs(len(corrAnswer)-len(answer))<=6) or ((" " + answer + " ") in  corrAnswer and abs(len(corrAnswer)-len(answer))<=6):
-                passages[passId][questionID]["score"] += 1
+                if dataset in ["condaqa", "perspectrum", "mctaco", "ropes"]:
+                    passages[passId][questionID]["score"] += 1
+                else: 
+                    passages[passId]["score"] += 1
             else:
                 #Are answer and corrAnswer permutations of each other?
                 sortedAns = np.sort([x for x in answer.split(" ") if len(x) and x.isalnum()])
                 sortedCorrAns = np.sort([x for x in corrAnswer.split(" ") if len(x) and x.isalnum()])
                 if len(sortedAns) == len(sortedCorrAns) and (sortedAns == sortedCorrAns).all():
-                    passages[passId][questionID]["score"] += 1
+                    if dataset in ["condaqa", "perspectrum", "mctaco", "ropes"]:
+                        passages[passId][questionID]["score"] += 1
+                    else: 
+                        passages[passId]["score"] += 1
                 else:
-                    if dataset == "condaqa":
-                        passages[passId][questionID]["failureEditTypes"].append(d["PassageEditID"])
-                    passages[passId][questionID]["failureCases"].append({"output":answer, "label":corrAnswer})
-
+                    if dataset in ["condaqa", "perspectrum", "mctaco", "ropes"]:
+                        if dataset == "condaqa":
+                            passages[passId][questionID]["failureEditTypes"].append(d["PassageEditID"])
+                        passages[passId][questionID]["failureCases"].append({"output":answer, "label":corrAnswer})
+                    else:
+                        passages[passId]["failureCases"].append({"output":answer, "label":corrAnswer})
         accuracy = 0
         consistency = 0
         totalCounts = 0
@@ -119,14 +149,21 @@ def main():
         failureCases = []
         for pID in passages.keys():
             numQues += len(passages[pID].keys())
-            for qID in passages[pID].keys():
-                accuracy += passages[pID][qID]["score"]
-                totalCounts += passages[pID][qID]["count"]
-                if passages[pID][qID]["score"] == passages[pID][qID]["count"]:
+            if dataset in ["condaqa", "perspectrum", "mctaco", "ropes"]:
+                for qID in passages[pID].keys():
+                    accuracy += passages[pID][qID]["score"]
+                    totalCounts += passages[pID][qID]["count"]
+                    if passages[pID][qID]["score"] == passages[pID][qID]["count"]:
+                        consistency += 1
+                    if dataset == "condaqa":
+                        failureEditTypes.extend(passages[pID][qID]["failureEditTypes"])
+                    failureCases.extend(passages[pID][qID]["failureCases"])
+            else:
+                accuracy += passages[pID]["score"]
+                totalCounts += passages[pID]["count"]
+                if passages[pID]["score"] == passages[pID]["count"]:
                     consistency += 1
-                if dataset == "condaqa":
-                    failureEditTypes.extend(passages[pID][qID]["failureEditTypes"])
-                failureCases.extend(passages[pID][qID]["failureCases"])
+                failureCases.extend(passages[pID]["failureCases"])
         accuracy /= totalCounts
         consistency /= numQues
 
@@ -212,8 +249,6 @@ def main():
         numTrainSets = len(promptPerfs[promptType].keys()) - len(statKeys)
         consistency /= numTrainSets
         accuracy /= numTrainSets
-        # print(f"\tConsistency: {consistency}")
-        # print(f"\tAccuracy: {accuracy}")
         print(f"\tAverage Consistency: {round(consistency*100,2)}%")
         print(f"\tAverage Accuracy: {round(accuracy*100,2)}%")
         if not concise:

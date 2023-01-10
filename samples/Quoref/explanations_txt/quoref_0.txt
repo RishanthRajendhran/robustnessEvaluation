@@ -1,0 +1,382 @@
+PassageID: 0
+Passage: In 1931, the patients at the Vannacutt Psychiatric Institute for the Criminally Insane revolt against the staff headed by the sadistic Dr. Richard B. Vannacutt. The patients start a fire which engulfs the building, killing all of the inmates and all but five of Vannacutt's staff. In 1999, Evelyn Stockard-Price was in a disintegrating marriage with Steven Price, an amusement park mogul. At Evelyn's insistence, Price stages her birthday party at the long-abandoned hospital. The building's owner, Watson Pritchett, is convinced it is evil, having lived there as a child when it was converted to a private residence. Five guests arrive for the party: film producer Jennifer Jenzen; baseball player Eddie Baker; former television personality Melissa Marr; Donald Blackburn, a physician; and Pritchett. The guests are not the ones Price invited and neither of the Prices know who they are. Despite this, Price continues the party's advertised theme, offering $1 million to each guest who remains in the house until morning; those who flee forfeit their $1 million to the others. The building's security system is mysteriously tripped, locking everyone inside – a stunt which Price blames on Evelyn. Jennifer, Eddie and Pritchett search the basement for the control panel. While exploring the labyrinthine basement, Jennifer confesses to Eddie that her real name is Sara Wolfe, the recently fired assistant to the real Jennifer. She impersonated Jennifer hoping to win the prize money. Shortly after, Sara is nearly drowned in a tank of blood by a ghost impersonating Eddie, but the real Eddie arrives in time to save her. Melissa subsequently disappears, leaving behind a massive trail of blood. Price visits his assistant Schechter, who is supposed to be managing the party stunts, but finds him horribly mutilated. On the surveillance monitor he sees the ghost of Dr. Vannacutt walking around with a bloody saw.
+
+Questions:
+QuestionID: 0
+Question: What is the real full name of the person that searches the basement with Eddie and Pritchett?
+Answer: Sara Wolfe
+Explanation: The person searching the basement with Eddie was Sara Wolfe impersonating Jennifer, her boss.
+
+QuestionID: 1
+Question: Where does the baseball player look for the control panel?
+Answer: the basement
+Explanation: He searches the basement for the control panel.
+
+QuestionID: 2
+Question: What is the full name of the person that sees the ghost of Dr. Vannacut on a monitor?
+Answer: Steven Price
+Explanation: It was Steven Price who saw the ghost on the monitor when he had gone to check on his assistant.
+
+QuestionID: 3
+Question: What is the first name of the spouse of the person that sees the ghost of Dr. Vannacut on a monitor?
+Answer: Evelyn
+Explanation: It was Steven Price, spouse of Evelyn, who saw the ghost on the monitor when he had gone to check on his assistant.
+
+QuestionID: 4
+Question: What is the full name of the spouse of the person that sees the ghost of Dr. Vannacut on a monitor?
+Answer: Evelyn Stockard-Price
+Explanation: It was Steven Price, spouse of Evelyn Stockard-Price, who saw the ghost on the monitor when he had gone to check on his assistant.
+
+QuestionID: 5
+Question: What is the job of the person that sees the ghost of Dr. Vannacut on a monitor?
+Answer: amusement park mogul
+Explanation: It was Steven Price, an amusement park mogul, who saw the ghost on the monitor when he had gone to check on his assistant.
+
+QuestionID: 6
+Question: What is the place where people look for the control panel described as?
+Answer: labyrinthine
+Explanation: People look for the control panel in the labyrinthine basement.
+
+QuestionID: 7
+Question: What is the job of the person whom the one that searches the basement with Eddie and Pritchett impersonates?
+Answer: film producer
+Explanation: The person who searched the basement with Eddie and Pritchett was impersonating Jennifer, a film producer.
+
+QuestionID: 8
+Question: What is the full name of the person who searches the basement with Eddie and Pritchett impersonates?
+Answer: Jennifer Jenzen
+Explanation: The person who searched the basement with Eddie and Pritchett was impersonating Jennifer Jenzen.
+
+--------------------------------------------------
+PassageID: 1
+Passage: Black Moshannon State Park is a 3,481-acre (1,409 ha) Pennsylvania state park in Rush Township, Centre County, Pennsylvania, United States. It surrounds Black Moshannon Lake, formed by a dam on Black Moshannon Creek, which has given its name to the lake and park. The park is just west of the Allegheny Front, 9 miles (14 km) east of Philipsburg on Pennsylvania Route 504, and is largely surrounded by Moshannon State Forest. A bog in the park provides a habitat for diverse wildlife not common in other areas of the state, such as carnivorous plants, orchids, and species normally found farther north. As home to the "[l]argest reconstituted bog/wetland complex in Pennsylvania".Humans have long used the Black Moshannon area for recreational, industrial, and subsistence purposes. The Seneca tribe used it as hunting and fishing grounds.  European settlers cleared some land for farming, then clear-cut the vast stands of old-growth White Pine and Eastern Hemlock to meet the needs of a growing nation during the late 19th century. Black Moshannon State Park rose from the ashes of a depleted forest that was largely destroyed by wildfire in the years following the lumber era. The forests were rehabilitated by the Civilian Conservation Corps during the Great Depression of the 1930s. Many of the buildings built by the Civilian Conservation Corps stand in the park today and are protected on the list of National Register of Historic Places in three historic districts. Black Moshannon State Park is open year-round for recreation and has an extensive network of trails which allow hiking, biking, and viewing the bog habitat at the Black Moshannon State Natural Area. The park is in Pennsylvania Important Bird Area #33, where bird watchers have recorded 175 different species. It is also home to many rare and unusual plants and animals, due to its location atop the Allegheny Plateau; the lake is at an elevation of about 1,900 feet (580 m). Much of the park is open for hunting and the lake and creek are open for fishing, boating, and swimming. In winter it is a popular destination for cross-country skiing, and was home to a small downhill skiing area from 1965 to 1982. Picnics and camping are also popular, and the "Friends of Black Moshannon State Park" group promotes the park and all of the recreational activities associated with it.
+
+Questions:
+QuestionID: 0
+Question: What is the name of the group that promotes the 3,481-acre park and all of the recreational activities?
+Answer: Friends of Black Moshannon State Park
+Explanation: Friends of Black Moshannon State Park group is the one promoting the park. 
+
+QuestionID: 1
+Question: What is the name of the group that built many of the buildings that stand in park that is just west of the Allegheny Front?
+Answer: Civilian Conservation Corps
+Explanation: The buildings were built by the Civilian Conservation Corps during the Great Depression.
+
+QuestionID: 2
+Question: In what decade were the forests of the park that is east of Philipsburg rehabilitated?
+Answer: 1930s
+Explanation: The forests were rehabilitated during the Great Depression in the 1930s. 
+
+QuestionID: 3
+Question: What was rehabilitated in the 1930s?
+Answer: a depleted forest that was largely destroyed by wildfir
+Explanation: The depleted forests that were destroyed by wildlife were rehabilitated during the Great Depression in the 1930s. 
+
+QuestionID: 4
+Question: What does the park that contains the buildings built by the Civilian Conservation Corps share its name with?
+Answer: Black Moshannon Lake, Black Moshannon Creek
+Explanation: The buildings built by CCC is in a park which shares its name with Black Moshannon Lake and Black Moshannon Creek.
+
+QuestionID: 5
+Question: What do the Friends of Black Moshannon State Park promote?
+Answer: Black Moshannon State Park, all of the recreational activities associated with it
+Explanation: The group promotes the park and the recreational activities happening there.
+
+QuestionID: 6
+Question: Recreational activities associated with what entity do the Friends of Black Moshannon State Park promote?
+Answer: Black Moshannon State Park
+Explanation: The group promotes recreational activities associated with the Black Moshannon State Park.
+
+--------------------------------------------------
+PassageID: 2
+Passage: Encouraged by her mother and sister, Murray decided to enroll at the newly opened department of Egyptology at University College London (UCL) in Bloomsbury, Central London. Having been founded by an endowment from Amelia Blanford Edwards, one of the co-founders of the Egypt Exploration Fund (EEF), the department was run by the pioneering early archaeologist Sir William Flinders Petrie, and based in the Edwards Library of UCL's South Cloisters. Murray began her studies at UCL at age 30 in January 1894, as part of a class composed largely of other women and older men. There, she took courses in the Ancient Egyptian and Coptic languages which were taught by Francis Llewellyn Griffith and Walter Ewing Crum respectively.Murray soon got to know Petrie, becoming his copyist and illustrator and producing the drawings for the published report on his excavations at Qift, Koptos. In turn, he aided and encouraged her to write her first research paper, "The Descent of Property in the Early Periods of Egyptian History", which was published in the Proceedings of the Society for Biblical Archaeology in 1895. Becoming Petrie's de facto though unofficial assistant, Murray began to give some of the linguistic lessons in Griffith's absence. In 1898 she was appointed to the position of Junior Lecturer, responsible for teaching the linguistic courses at the Egyptology department; this made her the first female lecturer in archaeology in the United Kingdom. In this capacity, she spent two days a week at UCL, devoting the other days to caring for her ailing mother. As time went on, she came to teach courses on Ancient Egyptian history, religion, and language. Among Murray's students – to whom she referred as "the Gang" – were several who went on to produce noted contributions to Egyptology, including Reginald Engelbach, Georgina Aitken, Guy Brunton, and Myrtle Broome. She supplemented her UCL salary by teaching evening classes in Egyptology at the British Museum.
+
+Questions:
+QuestionID: 0
+Question: What is the name of the person who took courses in the Ancient Egyptian and Coptic languages at UCL?
+Answer: Murray
+Explanation: It was Murray who took courses in the Ancient Egyptian and Coptic languages at UCL.
+
+QuestionID: 1
+Question: What is the full name of the person who aided and encouraged Murray to write her first research paper?
+Answer: William Flinders Petrie
+Explanation: William Flinders Petrie, under whom Murray worked as a copyist and illustrator, is the person who aided and encouraged Murray to write her first research paper.
+
+QuestionID: 2
+Question: What is the name of the person who was appointed to the position of Junior Lecturer in 1898?
+Answer: Murray
+Explanation: It was Murray who was appointed to the position of Junior Lecturer in 1898.
+
+QuestionID: 3
+Question: What is the name of the person whose appointment to Junior Lecturer made her the first female lecturer in archeology in the United Kingdom?
+Answer: Murray
+Explanation: It was Murray who became the first female lecturer in archeology in the United Kingdom.
+
+QuestionID: 4
+Question: What is the name of the person who spent two days a week at UCL in the capacity of Junior Lecturer?
+Answer: Murray
+Explanation: It was Murray who spent two days a week at UCL as a junior lecturer.
+
+QuestionID: 5
+Question: What is the name of the person who came to teach courses on Ancient Egyptian history, religion, and language?
+Answer: Murray
+Explanation: It was Murray who taught Ancient Egyptian history, religion, and language.
+
+QuestionID: 6
+Question: What is the name of the person who supplemented her UCL salary by teaching evening classes in Egyptology at the British Museum?
+Answer: Murray
+Explanation: It was Murray who supplemented her UCL salary by teaching evening classes in Egyptology at the British Museum.
+
+QuestionID: 7
+Question: What is the name of the courses Murray took at UCL?
+Answer: Ancient Egyptian, Coptic languages
+Explanation: Murray took courses in the Ancient Egyptian and Coptic languages at UCL.
+
+QuestionID: 8
+Question: What is the full name of the person for whom Murray produced the drawings for his published report?
+Answer: William Flinders Petrie
+Explanation: Murray worked under William Flinders Petrie as a copyist and illustrator.
+
+QuestionID: 9
+Question: In which position did Murray start teaching at UCL?
+Answer: Junior Lecturer
+Explanation: Murray started out as a Junior Lecturer at UCL. 
+
+QuestionID: 10
+Question: Who was the first female lecturer in archeology in the United Kingdom?
+Answer: Murray
+Explanation: It was Murray who became the first female lecturer in archaeology in the United Kingdom.
+
+QuestionID: 11
+Question: What are the names of influential students of Murray?
+Answer: Reginald Engelbach, Georgina Aitken, Guy Brunton, Myrtle Broome
+Explanation: Reginald Engelbach, Georgina Aitken, Guy Brunton, Myrtle Broome are some of the influential students of Murray.
+
+QuestionID: 12
+Question: Which courses did Murray teach at UCL?
+Answer: Ancient Egyptian history, religion, language
+Explanation: Murray taught courses on Ancient Egyptian history, religion and language.
+
+QuestionID: 13
+Question: In which department did Murray work at UCL?
+Answer: Egyptology
+Explanation: Murray worked at the Egyptology department at UCL.
+
+--------------------------------------------------
+PassageID: 3
+Passage: Frédéric François Chopin (; French: [ʃɔpɛ̃]; Polish: [ˈʂɔpɛn]; 1 March 1810 – 17 October 1849) was a Polish composer and virtuoso pianist of the Romantic era who wrote primarily for solo piano. He has maintained worldwide renown as a leading musician of his era, one whose "poetic genius was based on a professional technique that was without equal in his generation."Chopin was born Fryderyk Franciszek Chopin in the Duchy of Warsaw and grew up in Warsaw, which in 1815 became part of Congress Poland. A child prodigy, he completed his musical education and composed his earlier works in Warsaw before leaving Poland at the age of 20, less than a month before the outbreak of the November 1830 Uprising. At 21, he settled in Paris. Thereafter—in the last 18 years of his life—he gave only 30 public performances, preferring the more intimate atmosphere of the salon. He supported himself by selling his compositions and by giving piano lessons, for which he was in high demand. Chopin formed a friendship with Franz Liszt and was admired by many of his other musical contemporaries (including Robert Schumann). In 1835, Chopin obtained French citizenship. After a failed engagement to Maria Wodzińska from 1836 to 1837, he maintained an often troubled relationship with the French writer Amantine Dupin (known by her pen name, George Sand). A brief and unhappy visit to Majorca with Sand in 1838–39 would prove one of his most productive periods of composition. In his final years, he was supported financially by his admirer Jane Stirling, who also arranged for him to visit Scotland in 1848. For most of his life, Chopin was in poor health. He died in Paris in 1849 at the age of 39, probably of pericarditis aggravated by tuberculosis. All of Chopin's compositions include the piano. Most are for solo piano, though he also wrote two piano concertos, a few chamber pieces, and some 19 songs set to Polish lyrics. His piano writing was technically demanding and expanded the limits of the instrument: his own performances were noted for their nuance and sensitivity. Chopin invented the concept of the instrumental ballade. His major piano works also include mazurkas, waltzes, nocturnes, polonaises, études, impromptus, scherzos, preludes and sonatas, some published only posthumously. Among the influences on his style of composition were Polish folk music, the classical tradition of J.S. Bach, Mozart, and Schubert, and the atmosphere of the Paris salons of which he was a frequent guest. His innovations in style, harmony, and musical form, and his association of music with nationalism, were influential throughout and after the late Romantic period. Chopin's music, his status as one of music's earliest superstars, his (indirect) association with political insurrection, his high-profile love-life, and his early death have made him a leading symbol of the Romantic era. His works remain popular, and he has been the subject of numerous films and biographies of varying historical fidelity.
+
+Questions:
+QuestionID: 0
+Question: What influenced Chopin's style of composition?
+Answer: Polish folk music, J.S. Bach, Mozart, Schubert, atmosphere of the Paris salons
+Explanation: Chopin’s style was largely influenced by Polish folk music, the classical tradition of J.S. Bach, Mozart, and Schubert, and the atmosphere of the Paris salons.
+
+QuestionID: 1
+Question: What is the last name of the person who gave only 30 public performances in the last 18 years of his life?
+Answer: Chopin
+Explanation: Frédéric François Chopin gave only 30 public performances in the last 18 years of his life.
+
+QuestionID: 2
+Question: What is the last name of the person who maintained an often troubled relationship with the French writer Amantine Dupin?
+Answer: Chopin
+Explanation: Frédéric François Chopin maintained an often troubled relationship with the French writer Dupin
+
+QuestionID: 3
+Question: What is the last name of the person who was supported financially by his admirer Jane Stirling in his final years?
+Answer: Chopin
+Explanation: Frédéric François Chopin was supported financially by his admirer Stirling in his final years
+
+QuestionID: 4
+Question: What is the first name of the person who obtained French citizenship?
+Answer: Frédéric
+Explanation: Frédéric François Chopin had obtained French citizenship. 
+
+QuestionID: 5
+Question: What is the first name of the person who was in poor health for most of his life? 
+Answer: Frédéric
+Explanation: Frédéric François Chopin was in poor health for the most part of his life.
+
+QuestionID: 6
+Question: What is the first name of the person who invented the concept of the instrumental ballade?
+Answer: Frédéric
+Explanation: Frédéric François Chopin invented the concept of instrumental ballade.
+
+QuestionID: 7
+Question: What is the full name of the man who had a failed engagement?
+Answer: Frédéric François Chopin
+Explanation: Frédéric François Chopin had a failed engagement.
+
+QuestionID: 8
+Question: What is the real name of the person who had a brief and unhappy visit to Majorca with Chopin? 
+Answer: Amantine Dupin
+Explanation: Chopin and Amantine Dupin had had a brief and unhappy visit to Majorca.
+
+QuestionID: 9
+Question: What is the full name of the person that was admired by Robert Schumann?
+Answer: Frédéric François Chopin
+Explanation: Robert Schumann admired Frédéric François Chopin.
+
+QuestionID: 10
+Question: What influenced Franz Liszt's friend's style of composition?
+Answer: Polish folk music, J.S. Bach, Mozart, Schubert, atmosphere of the Paris salons
+Explanation: The style of Chopin, a friend of Franz Liszt, was largely influenced by Polish folk music, the classical tradition of J.S. Bach, Mozart, and Schubert, and the atmosphere of the Paris salons.
+
+QuestionID: 11
+Question: Where did Chopin give 30 public performances in the last 18 years of his life?
+Answer: the salon
+Explanation: Chopin gave 30 public performances at the Paris salon.
+
+QuestionID: 12
+Question: What is the last name of the person who maintained an often troubled relationship with Chopin?
+Answer: George Sand
+Explanation: Frédéric François Chopin maintained an often troubled relationship with the French writer Amantine Dupin, who goes by the pen name George Sand.
+
+QuestionID: 13
+Question: What is the last name of the person who supported Chopin in his poor health?
+Answer: Jane Stirling
+Explanation: Jane Stirling supported Chopin financially in his poor health.
+
+QuestionID: 14
+Question: What is the first name of the person who obtained French citizenship in 1835?
+Answer: Frédéric
+Explanation: Frédéric François Chopin had obtained French citizenship in 1835.
+
+QuestionID: 15
+Question: What is the first name of the unhealthy person who was influenced by J.S. Bach? 
+Answer: Frédéric
+Explanation: Frédéric François Chopin’s style was influenced by the likes of J.S. Bach.
+
+QuestionID: 16
+Question: What did the piano works by Chopin include?
+Answer: mazurkas, waltzes, nocturnes, polonaises, études, impromptus, scherzos, sonatas, polonaises
+Explanation: Chopin’s major piano works also include mazurkas, waltzes, nocturnes, polonaises, études, impromptus, scherzos, preludes and sonatas.
+
+QuestionID: 17
+Question: What is the full name of the person who was engaged to Chopin?
+Answer: Maria Wodzińska
+Explanation: Chopin was engaged to Maria Wodzińska.
+
+QuestionID: 18
+Question: What is the real name of the person who had an unhappy visit to Majorca with the child prodigy? 
+Answer: George Sand
+Explanation: Chopin had an unhappy visit to Majorca with the French writer Amantine Dupin, who goes by the pen name George Sand.
+
+QuestionID: 19
+Question: What is the full name of Franz Liszt's musical contemporary who admired Chopin?
+Answer: Robert Schumann
+Explanation: Robert Schumann was a huge admirer of Chopin.
+
+--------------------------------------------------
+PassageID: 4
+Passage: Five years after the demise of mass murderer Jason Voorhees, the youngest survivor Tommy Jarvis awakens from a nightmare of him witnessing two grave robbers digging up Jason Voorhees's body. Jason rises from the grave and murders the grave robbers before advancing towards Tommy. Upon arriving at Pinehurst Halfway House, a secluded residential treatment facility, Tommy is introduced to director Pam Roberts and Dr. Matt Letter. In his assigned room, Tommy also meets Reggie, a boy whose grandfather, George, works as the kitchen cook. Other teens introduced are redhead Robin, Goth Violet, shy Jake, short-tempered Vic, and compulsive eater Joey. The sheriff brings in two more residents, lovers Eddie and Tina, after catching them having sex on neighbor Ethel Hubbard's lawn. Ethel Hubbard and her son Junior show up and threaten to have the house closed down if the teens do not stop sneaking onto their property. Later that day, Vic snaps and kills Joey with an axe, and is subsequently arrested. The body is discovered by attending ambulance drivers Roy Burns and Duke. Roy is deeply disturbed by Joey's death, but Duke believes that the murder was a prank gone horribly wrong. That evening, greasers Vinnie and Pete are murdered by an unseen assailant after their car breaks down. The following night, Billy and his girlfriend Lana are killed with an axe. Panic begins to ensue, but the mayor refuses to believe the sheriff's claim that, somehow, Jason Voorhees has returned.
+
+Questions:
+QuestionID: 0
+Question: What's the full name of the man who works with the man who thinks Joey's murder was a prank gone wrong?
+Answer: Roy Burns
+Explanation: Duke, who thought that the murder was a prank gone horribly wrong, worked with Roy Burns.
+
+QuestionID: 1
+Question: Whose murder does Duke think was a prank gone wrong?
+Answer: Joey
+Explanation: Duke thought that the murder of Joey was a prank gone horribly wrong.
+
+QuestionID: 2
+Question: What is the person whose murder Duke thinks is a prank gone wrong described as?
+Answer: compulsive eater
+Explanation: Duke thought that the murder of Joey, a compulsive eater, was a prank gone horribly wrong.
+
+--------------------------------------------------
+PassageID: 5
+Passage: The Triumph of Cleopatra, also known as Cleopatra's Arrival in Cilicia and The Arrival of Cleopatra in Cilicia, is an oil painting by English artist William Etty. It was first exhibited in 1821, and is now in the Lady Lever Art Gallery in Port Sunlight across the River Mersey from Liverpool. During the 1810s Etty had become widely respected among staff and students at the Royal Academy of Arts, in particular for his use of colour and ability to paint realistic flesh tones. Despite having exhibited at every Summer Exhibition since 1811 he attracted little commercial or critical interest. In 1820 he exhibited The Coral Finder, which showed nude figures on a gilded boat. This painting attracted the attention of Sir Francis Freeling, who commissioned a similar painting on a more ambitious scale. The Triumph of Cleopatra illustrates a scene from Plutarch's Life of Antony and Shakespeare's Antony and Cleopatra, in which Cleopatra, Queen of Egypt, travels to Tarsus in Cilicia aboard a magnificently decorated ship to cement an alliance with the Roman general Mark Antony. An intentionally cramped and crowded composition, it shows a huge group of people in various states of undress, gathering on the bank to watch the ship's arrival. Although not universally admired in the press, the painting was an immediate success, making Etty famous almost overnight. Buoyed by its reception, Etty devoted much of the next decade to creating further history paintings containing nude figures, becoming renowned for his combination of nudity and moral messages.
+
+Questions:
+QuestionID: 0
+Question: What are the two other names of The Arrival of Cleopatra in Cilicia?
+Answer: The Triumph of Cleopatra, Cleopatra's Arrival in Cilicia
+Explanation: The Triumph of Cleopatra is also known as Cleopatra's Arrival in Cilicia and The Arrival of Cleopatra in Cilicia.
+
+QuestionID: 1
+Question: What is the last name of the person whose attention was attracted to The Coral Finder?
+Answer: Freeling
+Explanation: Sir Francis Freeling was attracted to The Coral Finder.
+
+QuestionID: 2
+Question: What are the names of the oil paintings by William Etty?
+Answer: The Triumph of Cleopatra, Cleopatra's Arrival in Cilicia, The Arrival of Cleopatra in Cilicia
+Explanation: The oil painting by Willian Etty, The Triumph of Cleopatra, is also known as Cleopatra's Arrival in Cilicia and The Arrival of Cleopatra in Cilicia.
+
+QuestionID: 3
+Question: Which painting attracted Freeling?
+Answer: The Coral Finder
+Explanation: Sir Francis Freeling was attracted to The Coral Finder.
+
+--------------------------------------------------
+PassageID: 6
+Passage: Cleopatra caused an immediate sensation; Etty later claimed that the day after the Summer Exhibition opened he "awoke famous". The May 1821 issue of The Gentleman's Magazine hailed Cleopatra as "belonging to the highest class", and Charles Robert Leslie described it as "a splendid triumph of colour". The painting did not meet with universal approval. Blackwood's Edinburgh Magazine conceded that the painting had been "seen and admired at the Royal Academy" but condemned Etty's taking a mythological approach to a historical subject: The effect of this picture would have been much more intense had the painter treated it as a mere fact, and had not brought upon the scene those flying Cupids who turn the thing into a mythological fable. Real boys dressed like Cupids would have been proper, but aerial beings are impertinent, and put one out when one is thinking of the sex. If this amorous pageant had been a mere fiction, instead of having actually taken place, still the power of its delineation would have consisted in its probability. Etty attempted to replicate the success of Cleopatra, and his next significant exhibited work was A Sketch from One of Gray's Odes (Youth on the Prow), exhibited at the British Institution in January 1822. As with The Coral Finder and Cleopatra, this painting showed a gilded boat filled with nude figures, and its exhibition provoked condemnation from The Times: We take this opportunity to advise Mr. Etty, who got some reputation for painting "Cleopatra's Galley", not to be seduced into a style which can gratify only the most vicious taste. Naked figures, when painted with the purity of Raphael, may be endured: but nakedness without purity is offensive and indecent, and on Mr. Etty's canvass is mere dirty flesh. Mr. Howard, whose poetical subjects sometimes require naked figures, never disgusts the eye or mind. Let Mr. Etty strive to acquire a taste equally pure: he should know, that just delicate taste and pure moral sense are synonymous terms. Despite the tone, Etty was pleased to be noticed by a newspaper as influential as The Times, and much later confessed how delighted he was that the "Times noticed me. I felt my chariot wheels were on the right road to fame and honour, and I now drove on like another Jehu!" Possibly as a result of the criticism in The Times, Freeling asked Etty to overpaint the figures in the foreground of Cleopatra. In 1829, after Etty had become a respected artist, Freeling allowed the restoration of the figures to their original condition.
+
+Questions:
+QuestionID: 0
+Question: What is the name of the person that asked the painter who was condemned by The Times to overpaint figures in Cleopatra?
+Answer: Freeling
+Explanation: Freeling had asked Etty to overpain figures in the foreground of Cleopatra.
+
+QuestionID: 1
+Question: What figures did Freeling allow the restoration of?
+Answer: the figures in the foreground of Cleopatra
+Explanation: After Etty became a respected artist, Freeling allowed the restoration of the figures in the foreground of Cleopatra.
+
+--------------------------------------------------
+PassageID: 7
+Passage: Conrad Birdie, a popular rock and roll star, receives an Army draft notice, devastating his teenage fans across the nation. Albert Peterson is an unsuccessful songwriter, and music is the family business, although he has a doctorate in biochemistry. He schemes with his secretary and long-suffering girlfriend Rosie DeLeon to have Conrad sing a song Albert will write. Rosie convinces Ed Sullivan to have Conrad perform Albert's song "One Last Kiss" on The Ed Sullivan Show, and then kiss a randomly chosen high school girl goodbye before going off to the Army. Once he achieves this success, Albert will feel free to marry Rosie, despite his widowed, meddlesome mother Mae's (Maureen Stapleton) long history of ensuring nothing will come between her and her beloved son. Sweet Apple, Ohio, is chosen as the location for Conrad's farewell performance. The random lucky girl chosen is Kim MacAfee, who is thrilled. Kim already has a high school sweetheart, Hugo Peabody, who is not so thrilled. The teenagers of Sweet Apple, blissfully unaware of their town's impending fame, are spending the "Telephone Hour" catching up on the latest gossip: Kim and Hugo have just gotten pinned (indicating a serious commitment to each other) and Kim feels grown up. She sings "How Lovely to be a Woman". On the day Conrad arrives in town, the teenaged girls sing their anthem to him, "We Love You Conrad", but the boys despise him for their girls' love for him ("We Hate You Conrad!"). Sweet Apple becomes a very popular place, but some of the local adults are unhappy with the sudden celebrity, especially after Conrad's "Honestly Sincere" song coupled with his hip-thrusting moves causes every female, beginning with the mayor's wife, to faint.
+
+Questions:
+QuestionID: 0
+Question: What is the first name of the person who sings "How Lovely to be a Woman?"
+Answer: Kim
+Explanation: Kim MacAfee had sung the song "How Lovely to be a Woman?".
+
+QuestionID: 1
+Question: What is the first name of the person who will be free to marry once they achieve success?
+Answer: Albert
+Explanation: Albert will feel free to marry Rosie once he achieves success.
+
+QuestionID: 2
+Question: What is the first name of the person whose mother is widowed?
+Answer: Albert
+Explanation: Albert’s mother Mae is widowed. 
+
+QuestionID: 3
+Question: What is the job of the person who will be free to marry once they achieve success?
+Answer: songwriter
+Explanation: Albert, a songwriter, will feel free to marry Rosie once he achieves success.
+
+QuestionID: 4
+Question: What is the last name of the person whose mother is widowed?
+Answer: Peterson
+Explanation: Albert Peterson’s mother Mae is widowed.
+
+QuestionID: 5
+Question: What is the job of the person whose mother is widowed?
+Answer: songwriter
+Explanation: Songwriter Albert Peterson’s mother Mae is widowed.
+
+--------------------------------------------------
+PassageID: 8
+Passage: John, played by Sean Harris, lives in a remote area of Scotland.  The primary industry is potato farming and John is a picker who lives for the harvests; it is his outlet and all he has in his life. He yearns for contact, but is so self-conscious that he comes across as awkward and skittish.  His other outlet is watching people who live a life that he does not know how to make for himself, a life of home and family. John does not know how to act when a female co-worker shows interest in him.  John exhibits all the signs of someone who has suffered untold tragedies in his life.While driving back to town on a dark and isolated road, John comes upon a car stopped up ahead. He immediately sees a hose attached to the exhaust pipe. He has come upon a suicide by carbon monoxide and tries to help, but the woman is already dead.  Suddenly, headlights appear in the opposite direction and John's immediate reaction is to hide the body, though he has done nothing wrong. John is like one who feels blame for every event, even those for which there is no blame. That decision leads John to take the body of the dead young woman to a shed in the woods. Now John finds the intimacy and physical contact he so desperately craves. Early the next morning, John is awakened to hear the sounds of police combing the woods calling his name. He has overslept. He quickly throws on some clothes and begins to run through the woods, but townspeople have now taken up the search for John. He runs at first, but he suddenly gives up trying to escape his pursuers and turns to face them, looking skyward. The townspeople have found him first. He knows his fate, and the townspeople club him before the police arrive. In his final moments, the policewoman who first comes upon John touches his head to examine his wounds and strokes his wounded forehead as he dies from the clubbing. It may have been the only gentle touch that John has known.
+
+Questions:
+QuestionID: 0
+Question: Who gives up?
+Answer: John
+Explanation: John gives up trying to escape his pursuers.
+
+QuestionID: 1
+Question: What does the person who gives up work do?
+Answer: a picker
+Explanation: John, a picker, gives up trying to escape his pursuers.
+
+--------------------------------------------------
+
+

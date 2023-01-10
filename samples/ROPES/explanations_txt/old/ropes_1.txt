@@ -1,0 +1,337 @@
+PassageID: 0
+Passage: Background: Abiotic stress, as a natural part of every ecosystem, will affect organisms in a variety of ways. Although these effects may be either beneficial or detrimental, the location of the area is crucial in determining the extent of the impact that abiotic stress will have. The higher the latitude of the area affected, the fewer the impact of abiotic stress will be on that area. So, a taiga or boreal forest is at the mercy of whatever abiotic stress factors may come along, while tropical zones are much more susceptible to such stressors. Situation: Ralph is studying the effects of climate change on crop production in order to determine the effects of abiotic stress in different regions. He is studying two farms: Farm A is located in the United States and Farm B is located in Mexico.
+
+Questions:
+QuestionID: 0
+Question: Will Farm A experience more or less abiotic stress than Farm B?
+Answer: less
+Explanation: Since tropical zones are much more susceptible to  abiotic stress, farm A in the United States, a temperate zone, will experience less abiotic stress than farm A in Mexico, a tropical zone.
+
+QuestionID: 1
+Question: Will Farm B experience more or less abiotic stress than Farm A?
+Answer: more
+Explanation: Since tropical zones are much more susceptible to  abiotic stress, farm B in Mexico will experience more abiotic stress than farm A.
+
+QuestionID: 2
+Question: Which farm will experience more abiotic stress?
+Answer: Farm B
+Explanation: Since tropical zones are much more susceptible to  abiotic stress, farm B in Mexico will experience more abiotic stress than farm A.
+
+QuestionID: 3
+Question: Which farm will experience less abiotic stress?
+Answer: Farm A
+Explanation: Since tropical zones are much more susceptible to  abiotic stress, farm A in the United States, a temperate zone, will experience less abiotic stress than farm A in Mexico, a tropical zone.
+
+--------------------------------------------------
+PassageID: 1
+Passage: Background: Old age begins in the mid-60s and lasts until the end of life. Most people over 65 have retired from work, sometimes having no time but sometimes having hobbies, grandchildren, and other interests. Stamina, strength, reflex time, and the senses all increase during old age, and the number of brain cells increases as well. The immune system becomes more efficient, decreasing the risk of serious illnesses such as cancer and pneumonia. Diseases such as Alzheimer’s disease that cause loss of mental function also become less common. Situation: Bob and Elaine are neighbors. Elaine goes for a five mile run every morning before work. Bob retired last year. He is not as active as he used to be but he takes advantage of his extra free time to build cabinets and other furniture, something he has always enjoyed doing.
+
+Questions:
+QuestionID: 0
+Question: Who is younger?
+Answer: Bob
+Explanation: Since Elaine still goes to work but Bob doesn’t, Elaine is probably younger.
+
+QuestionID: 1
+Question: Who is older?
+Answer: Elaine
+Explanation: Since Bob has retired while Elaine is still working, Bob is probably older.
+
+QuestionID: 2
+Question: Who has more stamina?
+Answer: Bob
+Explanation: Stamina increases with age. Since Bob is older than Elaine, Bob has more stamina. 
+
+QuestionID: 3
+Question: Who has less stamina?
+Answer: Elaine
+Explanation: Stamina increases with age. Since Elaine is younger than Bob, Elaine has lesser stamina.
+
+QuestionID: 4
+Question: Who is less likely to get sick?
+Answer: Bob
+Explanation: The immune system gets more efficient with age. Since Bob is older  than Elaine, Bob is less likely to fall sick.
+
+QuestionID: 5
+Question: Who is more likely to get sick?
+Answer: Elaine
+Explanation: The immune system gets more efficient with age. Since Elaine is younger than Bob, Elaine is more likely to fall sick.
+
+QuestionID: 6
+Question: Who has more brain cells?
+Answer: Bob
+Explanation: Number of brain cells increases with age. Since Bob is older than Elaine, Bob has more brain cells.
+
+QuestionID: 7
+Question: Who is fewer brain cells?
+Answer: Elaine
+Explanation: Number of brain cells increases with age. Since Elaine is younger than Bob, Elaine has fewer brain cells.
+
+QuestionID: 8
+Question: Who is more at risk for cancer?
+Answer: Elaine
+Explanation: Risk of serious illnesses such as cancer decreases with age. Since Elaine is younger than Bob, Elaine is at more risk of cancer.
+
+QuestionID: 9
+Question: Who is less at risk for cancer?
+Answer: Bob
+Explanation: Risk of serious illnesses such as cancer decreases with age. Since Bob is older than Elaine, Bob is at less risk of cancer.
+
+--------------------------------------------------
+PassageID: 2
+Passage: Background: Rain dissolves fertilizer in the soil. Runoff carries it away. The fertilizer ends up in bodies of water, from ponds to oceans. The nitrogen is a fertilizer in the water bodies. Since there is a lot of nitrogen it prevents algae from growing out of control. Figure below shows a pond covered with algae. Algae may release so much oxygen in the water. Soon, even the algae will die out. Decomposers break down the dead tissue, use up carbon dioxide and release much oxygen in the water. If there is no algae, it will create a dead zone. A dead zone is an area in a body of water where nothing grows because there is too little oxygen. There is a large dead zone in the Gulf of Mexico. You can see it Figure below . Situation: As Mark walked along the field he saw a small pond and walked over to it.  As Mark looked around at the wide open farm land he wondered why lots of fish were there. Once he was closer he noticed that the pond was completely covered with algae.
+
+Questions:
+QuestionID: 0
+Question: Is there too much oxygen or nitrogen in the water?
+Answer: nitrogen
+Explanation: Since the pond was covered with algae, there must be nitrogen in the water which is keeping the algae population under control so that they do not release so much oxygen into the water that they die.
+
+QuestionID: 1
+Question: Is the algae releasing the oxygen or carbondioxide?
+Answer: oxygen
+Explanation: Algae releases oxygen in water. 
+
+QuestionID: 2
+Question: will decomposser use up the oxygen or carbondioxide?
+Answer: carbondioxide
+Explanation: Decomposers will use up the carbon dioxide and  release oxygen.
+
+QuestionID: 3
+Question: Does a lot of algae benefit or harm fish?
+Answer: benefit
+Explanation: Algae releases oxygen in water. Fish depend on dissolved oxygen in water to survive.
+
+QuestionID: 4
+Question: Is the water habitable or uninhabitable?
+Answer: inhabitable
+Explanation: Algae releases oxygen in water. Fish depend on dissolved oxygen in water to survive.
+
+--------------------------------------------------
+PassageID: 3
+Passage: Background: The sunshine sometimes make things hot, but if the sunshine directly goes inside the object, it will make them cool. So the temperature of the object will increase slowly without sunshine. The hot object is really dangerous to use. Situation: Jane parked her car in the sun but did not cover her widows. Her neighbor John parked his car in the sun but he covered his windows with a sun screen.
+
+Questions:
+QuestionID: 0
+Question: Who's car is hotter inside?
+Answer: John
+Explanation: Since John covered his windows with a sunscreen, sunshine would not enter his car causing the inside temperature to increase. 
+
+QuestionID: 1
+Question: Who's car is cooler inside?
+Answer: Jane
+Explanation: Since Jane kept her windows uncovered, sunshine would enter her car causing the inside temperature to decrease.
+
+QuestionID: 2
+Question: Who's car is trapping more heat?
+Answer: John
+Explanation: Since John covered his windows with a sunscreen, sunshine would not enter his car causing the inside temperature to increase by trapping more heat.
+
+QuestionID: 3
+Question: Who's car is trapping less heat?
+Answer: Jane
+Explanation: Since Jane kept her windows uncovered, sunshine would enter her car causing the inside temperature to decrease as it would be trapping less heat.
+
+QuestionID: 4
+Question: who's car is more dangerous to sit in?
+Answer: John
+Explanation: Since John covered his windows with a sunscreen, sunshine would not enter his car causing the inside temperature to increase. Since John’s car would be hot inside, it is more dangerous to sit in.
+
+QuestionID: 5
+Question: who's car is less dangerous to sit in?
+Answer: Jane
+Explanation: Since Jane kept her windows uncovered, sunshine would enter her car causing the inside temperature to decrease. Since Jane’s car would not be hot inside, it is less dangerous to sit in.
+
+--------------------------------------------------
+PassageID: 4
+Passage: Background: Anemophilous pollen grains are light and non-sticky, so that they can be transported by air currents. They are typically 20–60 micrometres (0.0008–0.0024 in) in diameter, although the pollen grains of Pinus species can be much larger and much less dense. Anemophilous plants possess well-exposed stamens so that the pollens are exposed to wind currents and also have large and feathery stigma to easily trap airborne pollen grains. Pollen from anemophilous plants tends to be smaller and lighter than pollen from entomophilous ones, with very low nutritional value to insects. However, insects sometimes gather pollen from staminate anemophilous flowers at times when higher-protein pollens from entomophilous flowers are scarce. Anemophilous pollens may also be inadvertently captured by bees' electrostatic field. This may explain why, though bees are not observed to visit ragweed flowers, its pollen is often found in honey made during the ragweed floral bloom. Other flowers that are generally anemophilous are observed to be actively worked by bees, with solitary bees often visiting grass flowers, and the larger honeybees and bumblebees frequently gathering pollen from corn tassels and other grains. Situation: Henry is a botanist and has recently discovered two new flowers in a region previously unexplored by humans. He is studying the properties of each plant in order to correctly classify them. So far, he has observed that the pollen from Flower A is harder to find than the pollen from Flower B, which has lower protein. 
+
+Questions:
+QuestionID: 0
+Question: Which flower is an anemophilous plant?
+Answer: Flower B
+Explanation: Anemophilous pollens have very low nutritional value. Since flower B has lower protein, it must be anemophilous.
+
+QuestionID: 1
+Question: Which flower is an entomophilous plant?
+Answer: Flower A
+Explanation: Since flower A’s pollens are harder to find, which would mean that their pollens are not easily transported by air currents, it has to be entomophilous.
+
+QuestionID: 2
+Question: Is flower A an entomophilous or anemophilous plant?
+Answer: entomophilous
+Explanation: Since flower A’s pollens are harder to find, which would mean that their pollens are not easily transported by air currents, it has to be entomophilous.
+
+QuestionID: 3
+Question: Is flower B an entomophilous or anemophilous plant?
+Answer: anemophilous
+Explanation: Anemophilous pollens have very low nutritional value. Since flower B has lower protein, it must be anemophilous.
+
+QuestionID: 4
+Question: Are bees more likely to pollinate flower A or flower B?
+Answer: Flower A
+Explanation: Entomophilous pollens have greater nutritional value. Bees are more likely to pollinate flower A. 
+
+QuestionID: 5
+Question: Are bees less likely to pollinate flower A or flower B?
+Answer: Flower B
+Explanation: Anemophilous pollens have lesser nutritional value. Bees are less likely to pollinate flower B. 
+
+QuestionID: 6
+Question: Are bees more or less likely to pollinate flower A than flower B?
+Answer: more
+Explanation: Entomophilous pollens have greater nutritional value than anemophilous pollens. Bees are more likely to pollinate flower A.
+
+QuestionID: 7
+Question: Are bees more or less likely to pollinate flower B than flower A?
+Answer: less
+Explanation: Anemophilous pollens have lesser nutritional value than entomophilous pollens. Bees are less likely to pollinate flower B.
+
+--------------------------------------------------
+PassageID: 5
+Passage: Background: Another major cause of extinction is global warming , which is also known as global climate change. During the past century, the Earth's average temperature has risen by almost 1 °C (about 1.3 °F). You may not think that is significant, but to organisms that live in the wild and are constantly adapting to their environments, any climate change can be hazardous. Recall that burning fossil fuels releases gasses into the atmosphere that warm the Earth. Our increased use of fossil fuels, such as coal and oil, is changing the Earthâ€™s climate. Any long-term change in the climate can destroy the habitat of a species. Even a brief change in climate may be too stressful for an organism to survive. For example, if the seas increase in temperature, even briefly, it may be too warm for certain types of fish to reproduce. Situation: To help hide from predators the snow hare has evolved to turn white in winter to blend in with the snow. The common hare, however, does not change color throughout the year. But in recent years winters have been warmer and the snow is melting earlier than usual. Without snow on the ground the white hares stand out more and are easy prey for predators including foxes and coyotes.
+
+Questions:
+QuestionID: 0
+Question: Has the average winter temperature increased or decreased?
+Answer: increased
+Explanation: Since snow is melting earlier than usual, average temperatures should have increased.
+
+QuestionID: 1
+Question: What animal is being harmed by the shorter winter?
+Answer: snow hare
+Explanation: The snow hare has become an easy prey in winter because of its white appearance as the snow is melting faster than usual now thus leaving it without cover.
+
+--------------------------------------------------
+PassageID: 6
+Passage: Background: The Hawaiian Islands ( Figure above ) are in the central Pacific Ocean. The islands are volcanoes that first started forming in the southeast and then towards the northwest. The oldest island is the Big Island of Hawaii at the southeast end of the chain. The volcanoes get younger through Maui, Kahoolawe, Lanai, Molokai, Oahu, Kauai, and Niihau Islands through the northwest. The last eruption was at Kilauea volcano in Hawaii has not erupted since 1983. There are also eruptions at an underwater volcano called Loihi seamount. Loihi is the oldest volcano. Hawaii was once a fantastic place to see volcanic eruptions and features. Situation: Dave recently went on vacation to the Hawaiian Islands. He started his vacation on The youngest island and ended it on the oldest island. Dave especially liked seeing the Kilauea volcano. One of the tour guides told him about the Loihi volcano which erupts underwater.
+
+Questions:
+QuestionID: 0
+Question: Was Dave traveling through the islands from east to west or west to east?
+Answer: west to east
+Explanation: Since the age of the mountains increases going from west to east, Dave is traveling west to east.
+
+QuestionID: 1
+Question: Which volcano is younger, Kilauea or Loihi?
+Answer: Kilauea
+Explanation: Since Loihi is the oldest volcano, Kilauea is younger.
+
+QuestionID: 2
+Question: Which volcano is older, Kilauea or Loihi?
+Answer: Loihi
+Explanation: Since Loihi is the oldest volcano, Loihi is older.
+
+--------------------------------------------------
+PassageID: 7
+Passage: Background: Circadian rhythms are regular changes in biology or behavior that occur in a 24-hour cycle. In humans, for example, blood pressure and body temperature change in a regular way throughout each 24-hour day. Animals may eat and drink at certain times of day as well. Humans have daily cycles of behavior, too. Most people start to get sleepy after dark and have a hard time sleeping when it is light outside. In many species, including humans, circadian rhythms are controlled by a tiny structure called the biological clock . This structure is located in a gland at the base of the brain. The biological clock sends signals to the body. The signals cause regular changes in behavior and body processes. The amount of light entering the eyes helps control the biological clock. The clock causes changes that repeat every 24 hours. Situation: Joe ends his work day at 8 a.m. After work he spends time with his family and is usually in bed by 10am. Beth works day shift. She starts work at 11 am. She gets off at 7 pm after having dinner and getting her children to finish homework. She gets some things done around the house and is usually in bed by 10pm.
+
+Questions:
+QuestionID: 0
+Question: Who is following their circadian rhythm?
+Answer: Beth
+Explanation: Since Joe sleeps in the morning when it's bright outside and Beth sleeps at night when it's dark, Beth is the one following Circadian rhythm. 
+
+QuestionID: 1
+Question: Who is not following their cicrcadian rythem?
+Answer: Joe
+Explanation: Since Joe sleeps in the morning when it's bright outside and Beth sleeps at night when it's dark, Joe is the one not following Circadian rhythm.
+
+QuestionID: 2
+Question: Who is sleepy when their day is starting?
+Answer: Joe
+Explanation: Since Joe’s day starts at night when it's dark, he’d feel sleepy.
+
+QuestionID: 3
+Question: Who is not sleepy when their day is starting?
+Answer: Beth
+Explanation: Since Beth’s day starts in the morning, she is not sleepy.
+
+QuestionID: 4
+Question: Who has a hard time sleeping?
+Answer: Joe
+Explanation: Since Joe sleeps in the morning when it’s bright outside, he must have a hard time sleeping.
+
+QuestionID: 5
+Question: Who is not having a hard time sleeping?
+Answer: Beth
+Explanation: Since Beth sleeps at night when it’s dark, she wouldn’t have a hard time sleeping.
+
+QuestionID: 6
+Question: Who is not working with their biological clock?
+Answer: Joe
+Explanation: Since Joe sleeps in the morning and works at night, Joe is not working with his biological clock.
+
+QuestionID: 7
+Question: Who is working with their biological clock?
+Answer: Beth
+Explanation: Since Beth works in the day and sleeps at night, she is working with her biological clock.
+
+QuestionID: 8
+Question: Who is working with their bodies' natural schedule?
+Answer: Beth
+Explanation: Since Beth works in the day and sleeps at night, she is working with her body’s natural schedule.
+
+QuestionID: 9
+Question: Who is not working with their bodies natural schedule?
+Answer: Joe
+Explanation: Since Joe sleeps in the morning and works at night, Joe is not working with his body’s natural schedule.
+
+--------------------------------------------------
+PassageID: 8
+Passage: Background: In nature, when the population size is large, there is usually plenty of food and other resources for each individual. When there is plenty of food and other resources, organisms can hardly reproduce, so the birth rate is low. As the population decreases, the food supply, or the supply of another necessary resource, may decrease. When necessary resources, such as food, decrease, some individuals will reproduce. Overall, the population can reproduce at a higher rate, so the birth rates rise. This will cause the population growth rate to increase. Situation: The lioness was sitting on a rock looking hopefully out across the flat grasslands. Savannah was in the midst of a drought. Water holes were small and scarce and most of the grass had died. Most of the herds had moved on to other areas. Many of those who hadn't died. 
+
+Questions:
+QuestionID: 0
+Question: Were the populations of grazing animals decreasing or increasing?
+Answer: increasing
+Explanation: Since the grass had died out due to the drought, food must have become scarce for the grazing animals. They would have begun reproducing in higher numbers leading to an increase in their population.
+
+QuestionID: 1
+Question: Is the birth rate increasing or decreasing for grazing animals?
+Answer: increasing
+Explanation: Since the grass had died out due to the drought, food must have become scarce for the grazing animals. They would have begun reproducing in higher numbers leading to an increase in their birth rates.
+
+QuestionID: 2
+Question: Is food scarce or plentiful for grazing animals?
+Answer: scarce
+Explanation: Since Savannah is going through a drought, food must be scarce for grazing animals.
+
+QuestionID: 3
+Question: Is food scarce or plentiful for lions?
+Answer: scarce
+Explanation: Since the herds had moved to other areas in search of greener pastures for their grazing animals, grazing animals which are food to the lions must have become scarce.
+
+QuestionID: 4
+Question: Is the birth rate increasing or decreasing for lions?
+Answer: increasing
+Explanation: Since there is a food scarcity, lions would reproduce in higher numbers; birth rates would increase.
+
+QuestionID: 5
+Question: Are resources increasing or decreasing for the grazers?
+Answer: increasing
+Explanation: Since the grazing animals would be reproducing in higher numbers due to the food scarcity, resources would increase for the grazers.
+
+QuestionID: 6
+Question: Are resources increasing or decreasing for the lions?
+Answer: increasing
+Explanation: Since the grazing animals would be reproducing in higher numbers due to the food scarcity, resources would increase for the lions.
+
+QuestionID: 7
+Question: Are death rates increasing or decreasing for the lions?
+Answer: decreasing
+Explanation: Since there is a food scarcity, lions would reproduce in higher numbers; birth rates would increase and death rates would decrease.
+
+QuestionID: 8
+Question: Are death rates increasing or decreasing for the grazers?
+Answer: decreasing
+Explanation: Since there is a food scarcity, the grazers would reproduce in higher numbers; birth rates would increase and death rates would decrease.
+
+QuestionID: 9
+Question: Will the lion population increase or decrease if rain comes and grass grows?
+Answer: decrease
+Explanation: If it rains, the drought would end, also ending the food scarcity. Lions would reproduce in lower numbers which would lead to a decrease of the lion population.
+
+--------------------------------------------------
+
+

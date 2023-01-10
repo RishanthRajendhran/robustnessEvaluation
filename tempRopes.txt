@@ -1,0 +1,55 @@
+PassageID: 0
+Passage: Background: Saturated hydrocarbons are given the general name of alkanes . The name of specific alkanes always ends in – ane . The first part of the name indicates how many carbon atoms each molecule of the alkane has. The smallest alkane is methane. It has just one carbon atom. The next largest is ethane with two carbon atoms. The chemical formulas and properties of methane, ethane, and other small alkanes are listed in the Table below . The boiling and melting points of alkanes are determined mainly by the number of carbon atoms they have. Alkanes with more carbon atoms generally boil and melt at higher temperatures. Situation: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius. 
+
+Questions:
+QuestionID: 0
+Question: Is Alkane A smaller or larger than Alkane B?
+Answer: smaller
+Explanation: 
+
+QuestionID: 1
+Question: Is Alkane B smaller or larger than Alkane C?
+Answer: smaller
+Explanation: 
+
+QuestionID: 2
+Question: Is Alkane B smaller or larger than Alkane A?
+Answer: larger
+Explanation: 
+
+QuestionID: 3
+Question: Is Alkane C smaller or larger than Alkane A?
+Answer: larger
+Explanation: 
+
+QuestionID: 4
+Question: Is Alkane A smaller or larger than Alkane C?
+Answer: smaller
+Explanation: 
+
+QuestionID: 5
+Question: Does Alkane A have more or less carbon atoms than Alkane B?
+Answer: less
+Explanation: 
+
+QuestionID: 6
+Question: Does Alkane B have more or less carbon atoms than Alkane C?
+Answer: less
+Explanation: 
+
+QuestionID: 7
+Question: Does Alkane A have more or less carbon atoms than Alkane C?
+Answer: less
+Explanation: 
+
+QuestionID: 8
+Question: Does Alkane C have more or less carbon atoms than Alkane A?
+Answer: more
+Explanation: 
+
+QuestionID: 9
+Question: Does Alkane B have more or less carbon atoms than Alkane A?
+Answer: more
+Explanation: 
+
+--------------------------------------------------

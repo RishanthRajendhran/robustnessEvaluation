@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "1_0",
+        "sentence1": "Consider the following two claims: Claim 1: Circumcision should not be done to infants. and Claim2: Circumcision should definitely be done to infants.",
+        "QuestionID": "10",
+        "sentence2": "Perspective: Removal of the foreskin from the human penis. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?",
+        "label": "unk",
+        "explanation": "This perspective does not speak to whether or not infants should be circumcised."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "Consider the following two claims: Claim 1: Men should sit down to urinate in any private restroom. and Claim2: Men should be allowed to stand while peeing in private restrooms.",
+        "QuestionID": "4",
+        "sentence2": "Perspective: The issue of men leaving the seat up or putting it back down after use (particularly for the benefit of women), is a perennial topic of discussion and light humor; with it often being argued that leaving the toilet seat up is more efficient for men, but putting it down is more considerate of women. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?",
+        "label": "unk",
+        "explanation": "This perspective does not speak to whether men should or should not be allowed to stand while peeing in private restrooms."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "Consider the following two claims: Claim 1: should cheaters be given a second chance and Claim2: cheaters do not deserve a second chance .",
+        "QuestionID": "5",
+        "sentence2": "Perspective: The media should not be controlled by a celebrity. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?",
+        "label": "unk",
+        "explanation": "This perspective does not speak to whether or not cheaters deserve a second chance."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "Consider the following two claims: Claim 1: I believe homeschooling is bad for children and should be outlawed at a State level. and Claim2: Homeschooling is good for children and should be encouraged.",
+        "QuestionID": "7",
+        "sentence2": "Perspective: Children aren\u2019t the best judge of what to learn or what lifestyle to adopt. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?",
+        "label": "unk",
+        "explanation": "This perspective does not speak to whether or not homeschooling should be outlawed."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Consider the following two claims: Claim 1: should we raise the age of consent and Claim2: should we lower the age of consent .",
+        "QuestionID": "10",
+        "sentence2": "Perspective: Over the course of American history, the most commonly observed age of consent was 10 years. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?",
+        "label": "unk",
+        "explanation": "This perspective does not speak to whether or not age of consent should be lowered."
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "Consider the following two claims: Claim 1: I believe Terrorists have a right to a fair trial and Claim2: Terrorists do not deserve a fair trial .",
+        "QuestionID": "13",
+        "sentence2": "Perspective: The right to a fair trial is furthermore enshrined in articles 3, 8, 9 and 10 of the American Convention on Human Rights. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?",
+        "label": "neg",
+        "explanation": "The right to a fair trial is a basic human right."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "Consider the following two claims: Claim 1: should happiness be the purpose of life and Claim2: Happiness should not be the purpose of life.",
+        "QuestionID": "6",
+        "sentence2": "Perspective: Religion offers a life purpose to people. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?",
+        "label": "pos",
+        "explanation": "There could be other purposes to life besides happiness."
+    },
+    {
+        "PassageID": "1_7",
+        "sentence1": "Consider the following two claims: Claim 1: should we live in space and Claim2: should we drop the ambition to live in space .",
+        "QuestionID": "4",
+        "sentence2": "Perspective: Scientists have found living organisms in space. What is the stance taken by Claim 2 with respect to this perspective: pos/neg/unk ?",
+        "label": "unk",
+        "explanation": "This perspective does not speak to whether or not we should try to live in space."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Consider the following two claims: Claim 1: should an employer be able to fire an employee if the latter is often ill and Claim2: should an employer be banned from firing an employee if the latter is often ill .",
+        "QuestionID": "9",
+        "sentence2": "Perspective: An aggressive move by Labour would be to the left. What is the stance taken by Claim 1 with respect to this perspective: pos/neg/unk ?",
+        "label": "unk",
+        "explanation": "This perspective does not speak to whether or not employers should be allowed to terminate employees who are often ill."
+    }
+]

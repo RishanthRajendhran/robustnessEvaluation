@@ -1,0 +1,648 @@
+PassageID: 0
+Passage: The Burmese now faced the largest Chinese army yet mobilized against them. Yet King Hsinbyushin did not seem to realize the gravity of the situation. Throughout the first two invasions, he had steadfastly refused to recall the main Burmese armies, which had been battling in Laos and Siam since January 1765, and laying siege to the Siamese capital of Ayutthaya since January 1766. Throughout 1767, when the Chinese were mobilizing for their most serious invasion yet, the Burmese were still focused on defeating the Siamese. Even after the Siamese capital was finally captured in April 1767, Hsinbyushin kept part of the troops in Siam during the rainy season months in order to mop up the remaining Siamese resistance during the winter months later that year. He actually allowed many Shan and Laotian battalions to demobilize at the start of the rainy season. As a result, when the invasion did come in November 1767, the Burmese defenses had not been upgraded to meet a much larger and a more determined foe. The Burmese command looked much like that of the second invasion. Hsinbyushin again assigned the same commanders of the second invasion to face off the Chinese. Maha Sithu led the main Burmese army, and was the overall commander of the Chinese theater, with Maha Thiha Thura and Ne Myo Sithu commanding two other Burmese armies. Balamindin again commanded the Kaungton fort.
+
+Questions:
+QuestionID: 0
+Question: How many commanders were in charge of the Burmese armies?
+Answer: 4
+Explanation: The Burmese armies had four commandeers: Maha Sithu, Maha Thiha Thura, Ne Myo Sithu and Balamindin.
+
+--------------------------------------------------
+PassageID: 1
+Passage: The sea waters along the Malay Peninsula favor molluscan growth, and there are about 280 edible fish species belonging to 75 families. Of those, 232 species  are found in mangroves and 149 species  reside in seagrass; so 101 species are common to both habitats. The sea also hosts many vulnerable fauna species, including dugong , several dolphin species, such as Irrawaddy Dolphin  and certain species of sea turtles: critically endangered leatherback turtle  and hawksbill turtle  and threatened green turtle  and Olive Ridley turtle . There are only about 150 dugongs in the Andaman Sea, scattered between Ranong and Satun Provinces. These species are sensitive to the degradation of seagrass meadows. Coral reefs are estimated to occupy 73,364 rai in the Andaman Sea with only 6.4 percent in ideal condition.
+
+Questions:
+QuestionID: 0
+Question: how many species are sensitive to degradation of seagrass meadows?
+Answer: 1
+Explanation: Only the Dugongs are sensitive to the degradation of seagrass meadows.
+
+QuestionID: 1
+Question: how many species are exclusively found in mangroves?
+Answer: 131
+Explanation: Of the 232 species found in mangroves, 101 species also live in seagrass.
+
+QuestionID: 2
+Question: Where are there less edible fish species found, in mangroves or in seagrass?
+Answer: in seagrass
+Explanation: Seagrass has 149 edible species of fish which is 83 less than the number of edible fish species in the mangroves. 
+
+QuestionID: 3
+Question: How many species of critically endangered sea turtles are found?
+Answer: 1
+Explanation: The only critically endangered species in Andaman are the leatherback turtles.
+
+QuestionID: 4
+Question: How many of the edible fish specides are not found in seagrass?
+Answer: 131
+Explanation: Of the 280 edible species of fish, 131 are not present in seagrass. 
+
+QuestionID: 5
+Question: Are there more edible fish species in seagrass or dugongs in the sea?
+Answer: dugongs
+Explanation: 
+
+QuestionID: 6
+Question: Are there more dugongs in the sea or edible fish species in seagrass?
+Answer: dugongs
+Explanation: There are 150  dugongs in the sea which is one more than the number of edible fish species in seagrass. 
+
+QuestionID: 7
+Question: Are there fewer edible fish species in seagrass or dugongs in the sea?
+Answer: edible fish species
+Explanation: There are 149 edible fish species in seagrass which is one less than the number of dugongs in the sea.
+
+QuestionID: 8
+Question: Are there fewer dugongs in the sea or edible fish species in seagrass?
+Answer: edible fish species
+Explanation: There are 149 edible fish species in seagrass which is one less than the number of dugongs in the sea.
+
+QuestionID: 9
+Question: How many different fauna species are vulnerable in the sea?
+Answer: 3
+Explanation: The vulnerable species in the sea are dugongs, several dolphin species and certain species of sea turtles.
+
+QuestionID: 10
+Question: What are the four types of sea turtles?
+Answer: leatherback turtle, hawksbill turtle, green turtle, Olive Ridley turtle
+Explanation: The four types are sea turtles are leatherback turtle, hawksbill turtle, green turtle and Olive Ridley turtle.
+
+QuestionID: 11
+Question: How many species of turtle are not critically endangered?
+Answer: 3
+Explanation: The hawksbill turtle, green turtle and the Olive Ridley turtle are not critically endangered.
+
+--------------------------------------------------
+PassageID: 2
+Passage: 1921 Persian coup d'état, known in Iran as 3 Esfand coup d'état , refers to several major events in Persia  in 1921, which eventually led to the establishment of the Pahlavi dynasty as the ruling house of the country in 1925. The events began with a coup by the Persian Cossack Brigade headed by Reza Khan, and directed by the British, on 21 February 1921. With this coup Zia'eddin Tabatabaee took over power and became Prime Minister. The coup was largely bloodless and faced little resistance. With his expanded forces and the Cossack Brigade, Reza Khan launched successful military actions to eliminate separatist and dissident movements in Tabriz, Mashhad and the Janglis in Gilan. The campaign against Simko and the Kurds was less successful and lasted well into 1922, though eventually concluding with Persian success.
+
+Questions:
+QuestionID: 0
+Question: Which was conquered by Tabatabaee later, Simko or Tabriz?
+Answer: Simko
+Explanation: Simko wasn’t conquered until 1922, about a year after he conquered Tabriz.
+
+QuestionID: 1
+Question: Which was conquered by Tabatabaee later, Tabriz or Simko?
+Answer: Simko
+Explanation: Simko wasn’t conquered until 1922, about a year after he conquered Tabriz.
+
+QuestionID: 2
+Question: Which was conquered by Tabatabaee earlier, Simko or Tabriz?
+Answer: Tabriz
+Explanation: Tabriz was conquered in 1921, about a year before the conquer of Simko.
+
+QuestionID: 3
+Question: Which was conquered by Tabatabaee earlier, Tabriz or Simko?
+Answer: Tabriz
+Explanation: Tabriz was conquered in 1921, about a year before the conquer of Simko.
+
+QuestionID: 4
+Question: Which was conquered by Tabatabaee first, Simko or Tabriz?
+Answer: Tabriz
+Explanation: Tabriz was conquered in 1921, about a year before the conquer of Simko.
+
+QuestionID: 5
+Question: How many years passed between the capture of Mashhad and the successful campaign against Simko and the Kurds?
+Answer: 1
+Explanation: The campaign against Simko and the Kurds ended successfully in 1922, a year after the capture of Mashhad.
+
+QuestionID: 6
+Question: Who did the Persians succeed against in 1922?
+Answer: Simko and the Kurds
+Explanation: Persian forces' campaign against Simko and the Kurds ended successfully in 1922.
+
+QuestionID: 7
+Question: How many years did it take for the Pahlavi dynasty to be established as the ruling house of the country?
+Answer: 4
+Explanation: Pahlavi dynasty was established as the ruling house of the country in 1925, four years after the campaign began.
+
+--------------------------------------------------
+PassageID: 3
+Passage:  Coming off their Thursday night road win over the Browns, the Broncos flew to the Georgia Dome for a Week 11 interconference duel with the Atlanta Falcons.  In the first quarter, Denver drew first blood as rookie FB Peyton Hillis got a 7-yard TD run.  The Falcons answered with former Broncos kicker Jason Elam getting a 46-yard field goal.  In the second quarter, Atlanta took the lead as Elam made a 36-yard field goal, while RB Michael Turner got a 9-yard TD run. This is still Matt Ryan's only loss at the Georgia Dome to date. In the third quarter, Denver regained the lead as Hillis got a 2-yard TD run.  In the fourth quarter, the Broncos increased their lead as kicker Matt Prater nailed a 20-yard field goal.  The Falcons tried to rally as Turner got a 28-yard TD run, yet Denver replied as QB Jay Cutler completed a 9-yard TD pass to TE Daniel Graham. On a side note, rookie FB Spencer Larsen became the first player in franchise history to start on offense and defense.  In addition to his fullback duties, he also started as middle linebacker, along with his special teams responsibilities.
+
+Questions:
+QuestionID: 0
+Question: How many rookies scored a touchdown?
+Answer: 1
+Explanation: Peyton Hillis was the only rookie to score a touchdown in the game.
+
+QuestionID: 1
+Question: How many players got TD runs?
+Answer: 2
+Explanation: Peyton Hillis and Michael Turner got TD runs in the first and second quarter respectively.
+
+QuestionID: 2
+Question: Who kicked the longest field goal of the second half?
+Answer: Matt Prater
+Explanation: 
+
+QuestionID: 3
+Question: How long was the longest field goal of the second half?
+Answer: 20
+Explanation: The longest field goal in the second half was a 20-yard field goal in the third quarter.
+
+QuestionID: 4
+Question: Who had the shortest TD run of the fourth quarter?
+Answer: Turner
+Explanation: The shortest TD run of the fourth quarter was a 28-yard TD run by Turner.
+
+QuestionID: 5
+Question: how many yards did Turner run?
+Answer: 37
+Explanation: Turner got a 9-yard TD run in the second quarter and a 28-yard TD run in the fourth quarter.
+
+QuestionID: 6
+Question: how many yards did turner run in the second quarter?
+Answer: 9
+Explanation: Turner got a 9-yard TD run in the second quarter.
+
+QuestionID: 7
+Question: Who scored the first fied goal for the Falcons?
+Answer: Json Elam
+Explanation: The first field goal for the Falcons was by Json Elam in the first quarter.
+
+QuestionID: 8
+Question: Who caught the only touchdown pass of the game?
+Answer: Daniel Graham
+Explanation: The only touchdown pass in the game wass a 9-yard TD pass caught by Daniel  Graham in the last quarter.
+
+QuestionID: 9
+Question: How many touchdowns were scored in the second half?
+Answer: 3
+Explanation: There were three touchdowns in the second half: TD run by Hillis in the third quarter, TD run by Turner in the fourth quarter and a TD pass by Graham in the same quarter.
+
+QuestionID: 10
+Question: how many yards did Hillis run in the second half?
+Answer: 2
+Explanation: Hillis got a 2-yard TD run in the  third quarter which was his only run in the second half.
+
+QuestionID: 11
+Question: how many yards did elam get in the second quarter?
+Answer: 36
+Explanation: Elam got a 36-yard field goal in the second quarter.
+
+QuestionID: 12
+Question: Which player scored the first touchdown of the second half?
+Answer: Hillis
+Explanation: The first touchdown of the second quarter was a 2-yard TD run by Hillis.
+
+QuestionID: 13
+Question: How many field goals of under 50 yards were there in the first half?
+Answer: 2
+Explanation: There were two field goals under 50 yards in the second half: a 46-yard field goal by Elam in the first quarter and a 36-yard field goal by Elam again in the second quarter.
+
+--------------------------------------------------
+PassageID: 4
+Passage: When the Danes stalled and prolonged the fulfillment of some provisions of the Treaty of Roskilde by postponing payments and not blocking foreign fleets from access to the Baltic Sea, and with half of the 2,000 Danish soldiers that were obliged by Roskilde to enter Swedish service deserting, the Swedish king embarked from Kiel with a force of 10,000 men on 16 August. While everyone expected him to head for Royal Prussia, he disembarked on Zealand on 17 August, and headed for Copenhagen, which was defended by 10,650 Danes and 2,000 Dutch. This time however, the town did not surrender, and a long siege ensued. When Swedish forces took Kronborg in September, they controlled both sides of the Øresund, yet in November a Dutch fleet broke the Swedish naval blockade of Copenhagen in the Battle of the Sound. Meanwhile, the anti-Swedish alliance had deployed an army to Denmark, to confront Charles X Gustav with a force of 14,500 Brandenburgers commanded by Frederick William, 10,600 Austrians commanded by Raimondo Montecuccoli, and 4,500 Poles commanded by Czarniecki. By January 1659, the allied forces stood at Fredriksodde, Kolding and Als. Charles X Gustav then tried a decisive assault on Copenhagen on 21 and 22 February, but was repelled.
+
+Questions:
+QuestionID: 0
+Question: How many soldiers did the Swedish king fight in Copenhagen?
+Answer: 12650
+Explanation: Swedish king fought 10,650 Danes and 2000 Dutches in Copenhagen.
+
+QuestionID: 1
+Question: How many more forces were defending Copenhagen in comparsion to Swedish forces?
+Answer: 2650
+Explanation: Copenhagen was defended by 12650 soldiers, 2650 more than the Swedish forces.
+
+QuestionID: 2
+Question: Were there more forces defending Copenhagen or Swedish forces?
+Answer: forces defending Copenhagen
+Explanation: Copenhagen was defended by 12650 soldiers, 2650 more than the Swedish forces.
+
+QuestionID: 3
+Question: How many total forces combined were defending Copenhagen and with the Swedish king?
+Answer: 22650
+Explanation: Copenhagen was defended by 12650 soldiers while 10000 forces were with the Swedish king.
+
+QuestionID: 4
+Question: How many combined forces were there in Denmark?
+Answer: 25100
+Explanation: There were 14,500 Brandenburgers, 10,600 Austrians and 4,500 Poles in Denmark.
+
+QuestionID: 5
+Question: How many people commanded the forces in Denmark?
+Answer: 3
+Explanation: Frederick William, Raimondo Montecuccol and Czarniecki commanded the forces in Denmark.
+
+QuestionID: 6
+Question: Which people commanded the forces in Denmark?
+Answer: Raimondo Montecuccoli, Frederick William, Czarniecki
+Explanation: Frederick William, Raimondo Montecuccol and Czarniecki commanded the forces in Denmark.
+
+QuestionID: 7
+Question: How many more soldiers were defending Denmark as compared to Copenhagen?
+Answer: 6950
+Explanation: There were 25100 soldiers defending Denmark, 6950 more soldiers compared to Copenhagen.
+
+QuestionID: 8
+Question: How many more Brandenburgers and Poles were there combined than Austrians?
+Answer: 8400
+Explanation: There were 14,500 Brandenburgers and 4,500 Poles while there were 10,600 Austrians in Denmark.
+
+QuestionID: 9
+Question: How many more Austrians and Poles were there combined than Brandenburgers?
+Answer: 600
+Explanation: There were 14,500 Brandenburgers while there were 10,600 Austrians and 4,500 Poles in Denmark.
+
+QuestionID: 10
+Question: Which was attacked first, Copenhagen or Kronborg?
+Answer: Denmark
+Explanation: Kronborg was attacked in Semptember, 5 months before Copenhagen was attacked.
+
+QuestionID: 11
+Question: How many less Danes and Dutch soldiers were there combined as compared to Austrians and Poles soldiers?
+Answer: 2450
+Explanation: There were 10,650 Danes and 2,000 Dutch in Copenhagen while there were 10,600 Austrians and 4,500 Poles in Denmark.
+
+QuestionID: 12
+Question: How many more were Austrians and Poles combined soldiers as compared to Danes soldiers?
+Answer: 4450
+Explanation: There were 10,650 Danes in Copenhagen while there were 10,600 Austrians and 4,500 Poles in Denmark.
+
+QuestionID: 13
+Question: Which were there more of, Dutch or Poles?
+Answer: Poles
+Explanation: There were 4,500 Poles in Denmark which is more than the 2,000 Danes in Copenhagen.
+
+QuestionID: 14
+Question: Which were there more of, Dutch, Danes or Poles?
+Answer: Dutch
+Explanation: There were 10,650 Danes and 2,000 Dutch in Copenhagen and 4,500 Poles in Denmark.
+
+QuestionID: 15
+Question: Which were there less soldiers of, Danes or Austrians?
+Answer: Austrians
+Explanation: There were 10,600 Austrians in Denmark which is lesser than the 10,650 Danes in Copenhagen.
+
+QuestionID: 16
+Question: Which were there less soldiers of, Danes or Austrians?
+Answer: Brandenburgers
+Explanation: There were 10,600 Austrians in Denmark which is lesser than the 10,650 Danes in Copenhagen.
+
+QuestionID: 17
+Question: How many more Austrians were there than Poles and Dutch combined?
+Answer: 4100
+Explanation: There were 10,600 Austrians and 4,500 Poles in Denmark while there were 2,000 Dutch in Copenhagen.
+
+QuestionID: 18
+Question: Who commanded less soldiers Frederick William, or Raimondo Montecuccoli?
+Answer: Raimondo Montecuccoli
+Explanation: Montecuccoli commanded 3900 less soldiers than William.
+
+QuestionID: 19
+Question: Who commanded more soldiers, Czarniecki or Frederick William?
+Answer: Frederick William
+Explanation: William command 10000 more soldiers than Czarniecki.
+
+QuestionID: 20
+Question: Who commanded more soldiers Montecuccoli and Czarniecki or William?
+Answer: William
+Explanation: William commanded 3900 more soldiers than Montecuccoli and 10000 more soldiers than Czarniecki.
+
+QuestionID: 21
+Question: Who had more soldiers Charles X Gustav or Swedish king?
+Answer: Charles X Gustav
+Explanation: 
+
+--------------------------------------------------
+PassageID: 5
+Passage: Although fighting in Pontiac's Rebellion began in 1763, rumors reached British officials as early as 1761 that discontented Native Americans were planning an attack. Senecas of the Ohio Country circulated messages in 1761 which called for the tribes to form a confederacy and drive away the British. The Mingos, led by Guyasuta and Tahaiadoris, were concerned about being surrounded by British forts. Similar war belts originated from Detroit and the Illinois Country. The Native Americans were not unified, however, and in June 1761, Native Americans at Detroit informed the British commander of the Seneca plot. After William Johnson held a large council with the tribes at Detroit in September 1762 a tenuous peace was maintained, but war belts continued to circulate. Violence finally erupted after the Native Americans learned in early 1763 of the imminent French cession of the pays d'en haut to the British.
+
+Questions:
+QuestionID: 0
+Question: How many people led the Mingos tribe?
+Answer: 2
+Explanation: The Mingos tribe was led by Guyasuta and Tahaiadoris.
+
+QuestionID: 1
+Question: What happened later, Pontiac's Rebellion or the call for the tribes to form a confederacy?
+Answer: Pontiac's Rebellion
+Explanation: Pontiac's Rebellion began in 1763, 2 years after the call for the tribes to form a confederacy.
+
+QuestionID: 2
+Question: What happened later, the call for the tribes to form a confederacy or Pontiac's Rebellion?
+Answer: Pontiac's Rebellion
+Explanation: Pontiac's Rebellion began in 1763, 2 years after the call for the tribes to form a confederacy.
+
+QuestionID: 3
+Question: What happened earlier, Pontiac's Rebellion or the call for the tribes to form a confederacy?
+Answer: the call for the tribes to form a confederacy
+Explanation: The call for the tribes to form a confederacy grew in 1761, 2 years before the Pontiac's Rebellion began.
+
+QuestionID: 4
+Question: What happened earlier, the call for the tribes to form a confederacy or Pontiac's Rebellion?
+Answer: the call for the tribes to form a confederacy
+Explanation: The call for the tribes to form a confederacy grew in 1761, 2 years before the Pontiac's Rebellion began.
+
+QuestionID: 5
+Question: How many people led the Mingos?
+Answer: 3
+Explanation: The Mingos tribe was led by Guyasuta and Tahaiadoris.
+
+QuestionID: 6
+Question: How many years did the peace last after the council?
+Answer: 1
+Explanation: Violence broke out in 1963, a year after a peace was reached after the council.
+
+QuestionID: 7
+Question: How many tribes were hostile to the British?
+Answer: 2
+Explanation: Senecas of the Ohio Country and the Mingos were hostile to the British.
+
+--------------------------------------------------
+PassageID: 6
+Passage: In 2008, at another auction at Christies, Ulrich sold a 1982 Basquiat piece, Untitled (Boxer), for US $13,522,500 to an anonymous telephone bidder. Another record price for a Basquiat painting was made in 2007, when an untitled Basquiat work from 1981 sold at Sothebys in New York for US$14.6 million. In 2012, for the second year running, Basquiat was the most coveted contemporary (i.e. born after 1945) artist at auction, with €80 million in overall sales. That year, his Untitled (1981), a painting of a haloed, black-headed man with a bright red skeletal body, depicted amid the artists signature scrawls, was sold by Robert Lehrman for $16.3 million, well above its $12 million high estimate. A similar untitled piece, also undertaken in 1981 and formerly owned by the Israel Museum, sold for £12.92 million at Christies London, setting a world auction record for Basquiats work. In 2013, Basquiats piece Dustheads sold for $48.8 million at Christies. In 2016 an untitled piece sold at Christies for $57.3 million to a Japanese businessman and collector, Yusaku Maezawa.
+
+Questions:
+QuestionID: 0
+Question: How many more million was Basquiat's Untitled (1981) sold above it's estimated amount?
+Answer: 4300000
+Explanation: Basquiat's Untitled (1981) was sold for 16.3 million dollars, 4.3 millions dollars more than it's estimated amount.
+
+QuestionID: 1
+Question: How many pieces sold for more than $13 million?
+Answer: 4
+Explanation: Four pieces were sold for more than $13 million: Untitled Basquiat in 2007, yet another untitled work in 2012, Dustheads in 2013 and an untitled piece in  2016.
+
+QuestionID: 2
+Question: Which Basquiat piece was sold for the second highest price out of all his works?
+Answer: Dustheads
+Explanation: Dustheads was sold for the second highest price of $48.8 million.
+
+QuestionID: 3
+Question: For how many more dollars was the latest sold Basquiat work over the earliest sold work?
+Answer: 42700000
+Explanation: The latest sold Basquiat work was sold for $57.3 million in 2016, $42.7 million more than the earliest sold work.
+
+QuestionID: 4
+Question: Which Basquiat piece was sold for the third lowest price out of all his works?
+Answer: untitled Basquiat work from 1981
+Explanation: An untitled Basquiat work from 1981 was sold for the third lowest price out of all his works in 2012.  
+
+QuestionID: 5
+Question: In which year was a Basquiat sold for a higher amount, 2007 or 2008?
+Answer: Yusaku Maezawa
+Explanation: An untitled Basquiat work was sold for $14.6 million in 2007, which is more than the price for which a Basquiat work was sold in 2008.
+
+QuestionID: 6
+Question: In which year was a Basquiat sold for a higher amount, 2007 or 2008?
+Answer: 2016
+Explanation: 
+
+QuestionID: 7
+Question: How many more dollars was the Basquiat sold in 2016 than in 2008 and 2007 combined?
+Answer: 29177500
+Explanation: An untitled piece was sold for $57.3 million in 2016, $29.1775 million more than in 2008 and 2007 combined.
+
+QuestionID: 8
+Question: How many less dollars was the Basquiat sold in 2008 than the most expensive Basquiat?
+Answer: 43777500
+Explanation: The most expensive Basquiat was sold for $57.3 million in 2016, 43.7775 million more than the one sold in 2008.
+
+QuestionID: 9
+Question: For how many dollars were Basquiat work in 1981 and 1982 sold for combined?
+Answer: 28122500
+Explanation: Basquiat works in 1981 and 1982 were sold for a total of $44.4225 million : $13,522,500 for Untitled(Boxer) in 2008, US$14.6 million for an untitled Basquiat work in 2007 and $16.3 million for Untitled (1981).
+
+QuestionID: 10
+Question: Which year had a lowest selling price for a Basquiat, 2013, 2008 or 2016?
+Answer: 2008
+Explanation: Untitled (Boxer) was sold for $13,522,500 in 2008, making it the lowest selling price for a Basquiat in the years under consideration.
+
+QuestionID: 11
+Question: How many more Basquiats were sold at Christies over Sothebys?
+Answer: 3
+Explanation: Four of Basquiat’s works were sold at Christies, three more than what was sold at Sothebys.
+
+QuestionID: 12
+Question: Which place sold more Basquiats Christies or Sothebys?
+Answer: Christies
+Explanation: Four of Basquiat’s works were sold at Christies, three more than what was sold at Sothebys.
+
+QuestionID: 13
+Question: How many Basquiats were sold from 2009 to 2016?
+Answer: 4
+Explanation: Four Basquiat paintings were sold from the year 2009 to 2016: two untitled pieces sold in 2012, Dustheads in 2013 and an untitled piece in 2016.
+
+QuestionID: 14
+Question: How many 1980s Basquiat paintings were sold from the year 2007 to 2010?
+Answer: 2
+Explanation: Two Basquiat paintings were sold from the year 2007 to 2010: the first an untitled Basquiat work sold in 2007 and the second was also an untitled work but sold in 2008.
+
+--------------------------------------------------
+PassageID: 7
+Passage: Urged by influential Jesuit priests who had come to Brazil with Mem de Sá, named José de Anchieta and Manuel da Nóbrega, and who had played a big role in pacifying the Tamoios, Mem de Sá ordered his nephew, Estácio de Sá to assemble a new attack force. Estácio de Sá founded the city of Rio de Janeiro on March 1, 1565, and fought the Frenchmen for two more years. Helped by a military reinforcement sent by his uncle, on January 20, 1567, he imposed final defeat on the French forces and decisively expelled them from Brazil, but died a month later from wounds inflicted in the battle. Coligny's and Villegaignon's dream had lasted a mere 12 years. Largely in response to the two attempts of France to conquer territory in Brazil , between 1612 and 1615, the Portuguese crown decided to expand its colonization efforts in Brazil. Prior to this in 1560, Mem de Sá, the new Governor-General of Brazil, received from the Portuguese government the command to expel the French. With a fleet of 26 warships and 2,000 soldiers, on 15 March 1560, he attacked and destroyed Fort Coligny within three days, but was unable to drive off their inhabitants and defenders, because they escaped to the mainland with the help of the Native Brazilians, where they continued to live and to work. Admiral Villegaignon had returned to France in 1558, disgusted with the religious tension that existed between French Protestants and Catholics, who had come also with the second group.
+
+Questions:
+QuestionID: 0
+Question: How many priests influenced Mem de Sa?
+Answer: 2
+Explanation: The priests José de Anchieta and Manuel da Nóbrega were the ones who influenced Mem de Sá.
+
+QuestionID: 1
+Question: What was the point in time when the Portuguese crown decided to end his colonization efforts in Brazil?
+Answer: 1615
+Explanation: Between 1612 and 1615, the Portuguese attempted to expand their colonization efforts in Brazil.
+
+QuestionID: 2
+Question: How many years did Estácio de Sá's attack last?
+Answer: 2
+Explanation: Estácio fought the French for two years.
+
+QuestionID: 3
+Question: How many years have passed from the time Mem de Sá received the command to expel the French until his nephew finished his attack on the French?
+Answer: 7
+Explanation: Mem de Sá’s nephew defeated the French in 1567, 7 years after Mem de Sá received the command to expel the French.
+
+QuestionID: 4
+Question: Did Mem de Sá command more warships or soldiers on 15 March 1560?
+Answer: soldiers
+Explanation: Mem de Sá commanded 2000 soldiers and 26 warships.
+
+QuestionID: 5
+Question: Did Mem de Sá command more soldiers or warships on 15 March 1560?
+Answer: soldiers
+Explanation: Mem de Sá commanded 2000 soldiers and 26 warships.
+
+QuestionID: 6
+Question: Did Mem de Sá command less soldiers or warships on 15 March 1560?
+Answer: warships
+Explanation: Mem de Sá commanded 2000 soldiers and 26 warships.
+
+QuestionID: 7
+Question: Did Mem de Sá command less warships or soldiers on 15 March 1560?
+Answer: warships
+Explanation: Mem de Sá commanded 2000 soldiers and 26 warships.
+
+QuestionID: 8
+Question: What happened first: did Estácio de Sá establish the city of Rio de Janeiro or did Mem de Sá attack the French?
+Answer: Mem de Sá attack the French
+Explanation: 
+
+QuestionID: 9
+Question: What happened first: Mem de Sá attacked the French or Estácio de Sá established the city of Rio de Janeiro?
+Answer: Mem de Sá attack the French
+Explanation: Mem de Sá attacked the French in 1560, 5 years before Estácio de Sá established the city of Rio de Janeiro.
+
+QuestionID: 10
+Question: What happened second: Mem de Sá attacked the French or Estácio de Sá established the city of Rio de Janeiro?
+Answer: Estácio de Sá established the city of Rio de Janeiro
+Explanation: Estácio de Sá established the city of Rio de Janeiro in 1565, 5 years after Mem de Sá attacked the French.
+
+QuestionID: 11
+Question: What happened second: Estácio de Sá established the city of Rio de Janeiro or Mem de Sá attackeded the French?
+Answer: Estácio de Sá established the city of Rio de Janeiro
+Explanation: Estácio de Sá established the city of Rio de Janeiro in 1565, 5 years after Mem de Sá attacked the French.
+
+QuestionID: 12
+Question: What happened second: Estácio de Sá defeated the French or did his uncle attack Fort Coligny?
+Answer: Estácio de Sá defeated the French
+Explanation: Estácio de Sá defeated the French in 1567, 7 years after his uncle attacked Fort Coligny.
+
+QuestionID: 13
+Question: What happened second: Estácio de Sá's uncle attack Fort Coligny or Estácio de Sá defeated the French?
+Answer: Estácio de Sá defeated the French
+Explanation: Estácio de Sá defeated the French in 1567, 7 years after his uncle attacked Fort Coligny.
+
+QuestionID: 14
+Question: What happened first: Estácio de Sá's uncle attack Fort Coligny or Estácio de Sá defeated the French?
+Answer: Estácio de Sá's uncle attack Fort Coligny
+Explanation: Estácio de Sá's uncle attacked Fort Coligny in 1560, 7 years before Estácio de Sá defeated the French.
+
+QuestionID: 15
+Question: What happened first: Estácio de Sá defeated the French or Estácio de Sá's uncle attack Fort Coligny?
+Answer: Estácio de Sá's uncle attack Fort Coligny
+Explanation: Estácio de Sá's uncle attacked Fort Coligny in 1560, 7 years before Estácio de Sá defeated the French.
+
+QuestionID: 16
+Question: What happened first, the attack on Fort Coligny, or the return of Admiral Villegaignon to France?
+Answer: return of Admiral Villegaignon to France
+Explanation: Admiral Villegaignon returned to France in 1558, 2 years before Fort Coligny was attacked.
+
+QuestionID: 17
+Question: What happened first, the return of Admiral Villegaignon to France, or the attack on Fort Coligny?
+Answer: return of Admiral Villegaignon to France
+Explanation: Admiral Villegaignon returned to France in 1558, 2 years before Fort Coligny was attacked.
+
+QuestionID: 18
+Question: What happened later, the return of Admiral Villegaignon to France, or the attack on Fort Coligny?
+Answer: attack on Fort Coligny
+Explanation: Fort Coligny was attacked in 1560, 2 years after Admiral Villegaignon returned to France.
+
+QuestionID: 19
+Question: What happened later, the attack on Fort Coligny or the return of Admiral Villegaignon to France?
+Answer: attack on Fort Coligny
+Explanation: Fort Coligny was attacked in 1560, 2 years after Admiral Villegaignon returned to France.
+
+QuestionID: 20
+Question: How many years after Admiral Villegaignon returned to France did Estácio de Sá attack the French?
+Answer: 7
+Explanation: Estácio de Sá attacked the French in 1565, 7 years after Admiral Villegaignon returned to France.
+
+QuestionID: 21
+Question: What happened first, Rio de Janeiro was founded or Mem de Sá became the Governor-General of Brazil
+Answer: Rio de Janeiro was founded
+Explanation: Mem de Sá became the Governor-General of Brazil in 1560, 5 years before Rio de Janeiro was founded.
+
+QuestionID: 22
+Question: What happened first, Mem de Sá became the Governor-General of Brazil or Rio de Janeiro was founded
+Answer: Rio de Janeiro was founded
+Explanation: Mem de Sá became the Governor-General of Brazil in 1560, 5 years before Rio de Janeiro was founded.
+
+QuestionID: 23
+Question: What happened later, Rio de Janeiro was founded or Mem de Sá became the Governor-General of Brazil
+Answer: Mem de Sá became the Governor-General of Brazil
+Explanation: Rio de Janeiro was founded in 1565, 5 years after Mem de Sá became the Governor-General of Brazil.
+
+QuestionID: 24
+Question: What happened later, Mem de Sá became the Governor-General of Brazil or Rio de Janeiro was founded
+Answer: Mem de Sá became the Governor-General of Brazil
+Explanation: Rio de Janeiro was founded in 1565, 5 years after Mem de Sá became the Governor-General of Brazil.
+
+QuestionID: 25
+Question: What happened later, the French attempted to capture territory in Brazil or did Mem de Sá attacked the French?
+Answer: attempts of France to conquer territory in Brazil
+Explanation: The French attempted to capture territory in Brazil between 1612 and 1615, 52-54 years before Mem de Sá attacked the French.
+
+QuestionID: 26
+Question: What happened later, Mem de Sá attacked the French or the French attempted to capture territory in Brazil?
+Answer: attempts of France to conquer territory in Brazil
+Explanation: The French attempted to capture territory in Brazil between 1612 and 1615, 52-54 years before Mem de Sá attacked the French.
+
+QuestionID: 27
+Question: What happened earlier, the French attempted to capture territory in Brazil or did Mem de Sá attacked the French?
+Answer: Mem de Sá attacked the French
+Explanation: Mem de Sá attacked the French in 1560, 52-54 years before the French attempted to capture territory in Brazil.
+
+QuestionID: 28
+Question: What happened earlier, Mem de Sá attacked the French or the French attempted to capture territory in Brazil?
+Answer: Mem de Sá attacked the French
+Explanation: Mem de Sá attacked the French in 1560, 52-54 years before the French attempted to capture territory in Brazil.
+
+QuestionID: 29
+Question: How many years after Estácio de Sá found the city of Rio de Janeiro did the French end their attempts to conquer Brazil?
+Answer: 50
+Explanation: The French ended their attempts to conquer Brazil in 1615, 50 years after Estácio de Sá founded the city of Rio de Janeiro.
+
+QuestionID: 30
+Question: What year was the attack from Mem de Sá over?
+Answer: 1560
+Explanation: The attack from Mem de Sá ended on 18 March 1560.
+
+QuestionID: 31
+Question: How many years before Estácio de Sá founded the city of Rio de Janeiro did his uncle attack the French?
+Answer: 5
+Explanation: Estácio de Sá’s uncle attacked the French in 1560, 5 years before Estácio de Sá founded the city of Rio de Janeiro.
+
+--------------------------------------------------
+PassageID: 8
+Passage:  Coming off yet another close win, this time over the Falcons, the Saints went home for a Week 15 Saturday night duel with the Dallas Cowboys. In the first quarter, Dallas would get off to a fast start with quarterback Tony Romo completing a 49-yard TD pass to wide receiver Miles Austin. The Cowboys then increased their lead later in the quarter with a 3-yard TD run by running back Marion Barber. In the second quarter, the Saints would score their only points of the half with kicker Garrett Hartley nailing a 34-yard field goal. However, the Cowboys took a 17-3 lead at halftime with kicker Nick Folk's 44-yard field goal. In the third quarter, Dallas scored the period's only points when running back Marion Barber got a 2-yard TD run. An exciting fourth quarter ensued. New Orleans got the first score of the period when running back Mike Bell scored a one yard TD run to make a 24-10 Dallas lead. Following a Dallas three-and-out, New Orleans made it a one touchdown game when quarterback Drew Brees hit wide receiver Lance Moore for a 7-yard TD pass. Dallas then marched down the field to the Saints' eight-yard line, but then kicker Nick Folk's game-icing 23-yard field goal hit the mark. However, unlike in such games against Washington and Atlanta, quarterback Drew Brees was sacked with 10 seconds left in the contest at the Dallas 48-yard line, forcing a fumble for the second time in the game by Dallas' DeMarcus Ware, which was then recovered by nose tackle Jay Ratliff. The Cowboys then took a knee to end the game. With the loss, the Saints fell to 13-1, ending their chance at a perfect season. Also with the Colts' win, the Saints held the 2nd best overall record of any team.
+
+Questions:
+QuestionID: 0
+Question: Which player had the longest touchdown catch of the fourth quarter?
+Answer: Lance Moore
+Explanation: The longest touch pass in the fourth quarter was a 7-yard TD pass caught by Lance Moore.
+
+QuestionID: 1
+Question: How many yards difference were there between Garret Hartley's field goal and Nick Folk's fourth quarter field goal?
+Answer: 11
+Explanation: Garret Hartley’s field goal in the second quarter was 11 yards longer than Folk’s field goal in the fourth quarter.
+
+QuestionID: 2
+Question: How many yards in total were accumulated on rushing touchdowns in the second half?
+Answer: 3
+Explanation: There were 2 TD runs in the second half of the game: the first was a 2-yard TD run in the third quarter and the second was a 1 yard TD run in the fourth quarter.
+
+QuestionID: 3
+Question: How many rushing touchdowns total were scored in the first half?
+Answer: 1
+Explanation: There was only one rushing touchdown in the first half which was a 3-yard TD  run in the first quarter.
+
+QuestionID: 4
+Question: how many yards were scored in field goals in the first half?
+Answer: 78
+Explanation: There were two field goals in the first half of the game: the first was a 34-yard field goal in the second quarter and the second was a 44-yard field goal in the same quarter.
+
+QuestionID: 5
+Question: how many yards did Folk nail in the fourth quarter?
+Answer: 23
+Explanation: Folk nailed a 23-yard field goal in the fourth quarter.
+
+QuestionID: 6
+Question: how many yards did folk kick in the second half?
+Answer: 23
+Explanation: Folk nailed a 23-yard field goal in the fourth quarter and this was his only field goal in the second half.
+
+QuestionID: 7
+Question: how many yards did barber run in the second half?
+Answer: 2
+Explanation: Barber completed a 2-yard TD run in the second half and this was his only TD run in that half.
+
+--------------------------------------------------
+
+
+

@@ -1,0 +1,363 @@
+PassageID: 0
+Passage: In this way the other major congressional interests can be brought together in the new committee's work. How different were the matters prior to the new committee? 
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: the interests were discussed in separate committees ?
+Answer: yes
+Explanation: If there was already a single committee discussing these interests, a new committee would not have been created.
+
+QuestionID: 1
+Question: Is this the answer: there was another committee for bringing the interests together ?
+Answer: no
+Explanation: If there was already a single committee discussing these interests, a new committee would not have been created.
+
+QuestionID: 2
+Question: Is this the answer: there was no joint committee for discussing other major congressional interests. ?
+Answer: yes
+Explanation: If there was already a single committee discussing these interests, a new committee would not have been created.
+
+QuestionID: 3
+Question: Is this the answer: discussing other major congressional interests were of less importance  ?
+Answer: no 
+Explanation: If discussing other major congressional interests were of less importance, a new committee would not have been created for that purpose.
+
+--------------------------------------------------
+PassageID: 1
+Passage: One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: a few times in over a decade?
+Answer: yes
+Explanation: Kevin is currently travelling to England to meet Erin.
+
+QuestionID: 1
+Question: Is this the answer: every day?
+Answer: no
+Explanation: Kevin had never left the country prior to his current trip to England.
+
+QuestionID: 2
+Question: Is this the answer: never?
+Answer: no
+Explanation: Kevin is currently travelling to England to meet Erin.
+
+QuestionID: 3
+Question: Is this the answer: once every two seconds?
+Answer: no
+Explanation: Kevin had never left the country prior to his current trip to England.
+
+QuestionID: 4
+Question: Is this the answer: every two years?
+Answer: no
+Explanation: Kevin had never left the country prior to his current trip to England.
+
+QuestionID: 5
+Question: Is this the answer: once every two hours?
+Answer: no
+Explanation: Kevin had never left the country prior to his current trip to England.
+
+QuestionID: 6
+Question: Is this the answer: once per week?
+Answer: no
+Explanation: Kevin had never left the country prior to his current trip to England.
+
+QuestionID: 7
+Question: Is this the answer: every second?
+Answer: no
+Explanation: Kevin had never left the country prior to his current trip to England.
+
+QuestionID: 8
+Question: Is this the answer: every year?
+Answer: no
+Explanation: Kevin had never left the country prior to his current trip to England.
+
+QuestionID: 9
+Question: Is this the answer: once every two years?
+Answer: no
+Explanation: Kevin had never left the country prior to his current trip to England.
+
+QuestionID: 10
+Question: Is this the answer: twice a year?
+Answer: no
+Explanation: Kevin had never left the country prior to his current trip to England.
+
+QuestionID: 11
+Question: Is this the answer: every week?
+Answer: no
+Explanation: Kevin had never left the country prior to his current trip to England.
+
+QuestionID: 12
+Question: Is this the answer: each year?
+Answer: no
+Explanation: Kevin had never left the country prior to his current trip to England.
+
+--------------------------------------------------
+PassageID: 2
+Passage: He also submitted various suggestions as to its initial programs after a lifetime of research and became the first one to make changes. How often do they make changes to the programs?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: once a second?
+Answer: no
+Explanation: Changes have never been made to the programs until now.
+
+QuestionID: 1
+Question: Is this the answer: once a minute?
+Answer: no
+Explanation: Changes have never been made to the programs until now.
+
+QuestionID: 2
+Question: Is this the answer: many times before the initial proposal?
+Answer: no
+Explanation: Changes have never been made to the programs until now.
+
+QuestionID: 3
+Question: Is this the answer: once a few decades?
+Answer: yes
+Explanation: Changes have been made to the program for the first time now.
+
+QuestionID: 4
+Question: Is this the answer: each century?
+Answer: yes
+Explanation: Changes have been made to the program for the first time now.
+
+QuestionID: 5
+Question: Is this the answer: each minute?
+Answer: no
+Explanation: Changes have never been made to the programs until now.
+
+QuestionID: 6
+Question: Is this the answer: once an hour?
+Answer: no
+Explanation: Changes have never been made to the programs until now.
+
+--------------------------------------------------
+PassageID: 3
+Passage: The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1 day?
+Answer: yes
+Explanation: The submarine was probably at the bottom of the sea for a day to finish the exploration.
+
+QuestionID: 1
+Question: Is this the answer: 0.2 year?
+Answer: no
+Explanation: The submarine was probably at the bottom of the sea for a day to finish the exploration.
+
+QuestionID: 2
+Question: Is this the answer: 1 week?
+Answer: no
+Explanation: The submarine was probably at the bottom of the sea for a day to finish the exploration.
+
+QuestionID: 3
+Question: Is this the answer: 1 season?
+Answer: no
+Explanation: The submarine was probably at the bottom of the sea for a day to finish the exploration. 
+
+QuestionID: 4
+Question: Is this the answer: 1 year?
+Answer: no
+Explanation: The submarine was probably at the bottom of the sea for a day to finish the exploration.
+
+QuestionID: 5
+Question: Is this the answer: one day?
+Answer: yes
+Explanation: The submarine was probably at the bottom of the sea for a day to finish the exploration.
+
+QuestionID: 6
+Question: Is this the answer: 1 million years?
+Answer: no
+Explanation: The submarine was probably at the bottom of the sea for a day to finish the exploration.
+
+QuestionID: 7
+Question: Is this the answer: 2000 years?
+Answer: no
+Explanation: The submarine was probably at the bottom of the sea for a day to finish the exploration.
+
+QuestionID: 8
+Question: Is this the answer: 0.5 year?
+Answer: no
+Explanation: The submarine was probably at the bottom of the sea for a day to finish the exploration.
+
+QuestionID: 9
+Question: Is this the answer: 0.5 day?
+Answer: yes
+Explanation: The submarine was probably at the bottom of the sea for a day to finish the exploration.
+
+QuestionID: 10
+Question: Is this the answer: one year?
+Answer: no
+Explanation: The submarine was probably at the bottom of the sea for a day to finish the exploration.
+
+QuestionID: 11
+Question: Is this the answer: 500 years?
+Answer: no
+Explanation: The submarine was probably at the bottom of the sea for a day to finish the exploration.
+
+--------------------------------------------------
+PassageID: 4
+Passage: Every late evening after dinner we would go to the park and play Toodles' favorite game. What are you doing after the park
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: eating out?
+Answer: no
+Explanation: We go to the park after dinner.
+
+QuestionID: 1
+Question: Is this the answer: going home?
+Answer: yes
+Explanation: Since it is late at night, we might go home to sleep.
+
+QuestionID: 2
+Question: Is this the answer: going home to have dinner?
+Answer: no
+Explanation: We go to the park after dinner.
+
+--------------------------------------------------
+PassageID: 5
+Passage: They packed up the car and drove to the library, ready for a fun morning before classes. What did they do after the morning?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: they went to bed?
+Answer: no
+Explanation: They attended classes after their trip to the library in the morning.
+
+QuestionID: 1
+Question: Is this the answer: they sold a home?
+Answer: no
+Explanation: They attended classes after their trip to the library in the morning.
+
+QuestionID: 2
+Question: Is this the answer: they went to china?
+Answer: no
+Explanation: They attended classes after their trip to the library in the morning.
+
+QuestionID: 3
+Question: Is this the answer: they went to study?
+Answer: yes
+Explanation: They attended classes after their trip to the library in the morning.
+
+QuestionID: 4
+Question: Is this the answer: they had fun?
+Answer: no
+Explanation: They attended classes after their trip to the library in the morning.
+
+--------------------------------------------------
+PassageID: 6
+Passage: The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1:00 PM?
+Answer: yes
+Explanation: The factory is designed to shift flexibly and make chips at any time of the day.
+
+QuestionID: 1
+Question: Is this the answer: 2:00 PM?
+Answer: yes
+Explanation: The factory is designed to shift flexibly and make chips at any time of the day.
+
+QuestionID: 2
+Question: Is this the answer: 4:00 PM?
+Answer: yes
+Explanation: The factory is designed to shift flexibly and make chips at any time of the day.
+
+QuestionID: 3
+Question: Is this the answer: 9:00 AM?
+Answer: yes
+Explanation: The factory is designed to shift flexibly and make chips at any time of the day.
+
+QuestionID: 4
+Question: Is this the answer: 1:00 AM?
+Answer: yes
+Explanation: The factory is designed to shift flexibly and make chips at any time of the day.
+
+QuestionID: 5
+Question: Is this the answer: only on weekends?
+Answer: no
+Explanation: The factory is designed to shift flexibly and make chips at any time of the day.
+
+QuestionID: 6
+Question: Is this the answer: during the day?
+Answer: yes
+Explanation: The factory is designed to shift flexibly and make chips at any time of the day.
+
+QuestionID: 7
+Question: Is this the answer: 3:00 AM?
+Answer: yes
+Explanation: The factory is designed to shift flexibly and make chips at any time of the day.
+
+QuestionID: 8
+Question: Is this the answer: 7:00 AM?
+Answer: yes
+Explanation: The factory is designed to shift flexibly and make chips at any time of the day.
+
+QuestionID: 9
+Question: Is this the answer: a limited set of times?
+Answer: no
+Explanation: The factory is designed to shift flexibly and make chips at any time of the day.
+
+QuestionID: 10
+Question: Is this the answer: many of the nights due to their flexibility?
+Answer: yes
+Explanation: The factory is designed to shift flexibly and make chips at any time of the day.
+
+QuestionID: 11
+Question: Is this the answer: 2:00 AM?
+Answer: yes
+Explanation: The factory is designed to shift flexibly and make chips at any time of the day.
+
+QuestionID: 12
+Question: Is this the answer: 11:00 AM?
+Answer: yes
+Explanation: The factory is designed to shift flexibly and make chips at any time of the day.
+
+--------------------------------------------------
+PassageID: 7
+Passage: Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. What happens once they are not surrounded by air molecules?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: they cannot breath anymore?
+Answer: yes
+Explanation: When there is no air, one becomes breathless.
+
+QuestionID: 1
+Question: Is this the answer: they can continue breathing?
+Answer: no
+Explanation: When there is no air, one becomes breathless.
+
+--------------------------------------------------
+PassageID: 8
+Passage: Lgurio informs Callimaco that Nicia and Lucrezia are forced to have a child . Did they want children when they were younger?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: yes.`?
+Answer: no
+Explanation: Since they were forced to have children, they could not have wanted children when they were younger.
+
+QuestionID: 1
+Question: Is this the answer: yes, they did?
+Answer: no
+Explanation: Since they were forced to have children, they could not have wanted children when they were younger.
+
+QuestionID: 2
+Question: Is this the answer: he says yes?
+Answer: no
+Explanation: Since they were forced to have children, they could not have wanted children when they were younger.
+
+QuestionID: 3
+Question: Is this the answer: no?
+Answer: yes
+Explanation: Since they were forced to have children, they could not have wanted children when they were younger.
+
+--------------------------------------------------
+
+
+

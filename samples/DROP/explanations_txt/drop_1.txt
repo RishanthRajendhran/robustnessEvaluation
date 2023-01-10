@@ -1,0 +1,607 @@
+PassageID: 0
+Passage: The U.S. finance industry comprised only 10% of total non-farm business profits in 1947, but it grew to 50% by 2010. Over the same period, finance industry income as a proportion of GDP rose from 2.5% to 7.5%, and the finance industrys proportion of all corporate income rose from 10% to 20%. The mean earnings per employee hour in finance relative to all other sectors has closely mirrored the share of total U.S. income earned by the top 1% income earners since 1930. The mean salary in New York Citys finance industry rose from $80,000 in 1981 to $360,000 in 2011, while average New York City salaries rose from $40,000 to $70,000. In 1988, there were about 12,500 U.S. banks with less than $300 million in deposits, and about 900 with more deposits, but by 2012, there were only 4,200 banks with less than $300 million in deposits in the U.S., and over 1,800 with more.
+
+Questions:
+QuestionID: 0
+Question: How many percents of the U.S. finance industry in 2010 did not comprise non-farm business profits?
+Answer: 50
+Explanation: The U.S. finance industry comprised 50% of total non-farm business profits in 2010. The remaining 50% of the U.S. finance industry in 2010 did not comprise non-farm business profits.
+
+QuestionID: 1
+Question: How many dollars is the difference between the growth in overall average salary and as compared to finance industry from 1981 in 2011?
+Answer: 250000
+Explanation: Between 1981 and 2011, the average salary in the finance industry saw a $280,000 growth while the overall average salary saw a $30,000 growth. Therefore, the difference between the growth in overall average salary and as compared to finance industry from 1981 in 2011 is $250,000.
+
+QuestionID: 2
+Question: How many years did the average salary for New York City take to increase by $30,000?
+Answer: 30
+Explanation: The average New York City salaries rose from $40,000 in 1981 to $70,000 in 2011. It took 30 years for the average salary for New York City take to increase by $30,000.
+
+QuestionID: 3
+Question: How many dollars per year did average New York City salaries rise from 1981 to 2011?
+Answer: 3000
+Explanation: The average salary for New York City rose by $30,000 over 30 years. Therefore, the average New York City salaries from 1981 to 2011 rose by $1000 per year.
+
+QuestionID: 4
+Question: How many more dollars per year did the mean salary rise in 2011 than from 1981?
+Answer: 28000
+Explanation: 
+
+QuestionID: 5
+Question: Over How many years did the percentage of corporate income increase by 10%?
+Answer: 63
+Explanation: Between 1947 and 2010, the finance industry’s proportion of all corporate income rose from 10% to 20%. Therefore, it took 10 years for the percentage of corporate income to increase by 10%.
+
+QuestionID: 6
+Question: How many years did it take for non-farm business profits to grow by 40%?
+Answer: 63
+Explanation: Non-farm business profits saw a 40% growth in the 63-year period between 1947 and 2010.
+
+QuestionID: 7
+Question: Over how many years did the GDP rise in the U.S. from 2.5% to 7.5%?
+Answer: 63
+Explanation: Finance industry income as a proportion of GDP rose from 2.5% to 7.5% in the 63-year period between 1947 and 2010.
+
+QuestionID: 8
+Question: How many percentage points did non-farm business profit rise as compared to finance industry income from 1947 to 2010?
+Answer: 35
+Explanation: Between 1947 and 2010, the finance industry saw a 5% growth. Within the same period, the non-farm businesses saw 35% more growth than the growth of the finance industry. 
+
+QuestionID: 9
+Question: By how many dollars did the mean salary in New York City's finance industry rise between 1981 and 2011 as compared to overall average salary?
+Answer: 250000
+Explanation: The overall average salary rose by $30,000 between 1981 and 2011. In the same period, the mean salary in New York City’s finance industry rose by $250,000 more than the overall average salary’s rise. 
+
+QuestionID: 10
+Question: How many more banks had less than $300 million in deposits in 1988 as compared to 2011?
+Answer: 8300 
+Explanation: There were 4200 banks with less than $300 million in deposits by 2012 which is 8300 lesser than the same number in 1988. 
+                   
+QuestionID: 11
+Question: Over How many years did the number of banks with less than $300 million drop by 8300?
+Answer: 23 
+Explanation:  There was a drop of 8300 in the number of  banks with less than $300 million in the 23-year period between 1988 and 2011. 
+
+QuestionID: 12
+Question: How many more banks had less than $300 million in deposits between 1988 and 2012 as compared to more than $300 million?
+Answer: 7400
+Explanation: The number of banks with less than $300 million saw a drop of 8300 between 1988 and 2012 while the number of  banks with more than $300 million saw a rise of 900 in the same period. 
+
+QuestionID: 13
+Question: Which year were there less U.S. banks with less than $300 million in deposits, 1988, 2011 or 2012?
+Answer: 2012
+Explanation: There were 8300 less banks in 2012 than in 1988 with less than $300 million in deposits.
+
+QuestionID: 14
+Question: Which year was the GDP higher, 1947, 1981 or 2010?
+Answer: 2010
+Explanation: The share of the finance industry’s income in GDP grew by 5% between 1947 and 2010.
+
+QuestionID: 15
+Question: Which year was the mean salary in New York City's finance industry higher, 2011, 1988 or 1981?
+Answer: 2011
+Explanation: In 2011, the mean salary in New York City's finance industry was $280,000 more than it was in 1981.
+
+QuestionID: 16
+Question: Which industry had more growth in GDP from 1947 to 2010, non-farm business or finance industry?
+Answer: non-farm business
+Explanation: Non-farm businesses saw 35% more growth than the finance industry between 1947 and 2010. 
+
+QuestionID: 17
+Question: Which year had more total number of banks in US, 1988 or 2012?
+Answer: 1988
+Explanation: There were 13,400 banks in 1988 which is 7,400 more than the number of banks in 2012. 
+
+QuestionID: 18
+Question: Which year had least total number of banks in US, 1988 or 2012?
+Answer: 2012
+Explanation: There were 6000 banks in 2012 which is 7,400 less than the number of banks in 1988. 
+
+QuestionID: 19
+Question: Which year had lower mean salary in New York City's finance industry 2011, 1981 or 2012?
+Answer: 1981
+Explanation: The mean salary in 1988 was $80,000 which is $280,000 lesser than the mean salary in 2011. 
+
+--------------------------------------------------
+PassageID: 1
+Passage: The population of the island is believed to have varied from 40,000 to 60,000 in the period ranging from initial settlement until the mid-19th century. During that time, cold winters, ash fall from volcanic eruptions, and bubonic plagues adversely affected the population several times. There were 37 famine years in Iceland between 1500 and 1804. After the destructive volcanic eruptions of the Laki during 1783-1784, the population reached a low of about 40,000. This was after the first census carried out in 1703 and revealed that the population was then 50,358.  Improving living conditions have triggered a rapid increase in population since the mid-19th century; from about 60,000 in 1850 to 320,000 in 2008. Iceland has a relatively young population for a developed country, with one out of five people being 14 years old or younger. With a fertility rate of 2.1, Iceland is one of only a few European countries with a birth rate Replacement fertility rate.
+
+Questions:
+QuestionID: 0
+Question: How many years after the first famine had the first census been carried out?
+Answer: 203
+Explanation: The first census was conducted in 1703 which is 203 years after the first famine that occurred in 1500. 
+
+QuestionID: 1
+Question: What was the lowest population ever recorded?
+Answer: 40000
+Explanation: The population dropped to a low of 40,000 after volcanic eruptions of the Laki.  
+
+QuestionID: 2
+Question: Was the population lower in 2008 or 1850?
+Answer: 1850
+Explanation: The population in 1850 was 260,000 less than what it was in 2008.
+
+QuestionID: 3
+Question: Was the population lower in 1850 or 2008?
+Answer: 1850
+Explanation: The population in 1850 was 260,000 less than what it was in 2008.
+
+QuestionID: 4
+Question: Was the population higher in 2008 or 1850?
+Answer: 2008
+Explanation: The population in 2008 was 260,000 more than what it was in 1850.
+
+QuestionID: 5
+Question: Was the population higher in 1850 or 2008?
+Answer: 2008
+Explanation: The population in 2008 was 260,000 more than what it was in 1850.
+
+QuestionID: 6
+Question: Which year had a lesser population, 1703 or 1783?
+Answer: 1783
+Explanation: The population dropped to 40,000 during the volcanic explosions between 1783-1784 from 50,358 in 1703.
+
+QuestionID: 7
+Question: Which year had a lesser population, 1783 or 1703?
+Answer: 1783
+Explanation: The population dropped to 40,000 during the volcanic explosions between 1783-1784 from 50,358 in 1703.
+
+QuestionID: 8
+Question: Which year had a more population, 1703 or 1783?
+Answer: 1703
+Explanation: The population dropped to 40,000 during the volcanic explosions between 1783-1784 from 50,358 in 1703.
+
+QuestionID: 9
+Question: Which year had a more population, 1783 or 1703?
+Answer: 1703
+Explanation: The population dropped to 40,000 during the volcanic explosions between 1783-1784 from 50,358 in 1703.
+
+--------------------------------------------------
+PassageID: 2
+Passage:  Coming off their home win over the Texans, the Browns flew to the University of Phoenix Stadium for a Week 13 interconference duel with the Arizona Cardinals. In the first quarter, Cleveland trailed early as Cardinals CB Roderick Hood returned an interception 71-yards for a touchdown, while QB Kurt Warner completed a 37-yard TD pass to TE Leonard Pope. The Browns would get on the board with kicker Phil Dawson getting a 37-yard field goal. In the second quarter, Cleveland started to rebound as QB Derek Anderson completed a 5-yard TD pass to RB Jamal Lewis for the only score of the period. In the third quarter, Arizona responded with Warner completing a 1-yard TD pass to WR Bryant Johnson. The Browns would reply with Anderson completing a 67-yard TD pass to WR Braylon Edwards. In the fourth quarter, the Cardinals increased their lead with kicker Neil Rackers getting a 33-yard field goal. Afterwards, Dawson gave Cleveland a 22-yard field goal, yet Arizona answered with Rackers completing a 19-yard field goal. At the end of the game, the Browns had one final chance to win it all. Winslow caught a 6-yard touchdown pass from Anderson in the corner of the endzone just beyond the goal line.
+
+Questions:
+QuestionID: 0
+Question: How many touchdown passes were thrown in the first quarter?
+Answer: 1
+Explanation: Kurt Warner completed a TD pass in the first quarter and that was the only TD pass in that quarter.
+
+QuestionID: 1
+Question: Who threw the second touchdown pass of the game?
+Answer: Derek Anderson
+Explanation: Derek Andersson completed a TD pass in the second quarter which was the second TD pass of the game.
+
+QuestionID: 2
+Question: Who threw the longest touchdown pass of the first half?
+Answer: Kurt Warner
+Explanation: Kurt Warner completed a 37-yard TD pass in the first quarter and that was the longest TD pass in the first half.
+
+QuestionID: 3
+Question: How many yards was the longest field goal of the second half?
+Answer: 33
+Explanation: Neil Rackers got a 33-yard field goal in the fourth quarter and that was the longest field goal of the second half.
+
+QuestionID: 4
+Question: How many field goals over 20 yards were kicked?
+Answer: 3
+Explanation: There were 3 field goals over 20 yards: a 37-yard field goal in the first quarter, a 33-yard and a 22-yard field goal in the fourth quarter.
+
+QuestionID: 5
+Question: How many field goals were kicked in the first quarter?
+Answer: 1
+Explanation: Phil Dawson got the only field goal in the first quarter. 
+
+QuestionID: 6
+Question: Which player caught the longest touchdown pass of the first half?
+Answer: Leonard Pope
+Explanation: Leonard Pope received a 37-yard TD pass in the first quarter and  that was the longest touchdown pass of the first half.
+
+QuestionID: 7
+Question: how many yards did anderson complete in the second half?
+Answer: 73
+Explanation: Anderson completed a 5-yard TD pass and a 67-yard TD pass in the second half.
+
+--------------------------------------------------
+PassageID: 3
+Passage: In March 1626 the French and Spanish concluded the Treaty of Monzón, suspension of fighting between the Duke of Savoy and the Republic of Genoa being an integral part of the agreement. The Treaty on 5 March 1626, restored the pre-1618 situation with important qualifications. Jurisdiction was nominally restored over the Valtellina; this was now recognized as Catholic, which strengthened its autonomy and introduced doubt as to who could decide on transit through the valley. Papal troops replaced the French though the forts were supposed to be destroyed. Monzón represented a serious reverse for Richelieu who blamed his envoy for the terms and feigned illness to avoid seeing the furious Savoyard ambassador. Abandoned, Savoy was obliged to make its own peace and now sought a Spanish alliance and intrigued with French malcontents against Richelieu, including possible involvement in the Chalais plot to murder the cardinal in 1626. The Valtelline valley was returned to the Vatican. Spanish forces scored a series of striking successes. In 1627 they had their most famous victory in repulsing the English at Cadiz.  They also had a number of smaller victories, including regaining Bahia in Brazil and Breda in the Netherlands from the Dutch in the spring of 1625.
+
+Questions:
+QuestionID: 0
+Question: What event happened first, the Spanish repulsed the English at Cadiz or the Spanish regained Bahia?
+Answer: the Spanish regained Bahia
+Explanation: The Spanish regained Bahia in 1625, which was 2-years before they repulsed the English at Cadiz.
+
+QuestionID: 1
+Question: What event happened second, the Spanish repulsed the English at Cadiz or the Spanish regained Bahia?
+Answer: the Spanish repulsed the English at Cadiz
+Explanation: The Spanish repulsed the English at Cadiz in 1627, which was 2-years after they regained Bahia.
+
+--------------------------------------------------
+PassageID: 4
+Passage:  Hoping to rebound from last week's heart-breaking loss, the Vikings traveled to Ralph Wilson Stadium for a match-up with the Buffalo Bills. In the first quarter, the Vikings drew first blood as kicker Ryan Longwell nailed a 37-yard field goal for the only score of the period. In the second quarter, Minnesota got into a tiny hole, as Bills RB Willis McGahee got a 1-yard TD run. Longwell would give the Vikings a 49-yard field goal as time ran out of the first half, but in the third quarter, the Vikes found themselves in a bit of a hole, as Buffalo QB J. P. Losman connected with WR Peerless Price on an 8-yard TD pass for the only score of the period. In the fourth quarter, Minnesota trailed even further, as Bills kicker Rian Lindell got a 28-yard field goal. The Vikings would try and comeback, as QB Brad Johnson completed a 29-yard TD pass to WR Marcus Robinson. The two-point conversion failed and during their next drive, they ran out of time. With their loss, the Vikings fell to 2-2.
+
+Questions:
+QuestionID: 0
+Question: How many points did the Vikings lose by?
+Answer: 5
+Explanation: 
+
+QuestionID: 1
+Question: How many touchdowns in total were scored?
+Answer: 3
+Explanation: There were three touchdowns in the game: one by McGahee in the second quarter, the second one by Losman in the third quarter and the last by Johnson in the fourth quarter.
+
+QuestionID: 2
+Question: How many field goals did both teams score in total?
+Answer: 3
+Explanation: There were three field goals in the game: the first by Longwell in the first quarter, the second again by Longwell in the second quarter and the third by Lindell in the fourth quarter.
+
+QuestionID: 3
+Question: Which team went scoreless in the third quarter?
+Answer: Vikings
+Explanation: The only score in the third quarter was the TD pass by Price for the Bills.
+
+QuestionID: 4
+Question: Which team lost the game?
+Answer: Vikings
+Explanation: The Vikings lost the game as their two-point conversion failed and they ran out of time. 
+
+QuestionID: 5
+Question: How many yards was the longest Field Goal of the second half?
+Answer: 28
+Explanation: The longest field goal in the second half was a 28-yard field goal by Lindell in the fourth quarter.
+
+QuestionID: 6
+Question: How many yards was the second longest field goal?
+Answer: 37
+Explanation: The second longest field goal was a 37-yard field goal by Longwell in the first quarter.
+
+QuestionID: 7
+Question: How many field goals did the Vikings have in the first quarter?
+Answer: 1
+Explanation: The Vikings had one field goal in the first quarter which was a 37-yard field goal by Longwell.
+
+QuestionID: 8
+Question: How many field goals were made in the second half?
+Answer: 1
+Explanation: The only field goal in the second half was by Lindell in the fourth quarter.
+
+QuestionID: 9
+Question: Which team scored a longer touchdown pass in the second half, Bills or Vikings?
+Answer: Vikings
+Explanation: In the second half, the longest touchdown pass was a 29-yard TD pass by Johnson for the Vikings.
+
+QuestionID: 10
+Question: How many rushing touchdowns were scored in the game?
+Answer: 1
+Explanation: The only touchdown run was the 1-yard TD run by McGahee in  the second quarter.
+
+QuestionID: 11
+Question: Who caught the longest touchdown pass of the game?
+Answer: Marcus Robinson
+Explanation: The longest touchdown pass was the 29-yard TD pass caught by Robinson in the fourth quarter.
+
+QuestionID: 12
+Question: How many field goals did Ryan kick?
+Answer: 3
+Explanation: Ryan Longwell kicked two field goals in the game: the first was a 37-yard field goal in the first quarter and the second was a 49-yard field goal in the second quarter, while Ryan Lindell kicked one field goal in the fourth quarter.
+
+QuestionID: 13
+Question: In which quarter was the longest field goal kicked?
+Answer: second
+Explanation: The longest field goal was a 49-yard field goal by Longwell in the second quarter.
+
+QuestionID: 14
+Question: How many yards longer was Ryan Lindells first field goal compared to his shortest?
+Answer: 9
+Explanation: 
+
+QuestionID: 15
+Question: What was longer, the shortest field goal or the shortest touchdown pass?
+Answer: shortest field goal
+Explanation: The shortest field goal, which was a 28-yard field goal in the fourth quarter, was longer than the shortest touchdown pass which was a 8-yard touchdown pass in the third quarter. 
+
+QuestionID: 16
+Question: How many field goals did Ryan Longwell kick in the fourth quarter?
+Answer: 1
+Explanation: Ryan Longwell did not kick any field goal in the fourth quarter. 
+
+QuestionID: 17
+Question: How many yards longer was Ryan Longwell's longest field goal than the longest touchdown pass?
+Answer: 20
+Explanation: Longwell’s longest field goal was a 49-yard field goal in the second quarter, which is 20 yards longer than the longest touchdown pass which was a 29-yard touchdown pass in the fourth quarter.
+
+QuestionID: 18
+Question: How many yards was Ryan Longwell's shortest field goal in the first half?
+Answer: 49
+Explanation: Longwell’s shortest field goal in the first half was a 49-yard field goal in the second quarter. 
+
+--------------------------------------------------
+PassageID: 5
+Passage: In 2011, the Church of England published statistics showing 1.7 million people attending at least one of its services each month, a level maintained since the turn of the millennium; approximately one million participating each Sunday and three millionp taking part in a Church of England service on Christmas Day or Christmas Eve. The church also claimed that 30% attend Sunday worship at least once a year; more than 40% attend a wedding in their local church and still more attend a funeral there. Nationally the Church of England baptises one child in ten (2011). In 2015, the churchs statistics showed that 2.6 million people attended a special Advent service, 2.4 million attended a Christmas service, 1.3 million attended an Easter service, and 980,000 attended service during an average week. In 2016, 2.6 million people attended a Christmas service, 1.2 million attended an Easter service, 1.1 million people attended a service in the Church of England each month, an average of 930,000 people attended a weekly service, an additional 180,000 attended a service for school each week, and an average of 740,000 people attended Sunday service.
+
+Questions:
+QuestionID: 0
+Question: How many fewer people attended a Christmas service than an Easter and special Advent service combined in 2015?
+Answer: 1100000
+Explanation: The Christmas service was attended by 2.4 million people, which is 1.1 million people lesser than the attendance of the Easter service and the special Advent service combined.
+
+QuestionID: 1
+Question: Which year had less people in attendance for a Christmas service, 2015 or 2016?
+Answer: 2015
+Explanation: In 2015, 2.4 million attended the Christmas service which is 0.2 million lower than the attendance in 2016. 
+
+QuestionID: 2
+Question: Which were there more participants for in the 2011 publishes statistics, each Sunday service, Easter service or service on Christmas Day?
+Answer: Christmas Day
+Explanation: The Christmas service was attended by 2 million more people than the Sunday service.
+
+QuestionID: 3
+Question: In 2015, how many services brought in more than a million attendants?
+Answer: 3
+Explanation: The special Advent service, the Christmas service and the Easter service all had more than a million attendants.
+
+QuestionID: 4
+Question: How many years saw more than a million attendants for a Christmas service?
+Answer: 3
+Explanation: There were more than a million attendants for the Christmas service in 2011, 2015 and 2016.
+
+QuestionID: 5
+Question: Which year saw more people attending Easter and Christmas service combined, 2015 or 2016?
+Answer: 2016
+Explanation: The Christmas and Easter service in 2016 saw 0.1 million more combined attendance than 2015. 
+
+QuestionID: 6
+Question: Which years saw between one and 1.5 million people attended Easter service?
+Answer: 2015, 2016
+Explanation: The easter service was attended by 1-1.5 million people in the years 2015 (1.3 million) and 2016 (1.2 million). 
+
+QuestionID: 7
+Question: How many more people attended Christmas and Easter Day service in 2015 than in 2016?
+Answer: 100000
+Explanation: The Christmas and Easter service in 2016 saw 0.1 million more combined attendance than 2015.
+
+QuestionID: 8
+Question: How many fewer people attended Easter service in 2015 as compared to Christmas service in 2016?
+Answer: 1300000
+Explanation: The Easter service in 2015 was attended by 1.3 million people which is 1.3 million people lower than the attendance for the Christmas service in 2016.
+
+QuestionID: 9
+Question: Which years saw the highest attendance of people in Christmas service?
+Answer: 2016
+Explanation: In 2011, 3 million people attended the Christmas service which was the highest attendance for a Christmas service among the years under consideration. 
+
+QuestionID: 10
+Question: Approximately how many more million people attend Christmas services than attend church each Sunday in 2016?
+Answer: 2
+Explanation: In 2016, 1.67 million more people attended the Christmas service than attend Church every Sunday, which is close to 2 million. 
+
+QuestionID: 11
+Question: Did more people attend a Christmas service in 2011, 2015 or in 2016?
+Answer: 2011
+Explanation: In 2011, 3 million people attended the Christmas service which was the highest attendance for a Christmas service among the years under consideration.
+
+QuestionID: 12
+Question: Which year had the lowest attendance during Easter service?
+Answer: 2015
+Explanation: In 2015, 1.3 million people attended the Easter service which was the lowest attendance for a Easter service among the years under consideration.
+
+QuestionID: 13
+Question: Which year had the least average attendance per week?
+Answer: 2016
+Explanation: In 2016, the average attendance was 740k which was the lowest average attendance among all years under consideration.
+
+QuestionID: 14
+Question: Which did more people attend in 2015, a special Advent service, Christmas service or an Easter service?
+Answer: a special Advent service
+Explanation: In 2015, the special Advent service was attended by 0.2 million more people than the Christmas service and 1.3 million more people than the Easter service.
+
+QuestionID: 15
+Question: How many more millions of people attended a Christmas service in 2015 compared to an Easter and Advent service combined?
+Answer: 2.5
+Explanation: 
+
+QuestionID: 16
+Question: Which year did less people attend a Christmas service, 2015, 2011 or 2016?
+Answer: 2015
+Explanation: In 2015, 2.4 million people attended the Christmas service which was the lowest attendance for a Christmas service among the years under consideration. 
+
+--------------------------------------------------
+PassageID: 6
+Passage:  After a tough road loss, the Bengals traveled west to take on the Broncos.  In the first quarter, they would score first when Andy Dalton found Tyler Kroft on a 1-yard pass (with a failed PAT) to make it 6-0.  The Broncos then took the lead when C.J. Anderson ran for a 3-yard touchdown to make it 7-6.  In the second quarter, the Bengals moved back into the lead when Dalton found Alex Erickson on a 29-yard pass to make it 13-7 at halftime.  In the third quarter, the Broncos came within 3 when Brandon McManus kicked a 45-yard field goal to make it 13-10.  Though in the fourth quarter, the Bengals moved up by double digits when Dalton found A.J. Green on an 18-yard pass to make it 20-10.  The Broncos then concluded the scoring of the game when Brock Osweiler found Demaryius Thomas on a 17-yard pass to make the final score 20-17. With the win, the Bengals improved to 4-6.  The team also won against the Broncos in Denver for the first time since 1975.
+
+Questions:
+QuestionID: 0
+Question: In which quarters did Andy Dalton throw touchdown passes longer than 17 yards?
+Answer: second quarter, fourth quarter
+Explanation: Andy Dalton got a 29-yard TD pass in the second quarter and a 18-yaard TD pass in the  fourth quarter. These were his only touchdown passes longer than 17 yards. 
+
+QuestionID: 1
+Question: How many yards longer was Andy Dalton's second touchdown pass than his last?
+Answer: 11
+Explanation: Andy Dalton got a 29-yard TD pass in the second quarter, which was his second touchdown pass, 11 yards longer than his last touchdown pass in the fourth quarter. 
+
+QuestionID: 2
+Question: How many yards longer was Andy Dalton's longest touchdown pass than his shortest?
+Answer: 28
+Explanation: Andy Dalton got a 29-yard TD pass in the second quarter, which was his second touchdown pass, 28 yards longer than his shortest touchdown pass in the first quarter.
+
+QuestionID: 3
+Question: How many yards was the longest touchdown pass in the first half of the game?
+Answer: 29
+Explanation: The longest touchdown pass in the first half was a 29-yard pass in the second quarter. 
+
+QuestionID: 4
+Question: How many yards was the longest touchdown pass in the fourth quarter?
+Answer: 18
+Explanation: The longest touchdown pass in the fourth quarter was the 18-yard pass by Dalton.
+
+QuestionID: 5
+Question: How many yards was the shortest touchdown pass in the fourth quarter?
+Answer: 17
+Explanation: The shortest touchdown pass in the fourth quarter was the 17-yard pass by Osweiler.
+
+QuestionID: 6
+Question: Who caught the last touchdown pass of the game?
+Answer: Demaryius Thomas
+Explanation: The last touchdown pass was the 17-yard pass in the fourth quarter caught by Demaryius Thomas.
+
+QuestionID: 7
+Question: Who scored the last touchdown run of the game?
+Answer: C.J. Anderson
+Explanation: The last touchdown run of the game was the 3-yard TD by C.J. Anderson in the first quarter. 
+
+QuestionID: 8
+Question: Who caught the last touchdown pass in the first half of the game?
+Answer: Alex Erickson
+Explanation: Alex Erickson caught a 29-yard TD pass in the second quarter which was the last touchdown pass in the first half of the game.
+
+QuestionID: 9
+Question: Who threw a touchdown pass for the Bengals in the fourth quarter?
+Answer: Dalton
+Explanation: Dalton threw a 18-yard TD pass in the fourth quarter for the Bengals.
+
+QuestionID: 10
+Question: In which quarters did Denver make field goals?
+Answer: third quarter
+Explanation: McManus kicked a field goal in the third quarter for Denver. 
+
+QuestionID: 11
+Question: In which quarters did Denver make touchdowns?
+Answer: first quarter, fourth quarter
+Explanation: Anderson got a 3-yard TD in the first quarter and Osweiler got a 17-yard TD pass in the fourth quarter. There were the only touchdowns Denver made. 
+
+QuestionID: 12
+Question: How many touchdowns did Denver make?
+Answer: 2
+Explanation: Anderson got a 3-yard TD in the first quarter and Osweiler got a 17-yard TD pass in the fourth quarter. There were the only touchdowns Denver made.
+
+QuestionID: 13
+Question: Who threw the first touchdown pass of the game?
+Answer: Andy Dalton
+Explanation: Andy Dalton got a 1-yard TD pass in the first quarter which was the first touchdown pass of the game.
+
+QuestionID: 14
+Question: Who threw the second to last touchdown pass of the game?
+Answer: Dalton
+Explanation: The second to last touchdown pass was thrown by Dalton to Green in the fourth quarter.
+
+--------------------------------------------------
+PassageID: 7
+Passage: After the Partitions of the Polish-Lithuanian Commonwealth in 1932, the Grand Duchy of Lithuania was annexed by the Russian Empire. The Lithuanian National Revival emerged during the 19th century and the movement to establish an independent nation-state intensified during the early 20th century. On November 11, 1918 Germany signed an armistice on the Western Front and officially lost the war and control over Lithuania. Earlier on February 16, 1918, the Council of Lithuania declared the re-establishment of independence from all previous legal bonds with other states. Lithuanian territory was occupied by Germany during World War I from 1915 until the war ended in January 1918. The declaration asserted the right to self-determination, meaning the creation of a state within ethnic Lithuanian territories. The publication of the Act of Independence was initially suppressed by the German occupation forces, but on March 23, 1918, the Germans acknowledged the declaration; their plans had shifted to the establishment of a network of satellite countries. However, Germany did not allow the Council to establish a Lithuanian military force, police force, or civic institutions. The first national government, led by Augustinas Voldemaras, was formed. Voldemaras issued a declaration that Lithuania did not need a military force, as it was not planning to engage in warfare, and that only a small militia was needed. This view was unrealistic, since military conflicts soon erupted.
+
+Questions:
+QuestionID: 0
+Question: What happened first, Germany signed an armistice or Germans acknowledged the declaration?
+Answer: Germans acknowledged the declaration
+Explanation: The Germans acknowledged the declaration on March 23, 8 months before signing an armistice. 
+
+QuestionID: 1
+Question: What happened first, Germans acknowledged the declaration or Germany signed an armistice?
+Answer: Germans acknowledged the declaration
+Explanation: The Germans acknowledged the declaration on March 23, 8 months before signing an armistice. 
+
+QuestionID: 2
+Question: What happened second, Germans acknowledged the declaration or Germany signed an armistice?
+Answer: Germany signed an armistice
+Explanation: The Germans signed an armistice on November 11, 8 months after they acknowledged  the declaration.
+
+QuestionID: 3
+Question: What happened later, Germany signed an armistice or Germans acknowledged the declaration?
+Answer: Germany signed an armistice
+Explanation: The Germans signed an armistice on November 11, 8 months after they acknowledged  the declaration.
+
+QuestionID: 4
+Question: What happened second: Partitions of the Polish-Lithuanian Commonwealth or Lithunia declared its independence?
+Answer: Partitions of the Polish-Lithuanian Commonwealth
+Explanation: The partitions of the Polish-Lithuanian Commonwealth happened in 1932, 24 years after Lithunia declared its independence.
+
+QuestionID: 5
+Question: What happened second: Lithunia declared its independence or Partitions of the Polish-Lithuanian Commonwealth?
+Answer: Partitions of the Polish-Lithuanian Commonwealth
+Explanation: The partitions of the Polish-Lithuanian Commonwealth happened in 1932, 24 years after Lithunia declared its independence.
+
+QuestionID: 6
+Question: What happened earlier: Partitions of the Polish-Lithuanian Commonwealth or Lithunia declared its independence?
+Answer: Lithunia declared its independence
+Explanation: Lithunia declared its independence in 1918, 24 years before the partitions of the Polish-Lithuanian Commonwealth.
+
+QuestionID: 7
+Question: What happened earlier: Lithunia declared its independence or Partitions of the Polish-Lithuanian Commonwealth?
+Answer: Lithunia declared its independence
+Explanation: Lithunia declared its independence in 1918, 24 years before the partitions of the Polish-Lithuanian Commonwealth.
+
+QuestionID: 8
+Question: Which happened second, Lithuanian Council declaring the re-establishment of independence or Germany signing the armistice?
+Answer: Germany signed an armistice
+Explanation: The Germans signed an armistice in November 1918, 8 months after the Lithuanian Council declared the re-establishment of independence.
+
+QuestionID: 9
+Question: Which happened second, Germany signing the armistice or Lithuanian Council declaring the re-establishment of independence?
+Answer: Germany signed an armistice
+Explanation: Germany signed an armistice in November 1918, 8 months after the Lithuanian Council declared the re-establishment of independence.
+
+QuestionID: 10
+Question: Which happened earlier, Lithuanian Council declaring the re-establishment of independence or Germany signing the armistice?
+Answer: Lithuanian Council declaring the re-establishment of independence
+Explanation: The Lithuanian Council declared the re-establishment of independence in March 1918, 8 months before Germany signed the armistice.
+
+QuestionID: 11
+Question: Which happened earlier, Germany signing the armistice or Lithuanian Council declaring the re-establishment of independence?
+Answer: Lithuanian Council declaring the re-establishment of independence
+Explanation: The Lithuanian Council declared the re-establishment of independence in March 1918, 8 months before Germany signed the armistice.
+
+--------------------------------------------------
+PassageID: 8
+Passage: In March 1626 the French and Spanish concluded the Treaty of Monzón, suspension of fighting between the Duke of Savoy and the Republic of Genoa being an integral part of the agreement. The Treaty on 5 March 1626, restored the pre-1618 situation with important qualifications. Jurisdiction was nominally restored over the Valtellina; this was now recognized as Catholic, which strengthened its autonomy and introduced doubt as to who could decide on transit through the valley. Papal troops replaced the French though the forts were supposed to be destroyed. Monzón represented a serious reverse for Richelieu who blamed his envoy for the terms and feigned illness to avoid seeing the furious Savoyard ambassador. Abandoned, Savoy was obliged to make its own peace and now sought a Spanish alliance and intrigued with French malcontents against Richelieu, including possible involvement in the Chalais plot to murder the cardinal in 1626. The Valtelline valley was returned to the Vatican. Spanish forces scored a series of striking successes. In the spring of 1625 they regained Bahia in Brazil and Breda in the Netherlands from the Dutch. In the autumn they repulsed the English at Cadiz.
+
+Questions:
+QuestionID: 0
+Question: What event happened second, the situation with important qualifications, or the involvement in the Chalais to murder the cardinal?
+Answer: the involvement in the Chalais to murder the cardinal
+Explanation: The involvement in the Chalais to murder the cardinal happened a year after the Spanish regained Bahia in Brazil and Breda in the Netherlands, an event which is regarded as one with important qualifications.
+
+QuestionID: 1
+Question: How many years passed between when spansish forces regained Bahia and Breda, and the attempted cardinal assassination?
+Answer: 1
+Explanation: The attempted cardinal assassination happened in 1626, a year after the Spanish regained Bahia and Breda.
+
+QuestionID: 2
+Question: How many countries did the Spanish regain cities from in 1625?
+Answer: 2
+Explanation: The Spanish regained cities from two countries in 1625: Brazil and the Netherlands.
+
+QuestionID: 3
+Question: How many cities did the Spanish regain in 1625?
+Answer: 2
+Explanation: The Spanish regained two cities in 1625: Bahia and Breda.
+
+QuestionID: 4
+Question: Which cities did the Spanish regain in 1625?
+Answer: Bahia, Breda
+Explanation: The Spanish regained two cities in 1625: Bahia and Breda.
+
+QuestionID: 5
+Question: Which city besides Breda did the Spanish regain in 1625?
+Answer: Bahia
+Explanation: The Spanish regained two cities in 1625: Bahia and Breda.
+
+QuestionID: 6
+Question: Which city besides Bahia did the Spanish regain in 1625?
+Answer: Breda
+Explanation: The Spanish regained two cities in 1625: Bahia and Breda.
+
+QuestionID: 7
+Question: Which country besides Brazil did the Spanish regain a city from in 1625?
+Answer: Netherlands
+Explanation: The Spanish regained cities from two countries in 1625: Brazil and the Netherlands.
+
+QuestionID: 8
+Question: Which country besides the Netherlands did the Spanish regain a city from in 1625?
+Answer: Brazil
+Explanation: The Spanish regained cities from two countries in 1625: Brazil and the Netherlands.
+
+--------------------------------------------------
+
+

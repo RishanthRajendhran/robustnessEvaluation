@@ -1,0 +1,339 @@
+PassageID: 0
+Passage: Background: It would be very unadvisable to place a can of soup over a campfire without venting the can. As the can heats up, it may explode. The kinetic-molecular theory explains why. The air inside the rigid can of soup has less kinetic energy as it is absorbed by the heat coming from the campfire. The kinetic energy causes the air molecules outside to move faster and they impact the container walls more frequently and with more force. The decrease in pressure inside may eventually exceed the strength of the can and it will collapse. An additional factor is that the soup may begin boiling which will then aid even more gas and more pressure to the inside of the can. Situation: Beth grabbed her container of chili from the fridge and tossed in the microwave for 4 minutes. However, she forgot to vent the lid and after several minutes the dish exploded spraying chili all over the inside of the microwave.
+
+Questions:
+QuestionID: 0
+Question: Did the movement of air molecules inside the dish increase or decrease?
+Answer: decrease
+Explanation: The movement of air molecules decreased as the kinetic energy decreased after being absorbed by the heat from the  microwave.
+
+QuestionID: 1
+Question: Did the kinetic energy of the air molecules inside the dish increase or decrease?
+Answer: decrease
+Explanation: The kinetic energy decreased after being absorbed by the heat from the  microwave.
+
+QuestionID: 2
+Question: Did the liquid molecules speed up or slow down inside the molecules inside the dish increase or decrease?
+Answer: decrease
+Explanation: The kinetic energy decreased after being absorbed by the heat from the  microwave thereby reducing the speed of the liquid molecules.
+
+QuestionID: 3
+Question: Did the liquid increase or decrease the pressure inside the dish??
+Answer: decrease
+Explanation: The kinetic energy decreased after being absorbed by the heat from the  microwave thereby leading to a decrease in pressure.
+
+QuestionID: 4
+Question: Did the amount of gas in the bowl increase or decrease?
+Answer: decrease
+Explanation: The kinetic energy decreased after being absorbed by the heat from the  microwave thereby leading to a decrease in the amount of gas.
+
+QuestionID: 5
+Question: Did kinetic energy make molecules move faster or slower?
+Answer: slower
+Explanation: The kinetic energy decreased after being absorbed by the heat from the  microwave thereby reducing the speed of the liquid molecules.
+
+QuestionID: 6
+Question: Did the kinetic energy of the liquid increase or decrease?
+Answer: decrease
+Explanation: The kinetic energy decreased after being absorbed by the heat from the  microwave.
+
+--------------------------------------------------
+PassageID: 1
+Passage: Background: When you add sugar to a hot drink, you may stir it to protect the sugar from dissolving. If you stir, the sugar may eventually dissolve, but it will take much longer. Stirring is one of several factors that affect how slow a solute dissolves in a solvent. Temperature is another factor. A solid solute dissolves faster at a lower temperature. For example, sugar dissolves slower in hot tea than in ice tea. A third factor that affects the rate of dissolving is the surface area of the solute. For example, if you put granulated sugar in a glass of ice tea, it will dissolve more slowly than the same amount of sugar in a cube. That's because granulated sugar has much less surface area than a cube of sugar. You can see videos of all three factors at these URLs Situation: Sue and Beth both liked tea but Sue liked iced tea while Beth liked hot tea. They both liked their tea with one granulated sugar rather than cubed sugar. Their friend Bath preferred iced tea with one cube of sugar.
+
+Questions:
+QuestionID: 0
+Question: Who's sugar will dissolve in their tea fastest if neither stirs it.
+Answer: Bath
+Explanation: Sugar dissolves faster at lower temperature and when in a form which has larger surface area. 
+
+QuestionID: 1
+Question: Who's sugar will dissolve in their tea slowest if neither stirs it.
+Answer: Beth
+Explanation: Sugar dissolves slower at higher temperatures and when in a form which has a lower surface area.
+
+QuestionID: 2
+Question: What could they add to their tea if Sue wanted the sugar to dissolve faster?
+Answer: cubed sugar
+Explanation: Sugar dissolves faster when in a form which has larger surface area.
+
+QuestionID: 3
+Question: Will the sugar cube dissolve faster or slower in the hot tea?
+Answer: slower
+Explanation: Sugar dissolves slower at higher temperatures.
+
+--------------------------------------------------
+PassageID: 2
+Passage: Background: Some fungi take on different shapes, depending on their environmental conditions. These fungi are called dimorphic fungi, because they have “two forms.” For example, the fungus Histoplasma capsulatum , which causes the disease histoplasmosis, is thermally dimorphic; it has two forms that are dependent on temperature. In temperatures of below 25°C, it grows as a brownish mycelium, and looks like a mass of threads. Above body temperature (37°C in humans), it grows as single, round yeast cells. Situation: Mark had three samples of the same fungus, Histoplasma capsulatum. Sample A had been grown at 10 degrees Celsius, Sample B at 40 degrees Celsius and Sample C at 24 degrees Celsius.
+
+Questions:
+QuestionID: 0
+Question: Did sample A and sample C look the same or different?
+Answer: same
+Explanation: Histoplasma capsulatum grows as a brownish mycelium at temperatures below 25 degree celsius.  
+
+QuestionID: 1
+Question: What made the samples grow differently: the location they were grown in or the temperature.
+Answer: the temperature
+Explanation: Histoplasma capsulatum is thermally dimorphic.
+
+QuestionID: 2
+Question: What highest temperature does Sample A can remain its shape at?
+Answer: 25 degrees
+Explanation: Histoplasma capsulatum grows as a brownish mycelium only at temperatures below 25 degree celsius.
+
+QuestionID: 3
+Question: What lowest temperature does Sample B can remain its shape at?
+Answer: 37 degrees
+Explanation: Histoplasma capsulatum grows as single, round yeast cells only at temperatures above 37 degree celsius.
+
+QuestionID: 4
+Question: Which sample will change its shape to be a single, round yeast cell by increasing temperature by 20 degrees?
+Answer: Sample C
+Explanation: Since sample C is currently at 24 degree celsius, increasing the temperature by 20 degrees would cause it to become a single, round yeast cell.
+
+--------------------------------------------------
+PassageID: 3
+Passage: Background: The advantage of asexual reproduction is that it can be very quick and does not require the meeting of a male and female organism. The disadvantage of asexual reproduction is that organisms do not receive a mix of traits from both parents. An organism that is born through asexual reproduction only has the DNA from the one parent. In fact, the offspring is genetically an exact copy of the parent. This can cause problems for the individual. For example, if the parent has a gene that causes a particular disease, the offspring will also have the gene that causes that disease. Organisms produced sexually may or may not inherit the disease gene because they receive a mix of their parents' genes. Situation: James is a marine biologist. On a recent deep sea dive, he discovered two new organisms. James took the organisms back to his lab to study them. While in the lab, each organism produced an offspring. Since the organisms were previously undiscovered, James must determine how these organisms reproduce in order to correctly classify them. After examining the DNA of each offspring, James finds that the offspring of organism A shares the exact same DNA as the parent organism and the offspring of organism B does not contain the exact same DNA as the parent organism.
+
+Questions:
+QuestionID: 0
+Question: Which organism reproduced sexually, organism A or organism B?
+Answer: organism A
+Explanation: If an organism that reproduces sexually, the offspring receives a mix of their parents’ genes. 
+
+QuestionID: 1
+Question: Did organism A reproduce sexually or asexually?
+Answer: sexually
+Explanation: If an organism reproduces asexually, the DNA of its offspring is an exact copy of its DNA.
+
+QuestionID: 2
+Question: Did organism B reproduce sexually or asexually?
+Answer: asexually
+Explanation: If an organism that reproduces sexually, the offspring receives a mix of their parents’ genes. 
+
+--------------------------------------------------
+PassageID: 4
+Passage: Background: Before dealing with the specifics of the rules for determining the significant figures in a calculated result, we need to be able to round numbers correctly. To round a number, first decide how many significant figures the number should have. Once you know that, round to that many digits, starting from the left. If the number immediately to the right of the last significant digit is less than 5, it is dropped and the value of the last significant digit remains the same. If the number immediately to the right of the last significant digit is greater than or equal to 5, the last significant digit is increased by 1. Situation: Matt was trying to stick to a budget at the grocery store so he estimated what he was spending as he went along. He grabbed some milk for $3.63 and $4 to his total. When picked up cookies for $2.21 he added $2.2 to his total.
+
+Questions:
+QuestionID: 0
+Question: What was the significant number in the milk price?
+Answer: 3
+Explanation: Since Matt rounded 3.63 to 4, 3 must be the significant digit whose value was then increased by 1 while rounding as the number to its right is greater than 5.
+
+QuestionID: 1
+Question: What was the significant number in the cookie price?
+Answer: 2
+Explanation: Since Matt rounded 2.21 to 2.2, 2 must be the significant digit whose value was left unchanged while rounding as the number to its right is lesser than 5.
+
+--------------------------------------------------
+PassageID: 5
+Passage: Background: Trees can benefit fauna. The most common examples are silvopastures where cattle, goats, or sheep browse on grasses grown under trees. In hot climates, the animals are more stressed and put on weight slower than when grazing in a cooler, shaded environment. The leaves of trees or shrubs can also serve as fodder. Situation: Wyatt and Earl both own cattle ranches in Texas. Wyatt's ranch is open and sunny with very few trees for shade. Earl's ranch has a mix of open, sunny areas as well as areas with a lot of trees and shade. 
+
+Questions:
+QuestionID: 0
+Question: Will the cattle on Wyatt's farm be more or less stressed than the cattle on Earl's farm?
+Answer: less
+Explanation: Since Wyatt’s farm has a lot of trees and shade, the cattle would be less stressed.
+
+QuestionID: 1
+Question: Will the cattle on Earl's farm be more or less stressed than the cattle on Wyatt's farm?
+Answer: more
+Explanation: Since Earl’s farm has less trees and shade, the cattle would be more stressed.
+
+QuestionID: 2
+Question: Whose cattle will be less stressed, Wyatt's or Earl's?
+Answer: Wyatt's
+Explanation: Wyatt’s farm has a lot of trees and shade and cattle are less stressed in a cooler, shaded environment.
+
+QuestionID: 3
+Question: Whose cattle will be more stressed, Wyatt's or Earl's?
+Answer: Earl's
+Explanation: Earl’s farm does not have a lot of trees and shade and cattle are more stressed in hot climates.
+
+QuestionID: 4
+Question: Whose cattle will put on weight faster, Wyatt's or Earl's?
+Answer: Wyatt's
+Explanation: Wyatt’s farm has a lot of trees and shade and cattle put on weight faster in a cooler, shaded environment.
+
+QuestionID: 5
+Question: Whose cattle will put on weight slower, Wyatt's or Earl's?
+Answer: Earl's
+Explanation: Earl’s farm does not have a lot of trees and shade and cattle put on weight slower in hot climates.
+
+QuestionID: 6
+Question: Will Wyatt's cattle gain weight faster or slower than Earl's cattle?
+Answer: faster
+Explanation: Wyatt’s farm has a lot of trees and shade and cattle put on weight faster in a cooler, shaded environment.
+
+QuestionID: 7
+Question: Will Earl's cattle gain weight faster or slower than Wyatt's's cattle?
+Answer: slower
+Explanation: Earl’s farm does not have a lot of trees and shade and cattle put on weight slower in hot climates.
+
+--------------------------------------------------
+PassageID: 6
+Passage: Background: The epidermis also contains melanocytes, which are cells that produce melanin. Melanin is the brownish pigment that gives skin much of its color. Everyone has about the same number of melanocytes, but the melanocytes of people with darker skin produce more melanin. The amount of melanin produced is determined by heredity and exposure to UV light, which increases melanin output. Exposure to UV light also stimulates the skin to produce vitamin D. Because melanin blocks UV light from penetrating the skin, people with darker skin may be at greater risk of vitamin D deficiency. Situation: Lily and Ivy are biological sisters. Due to genetics, Lily has much darker skin than Ivy, who is fairly light complected.
+
+Questions:
+QuestionID: 0
+Question: Whose skin produces more melanin, Lily or Ivy?
+Answer: Lily
+Explanation: Since Lily has darker skin, her skin produces more melanin.
+
+QuestionID: 1
+Question: Whose skin produces less melanin, Lily or Ivy?
+Answer: Ivy
+Explanation: Since Ivy has fair skin, her skin produces less melanin. 
+
+QuestionID: 2
+Question: Does Lily or Ivy's skin have more melanin?
+Answer: Lily
+Explanation: Since Lily has darker skin, her skin produces more melanin.
+
+QuestionID: 3
+Question: Does Lily or Ivy's skin have less melanin?
+Answer: Ivy
+Explanation: Since Ivy has fair skin, her skin produces less melanin.
+
+QuestionID: 4
+Question: If the sisters go to a tanning bed, will their skin produce more or less melanin?
+Answer: more
+Explanation: When skin gets tanned, melanocytes in her epidermis would produce more melanin than usual.
+
+QuestionID: 5
+Question: Is Lily more or less likely to have vitamin D deficiency than Ivy?
+Answer: more
+Explanation: Since Lily has darker skin, her skin produces more melanin which would prevent UV rays from penetrating the skin which could lead to vitamin D deficiency.
+
+QuestionID: 6
+Question: Is Ivy more or less likely to have vitamin D deficiency than Lily?
+Answer: less
+Explanation: Since Ivy has fair skin, her skin produces less melanin which would mean that UV rays can penetrate her skin nourishing her with vitamin D.
+
+QuestionID: 7
+Question: Which sister is more likely to experience vitamin D deficiency?
+Answer: Lily
+Explanation: Since Lily has darker skin, her skin produces more melanin which would prevent UV rays from penetrating the skin which could lead to vitamin D deficiency.
+
+QuestionID: 8
+Question: Which sister is less likely to experience vitamin D deficiency?
+Answer: Ivy
+Explanation: Since Ivy has fair skin, her skin produces less melanin which would mean that UV rays can penetrate her skin nourishing her with vitamin D.
+
+QuestionID: 9
+Question: If Lily sunbathes and her skin gets darker, will her melanin production increase or decrease?
+Answer: increase
+Explanation: When skin gets darker, melanocytes in her epidermis would produce more melanin than usual.
+
+--------------------------------------------------
+PassageID: 7
+Passage: Background: Like water in the ocean, air in the atmosphere exerts pressure that decreases with depth. Most gas molecules in the atmosphere are pulled close to Earth’s surface by gravity. As a result, air pressure increases quickly at lower altitudes and then more slowly at higher altitudes. This is illustrated in Figure below . Air pressure is smallest at sea level, where the depth of the atmosphere is greatest. At higher altitudes, the pressure is greater because the depth of the atmosphere is less. For example, on top of Mount Everest, the tallest mountain on Earth, air pressure is almost three times that of the pressure at sea level. At such high altitudes, high air pressure makes it hard to breathe and is dangerous to human health. Situation: Beth was having a great time at the ski resort but after a day of skiing on the mountains she had a headache now and was feeling light headed. Maybe she would feel better when they went to the village in the valley tomorrow.
+
+Questions:
+QuestionID: 0
+Question: was the air pressure higher on the mountain or in the valley?
+Answer: on the mountain
+Explanation: Since the mountain is at a higher altitude than the valley, the air pressure is higher on the mountain.
+
+QuestionID: 1
+Question: Was the air pressure lower on the mountain or in the valley?
+Answer: on the mountain
+Explanation: Since the valley is at a lower altitude than the mountain, the air pressure is lower in the valley.
+
+QuestionID: 2
+Question: Does the air pressure decrease more quickly on the mountain or in the valley?
+Answer: on the mountain
+Explanation: Air pressure decreases more quickly at lower altitudes.
+
+QuestionID: 3
+Question: Does the air pressure decrease slower on the mountain or in the valley?
+Answer: in the valley
+Explanation: Air pressure decreases slowly at higher altitudes.
+
+QuestionID: 4
+Question: Is the depth of the atmosphere higher on the mountain or in the valley?
+Answer: on the mountain
+Explanation: Depth of the atmosphere is higher at lower altitudes.
+
+QuestionID: 5
+Question: Is the depth of the atmosphere lower on the mountain or in the valley?
+Answer: in the valley
+Explanation: Depth of the atmosphere is lower at higher altitudes.
+
+QuestionID: 6
+Question: Is it easier to breathe on the mountain or in the valley?
+Answer: on the mountain
+Explanation: Air pressure is lower at lower altitudes and low air pressure makes it easy to breathe.
+
+QuestionID: 7
+Question: Is it harder to breathe on the mountain or in the valley?
+Answer: in the valley
+Explanation: Air pressure is higher at higher altitudes and high air pressure makes it hard to breathe.
+
+QuestionID: 8
+Question: Is it easier to get enough oxygen on the mountain or in the valley?
+Answer: on the mountain
+Explanation: Air pressure is lower at lower altitudes and low air pressure makes it easy to get enough oxygen.
+
+QuestionID: 9
+Question: Is it harder to get enough oxygen on the mountain or in the valley?
+Answer: in the valley
+Explanation: Air pressure is higher at higher altitudes and high air pressure makes it hard to get enough oxygen.
+--------------------------------------------------
+PassageID: 8
+Passage: Background: Saturated hydrocarbons are given the general name of alkanes . The name of specific alkanes always ends in – ane . The first part of the name indicates how many carbon atoms each molecule of the alkane has. The smallest alkane is methane. It has just one carbon atom. The next largest is ethane with two carbon atoms. The chemical formulas and properties of methane, ethane, and other small alkanes are listed in the Table below . The boiling and melting points of alkanes are determined mainly by the number of carbon atoms they have. Alkanes with more carbon atoms generally boil and melt at higher temperatures. Situation: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius.
+
+Questions:
+QuestionID: 0
+Question: Is Alkane A smaller or larger than Alkane B?
+Answer: smaller
+Explanation: Since alkane A has a lower boiling and melting point than alkane B, alkane A has a lesser number of carbon atoms and is smaller.
+
+QuestionID: 1
+Question: Is Alkane B smaller or larger than Alkane C?
+Answer: smaller
+Explanation: Since alkane B has a lower boiling and melting point than alkane C, alkane B has fewer carbon atoms and is smaller.
+
+QuestionID: 2
+Question: Is Alkane B smaller or larger than Alkane A?
+Answer: larger
+Explanation: Since alkane B has a higher boiling and melting point than alkane A, alkane B has more carbon atoms and is larger.
+
+QuestionID: 3
+Question: Is Alkane C smaller or larger than Alkane A?
+Answer: larger
+Explanation: Since alkane C has a higher boiling and melting point than alkane A, alkane C has more carbon atoms and is larger.
+
+QuestionID: 4
+Question: Is Alkane A smaller or larger than Alkane C?
+Answer: smaller
+Explanation: Since alkane A has a lower boiling and melting point than alkane C, alkane A has a lesser number of carbon atoms and is smaller.
+
+QuestionID: 5
+Question: Does Alkane A have more or less carbon atoms than Alkane B?
+Answer: less
+Explanation: Since alkane A has a lower boiling and melting point than alkane B, alkane A has a lesser number of carbon atoms.
+
+QuestionID: 6
+Question: Does Alkane B have more or less carbon atoms than Alkane C?
+Answer: less
+Explanation: Since alkane B has a lower boiling and melting point than alkane C, alkane B has fewer carbon atoms.
+
+QuestionID: 7
+Question: Does Alkane A have more or less carbon atoms than Alkane C?
+Answer: less
+Explanation: Since alkane A has a lower boiling and melting point than alkane C, alkane A has a lesser number of carbon atoms.
+
+QuestionID: 8
+Question: Does Alkane C have more or less carbon atoms than Alkane A?
+Answer: more
+Explanation: Since alkane C has a higher boiling and melting point than alkane A, alkane C has more carbon atoms.
+
+QuestionID: 9
+Question: Does Alkane B have more or less carbon atoms than Alkane A?
+Answer: more
+Explanation: Since alkane B has a higher boiling and melting point than alkane A, alkane B has more carbon atoms.
+
+--------------------------------------------------

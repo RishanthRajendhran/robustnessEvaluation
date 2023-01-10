@@ -1,0 +1,527 @@
+PassageID: 0
+Passage: In 1968, Frank Lucas was the right-hand man of Harlem gangster Ellsworth "Bumpy" Johnson. When Johnson dies of a heart attack, Lucas takes control of the Harlem crime scene. After handing in almost $1 million that he found in a mobster's car, Newark detective Richie Roberts is ostracized in his precinct. After his exiled and addicted partner overdoses on a potent brand of heroin called "Blue Magic", Captain Lou Toback puts Roberts in charge of a task force  that targets local suppliers. Lucas buys Blue Magic directly from producers in Thailand and smuggles it into the U.S. through returning Vietnam War servicemen. His low overhead allows him to eventually wholesale Blue Magic to most of the dealers in the New York area. With this monopoly, Lucas expands his control to nightclubs, casinos, and prostitution. He buys a mansion for his mother and recruits his five brothers, including Huey and Turner, as lieutenants to spread his empire. During his rise to becoming Harlem's crime boss, Lucas falls in love with Eva, a Puerto Rican beauty queen.
+
+Questions:
+QuestionID: 0
+Question: What's the full name of the person responsible for the heroin that a cop overdoses on?
+Answer: Frank Lucas
+Explanation: Frank Lucas was supplying the drug that the cop overdosed on.
+
+QuestionID: 1
+Question: Who transports to the U.S. the heroin a cop overdoses on?
+Answer: Vietnam War servicemen
+Explanation: Blue Magic was transported to the US through returning Vietnam War servicemen.
+
+--------------------------------------------------
+PassageID: 1
+Passage: Lieutenant Jake "Cool Hand" Grafton and his bombardier/navigator and best friend Lieutenant Morgan "Morg" McPherson are flying a Grumman A-6 Intruder over the Gulf of Tonkin towards North Vietnam. They hit their target, a 'suspected truck park', which actually turns out to be trees. On the return to the carrier, Morg is fatally shot in the neck by an armed Vietnamese peasant. Landing on the USS Independence with Morg dead, a disturbed Jake, covered in blood, walks into a debriefing with Commander Frank Camparelli and Executive Officer, Commander "Cowboy" Parker. Camparelli tells Jake to put Morgan's death behind him and to write a letter to Sharon, Morg's wife. New pilot Jack Barlow, nicknamed "Razor" because of his youthful appearance, is then introduced. Lieutenant Commander Virgil Cole arrives on board and reports to Camparelli, who later tells Jake's roommate Sammy Lundeen to take Jake, Bob "Boxman" Walkawitz and "Mad Jack" (Dann Florek) to fly into Subic Bay the next day and help Jake unwind. Jake goes to see Sharon, but she has already departed. He runs into a woman named Callie Troy, who is packing Sharon's things, and they have a small, tense encounter. After an altercation with civilian merchant sailors in the Tailhook Bar, Jake runs into Callie again. After they reconcile, dance and spend the night together, she reveals her husband was a Navy pilot himself and was killed on a solo mission over Vietnam. Jake returns to the carrier, where Camparelli confronts him regarding the bar incident, and Cole reports in Jake's favor. Cole and Jake are paired on "Iron Hand" A-6Bs loaded with Standard and Shrike anti-radiation missiles for SAM suppression. During the mission, after a successful strike, they encounter and manage to evade a North Vietnamese MiG-17.
+
+Questions:
+QuestionID: 0
+Question: What is the first name of the person who reveals their husband was killed on a solo mission over Vietnam?
+Answer: Callie
+Explanation: Callie Troy revealed that her husband was killed on a solo mission over Vietnam.
+
+QuestionID: 1
+Question: What are the first names of the people who dance and spend the night together after reconciling?
+Answer: Callie, Jake
+Explanation: Callie Troy and Jake Grafton danced and spent the night together after reconciliation.
+
+QuestionID: 2
+Question: What are the first names of the people who evade a North Vietnamese MiG-17?
+Answer: Jake, Virgil
+Explanation: Virgil Cole and Jake Grafton evaded a North Vietnamese MiG-17.
+
+QuestionID: 3
+Question: What is the full name of the person whose husband was a Navy pilot?
+Answer: Callie Troy
+Explanation: Callie Troy’s husband was killed on a solo mission over Vietnam.
+
+QuestionID: 4
+Question: What are the full names of the people who spend a night together before one of them reveals their husband was a Navy pilot?
+Answer: Jake "Cool Hand" Grafton, Callie Troy
+Explanation: Callie Troy and Jake “Cool Hand” Grafton danced and spent the night together after reconciliation.
+
+QuestionID: 5
+Question: What are the full names of the people who dance and spend the night together?
+Answer: Jake "Cool Hand" Grafton, Callie Troy
+Explanation: Jake “Cool Hand” Grafton and Callie Troy danced and spent the night together after reconciliation.
+
+QuestionID: 6
+Question: What are the ranks of the people who evade a North Vietnamese MiG-17?
+Answer: Lieutenant, Lieutenant Commander
+Explanation: Virgil Cole, Lieutenant Commander, and Jake Grafton, Lieutenant, evaded a North Vietnamese MiG-17.
+
+--------------------------------------------------
+PassageID: 2
+Passage: Fur trapper Jean La Bête paddles his canoe through wild water towards the settlement in order to sell a load of furs. At the settlement, a steamboat is landing and the trader and his foster-child Eve arrive at the seaport to fetch mail and consumer goods. The trader explains to Eve that the ship brings "Jailbirds ... from the east" and that "their husbands-to-be had bailed them out and paid their fines and their passages with a guarantee of marriage". Later, the captain is auctioning off one of those women because her husband-to-be has died in the meantime. Jean La Bête decides to take his chance to buy the wife, but he makes his bid too late. Two Canadian Indians, Yellow Dog and No Name, have told the Trader that La Bete is dead. The Trader, heavily in debt, has spent money he owes La Bete so that when La Bete calls to collect his dues, the trader has to use his own savings, to the fury of his wife. Next day, the trader's wife, in the need to compensate for the loss of her savings, seizes the opportunity to offer her foster-child for a thousand dollars to the simple-minded, rough-cut trapper. She praises the qualities of the shy girl and explains that her inability to speak is caused by the shock she suffered when she had to witness how her parents were barbarously murdered several years ago. La Bête finally agrees to buy the mute girl and takes her against her will into the wilderness of British Columbia. Here the strange couple starts a difficult relationship characterized by mistrust and Eve's fear and dislike of the trapper. Eve vehemently rejects the advances of the gruff trapper. La Bête takes her for hunting and acquaints her with the beauty and the dangers of the wilderness, but here, as well, he fails to win her trust. Eve defends herself from his advances with a knife.
+
+Questions:
+QuestionID: 0
+Question: Who is offered to a trader for a thousand dollars?
+Answer: Eve
+Explanation: The mute girl Eve was offered by her foster-parents for a thousand dollars.
+
+QuestionID: 1
+Question: Whose qualities are praised?
+Answer: Eve
+Explanation: Eve’s foster-mother praises her shyness when trying to sell her off.
+
+QuestionID: 2
+Question: Who is bought and taken into the wilderness?
+Answer: Eve
+Explanation: The mute girl Eve was bought by La Bête and taken to the wilderness.
+
+QuestionID: 3
+Question: Who is acquainted with the dangers of the wilderness?
+Answer: Eve
+Explanation: La Bête acquaints Eve with the dangers of the wilderness by taking her hunting.
+
+QuestionID: 4
+Question: What is the last name of the person who fails to win someone's trust?
+Answer: La Bête
+Explanation: La Bête fails to win Eve’s trust.
+
+QuestionID: 5
+Question: What is the full name of the person to whom someone is offered for a thousand dollars?
+Answer: Jean La Bête
+Explanation: Jean La Bête was offered Eve by her foster-parents for a thousand dollars.
+
+QuestionID: 6
+Question: Who are the strange couple that start a relationship in the wilderness?
+Answer: Eve, Jean La Bête
+Explanation: Eve and Jean La Bête start their relationship in the wilderness.
+
+QuestionID: 7
+Question: Where do a strange couple start a relationship?
+Answer: the wilderness of British Columbia
+Explanation:  Eve and Jean La Bête start their relationship in the wilderness of British Columbia.
+
+QuestionID: 8
+Question: Who praises someone's qualities?
+Answer: the trader's wife
+Explanation: Eve’s foster-mother, the trader’s wife, praises her shyness when trying to sell her off.
+
+QuestionID: 9
+Question: Whose foster child's qualities are praised?
+Answer: the trader, the trader's wife
+Explanation: Eve, foster-child of the trader and his wife, is praised for her shyness.
+
+QuestionID: 10
+Question: What is the job of the person who fails to win someone's trust?
+Answer: Fur trapper
+Explanation: La Bête, a fur trapper, fails to win Eve’s trust. 
+
+QuestionID: 11
+Question: Whose trust does someone fail to win?
+Answer: Eve
+Explanation: La Bête fails to win Eve’s trust.
+
+QuestionID: 12
+Question: Whose foster-child's trust does someone fail to win?
+Answer: the trader, the trader's wife
+Explanation: La Bête fails to win the trust of Eve, the trader and his wife’s foster child.
+
+QuestionID: 13
+Question: What is the full name of the person who fails to win someone's trust?
+Answer: Jean La Bête
+Explanation: Jean La Bête fails to win Eve’s trust.
+
+QuestionID: 14
+Question: Whose foster-child is acquainted with the dangers of the wilderness by someone?
+Answer: the trader, the trader's wife
+Explanation: La Bête acquaints Eve, the trader and his wife’s foster child, with the dangers of the wilderness.
+
+--------------------------------------------------
+PassageID: 3
+Passage: Ambohimanga is a hill and traditional fortified royal settlement (rova) in Madagascar, located approximately 24 kilometers (15 mi) northeast of the capital city of Antananarivo. The hill and the rova that stands on top are considered the most significant symbol of the cultural identity of the Merina people and the most important and best-preserved monument of the precolonial Merina Kingdom. The walled historic village includes residences and burial sites of several key monarchs. The site, one of the twelve sacred hills of Imerina, is associated with strong feelings of national identity and has maintained its spiritual and sacred character both in ritual practice and the popular imagination for at least four hundred years. It remains a place of worship to which pilgrims come from Madagascar and elsewhere. The site has been politically important since the early 18th century, when King Andriamasinavalona (1675–1710) divided the Kingdom of Imerina into four quadrants and assigned his son Andriantsimitoviaminiandriana to govern the northeastern quadrant, Avaradrano, from its newly designated capital at Ambohimanga. The division of Imerina led to 77 years of civil war, during which time the successive rulers of Avaradrano led military campaigns to expand their territory while undertaking modifications to the defenses at Ambohimanga to better protect it against attacks. The war was ended from Ambohimanga by King Andrianampoinimerina, who successfully undertook negotiations and military campaigns that reunited Imerina under his rule by 1793. Upon capturing the historic capital of Imerina at Antananarivo, Andrianampoinimerina shifted his royal court and all political functions back to its original locus at Antananarivo's royal compound and declared the two cities of equal importance, with Ambohimanga as the kingdom's spiritual capital. He and later rulers in his line continued to conduct royal rituals at the site and regularly inhabited and remodeled Ambohimanga until French colonization of the kingdom and the exile of the royal family in 1897. The significance of historical events here and the presence of royal tombs have given the hill a sacred character that is further enhanced at Ambohimanga by the burial sites of several Vazimba, the island's earliest inhabitants.
+
+Questions:
+QuestionID: 0
+Question: Who remodeled Ambohimanga?
+Answer: Andrianampoinimerina
+Explanation: Andrianampoinimerina and later rulers in his line remodeled Ambohimanga.
+
+QuestionID: 1
+Question: Who regularly inhabited the site?
+Answer: Andrianampoinimerina
+Explanation: Andrianampoinimerina and later rulers in his line regularly inhabited Ambohimanga.
+
+QuestionID: 2
+Question: Which city is the regularly inhabited site close to?
+Answer: Antananarivo
+Explanation: Andrianampoinimerina and later rulers in his line regularly inhabited Ambohimanga, a city close to Antananarivo.
+
+QuestionID: 3
+Question: Which country is the regularly inhabited site in?
+Answer: Madagascar
+Explanation: Andrianampoinimerina and later rulers in his line regularly inhabited Ambohimanga, Madagascar.
+
+QuestionID: 4
+Question: When did remodeling Ambohimanga end?
+Answer: 1897
+Explanation: Andrianampoinimerina and later rulers in his line remodeled Ambohimanga until French occupation in 1897.
+
+--------------------------------------------------
+PassageID: 4
+Passage: Following the conquest of Antananarivo in 1793, Andrianampoinimerina shifted the political capital of Imerina from Ambohimanga to its original site at Antananarivo, while pronouncing Ambohimanga the kingdom's spiritual capital. Important traditional rituals continued to be held at Ambohimanga, and Andrianampoinimerina regularly stayed in its Mahandrihono palace. His son, Radama I, inhabited Ambohimanga's Nanjakana compound as a youth before relocating to Antananarivo, and visited Ambohimanga frequently after the move. Radama's widow and successor, Ranavalona I, renovated the Mahandrihono compound and moved several buildings from the sister rova at Antananarivo to Ambohimanga. She also forbade swine at Ambohimanga due to their association with Europeans, who had propagated pork as a food source in the decade prior. Subsequent queens made their own mark on the site, including the reconstruction of Nanjakana by Rasoherina, and Ranavalona II's addition of two large pavilions to the Mahandrihono compound that reflected a syncretism of traditional and Western architectural styles Throughout much of the 19th century and particularly under the reign of Queen Ranavalona I (1828–1861), Ambohimanga was forbidden to visiting foreigners, contributing to its mystique as a "forbidden city".  This status remained until 1897 when the French colonial administration transferred all the relics and significant belongings of the royal family from Ambohimanga to Antananarivo to break the spirit of resistance and ethnic identity that these symbols inspired in the Malagasy people, particularly in the highlands. In the early 20th century, the area was further changed when the French removed the sacred forests remaining on the neighboring hilltops in the early 20th century. The city nonetheless retains its symbolic significance in Imerina to this day.
+
+Questions:
+QuestionID: 0
+Question: Whose son inhabited Nanjakana compound as a youth?
+Answer: Andrianampoinimerina
+Explanation: Andrianampoinimerina’s son inhabited Nanjakana compound as a youth.
+
+QuestionID: 1
+Question: Whose son was Radama I?
+Answer: Andrianampoinimerina
+Explanation: Radama I was Andrianampoinimerina’s son.
+
+QuestionID: 2
+Question: Whose son visited Ambohimanga frequently after relocating to Antananarivo?
+Answer: Andrianampoinimerina
+Explanation: Andrianampoinimerina’s son visited Ambohimanga frequently after relocating to Antananarivo
+
+--------------------------------------------------
+PassageID: 5
+Passage: After the December 7, 1941, attack on Pearl Harbor, the United States Government swiftly moved to begin solving the "Japanese Problem" on the West Coast of the United States. In the evening hours of that same day, the Federal Bureau of Investigation (FBI) arrested selected "enemy" aliens, including more than 5,500 Issei men. The California government pressed for action by the national government, as many citizens were alarmed about potential activities by people of Japanese descent. On February 19, 1942, President Franklin D. Roosevelt signed Executive Order 9066, which authorized the Secretary of War to designate military commanders to prescribe military areas and to exclude "any or all persons" from such areas. The order also authorized the construction of what would later be called "relocation centers" by the War Relocation Authority (WRA) to house those who were to be excluded. This order resulted in the forced relocation of over 120,000 Japanese Americans, two-thirds of whom were native-born American citizens. The rest had been prevented from becoming citizens by federal law. Over 110,000 were incarcerated in the ten concentration camps located far inland and away from the coast.Manzanar was the first of the ten concentration camps to be established. Initially, it was a temporary "reception center", known as the Owens Valley Reception Center from March 21, 1942, to May 31, 1942. At that time, it was operated by the US Army's Wartime Civilian Control Administration (WCCA).The Owens Valley Reception Center was transferred to the WRA on June 1, 1942, and officially became the "Manzanar War Relocation Center." The first Japanese American incarcerees to arrive at Manzanar were volunteers who helped build the camp. By mid–April, up to 1,000 Japanese Americans were arriving daily, and by July, the population of the camp neared 10,000. Over 90 percent of the incarcerees were from the Los Angeles area, with the rest coming from Stockton, California; and Bainbridge Island, Washington. Many were farmers and fishermen. Manzanar held 10,046 incarcerees at its peak, and a total of 11,070 people were incarcerated there.
+
+Questions:
+QuestionID: 0
+Question: What order authorized the construction of what would later be called "relocation centers"?
+Answer: Executive Order 9066
+Explanation: Executive Order 9066 signed by the President authorized the construction of relocation centers.
+
+QuestionID: 1
+Question: What order resulted in forced relocation of over 120,000 Japanese Americans?
+Answer: Executive Order 9066
+Explanation: Executive Order 9066 signed by the President authorized the forced relocation of over 120,000 Japanese Americans.
+
+QuestionID: 2
+Question: What was the name of the place from March 21 1942 to May 31, 1942 that had incarcerees from Stockton California and Bainbridge Island?
+Answer: Owens Valley Reception Center
+Explanation: Owens Valley Reception Center had incarcerees from Stockton California and Bainbridge Island between March 21 1942 and May 31, 1942
+
+QuestionID: 3
+Question: What was the name of the place from March 21 1942 to May 31, 1942 that had most of its incarcerees made up of farmers and fishermen?
+Answer: Owens Valley Reception Center
+Explanation: Owens Valley Reception Center had the most incarcerees made up of farmers and fishermen between March 21 1942 to May 31, 1942.
+
+QuestionID: 4
+Question: When was the forced relocation of over 120,000 Japanese Americans authorized?
+Answer: February 19, 1942
+Explanation: Executive Order 9066 signed by the President on February 19, 1942 authorized the forced relocation of over 120,000 Japanese Americans.
+
+QuestionID: 5
+Question: What were the names of the place that had most of its incarcerees made up of farmers and fishermen?
+Answer: Owens Valley Reception Center, Manzanar War Relocation Center
+Explanation: Owens Valley Reception Center had the most incarcerees made up of farmers and fishermen.
+
+QuestionID: 6
+Question: What was the place that had most of its incarcerees made up of farmers and fishermen till May 31, 1942?
+Answer: Owens Valley Reception Center
+Explanation: Owens Valley Reception Center had the most incarcerees made up of farmers and fishermen between March 21 1942 to May 31, 1942.
+
+QuestionID: 7
+Question: What was the name of the place that had most of its incarcerees made up of farmers and fishermen after May 31, 1942?
+Answer: Manzanar War Relocation Center
+Explanation: Owens Valley Reception Center had the most incarcerees made up of farmers and fishermen and became Manzanar War Relocation Center after May 31 1942.
+
+QuestionID: 8
+Question: Which organization operated the place that had most of its incarcerees made up of farmers and fishermen before May 31, 1942?
+Answer: the US Army's Wartime Civilian Control Administration
+Explanation: Owens Valley Reception Center, operated by the US Army's Wartime Civilian Control Administration, had the most incarcerees made up of farmers and fishermen.
+
+QuestionID: 9
+Question: Which organization operated the place that had most of its incarcerees made up of farmers and fishermen after May 31, 1942?
+Answer: War Relocation Authority
+Explanation: Owens Valley Reception Center, operated by the War Relocation Authority, had the most incarcerees made up of farmers and fishermen.
+
+QuestionID: 10
+Question: Which organization operated the place that had incarcerees from Stockton California and Bainbridge Island till May 31, 1942?
+Answer: the US Army's Wartime Civilian Control Administration
+Explanation: Owens Valley Reception Center, operated by the US Army's Wartime Civilian Control Administration, incarcerees from Stockton California and Bainbridge Island till May 31, 1942.
+
+QuestionID: 11
+Question: When was the order that authorized the construction of what were later called "relocation centers" signed?
+Answer: February 19, 1942
+Explanation: Executive Order 9066 signed by the President authorized the construction of relocation centers.
+
+--------------------------------------------------
+PassageID: 6
+Passage: The cemetery is less than an acre in size and is located to the immediate east of the church, surrounded by a wrought iron fence manufactured by Stewart Iron Works. As of 2012, the cemetery contains approximately 270 interments, including John Monroe (1750–1824), Virginia House of Delegates member William C. Nixon (1789–1869), West Virginia House of Delegates member Captain David Pugh (1806–1899), American Civil War veterans from the Union and the Confederacy, and free and enslaved African Americans. Gertrude Ward (1896–1988), a local historian and orchardist, is also interred in the cemetery. Captain David Pugh was an elected representative Hampshire County, who voted to secede from the Union in 1861.Older gravestones in the cemetery are generally cut from limestone, and the gravestones placed after 1900 are predominantly made of polished granite. Most of the gravestones have weathered significantly. The gravestones are generally rounded or rectangular in shape, and are placed on small stone foundations. The gravestones of prominent local leaders are more ornate in character, including that of Captain David Pugh and his family, who are buried under a large obelisk that lists the names of his three wives and their respective children. Nixon's gravestone is deteriorating due to advanced weathering; it is made of limestone and contains a carving of an open book. Following the purchase of a rectangular land tract around 1990, the cemetery was expanded on the east side. This section of the cemetery is excluded from the church's historically-recognized boundaries, as it was not associated with the church during the period of its greatest significance.The cemetery perimeter is lined on three sides by a cast wrought iron fence, accessible by a gate 3 feet (0.91 m) in width at its western entryway. The wrought iron fence is 4 feet (1.2 m) in height, and has approximately 1-inch (2.5 cm) diameter tubular fence posts, which are supported by three horizontal metal rails. The fence posts are capped with white-painted stylized arrows, with a ball at the tip. A shield with the emblem reading, "The Stewart Iron Works, Cincinnati, Ohio", is emblazoned on the fence's gate. The cemetery's eastern extension is surrounded by chain-link fencing.
+
+Questions:
+QuestionID: 0
+Question: What is the full name of the person whose gravestone is deteriorating due to advanced weathering? 
+Answer: William C. Nixon
+Explanation: William C. Nixon’s gravestone is deteriorating due to advanced weathering.
+
+QuestionID: 1
+Question: What is the full name of the person who voted to secede from the Union in 1861?
+Answer: David Pugh
+Explanation: David Pugh voted to secede from the Union in 1861.
+
+QuestionID: 2
+Question: What is the title of the person who voted to secede from the Union in 1861?
+Answer: Captain
+Explanation: Captain David Pugh voted to secede from the Union in 1861.
+
+QuestionID: 3
+Question: What was the person who voted to secede from the Union in 1861 a member of?
+Answer: West Virginia House of Delegates
+Explanation: David Pugh, a member of West Virginia House of Delegates, voted to secede from the Union in 1861.
+
+QuestionID: 4
+Question: When was the person who voted to secede from the union in 1861 born?
+Answer: 1806
+Explanation: David Pugh, born in 1806, voted to secede from the Union in 1861.
+
+QuestionID: 5
+Question: When did the person who voted to secede from the union in 1861 die?
+Answer: 1899
+Explanation: David Pugh, who died in 1899, voted to secede from the Union in 1861.
+
+QuestionID: 6
+Question: What was the person whose gravestone is deteriorating due to advanced weathering a member of?
+Answer: Virginia House of Delegates
+Explanation: The gravestone of William C. Nixon, a member of Virginia House of Delegates, is deteriorating due to advanced weathering.
+
+QuestionID: 7
+Question: When was the person whose gravestone is deteriorating due to advanced weathering born?
+Answer: 1789
+Explanation: The gravestone of William C. Nixon, born in 1789, is deteriorating due to advanced weathering.
+
+QuestionID: 8
+Question: When did the person whose gravestone is deteriorating due to advanced weathering die?
+Answer: 1869
+Explanation: The gravestone of William C. Nixon, who died in 1869, is deteriorating due to advanced weathering.
+
+QuestionID: 9
+Question: What is the gravestone that is deteriorating due to advanced weathering made of?
+Answer: limestone
+Explanation: William C. Nixon’s gravestone made of limestone is deteriorating due to advanced weathering.
+
+QuestionID: 10
+Question: What does the gravestone that is deteriorating due to advance weathering contain?
+Answer: a carving of an open book
+Explanation: The gravestone of William C. Nixon which is deteriorating due to advanced weathering contains a carving of an open book.
+
+--------------------------------------------------
+PassageID: 7
+Passage: Just before the Bastille Day holiday weekend English secretary, Danielle 'Dany' Lang, types up a document for her advertising agency boss, Michael Caldwell, to take on a business trip to Geneva. On the way to drop off her boss and his wife, Anita, her former room-mate, at the airport, her boss gives her an envelope with her pay in it. After dropping them off Dany impulsively decides to drive to the Riviera for the weekend. When Dany pulls into a small café the owner tries to return a coat to her she claims she left there the day before. At a petrol station Dany is attacked in the toilet and injures her hand. She is bemused as various strangers claim to know her. Heading further south she picks up a hitch-hiker, Philippe and the pair spend the night together. The following day Philippe steals Dany's car prior to reaching the coast. She later finds Philippe in Marseilles where they find a man's body and a gun in the trunk of the car. After Philippe disappears again, Dany visits the home of the dead man in Avignon and oddly finds both some of her clothes and also nude pictures of herself. Returning to the café to reclaim the coat she finds a copy of her pay envelope in one of the coat's pockets. Dany is now completely perplexed by the situation and returns to the dead man's home where her boss, Michael, is waiting for her. He tells Dany that the dead man was one of Anita's lovers, whom she murdered at his home. To frame Dany, they planted evidence and set up various incidents to establish her guilt: the attack in the toilet was committed by Michael, who injured her hand so Anita could wear a bandage and be mistaken for the secretary; and the nude photos had been taken by Anita when they were room-mates. When Michael tells Dany he plans to murder her and make it look like a suicide she tells him he won't succeed as she has already sent both pay envelopes to the police.
+
+Questions:
+QuestionID: 0
+Question: What is the nickname of the person that takes her boss to the airport?
+Answer: Dany
+Explanation: Danielle 'Dany' Lang took her boss to the airport.
+
+QuestionID: 1
+Question: What is the real first name of the person who is confused that so many people seem to know her?
+Answer: Danielle
+Explanation: Danielle 'Dany' Lang is confused that so many people seem to know her.
+
+QuestionID: 2
+Question: What is the first name of the person who tells Dany that the dead man was a lover of Anita?
+Answer: Michael
+Explanation: Michael tells Dany that the dead man was a lover of Anita.
+
+QuestionID: 3
+Question: What is the first name of Anita's husband? 
+Answer: Michael
+Explanation: Michael was Anita’s husband.
+
+QuestionID: 4
+Question: What is the first name of the person dropping Anita and her husband off at the airport? 
+Answer: Danielle
+Explanation: Danielle 'Dany' Lang dropped her boss and his wife at the airport.
+
+QuestionID: 5
+Question: What is the first name of the person who gives Danielle an envelope with her pay in it? 
+Answer: Michael
+Explanation: Michael gave Daniella an envelope with her pay in it.
+
+QuestionID: 6
+Question: What is the alias of the person who spends the night with Philippe?
+Answer: Dany
+Explanation: Dany and Philippe spent the night together.
+
+QuestionID: 7
+Question: What is the alias of the person who receives an envelope from their boss?
+Answer: Dany
+Explanation: Dany received an envelope with her pay from her boss.
+
+QuestionID: 8
+Question: What is the last name of the person who receives an envelope from their boss?
+Answer: Lang
+Explanation: Danielle ‘Dany’ Lang received an envelope from their boss.
+
+QuestionID: 9
+Question: What is the last name of Anita's husband?
+Answer: Caldwell
+Explanation: Michael Caldwell was Anita’s husband.
+
+QuestionID: 10
+Question: What is the first name of Anita's former room-mate?
+Answer: Danielle
+Explanation: Anita and Danielle were former room-mates.
+
+QuestionID: 11
+Question: What is the last name of Anita's former room-mate?
+Answer: Lang
+Explanation: Anita and Danielle Lang were former room-mates.
+
+QuestionID: 12
+Question: What is the last name of the person that takes her boss to the airport?
+Answer: Lang
+Explanation: Danielle Lang took her boss to the airport.
+
+QuestionID: 13
+Question: What are the first names of the people Dany drops off at the airport?
+Answer: Anita, Michael
+Explanation: Danielle Lang dropper her boss, Michael, and his wife, Anita, at the airport.
+
+QuestionID: 14
+Question: What is the last name of the person who tells Dany that the dead man was a lover of Anita?
+Answer: Caldwell
+Explanation: Michael Caldwell told Dany that the dead man was a lover of Anita
+
+QuestionID: 15
+Question: What are the first names of the people who spend a night together?
+Answer: Danielle, Philippe
+Explanation: Danielle and Philippe spent the night together.
+
+QuestionID: 16
+Question: What is the nationality of the person who is confused that so many people know her?
+Answer: English
+Explanation: Dany, an English woman, is confused that so many people know her.
+
+QuestionID: 17
+Question: What is the job of the person who is confused that so many people seem to know her?
+Answer: secretary
+Explanation: Dany, an secretary, is confused that so many people know her.
+
+--------------------------------------------------
+PassageID: 8
+Passage: Out on a highway in Death Valley, a man picks up a female hitchhiker named Lucindia, and gives her a drink. Lucindia has a coughing fit upon ingesting the liquid, stumbles out of the vehicle, and is stabbed to death by the motorist. The man (revealed to be a priest, whose offer to Lucindia was holy water) buries Lucindia's body, and erects a crucifix over the impromptu grave. As the preacher prays, Lucindia reappears, and bludgeons him with his shovel as he screams, "El Diablo!" Nearby, four college students (Eric, Chris, Monique, and Sarah) from Western Pennsylvania are on a road trip to Redondo Beach. Spotting Lucindia at a cluster of crosses, the quartet pick her up. When Chris mentions that a group of their friends are also on their way to Redondo, Lucindia brags that she tortured them to death before pulling out a gun and sexually assaulting Sarah. Lucindia then tries to shoot Sarah in the crotch, but is knocked out of the car by her and Eric. The next day, Lucindia (who had just robbed, castrated, and murdered a motorist) catches up with the college students, who run her down, beheading and disemboweling her. On what's left of Lucindia's body, Eric finds Chris's brother's cell phone, and a battery pack that fits into a camcorder that Sarah had earlier unearthed in the desert. The group watches the last few minutes recorded by the camera, which shows Lucindia shooting all of their friends during a botched séance. Lucindia then turns to the camera and tells the story of a settler couple that became trapped in the valley; to try and save his wife (implied to be Lucindia), the husband killed himself so that she could consume his flesh. Her husband's body was not enough to sustain her, and in her last dying hours the woman cursed God and prayed to the Devil for salvation, and received it in exchange for a steady stream of victims.
+
+Questions:
+QuestionID: 0
+Question: Where does the female hitchhiker try to shoot the girl that was sexually assaulted?
+Answer: in the crotch
+Explanation: Lucindia, the female hitchhiker, tried to shoot Sarah in the crotch.
+
+QuestionID: 1
+Question: Who finds a cell phone on the hitchhiker's body?
+Answer: Eric
+Explanation: Eric found a cell phone on the hitchhiker’s body.
+
+QuestionID: 2
+Question: Who does the woman named El Diablo sexually assault?
+Answer: Sarah
+Explanation: Lucindia sexually assaulted Sarah.
+
+QuestionID: 3
+Question: Who helps save the college student from being shot in the crotch?
+Answer: Eric
+Explanation: Eric saves Sarah when Lucindia tries to shoot her in the crotch.
+
+QuestionID: 4
+Question: Who is related to the person that owns the cell phone found on the hitchhiker's body?
+Answer: Chris
+Explanation: The phone found on the hitchhiker’s body was that of Chris’ brother.
+
+QuestionID: 5
+Question: Who finds the cell phone on the body of the murderer?
+Answer: Eric
+Explanation: The phone was found on the hitchhiker’s body by Eric.
+
+QuestionID: 6
+Question: Who found the camcorders that the battery on the hitchhiker fits into?
+Answer: Sarah
+Explanation: The camcorder found by Sarah fit the battery found on the hitchhiker.
+
+QuestionID: 7
+Question: Who did the wife of the man who sacrificed himself for her reach out to for salvation?
+Answer: the Devil
+Explanation: The wife prayed to the Devil for salvation.
+
+QuestionID: 8
+Question: Who did the wife of the man who sacrificed himself for her antagonize while reaching out for salvation?
+Answer: God
+Explanation: The wife cursed God and prayed to the Devil for salvation.
+
+QuestionID: 9
+Question: On whose sibling's cell phone did the college students watch Lucindia reach out to the Devil for salvation?
+Answer: Chris
+Explanation: The college students watched Lucindia reaching out to the Devil for salvation on Chris’ brother’s cellphone.
+
+QuestionID: 10
+Question: Whose spouse sacrificed himself so that this individual could keep living?
+Answer: Lucindia
+Explanation: Lucindia’s spouse sacrificed himself so that she could keep living.
+
+QuestionID: 11
+Question: What are the first names of the people that watch a man sacrifice himself for his wife?
+Answer: Eric, Chris, Monique, Sarah
+Explanation: Eric, Chris, Monique, Sarah watched a man sacrifice himself for his wife.
+
+QuestionID: 12
+Question: What are the first names of the people besides Monique who watch a man sacrifice himself for his wife?
+Answer: Eric, Chris, Sarah
+Explanation: Eric, Chris and Sarah watched a man sacrifice himself for his wife besides Monique..
+
+QuestionID: 13
+Question: Which college student helps save another college student from being shot in the crotch?
+Answer: Eric
+Explanation: Eric saves Sarah when Lucindia tries to shoot her in the crotch.
+
+QuestionID: 14
+Question: Who in the student group does not help save the college student from being shot in the crotch?
+Answer: Chris, Monique
+Explanation: Eric saved Sarah when Lucindia tried to shoot her in the crotch while Chris and Monique watched.
+
+QuestionID: 15
+Question: Eric saves a college student from being shot in the crotch while heading to which location?
+Answer: Redondo
+Explanation: Eric and his friends were on their way to the Redondo Beach when he saved his friend from being shot in the crotch. 
+
+QuestionID: 16
+Question: What is the name of the female hitchhiker who tried to shoot the girl that was sexually assaulted by her?
+Answer: Lucindia
+Explanation: Lucindia tried to shoot Sarash after sexually assaulting her. 
+
+QuestionID: 17
+Question: Who watches the recording on the cell phone found on the body of the murderer?
+Answer: Eric, Chris, Monique, Sarah
+Explanation: Eric, Chris, Monique and Sarah watched recording on the cell phone found on the body of the murderer
+
+QuestionID: 18
+Question: What are the names of the people who pick up the woman named El Diablo?
+Answer: Eric, Chris, Monique, Sarah
+Explanation: Eric, Chris, Monique and Sarah pick up El Diablo who is posing as a hitchhiker. 
+
+QuestionID: 19
+Question: What is the Spanish title for the woman who sexually assaults a female college student?
+Answer: El Diablo
+Explanation: Lucindia, whose Spanish title is El Diablo, sexually assaulted Sarah, a female college student.
+
+QuestionID: 20
+Question: Where were the camcorders that the battery on the hitchhiker fits into found?
+Answer: in the desert
+Explanation: The college students found the camcorder that the battery on the hitchhiker fit into in the desert.
+
+QuestionID: 21
+Question: Whose relative owns the cell phone found on the hitchhiker's corpse?
+Answer: Chris
+Explanation: The cell phone found on the hitchhiker’s corpse belonged to Chris’ brother.
+
+QuestionID: 22
+Question: Who finds a cell phone on El Diablo's body?
+Answer: Eric
+Explanation: The cell phone on El Diablo’s body was found by Eric.
+
+--------------------------------------------------
+
+

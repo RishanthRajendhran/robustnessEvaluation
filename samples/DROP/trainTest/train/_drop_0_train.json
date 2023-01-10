@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "0_0",
+        "sentence1": "On 31 January 1919, because of the pressure from the Triple Entente representatives, the attack on Skocz\u00f3w was cancelled, and the Czechoslovak army ceased fighting. The Czechoslovak army withdrew to the new Green Line, established by the International Commission Agreement on the basis of the Czechoslovak-Polish Treaty, concluded on 3 February 1919 in Paris. On 30 January 1919 Josef \u0160nejd\u00e1rek had received the order to cross the Vistula and secure the railway line between Bohum\u00edn and Jablunkov. They crossed the river and the Polish troops retreated to Skocz\u00f3w, where the front line was stalled. Further Czechoslovak reinforcements arrived, which gave \u0160nejd\u00e1rek an advantage over the Polish units. The Czechoslovak army prepared for an attack on Skocz\u00f3w assuming that it would lead to the collapse of the Polish defenses. Earlier, Cieszyn Silesia was occupied without a fight on 27 January 1919. All this had started on 23 January 1919 at 11:00 in Cieszyn Silesia when Polish commander Franciszek Latinik and Czechoslovak officer Josef \u0160nejd\u00e1rek met with a group of officers, consisting of English, French, Italian and U.S. representatives . The Polish side was given an ultimatum, that they evacuate the area to the Bia\u0142a River in less than two hours. After the expiry of this period the Czechoslovak army started its operations at 13:00 following its operational guidelines to seize Bohum\u00edn and Karvin\u00e1. From the east, at the same time, an attack was launched by the Italian legionnaire unit. The Czechoslovak army moved forward, and took Bohum\u00edn , Orlov\u00e1 and Karvin\u00e1.  Polish troops retreated to the river Vistula.",
+        "QuestionID": "2",
+        "sentence2": "What happened first: \u0160nejd\u00e1rek received orders to cross the Vistula or \u0160nejd\u00e1rek met with a group of officers?",
+        "label": "\u0160nejd\u00e1rek met with a group of officers",
+        "explanation": "\u0160nejd\u00e1rek met with the group of officers 7 days before he received the order to cross the Vistula."
+    },
+    {
+        "PassageID": "0_1",
+        "sentence1": "Coming off a heartbreaking home loss to the Colts, the Texans stayed at home for a Week 6 duel with the Miami Dolphins.  In the first quarter, Houston trailed early as Dolphins QB Chad Pennington completed a 53-yard TD pass to RB Patrick Cobbs.  The Texans would respond with kicker Kris Brown getting a 27-yard field goal.  In the second quarter, Miami added onto its lead as Pennington completed an 80-yard TD pass to Cobbs.  Houston would answer with Brown kicking a 33-yard field goal and WR Jacoby Jones returning a punt 70 yards for a touchdown. In the third quarter, the Texans took the lead with QB Matt Schaub completing a 12-yar TD pass to WR Andre Johnson, but the Dolphins replied with RB Ricky Williams getting a 5-yard TD run.  In the fourth quarter, Houston regained the lead as Brown got a 42-yard field goal, yet Miami struck back RB Ronnie Brown got a 6-yard TD run.  Fortunately, the Texans got the last laugh as Schaub got the game-winning 3-yard TD run (with a failed 2-point conversion). With the thrilling win, Houston won its first game of the season and improved to 1-4.",
+        "QuestionID": "5",
+        "sentence2": "Which team scored second last?",
+        "label": "Miami Dolphins",
+        "explanation": "Miami Dolphins\u2019 Brown got a 6-yard TD run before Schaub got the game-winning 3-yard TD run."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "In March 1626 the French and Spanish concluded the Treaty of Monz\u00f3n, suspension of fighting between the Duke of Savoy and the Republic of Genoa being an integral part of the agreement. The Treaty on 5 March 1626, restored the pre-1618 peace. Jurisdiction was nominally restored over the Valtellina; this was now recognized as Catholic, which strengthened its autonomy and introduced doubt as to who could decide on transit through the valley. Papal troops replaced the French though the forts were supposed to be destroyed. Monz\u00f3n represented a serious reverse for Richelieu who blamed his envoy for the terms and feigned illness to avoid seeing the furious Savoyard ambassador. Abandoned, Savoy was obliged to make its own peace and now sought a Spanish alliance and intrigued with French malcontents against Richelieu, including possible involvement in the Chalais plot to murder the cardinal in 1626. The Valtelline valley was returned to the Vatican. Spanish forces scored a series of striking successes. In the spring of 1625 they regained Bahia in Brazil and Breda in the Netherlands from the Dutch, which turned into a situation with important qualifications. In the autumn they repulsed the English at Cadiz.",
+        "QuestionID": "1",
+        "sentence2": "What event happened second, the situation with important qualifications, or the involvement in the Chalais to murder the cardinal?",
+        "label": "the involvement in the Chalais to murder the cardinal",
+        "explanation": "The involvement in the Chalais to murder the cardinal happened a year after the Spanish regained Bahia in Brazil and Breda in the Netherlands, an event which is regarded as one with important qualifications."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "Angola has a population of 24,383,301 inhabitants according to the preliminary results of its 2014 census, the first one conducted or carried out since 15 December 1970. It is composed of Ovimbundu (language Umbundu) 37%, Northern Mbundu people (language Kimbundu) 23%, Bakongo 13%, and 32% other ethnic groups (including the Chokwe people, the Ovambo people, the Ganguela and the Xindonga) as well as about 2% mesti\u00e7os (mixed European and African), 1.6% Chinese and 1% European. The Ambundu and Ovimbundu ethnic groups combined form a majority of the population, at 62%. The population is forecast to grow to over 60 million people to 2050, 2.7 times the 2014 population. However, on 23 March 2016, official data revealed by Angolas National Statistic Institute - Instituto Nacional de Estat\u00edstica (INE), states that Angola has a population of 25.789.024 inhabitants.",
+        "QuestionID": "14",
+        "sentence2": "What language was spoken by the largest ethnic group in Angola in 2014?",
+        "label": "Umbundu",
+        "explanation": "The Ovimbundu people who spoke the Umbundu language constituted 37% of the population of Angola, making them the largest ethnic group of Angola in 2014."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "A 2016 survey conducted by the Razumkov Centre found that 70% of the population declared themselves believers in any religion, while 6.3% declared themselves non-believers, and 2.7% declared to be atheists. Of the total Ukraian population, 81.9% declared to be Christians, comprising a 63.4% who declared to be Eastern Orthodox Church, 8.5% Ukrainian Greek Catholic Church, 7.1% simply christians, 1.9% Protestantism, and 1.0% Catholic Church. Islam comprises 1.1% of the population, while Judaism and Hinduism were the religions of 0.2% of the population each. A further 16.3% of the population believed in some other religion not identifying in one of those listed hitherto; it may comprise Rodnovery and other faiths.",
+        "QuestionID": "27",
+        "sentence2": "Which was the least prevalent denomination of the Christian religion in the Ukrainian population?",
+        "label": "simply christians",
+        "explanation": "1.0% declared themselves to be from the Catholic Church making them the least prevalent denomination of the Christian religion in the Ukrainian population."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "The first war began as a result of disputes between a prominent African merchant, John Cabess  who had armed forces loyal to him, in Eguafo and the Dutch West India Company . Cabess was a formal and loyal ally to the British Royal African Company and assisted their operations in the region. The Dutch, in competition with the Royal African Company, had a series of disputes with Cabess including an instance in 1684 with the Dutch panyarring Cabess and taking his goods. The disputes intensified in November 1694 when Cabess invited the British Royal African Company to return to Komenda and then attacked Dutch miners outside of the city. With the British reoccupying the former British fort in Komenda they were fired upon by the Dutch fort. As a result of these hostilities, the British, Dutch, and Eguafo king began contacting possible allies in surrounding African kingdoms to prepare for a war. Cabess Terra and Twifo initially joined the Dutch, but this alliance was stopped when Denkyira threatened to attack Twifo if war should break out. The Adoms took money from Eguafo to remain neutral in any fighting. War broke out in February 1695 when the forces of John Cabess attacked the Dutch fort and prevented reinforcements. On April 28, 1695, the Twifo forces were defeated. The war then largely took the form of panyarring where one force would seize members of other groups regularly. A short-lived peace settlement was reached in the end of 1695, a few months after an unfortunate incident when the Dutch head at the fort, Willem Bosman, drew a pistol and attempted to shoot at Cabess.",
+        "QuestionID": "0",
+        "sentence2": "What happened last, Willem Bosman attempting to shoot Cabess or a short-lived peace settlement?",
+        "label": "a short-lived peace settlement",
+        "explanation": "A short-lived peace settlement was reached a few months after Willem Bosman attempted to shoot at Cabess."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "Hoping to rebound from their home loss to the Chiefs, the Raiders flew to Qualcomm Stadium for a Week 14 AFC West rematch with the San Diego Chargers.  In the first quarter, Oakland trailed early as Chargers kicker Nate Kaeding getting a 20-yard field goal, along with RB LaDainian Tomlinson getting a 3-yard TD pass to Philip Rivers.  The Raiders continued to trail as QB Philip Rivers completed an 8-yard TD pass to RB Darren Sproles and a 59-yard TD pass to WR Vincent Jackson, while Kaeding got a 39-yard field goal. RB Darren Sproles also made a 6-yard TD pass back to Philip Rivers. Oakland responded with CB Justin Miller returning a kickoff 98 yards for a touchdown.  After a scoreless third quarter, San Diego pulled away in the fourth quarter as Rivers hooked up with Sproles again on an 18-yard TD pass. With the loss, not only did the Raiders fall to 3-10, but they also suffered their sixth-straight 10-loss season.",
+        "QuestionID": "3",
+        "sentence2": "Which player caught the last touchdown of the game?",
+        "label": "Sproles",
+        "explanation": "Rivers hooked up with Sproles on an 18-yard TD pass which was the last touchdown in the game."
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "Most of the area was inhabited by Poles, Germans, and Kashubians. The census of 1910 showed that there were 528,000 Poles (including West Slavic Kashubians) compared to 385,000 Germans in the region. The census included German soldiers stationed in the area as well as public officials sent to administer the area. Since 1886, a Prussian Settlement Commission was set up by Prussia to enforce German settlement while at the same time Poles, Jews and Germans migrated west during the Ostflucht. In 1921 the proportion of Germans in Pomerania (where the Corridor was located) was 18.8% (175,771). Over the next decade, the German population decreased by another 70,000 to a share of 9.6%. There was also a Jewish minority. in 1905, Kashubians numbered about 72,500. After the occupation by Nazi Germany, a census was made by the German authorities in December 1939. 71% of people declared themselves as Poles, 188,000 people declared Kashubian as their language, 100,000 of those declared themselves Polish.",
+        "QuestionID": "1",
+        "sentence2": "Were there more Polish speakers or Kashubian in 1939?",
+        "label": "Kashubian",
+        "explanation": "188,000 people declared Kashubian as their language and 100,000 of those declared themselves Polish. Clearly there were more Kashubian speakers in 1939."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "The 2010 United States Census reported that Amador County had a population of 38,091. The racial makeup of Amador County was 419 (1.1%) Asian (U.S. Census), 678 (1.8%) Native American (U.S. Census), 77 (0.2%) Pacific Islander (U.S. Census), 962 (2.5%) African American (U.S. Census), 33,149 (87.0%) White (U.S. Census), 1,450 (3.8%) from Race (United States Census), and 1,356 (3.6%) from two or more races.  Hispanic (U.S. Census) or Latino (U.S. Census) of any race were 4,756 persons (12.5%).",
+        "QuestionID": "22",
+        "sentence2": "Which groups from the census have population smaller than 1000?",
+        "label": "Asian, African American, Native American, Pacific Islander",
+        "explanation": "Populations of Asians (419), African Americans (962), Native Americans (678) and the Pacific Islanders (77) were less than 1000."
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "background": "The Keystone XL Pipeline would transport oil from the oil sands in Alberta, Canada. The oil would travel into the United States. In the U.S. it would be refined. The pipeline is controversial. A leak could cause damage to wildlife habitat. A leak could also release enough oil to contaminate the Ogallala Aquifer. The Aquifer is crucial to agriculture and urban development in the Midwestern U.S. When burned, the fuel from the oil sands would increase pollutants. Greenhouse gases into the atmosphere would increase. The future of the pipeline is currently on hold.",
+        "situation": "Lawmakers were debating the pros and cons of Keystone XL Pipeline. One group of lawmakers proposed that the pipeline be constructed. They put their proposal in proposal A. The rival group of lawmakers proposed that the pipeline should not be build. They put their proposal in proposal B. Lawmakers would now have to choose one of the proposals.",
+        "qas": [
+            {
+                "question": "Which proposal would not benefit agriculture, proposal A or proposal B?",
+                "id": "3605816308",
+                "answers": [
+                    {
+                        "text": "proposal A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "A vapor light produces visible light by electroluminescence. The bulb contains a small amount of solid sodium or mercury as well as a mixture of neon and argon gases. When an electric current passes through the gases, it causes the solid sodium or mercury to change to a gas and emit visible light. Sodium vapor lights, like these streetlights, produce yellowish light. Mercury vapor lights produce bluish light. Vapor lights are very bright and energy efficient. The bulbs are also long lasting.",
+        "situation": "James is driving down the street in his town. For some reason today hes very curious about the things that he sees. He looks around as hes driving and the street lights catch his attention. He realizes that he's never seen someone changing the bulbs in a street light. He also wonders if its a film on the light that makes them have that color or something inside.",
+        "qas": [
+            {
+                "question": "Given the street lights are sodium vapor lights, will these lights have a long life or short life?",
+                "id": "2679856365",
+                "answers": [
+                    {
+                        "text": "long life"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Nearsightedness, or myopia, is the condition in which nearby objects are seen clearly, but distant objects appear blurry. The Figure below shows how it occurs. The eyeball is longer (from front to back) than normal. This causes images to be focused in front of the retina instead of on the retina. Myopia can be corrected with concave lenses. The lenses focus images farther back in the eye, so they fall on the retina instead of in front of it.",
+        "situation": "Two siblings went to the eye doctor, they needed eyeglasses. As it turned out, Ann had myopia, and Jane had farsightedness. They both bought eyeglasses.",
+        "qas": [
+            {
+                "question": "Who would see distant objects more clearly, John or Keith?",
+                "id": "807140130",
+                "answers": [
+                    {
+                        "text": "Keith"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "White blood cells also make chemicals that cause a fever. A fever is a higher-than-normal body temperature. Normal human body temperature is 98.6\u00b0F (37\u00b0C). Most bacteria and viruses that infect people reproduce fastest at this temperature. When the temperature is higher, the pathogens cannot reproduce as fast, so the body raises the temperature to kill them. A fever also causes the immune system to make more white blood cells. In these ways, a fever helps the body fight infection.",
+        "situation": "Jim and Pam are a married couple who both have the same illness. They are at home from work today and are in the process of taking their temperatures so they know if they need to go to the doctor or not. After using the thermometer, they learn that Pam has a much higher fever than Jim. They decide they should take Pam to the doctor to get her looked at.",
+        "qas": [
+            {
+                "question": "If a patient taking the medication has a higher white blood cell count than a patient in the control group is their body temperature higher or lower?",
+                "id": "41660574",
+                "answers": [
+                    {
+                        "text": "higher"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Gamma rays, X-rays and the higher energy range of ultraviolet light constitute the ionizing part of the electromagnetic spectrum. The word \"ionize\" refers to the breaking of one or more electrons away from an atom, an action that requires the relatively high energies that these electromagnetic waves supply. Further down the spectrum, the non-ionizing lower energies of the lower ultraviolet spectrum cannot ionize atoms, but can disrupt the inter-atomic bonds which form molecules, thereby breaking down molecules rather than atoms; a good example of this is sunburn caused by long-wavelength solar ultraviolet. The waves of longer wavelength than UV in visible light, infrared and microwave frequencies cannot break bonds but can cause vibrations in the bonds which are sensed as heat. Radio wavelengths and below generally are not regarded as harmful to biological systems. These are not sharp delineations of the energies; there is some overlap in the effects of specific frequencies.The word radiation arises from the phenomenon of waves radiating (i.e., traveling outward in all directions) from a source. This aspect leads to a system of measurements and physical units that are applicable to all types of radiation. Because such radiation expands as it passes through space, and as its energy is conserved (in vacuum), the intensity of all types of radiation from a point source follows an inverse-square law in relation to the distance from its source. Like any ideal law, the inverse-square law approximates a measured radiation intensity to the extent that the source approximates a geometric point.",
+        "situation": "A scientists has discovered two new types of radiation. He notes that radiation type A has the ability to break away atoms from molecules, while radiation type B simply causes them to vibrate.",
+        "qas": [
+            {
+                "question": "Which radiation causes ionization, radiation type A or B?",
+                "id": "3144264981",
+                "answers": [
+                    {
+                        "text": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "A: You could shake a bottle of cola and then open it. Shaking causes carbon dioxide to come out of the cola solution and change to a gas. The gas fizzes out of the bottle and spreads into the surrounding air, showing that its particles have enough kinetic energy to spread apart. Then you could tilt the open bottle and pour out a small amount of the cola on a table, where it will form a puddle. This shows that particles of the liquid have enough kinetic energy to slide over each other but not enough to pull apart completely. If you do nothing to the solid glass of the cola bottle, it will remain the same size and shape. Its particles do not have enough energy to move apart or even to slide over each other.",
+        "situation": "Michael wants to play a trick on his friend. He takes a bottle of soda, shakes it really well then puts it in the fridge. He then tells his friend if he wants something to drink there's some soda in the fridge. Michael's friend goes to the fridge and pulls out the bottle Michael just shook and opens it.",
+        "qas": [
+            {
+                "question": "Which will happen when Michael's friend opens the bottle. nothing or will it release carbon dioxide?",
+                "id": "3262943617",
+                "answers": [
+                    {
+                        "text": "release carbon dioxide"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The Ecdysozoa are protostomes, named after their shared trait of ecdysis, growth by moulting. They include the largest animal phylum, the Arthropoda, which contains insects, spiders, crabs, and their kin. All of these have a body divided into repeating segments, typically with paired appendages. Two smaller phyla, the Onychophora and Tardigrada, are close relatives of the arthropods and share these traits. The ecdysozoans also include the Nematoda or roundworms, perhaps the second largest animal phylum. Roundworms are typically microscopic, and occur in nearly every environment where there is water; some are important parasites. Smaller phyla related to them are the Nematomorpha or horsehair worms, and the Kinorhyncha, Priapulida, and Loricifera. These groups have a reduced coelom, called a pseudocoelom.",
+        "situation": "Adam caught a large spider behind his house and decides to keep it as a pet. After a while he notices flakes of its skin (exoskeleton) along the bottom of the cage.",
+        "qas": [
+            {
+                "question": "Will the spider have increased or decreased in size?",
+                "id": "1443264633",
+                "answers": [
+                    {
+                        "text": "increased"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "In coastal regions, sea breezes and land breezes can be important factors in a location's prevailing winds. The sea is warmed by the sun more slowly because of water's greater specific heat compared to land. As the temperature of the surface of the land rises, the land heats the air above it by conduction. The warm air is less dense than the surrounding environment and so it rises. This causes a pressure gradient of about 2 millibars from the ocean to the land. The cooler air above the sea, now with higher sea level pressure, flows inland into the lower pressure, creating a cooler breeze near the coast. When large-scale winds are calm, the strength of the sea breeze is directly proportional to the temperature difference between the land mass and the sea. If an offshore wind of 8 knots (15 km/h) exists, the sea breeze is not likely to develop.",
+        "situation": "Jackie and Mark are two friends who are spending a day at the beach. Jackie wants to go out on the boat to spend some time on the ocean, but Mark wants to lay out on the beach and relax. Since they can't agree, Jackie goes out on the boat alone while Mark stays behind on the beach.",
+        "qas": [
+            {
+                "question": "Is the air near Mark warmer or cooler than the air near Jackie?",
+                "id": "2323426318",
+                "answers": [
+                    {
+                        "text": "warmer"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Following the utilitarian principle of seeking the greatest good for the greatest number \u2013 economic inequality is problematic. A house that provides less utility to a millionaire as a summer home than it would to a homeless family of five, is an example of reduced \"distributive efficiency\" within society, that decreases marginal utility of wealth and thus the sum total of personal utility. An additional dollar spent by a poor person will go to things providing a great deal of utility to that person, such as basic necessities like food, water, and healthcare; while, an additional dollar spent by a much richer person will very likely go to luxury items providing relatively less utility to that person. Thus, the marginal utility of wealth per person (\"the additional dollar\") decreases as a person becomes richer. From this standpoint, for any given amount of wealth in society, a society with more equality will have higher aggregate utility. Some studies[2][32] have found evidence for this theory, noting that in societies where inequality is lower, population-wide satisfaction and happiness tend to be higher.\n\n",
+        "situation": "Finland has one of the lowest economic inequality in the world. Finland's neighbor Russia has a different story. After the collapse of Soviet Union, Russia's economic inequality soared to the point that it has now one of the highest economic inequality in the world. John and Keith are residents of Finland. While John is rich, Keith is not so fortunate - he is poor. Similarly, David and Greg are residents of Russia. While David is rich, Greg is in poverty.",
+        "qas": [
+            {
+                "question": "Who would have larger marginal utility, John or Keith?",
+                "id": "4150023539",
+                "answers": [
+                    {
+                        "text": "Keith"
+                    }
+                ]
+            }
+        ]
+    }
+]

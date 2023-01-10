@@ -1,0 +1,686 @@
+[
+    {
+        "PassageID": "1_0",
+        "sentence1": "In this way the other major congressional interests can be brought together in the new committee's work. How different were the matters prior to the new committee?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: the interests were discussed in separate committees ?",
+        "label": "yes",
+        "explanation": "If there was already a single committee discussing these interests, a new committee would not have been created."
+    },
+    {
+        "PassageID": "1_0",
+        "sentence1": "In this way the other major congressional interests can be brought together in the new committee's work. How different were the matters prior to the new committee?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: there was another committee for bringing the interests together ?",
+        "label": "no",
+        "explanation": "If there was already a single committee discussing these interests, a new committee would not have been created."
+    },
+    {
+        "PassageID": "1_0",
+        "sentence1": "In this way the other major congressional interests can be brought together in the new committee's work. How different were the matters prior to the new committee?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: there was no joint committee for discussing other major congressional interests. ?",
+        "label": "yes",
+        "explanation": "If there was already a single committee discussing these interests, a new committee would not have been created."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: a few times in over a decade?",
+        "label": "yes",
+        "explanation": "Kevin is currently travelling to England to meet Erin."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: every day?",
+        "label": "no",
+        "explanation": "Kevin had never left the country prior to his current trip to England."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: every day?",
+        "label": "no"
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: once every two seconds?",
+        "label": "no",
+        "explanation": "Kevin had never left the country prior to his current trip to England."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: once every two seconds?",
+        "label": "no"
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: every two years?",
+        "label": "no",
+        "explanation": "Kevin had never left the country prior to his current trip to England."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: once every two years?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: once every two years?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "5",
+        "sentence2": "Is this the answer: once every two hours?",
+        "label": "no",
+        "explanation": "Kevin had never left the country prior to his current trip to England."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "5",
+        "sentence2": "Is this the answer: once every two hours?",
+        "label": "no"
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "6",
+        "sentence2": "Is this the answer: once per week?",
+        "label": "no",
+        "explanation": "Kevin had never left the country prior to his current trip to England."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "6",
+        "sentence2": "Is this the answer: once per week?",
+        "label": "no"
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "7",
+        "sentence2": "Is this the answer: every second?",
+        "label": "no",
+        "explanation": "Kevin had never left the country prior to his current trip to England."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "7",
+        "sentence2": "Is this the answer: every second?",
+        "label": "no"
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "8",
+        "sentence2": "Is this the answer: every year?",
+        "label": "no",
+        "explanation": "Kevin had never left the country prior to his current trip to England."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "8",
+        "sentence2": "Is this the answer: every year?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "9",
+        "sentence2": "Is this the answer: once every two years?",
+        "label": "no",
+        "explanation": "Kevin had never left the country prior to his current trip to England."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "9",
+        "sentence2": "Is this the answer: once every two years?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "10",
+        "sentence2": "Is this the answer: twice a year?",
+        "label": "no",
+        "explanation": "Kevin had never left the country prior to his current trip to England."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "10",
+        "sentence2": "Is this the answer: twice a year?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "11",
+        "sentence2": "Is this the answer: every week?",
+        "label": "no",
+        "explanation": "Kevin had never left the country prior to his current trip to England."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "11",
+        "sentence2": "Is this the answer: every week?",
+        "label": "no"
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "12",
+        "sentence2": "Is this the answer: each year?",
+        "label": "no",
+        "explanation": "Kevin had never left the country prior to his current trip to England."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "One day, Kevin traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?",
+        "QuestionID": "12",
+        "sentence2": "Is this the answer: each year?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "He also submitted various suggestions as to its initial programs after a lifetime of research and became the first one to make changes. How often do they make changes to the programs?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: once a second?",
+        "label": "no",
+        "explanation": "Changes have never been made to the programs until now."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "He also submitted various suggestions as to its initial programs. How often do they accept suggestions for programs?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: once a second?",
+        "label": "no"
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "He also submitted various suggestions as to its initial programs after a lifetime of research and became the first one to make changes. How often do they make changes to the programs?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: once a minute?",
+        "label": "no",
+        "explanation": "Changes have never been made to the programs until now."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "He also submitted various suggestions as to its initial programs. How often do they accept suggestions for programs?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: once a minute?",
+        "label": "no"
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "He also submitted various suggestions as to its initial programs after a lifetime of research and became the first one to make changes. How often do they make changes to the programs?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: many times before the initial proposal?",
+        "label": "no",
+        "explanation": "Changes have never been made to the programs until now."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "He also submitted various suggestions as to its initial programs after a lifetime of research and became the first one to make changes. How often do they make changes to the programs?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: each century?",
+        "label": "yes",
+        "explanation": "Changes have been made to the program for the first time now."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "He also submitted various suggestions as to its initial programs. How often do they accept suggestions for programs?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: each century?",
+        "label": "no"
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "He also submitted various suggestions as to its initial programs after a lifetime of research and became the first one to make changes. How often do they make changes to the programs?",
+        "QuestionID": "5",
+        "sentence2": "Is this the answer: each minute?",
+        "label": "no",
+        "explanation": "Changes have never been made to the programs until now."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "He also submitted various suggestions as to its initial programs. How often do they accept suggestions for programs?",
+        "QuestionID": "5",
+        "sentence2": "Is this the answer: each minute?",
+        "label": "no"
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "He also submitted various suggestions as to its initial programs after a lifetime of research and became the first one to make changes. How often do they make changes to the programs?",
+        "QuestionID": "6",
+        "sentence2": "Is this the answer: once an hour?",
+        "label": "no",
+        "explanation": "Changes have never been made to the programs until now."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: 1 day?",
+        "label": "yes",
+        "explanation": "The submarine was probably at the bottom of the sea for a day to finish the exploration."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: 0.2 year?",
+        "label": "no",
+        "explanation": "The submarine was probably at the bottom of the sea for a day to finish the exploration."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: 1 week?",
+        "label": "no",
+        "explanation": "The submarine was probably at the bottom of the sea for a day to finish the exploration."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: 1 season?",
+        "label": "no",
+        "explanation": "The submarine was probably at the bottom of the sea for a day to finish the exploration."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: 1 year?",
+        "label": "no",
+        "explanation": "The submarine was probably at the bottom of the sea for a day to finish the exploration."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "QuestionID": "5",
+        "sentence2": "Is this the answer: one day?",
+        "label": "yes",
+        "explanation": "The submarine was probably at the bottom of the sea for a day to finish the exploration."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "QuestionID": "6",
+        "sentence2": "Is this the answer: 1 million years?",
+        "label": "no",
+        "explanation": "The submarine was probably at the bottom of the sea for a day to finish the exploration."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "QuestionID": "7",
+        "sentence2": "Is this the answer: 2000 years?",
+        "label": "no",
+        "explanation": "The submarine was probably at the bottom of the sea for a day to finish the exploration."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "QuestionID": "8",
+        "sentence2": "Is this the answer: 0.5 year?",
+        "label": "no",
+        "explanation": "The submarine was probably at the bottom of the sea for a day to finish the exploration."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "QuestionID": "9",
+        "sentence2": "Is this the answer: 0.5 day?",
+        "label": "yes",
+        "explanation": "The submarine was probably at the bottom of the sea for a day to finish the exploration."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?",
+        "QuestionID": "11",
+        "sentence2": "Is this the answer: 500 years?",
+        "label": "no",
+        "explanation": "The submarine was probably at the bottom of the sea for a day to finish the exploration."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Every late evening after dinner we would go to the park and play Toodles' favorite game. What are you doing after the park",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: eating out?",
+        "label": "no",
+        "explanation": "We go to the park after dinner."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Every late evening after dinner we would go to the park and play Toodles' favorite game. What are you doing after the park",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: going home to have dinner?",
+        "label": "no",
+        "explanation": "We go to the park after dinner."
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before classes. What did they do after the morning?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: they sold a home?",
+        "label": "no",
+        "explanation": "They attended classes after their trip to the library in the morning."
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning. What did they do after the morning?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: they sold a home?",
+        "label": "no"
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before classes. What did they do after the morning?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: they went to china?",
+        "label": "no",
+        "explanation": "They attended classes after their trip to the library in the morning."
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning. What did they do after the morning?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: they went to china?",
+        "label": "no"
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before classes. What did they do after the morning?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: they went to study?",
+        "label": "yes",
+        "explanation": "They attended classes after their trip to the library in the morning."
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning before classes. What did they do after the morning?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: they had fun?",
+        "label": "no",
+        "explanation": "They attended classes after their trip to the library in the morning."
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "They packed up the car and drove to the library, ready for a fun morning. What did they do after the morning?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: they had fun?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: 1:00 PM?",
+        "label": "yes",
+        "explanation": "The factory is designed to shift flexibly and make chips at any time of the day."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand. When is the factory making chips?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: 1:00 PM?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: 2:00 PM?",
+        "label": "yes",
+        "explanation": "The factory is designed to shift flexibly and make chips at any time of the day."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand. When is the factory making chips?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: 2:00 PM?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: 4:00 PM?",
+        "label": "yes",
+        "explanation": "The factory is designed to shift flexibly and make chips at any time of the day."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand. When is the factory making chips?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: 4:00 PM?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: 9:00 AM?",
+        "label": "yes",
+        "explanation": "The factory is designed to shift flexibly and make chips at any time of the day."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand. When is the factory making chips?",
+        "QuestionID": "3",
+        "sentence2": "Is this the answer: 9:00 AM?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: 1:00 AM?",
+        "label": "yes",
+        "explanation": "The factory is designed to shift flexibly and make chips at any time of the day."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand. When is the factory making chips?",
+        "QuestionID": "4",
+        "sentence2": "Is this the answer: 1:00 AM?",
+        "label": "no"
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "QuestionID": "5",
+        "sentence2": "Is this the answer: only on weekends?",
+        "label": "no",
+        "explanation": "The factory is designed to shift flexibly and make chips at any time of the day."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand. When is the factory making chips?",
+        "QuestionID": "5",
+        "sentence2": "Is this the answer: only on weekends?",
+        "label": "no"
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "QuestionID": "6",
+        "sentence2": "Is this the answer: during the day?",
+        "label": "yes",
+        "explanation": "The factory is designed to shift flexibly and make chips at any time of the day."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand. When is the factory making chips?",
+        "QuestionID": "6",
+        "sentence2": "Is this the answer: during the day?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "QuestionID": "7",
+        "sentence2": "Is this the answer: 3:00 AM?",
+        "label": "yes",
+        "explanation": "The factory is designed to shift flexibly and make chips at any time of the day."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand. When is the factory making chips?",
+        "QuestionID": "7",
+        "sentence2": "Is this the answer: 3:00 AM?",
+        "label": "no"
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "QuestionID": "8",
+        "sentence2": "Is this the answer: 7:00 AM?",
+        "label": "yes",
+        "explanation": "The factory is designed to shift flexibly and make chips at any time of the day."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand. When is the factory making chips?",
+        "QuestionID": "8",
+        "sentence2": "Is this the answer: 7:00 AM?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "QuestionID": "9",
+        "sentence2": "Is this the answer: a limited set of times?",
+        "label": "no",
+        "explanation": "The factory is designed to shift flexibly and make chips at any time of the day."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "QuestionID": "11",
+        "sentence2": "Is this the answer: 2:00 AM?",
+        "label": "yes",
+        "explanation": "The factory is designed to shift flexibly and make chips at any time of the day."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand. When is the factory making chips?",
+        "QuestionID": "11",
+        "sentence2": "Is this the answer: 2:00 AM?",
+        "label": "no"
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?",
+        "QuestionID": "12",
+        "sentence2": "Is this the answer: 11:00 AM?",
+        "label": "yes",
+        "explanation": "The factory is designed to shift flexibly and make chips at any time of the day."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand. When is the factory making chips?",
+        "QuestionID": "12",
+        "sentence2": "Is this the answer: 11:00 AM?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_7",
+        "sentence1": "Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. What happens once they are not surrounded by air molecules?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: they can continue breathing?",
+        "label": "no",
+        "explanation": "When there is no air, one becomes breathless."
+    },
+    {
+        "PassageID": "1_7",
+        "sentence1": "Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. What happens once they are in the pressurized suits?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: they cannot breath anymore?",
+        "label": "no"
+    },
+    {
+        "PassageID": "1_7",
+        "sentence1": "Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. What happens once they are in the pressurized suits?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: they can breathe?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are forced to have a child . Did they want children when they were younger?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: yes.`?",
+        "label": "no",
+        "explanation": "Since they were forced to have children, they could not have wanted children when they were younger."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child . Did they want children when they were younger?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: yes.`?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are forced to have a child . Did they want children when they were younger?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: yes, they did?",
+        "label": "no",
+        "explanation": "Since they were forced to have children, they could not have wanted children when they were younger."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child . Did they want children when they were younger?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: yes, they did?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child . Did they want children when they were younger?",
+        "QuestionID": "1",
+        "sentence2": "Is this the answer: yes?",
+        "label": "yes"
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are forced to have a child . Did they want children when they were younger?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: he says yes?",
+        "label": "no",
+        "explanation": "Since they were forced to have children, they could not have wanted children when they were younger."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child . Did they want children when they were younger?",
+        "QuestionID": "2",
+        "sentence2": "Is this the answer: he says yes?",
+        "label": "yes"
+    }
+]
