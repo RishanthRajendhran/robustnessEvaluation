@@ -42,7 +42,7 @@ parser.add_argument(
     "-promptType",
     type = int,
     default = 1,
-    choices = [1, 2, 3, 4, 5],
+    choices = [1, 2, 3, 4, 5, 6],
 )
 
 parser.add_argument(
@@ -60,7 +60,17 @@ parser.add_argument(
 
 parser.add_argument(
     "-dataset",
-    choices = ["condaqa", "boolq", "ropes"],
+    choices = [
+        "condaqa", 
+        "boolq", 
+        "ropes",
+        "drop",
+        "quoref",
+        "mctaco",
+        "imdb",
+        "matres",
+        "perspectrum"
+    ],
     required = True,
 )
 
@@ -79,6 +89,12 @@ parser.add_argument(
     help="RegEx pattern for json file names in the test directory that need to be merged"
 )
 
+parser.add_argument(
+    "-selfConsistency",
+    action="store_true",
+    help="Boolean flag to enable self consistency mode"
+)
+
 args = parser.parse_args()
 
 trainFiles = args.trainFiles
@@ -92,6 +108,7 @@ dataset = args.dataset
 modelSize = args.modelSize
 trainPattern = None 
 testPattern = None
+selfConsistency = args.selfConsistency
 if args.trainPattern:
     trainPattern = args.trainPattern
 if args.testPattern:
@@ -146,74 +163,31 @@ def _generatePrompt(data, promptType, bestPromptType=1, isTest=False):
         if not isTest:
             prompts.append("Give the rationale before answering.\n")
         promptType = bestPromptType
-
+    elif promptType == 6:
+        prompts.append("In this task, you’re expected to write answers to questions involving reasoning about negation. The answer to the question should be “yes”, “no”, “don’t know” or a phrase in the passage. Questions can have only one correct answer. Give the rationale before answering.\n")
     for d in data:
-        if promptType == 1 or promptType == 2 or promptType == 3:
+        if promptType == 1 or promptType == 2 or promptType == 3 or promptType == 6:
             out = "Passage: "
             out += d["sentence1"]
-            out += " Question: "
+            out += "\nQuestion: "
             out += d["sentence2"]
-            out += "\nGive the rationale before answering. "
+            if promptType != 6:
+                out += "\nGive the rationale before answering. "
             if promptType == 2:
                 out += "Answer: "
             if promptType == 3:
-                out += "Lets think step by step."
+                out += "Answer: Lets think step by step. "
+            if promptType == 6:
+                out += "\nAnswer: Lets think step by step. "
             if not isTest:
                 if "explanation" not in d.keys():
                     raise Exception("Cannot do CoT prompting without explanations!")
                 out += d["explanation"]
                 out += " So the answer is "
                 out += d["label"]
-                out += ".\n"
+                out += ".\n###\n"
             prompts.append(out)
     return prompts
-#---------------------------------------------------------------------------
-# def _generatePrompt(data, promptType, bestPromptType=1, isTest=False):
-#     prompts = []
-
-#     if promptType == 4:
-#         if not isTest:
-#             prompts.append("Answer the following yes/no/don’t know question by reasoning step by step.\n")
-#         promptType = bestPromptType
-#     elif promptType == 5:
-#         if not isTest:
-#             prompts.append("Give the rationale before answering.\n")
-#         promptType = bestPromptType
-#     passages = {}
-#     for d in data:
-#         if d["sentence1"] not in passages.keys():
-#             passages[d["sentence1"]] = []
-#         exp = ""
-#         if "explanation" in d.keys():
-#             exp = d["explanation"]
-#         curQue = {
-#             "sentence2": d["sentence2"],
-#             "label": d["label"],
-#             "explanation": exp
-#         }
-#         passages[d["sentence1"]].append(curQue)
-#     for p in passages.keys():
-#         if promptType == 1 or promptType == 2 or promptType == 3:
-#             out = "Passage: "
-#             out += p
-#             out += " Answer the following questions based on this passage:\n"
-#             for q in passages[p]:
-#                 out += "Question: "
-#                 out += q["sentence2"]
-#                 out += "\nGive the rationale before answering. "
-#                 if promptType == 2:
-#                     out += "Answer: "
-#                 if promptType == 3:
-#                     out += "Lets think step by step."
-#                 if not isTest:
-#                     if "explanation" not in d.keys():
-#                         raise Exception("Cannot do CoT prompting without explanations!")
-#                     out += d["explanation"]
-#                     out += " So the answer is "
-#                     out += d["label"]
-#                     out += ".\n"
-#             prompts.append(out)
-#     return prompts
 #---------------------------------------------------------------------------
 def generateTrainPrompt(data, promptType, bestPromptType=1):
     return _generatePrompt(data,promptType, bestPromptType)
@@ -252,52 +226,68 @@ if not os.path.exists(f"./testOuts/{dataset}"):
 
 #Only do inferencing
 with torch.no_grad():
-    pipe_flan = transformers.pipeline("text2text-generation", model=f"google/flan-t5-{modelSize}", device="cuda:0", model_kwargs={"torch_dtype":torch.bfloat16})
-    print(f"Model: FLANT5-{modelSize}")
-    for trainFile in trainFiles:
-        #Contingency
-        #Remove after first successful run
-        print(f"#{trainFile}")
-        #---------------------------------
-        if not zeroShot:
-            trainData = readJSON(trainFile, dataset)
-            trainPrompt = generateTrainPrompt(trainData, promptType, bestPromptType)
-        for testFile in testFiles:
+    if True:
+        if selfConsistency:
+            pipe_flan = transformers.pipeline("text2text-generation", model=f"google/flan-t5-{modelSize}", device="cuda:0", model_kwargs={"torch_dtype":torch.bfloat16, "num_return_sequences":5, "do_sample":True})
+        else:
+            pipe_flan = transformers.pipeline("text2text-generation", model=f"google/flan-t5-{modelSize}", device="cuda:0", model_kwargs={"torch_dtype":torch.bfloat16})
+        # pipe_flan = None
+        print(f"Model: FLANT5-{modelSize}")
+        for trainFile in trainFiles:
             #Contingency
             #Remove after first successful run
-            print(f"##{testFile}")
+            print(f"#{trainFile}")
             #---------------------------------
-            testData = readJSON(testFile, dataset)
-            testOuts = []
-            for testEx in testData:
-                testPrompt = generateTestPrompt(testEx, promptType, bestPromptType)
-                if not zeroShot:
-                    finalPrompt = ("".join(trainPrompt)) + testPrompt
-                else:
-                    finalPrompt = testPrompt                           
-
-                torch.cuda.empty_cache()
-                
-                output_flan = pipe_flan(finalPrompt, max_length=100)[0]["generated_text"]
-                
-                testEx["output"] = output_flan
-                testOuts.append(testEx)                           
-
-                torch.cuda.empty_cache()
-                
-                # del testPrompt
-                # del finalPrompt
-                # del testEx
-                # del output_flan
-                # gc.collect()
-                # torch.cuda.empty_cache()
-
-                # #Contingency
-                # #Remove after first successful run
-                # print(testEx)
+            if not zeroShot:
+                trainData = readJSON(trainFile, dataset)
+                trainPrompt = generateTrainPrompt(trainData, promptType, bestPromptType)
+            for testFile in testFiles:
+                #Contingency
+                #Remove after first successful run
+                print(f"##{testFile}")
                 #---------------------------------
+                testData = readJSON(testFile, dataset)
+                testOuts = []
+                for testEx in testData:
+                    testPrompt = generateTestPrompt(testEx, promptType, bestPromptType)
+                    if not zeroShot:
+                        finalPrompt = ("".join(trainPrompt)) + testPrompt
+                    else:
+                        finalPrompt = testPrompt                           
 
-            with open(f'./testOuts/{dataset}/{trainFile.split("/")[-1].split(".")[0]}__{testFile.split("/")[-1].split(".")[0]}__{promptType}__{zeroShot}.json', 'w') as fout:
-                json.dump(testOuts , fout)
-        print("*****")
-    print("-----")
+                    torch.cuda.empty_cache()
+
+                    if selfConsistency:
+                        output_flan = pipe_flan(finalPrompt, max_length=100)
+
+                        sampleID = f"{trainFile}_{testFile}_{testData.index(testEx)}"
+
+                        for out in output_flan: 
+                            newEx = testEx.copy()
+                            newEx["sampleID"] = sampleID
+                            newEx["output"] = out["generated_text"]
+                            testOuts.append(newEx)
+                    else:
+                        output_flan = pipe_flan(finalPrompt, max_length=100)[0]["generated_text"]
+                        
+                        testEx["output"] = output_flan
+                        testOuts.append(testEx)                           
+
+                    torch.cuda.empty_cache()
+                    
+                    # del testPrompt
+                    # del finalPrompt
+                    # del testEx
+                    # del output_flan
+                    # gc.collect()
+                    # torch.cuda.empty_cache()
+
+                    # #Contingency
+                    # #Remove after first successful run
+                    # print(testEx)
+                    #---------------------------------
+
+                with open(f'./testOuts/{dataset}/{trainFile.split("/")[-1].split(".")[0]}__{testFile.split("/")[-1].split(".")[0]}__{promptType}__{zeroShot}.json', 'w') as fout:
+                    json.dump(testOuts , fout)
+            print("*****")
+        print("-----")

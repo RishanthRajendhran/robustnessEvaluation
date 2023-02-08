@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "0_0",
+        "sentence1": "He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons. How often are chief executives typically replaced?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: every 10 weeks?",
+        "label": "no",
+        "explanation": "Most chief executives keep their positions for years."
+    },
+    {
+        "PassageID": "0_1",
+        "sentence1": "Other times, they play a game with Quack where they wave at Quack and laugh. How often do they play a game with Quack ?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: they play every other early morning?",
+        "label": "yes",
+        "explanation": "They must play be playing the game with the quacks in the morning to be able to see them."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "The bear looked up at the girl and it was almost as if he was smiling at her. When did the bear smile at the girl?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: when it walked away?",
+        "label": "no",
+        "explanation": "The bear smiled when it looked up at the girl."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "In January 1785, Hamilton attended the second meeting of the New York Manumission Society (NYMS). How often is the meeting of NYMS held?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: the meeting of nyms is held twice a week?",
+        "label": "no",
+        "explanation": "Since Hamilton had attended the only second meeting, their meeting could not have happened frequently."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "About 30% of Ratners's profit already is derived from the U.S. How long did it take to make profit?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: 1 days?",
+        "label": "no",
+        "explanation": "Most companies take several years to make profit."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "After dinner, he went to look for Max one last time before he had to take a bath and go to bed. When did he go to bed?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: 10 p.m?",
+        "label": "yes",
+        "explanation": "Most people have dinner at around 9 pm."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "Then they laid down on some towels and enjoyed the sun. How often do they lay down and enjoy the sun?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: always?",
+        "label": "no",
+        "explanation": "If it was a regular thing, they would probably not enjoy it."
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "Search \"Emiliano Malaquez\" and you'll find he's a master of the \"captured moment\" school of sculpture. What does Emiliano Malaquez do after he finishes a sculpture?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: he places it on exhibition?",
+        "label": "yes",
+        "explanation": "Once a sculptor is done sculpting, the sculpture is usually displayed at an exhibition."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "Pushkin gradually became committed to social reform and emerged as a spokesman for literary radicals. How long did it take for Pushkin to commit to social reform?",
+        "QuestionID": "0",
+        "sentence2": "Is this the answer: three days?",
+        "label": "no",
+        "explanation": "Since he did it gradually, it probably took several weeks or months."
+    }
+]

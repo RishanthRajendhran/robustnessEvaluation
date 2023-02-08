@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "0_0",
+        "sentence1": "Love Island Australia is an Australian dating reality show based on the British series Love Island. The series is presented by Sophie Monk and narrated by Eoghan McDermott. The series began airing on 9Go! and 9Now on 27 May 2018. The final aired on 5 July 2018, with Grant Crapp and Tayla Damir winning and sharing the $50,000 prize money. Eden Dally and Erin Barnett finished as runners up.",
+        "QuestionID": "0",
+        "sentence2": "is there a prize for love island australia",
+        "label": "True",
+        "explanation": "There is a $50000 prize money."
+    },
+    {
+        "PassageID": "0_1",
+        "sentence1": "Sections 1 to 5 of the Act cover ``general bribery offences''. The crime of bribery is described in Section 1 as occurring when a person offers, gives or promises to give a ``financial or other advantage'' to another individual in exchange for ``improperly'' performing a ``relevant function or activity''. Section 2 covers the offence of being bribed, which is defined as requesting, accepting or agreeing to accept such an advantage, in exchange for improperly performing such a function or activity. ``Financial or other advantage'' is not defined in the Act, but, according to Aisha Anwar and Gavin Deeprose in the Scots Law Times, ``could potentially encompass items such as contracts, non-monetary gifts and offers of employment''. The ``relevant function or activity'' element is explained in Section 3--it covers ``any function of a public nature; any activity connected with a business, trade or profession; any activity performed in the course of a person's employment; or any activity performed by or on behalf of a body of persons whether corporate or unincorporated''. This applies to both private and public industry, and encompasses activities performed outside the UK, even activities with no link to the country. The conditions attached are that the person performing the function could be expected to be performing it in good faith or with impartiality, or that an element of trust attaches to that person's role.",
+        "QuestionID": "0",
+        "sentence2": "does the bribery act only cover monetary payments",
+        "label": "True",
+        "explanation": "The act also covers contracts, non-monetary gifts and offers of employment."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "In baseball in the United States and Canada, the seventh-inning stretch is a tradition that takes place between the halves of the seventh inning of a game -- in the middle of the seventh inning. Fans generally stand up and stretch out their arms and legs and sometimes walk around. It is a popular time to get a late-game snack or an alcoholic beverage as well, as vendors end alcohol sales after the last out of the seventh inning. The stretch also serves as a short break for the players. Most ballparks in professional baseball mark this point of the game by playing the crowd sing-along song ``Take Me Out to the Ball Game''. Since the September 11 attacks, many American ballparks complement or replace the song with the playing of ``God Bless America.'' If a game goes into a fifth extra inning, a similar ``fourteenth-inning stretch'' is celebrated (as well as a possible ``twenty-first inning stretch'' or ``twenty-eighth inning stretch''). In softball games, amateur games scheduled for only seven innings, or in minor-league doubleheaders, a ``fifth-inning stretch'' may be substituted.",
+        "QuestionID": "0",
+        "sentence2": "do all baseball teams sing the 7th inning stretch",
+        "label": "False",
+        "explanation": "The players take a break while the crowd sings along."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "The series finale closes several long-running storylines. Ross Geller (David Schwimmer) confesses his love for Rachel Green (Jennifer Aniston), and they decide to resume their relationship; and Monica Geller (Courteney Cox) and Chandler Bing (Matthew Perry) adopt twins and move to the suburbs. The episode's final scene shows the group leaving their apartments for the final time and going to Central Perk for one last cup of coffee.",
+        "QuestionID": "0",
+        "sentence2": "did ross and rachel ever end up together",
+        "label": "True",
+        "explanation": "Ross and Rachel resumed their relationship after the former confessed his love to the latter."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "The first Lidl discount store was opened in 1973, copying the Aldi concept. Schwarz rigorously removed merchandise that did not sell from the shelves, and cut costs by keeping the size of the retail outlets as small as possible. By 1977, the Lidl chain comprised 33 discount stores.",
+        "QuestionID": "0",
+        "sentence2": "are aldi & lidl part of the same company",
+        "label": "False",
+        "explanation": "Lidl copied Aldi\u2019s concept. Therefore, it is unlikely that they belong to the same company."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "With the exceptions of Louisiana, Puerto Rico, Quebec (whose private law is based on civil law), and British Columbia (whose notarial tradition stems from scrivener notary practice), a notary public in the rest of the United States and most of Canada has powers that are far more limited than those of civil-law or other common-law notaries, both of whom are qualified lawyers admitted to the bar: such notaries may be referred to as notaries-at-law or lawyer notaries. Therefore, at common law, notarial service is distinctly different from the practice of law, and giving legal advice and preparing legal instruments is forbidden to lay notaries such as those appointed throughout most of the United States of America.",
+        "QuestionID": "0",
+        "sentence2": "does a notary have to be a lawyer",
+        "label": "False",
+        "explanation": "The notary service is distinctly different from the practice of law."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "Reseda /r\u0259\u02c8si\u02d0d\u0259/ is a neighborhood in the San Fernando Valley in Los Angeles, California. It was founded in 1912, and its central business district started in 1915. The neighborhood was devoted to agriculture for many years. Earthquakes struck the area in 1971 and 1994.",
+        "QuestionID": "0",
+        "sentence2": "is reseda in the city of los angeles",
+        "label": "True",
+        "explanation": "Reseda is a neighbourhood in Los Angeles."
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "Equus is a genus of mammals in the family Equidae, which includes horses, donkeys, and zebras. Within Equidae, Equus is the only recognized extant genus, comprising seven living species. The term equine refers to any member of this genus, including horses. Like Equidae more broadly, Equus has numerous extinct species known only from fossils. The genus most likely originated in North America and spread quickly to the Old World. Equines are odd-toed ungulates with slender legs, long heads, relatively long necks, manes (erect in most subspecies), and long tails. All species are herbivorous, and mostly grazers, with simpler digestive systems than ruminants, but able to subsist on lower-quality vegetation.",
+        "QuestionID": "0",
+        "sentence2": "are horses donkeys and zebras the same species",
+        "label": "False",
+        "explanation": "They belong to the same genus but different species."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "A no call, no show is an absence from the workforce without notifying the employer. This form of absence is generally deemed inconsiderate and unprofessional, or passive.",
+        "QuestionID": "0",
+        "sentence2": "is it illegal to not turn up to work",
+        "label": "False",
+        "explanation": "It is not illegal but is considered unprofessional."
+    }
+]

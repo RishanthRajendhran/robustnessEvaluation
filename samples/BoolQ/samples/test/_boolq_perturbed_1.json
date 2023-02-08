@@ -1,0 +1,622 @@
+[
+    {
+        "title": "Enchanted Forest (Oregon)",
+        "paragraph": "The Enchanted Forest is an amusement park located in Turner in the U.S. state of Oregon, next to Interstate 5 just south of Salem. Creator Roger Tofte opened the park in 1971 after seven years of construction. Today, the Tofte family still owns and operates the 20-acre (8.1 ha) park.",
+        "question": "is the enchanted forest in oregon still open",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "is the \"enchanted forest\" in oregon still run by Roger Tofte",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is the \"enchanted forest\" in oregon still run by Roger Tofte's family",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is the \"enchanted forest\" in oregon still in south of Salem",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is the \"enchanted forest\" in oregon still under construction",
+                "answer": "FALSE"
+            }
+        ]
+    },
+    {
+        "title": "Carbon\u2013hydrogen bond",
+        "paragraph": "The carbon-hydrogen bond (C--H bond) is a bond between carbon and hydrogen atoms that can be found in many organic compounds. This bond is a covalent bond meaning that carbon shares its outer valence electrons with up to four hydrogens. This completes both of their outer shells making them stable. Carbon--hydrogen bonds have a bond length of about 1.09 \u00c5 (1.09 \u00d7 10 m) and a bond energy of about 413 kJ/mol (see table below). Using Pauling's scale--C (2.55) and H (2.2)--the electronegativity difference between these two atoms is 0.35. Because of this small difference in electronegativities, the C\u2212H bond is generally regarded as being non-polar. In structural formulas of molecules, the hydrogen atoms are often omitted. Compound classes consisting solely of C--H bonds and C--C bonds are alkanes, alkenes, alkynes, and aromatic hydrocarbons. Collectively they are known as hydrocarbons.",
+        "question": "can carbon form polar covalent bonds with hydrogen",
+        "answer": "FALSE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "does carbon bonds with hydrogen have zero polarity",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "does carbon bonds with hydrogen have non-zero polarity",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "does carbon bonds with hydrogen have small polarity",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "does hydrogen bonds with carbon have small polarity",
+                "answer": "TRUE"
+            }
+        ]
+    },
+    {
+        "title": "Federal government of the United States",
+        "paragraph": "The Federal Government of the United States (U.S. Federal Government) is the national government of the United States, a federal republic in North America, composed of 50 states, one district--Washington, D.C., and several territories. The federal government is composed of three distinct branches: legislative, executive, and judicial, whose powers are vested by the U.S. Constitution in the Congress, the president, and the federal courts, respectively. The powers and duties of these branches are further defined by acts of Congress, including the creation of executive departments and courts inferior to the Supreme Court.",
+        "question": "does the united states have a federal system of government",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "does the united states have a Congress",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "does the united states have a federal system of government in South America",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "does the united states have a federal system of government composed of less than 20 states",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "does the united states have a federal system of government, composed of only two legislative and executive branches",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "does the united states have a federal system of government with powers and defined by the president",
+                "answer": "FALSE"
+            }
+        ]
+    },
+    {
+        "title": "Chasing Cars",
+        "paragraph": "``Chasing Cars'' is a song by Northern Irish alternative rock band Snow Patrol. It was released as the second single from their fourth studio album, Eyes Open (2006). It was recorded in 2005 and released on 6 June 2006 in the United States and 24 July 2006 in the United Kingdom. The song gained significant popularity in the US after being featured in the second season finale of the popular medical drama Grey's Anatomy, which aired on 15 May 2006.",
+        "question": "was chasing cars written for grey's anatomy",
+        "answer": "FALSE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "was ``chasing cars'' written as the fourth single from their second studio album",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "was ``chasing cars'' released on 15 May 2006",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "was ``chasing cars'' released in 2005",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "was ``chasing cars'' released in 6 June 2006 in the United Kingdom",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "was ``chasing cars'' released in July 2006 in the United Kingdom",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "was ``chasing cars'' released in May 2006 in the United Kingdom",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "was the movie in which ``chasing cars'' featureed, aired on May 2006 in the United Kingdom",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "was ``chasing cars'' written as the second single from their fourth studio album",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "was ``chasing cars'' featured in Grey's Anatomy",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "was ``chasing cars'' featured in second season premier of Grey's Anatomy",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "was ``chasing cars'' featured in the third season finale of Grey's Anatomy",
+                "answer": "FALSE"
+            }
+        ]
+    },
+    {
+        "title": "India national football team",
+        "paragraph": "India has never participated in the FIFA World Cup, although the team did qualify by default for the 1950 World Cup after all the other nations in their qualification group withdrew. However, India withdrew prior to the beginning of the tournament. The team has also appeared three times in the Asia's top football competition, the AFC Asian Cup. Their best result in the competition occurred in 1964 when the team finished as runners-up. India also participate in the SAFF Championship, the top regional football competition in South Asia. They have won the tournament six times since it began in 1993.",
+        "question": "did indian football team qualified for fifa 2018",
+        "answer": "FALSE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "did indian football team qualify for the FIFA 2018",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "did indian football team qualify for the FIFA World Cup 1964",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "did indian football team qualify for the AFC Asian Cup 1964",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "did indian football team participate in FIFA World Cup 1950",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "did indian football team qualify for FIFA World Cup 1993",
+                "answer": "FALSE"
+            }
+        ]
+    },
+    {
+        "title": "Dessert spoon",
+        "paragraph": "As a unit of culinary measure, a level dessertspoon (dstspn.) equals two teaspoons, or 10 milliliters, whereas a U.S. tablespoon is three teaspoons (15ml or half a fluid ounce) in the U.S., and two dessertspoons, i.e. four teaspoons (20ml or two thirds of a fluid ounce) in Britain and Australia, which is the old British standard. For dry ingredients, a rounded or heaped teaspoonful is often specified instead.",
+        "question": "is a tablespoon bigger than a dessert spoon",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "is a tablespoon smaller than a dessert spoon",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is a dessert smaller than a tablespoon spoon",
+                "answer": "TRUE"
+            }
+        ]
+    },
+    {
+        "title": "Routing number (Canada)",
+        "paragraph": "A routing number consists of a five digit transit number (also called branch number) identifying the branch where an account is held and a three digit financial institution number corresponding to the financial institution. The number is given as one of the following forms, where XXXXX is the transit number and YYY is the financial institution number:",
+        "question": "is the routing number the same as transit number",
+        "answer": "FALSE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "is the routing number the same as digit financial institution number",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is the routing number a five digit number",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is the routing number a three digit number",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is the routing number a eight digit number",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is the routing number a combination of a transit number a digit financial institution number",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is branch number the same as transit number",
+                "answer": "TRUE"
+            }
+        ]
+    },
+    {
+        "title": "Pirates of the Caribbean (film series)",
+        "paragraph": "Shortly before the release of On Stranger Tides, it was reported that Disney was planning to shoot the fifth and the sixth films back-to-back, although it was later revealed that only the fifth film was in development. On March 4, 2017, director Joachim R\u00f8nning stated that Dead Men Tell No Tales was only the beginning of the final adventure, implying that it would not be the last film of the franchise and that a sixth film could be released.",
+        "question": "is there going to be any more pirates of the caribbean films",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "has there been four releases of \"pirates of the caribbean\" films",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "has there been five releases of \"pirates of the caribbean\" films",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "has there been six releases of \"pirates of the caribbean\" films",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is there going to be any more pirates of the caribbean films with the same name of \"On Stranger Tides\"",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is there going to be any more pirates of the caribbean films in the same year",
+                "answer": "FALSE"
+            }
+        ]
+    },
+    {
+        "title": "Scotland at the FIFA World Cup",
+        "paragraph": "Scotland have never advanced beyond the first round of the finals competition. They have missed out on progressing to the second round three times on goal difference: in 1974, when Brazil edged them out; in 1978, when the Netherlands progressed; and in 1982, when the USSR went through. Although Scotland have played at eight finals tournaments, they have qualified on nine occasions. The Scottish Football Association declined to participate in 1950 as Scotland were not the British champions.",
+        "question": "have scotland ever been in the world cup final",
+        "answer": "FALSE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "have scotland ever been in the world cup final competition",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "have scotland ever been in the world cup final competition beyond the first round",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "have scotland ever been in eight world cup final competition",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "have scotland ever been in nine world cup final competition",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "have scotland participated in the 1950 world cup final competition",
+                "answer": "FALSE"
+            }
+        ]
+    },
+    {
+        "title": "Alcohol laws of New York",
+        "paragraph": "In response to the National Minimum Drinking Age Act in 1984, which reduced by up to 10% the federal highway funding of any state which did not have a minimum purchasing age of 21, the New York Legislature raised the drinking age from 19 to 21, effective December 1, 1985. (The drinking age had been 18 for many years before the first raise on December 4th, 1982, to 19.) Persons under 21 are prohibited from purchasing alcohol or possessing alcohol with the intent to consume, unless the alcohol was given to that person by their parent or legal guardian. There is no law prohibiting where people under 21 may possess or consume alcohol that was given to them by their parents. Persons under 21 are prohibited from having a blood alcohol level of 0.02% or higher while driving.",
+        "question": "can minors drink with parents in new york",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "can minors drink without parents in new york",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "can minors under age 19 drink with parents in new york",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "can minors under age 19 drink on their own in new york",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "can minors under age 21 drink with parents in new york",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "can minors under age 21 drink on their own in new york",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "can minors under age 21 drink and drive with parents in new york",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "can minors under age 21 drink and drive without parents in new york",
+                "answer": "FALSE"
+            }
+        ]
+    },
+    {
+        "title": "Floating island",
+        "paragraph": "A floating island is a mass of floating aquatic plants, mud, and peat ranging in thickness from several centimetres to a few metres. Floating islands are a common natural phenomenon that are found in many parts of the world. They exist less commonly as a man-made phenomenon. Floating islands are generally found on marshlands, lakes, and similar wetland locations, and can be many hectares in size.",
+        "question": "is there such a thing as a floating island",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "is floating island a fictional concept",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "can a floating island be found in many places in the world",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is there such a thing as man-made floating island",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is there such a thing as naturally-made floating island",
+                "answer": "TRUE"
+            }
+        ]
+    },
+    {
+        "title": "White House",
+        "paragraph": "The White House is the official residence and workplace of the President of the United States. It is located at 1600 Pennsylvania Avenue NW in Washington, D.C. and has been the residence of every U.S. President since John Adams in 1800. The term is often used as a metonym for the president and his advisers.",
+        "question": "does the president live in the white house",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "does the president work in the white house",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "did John Adams live in the white house",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "did George Washington live in the white house",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "does the president live at 1600 Pennsylvania Avenue NW",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "have all the presidents lived in the white house",
+                "answer": "FALSE"
+            }
+        ]
+    },
+    {
+        "title": "David Visentin",
+        "paragraph": "David Visentin (born 1965) is a Canadian actor and realtor. He is best known as one of the hosts of Love It or List It, with co-host Hilary Farr. The show is broadcast on HGTV and W Networks. He is a native citizen of Canada.",
+        "question": "is david from love it or list it a real realtor",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "is david from \"love it or list it\" a real realtor",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is david from \"love it or list it\" a Canadia",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is david from \"love it or list it\" know Hilary Farr",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is david Visentin a real realtor",
+                "answer": "TRUE"
+            }
+        ]
+    },
+    {
+        "title": "Bumblebee",
+        "paragraph": "The chill-coma temperature in relation to flying insects is the temperature at which flight muscles cannot be activated. Compared to honey bees and carpenter bees, bumblebees have the lowest chill-coma temperature. Of the bumblebees Bombus bimaculatus has the lowest at 7 \u00b0C (45 \u00b0F). However, bumblebees have been seen to fly in colder ambient temperatures. This discrepancy is likely because the chill-coma temperature was determined by tests done in a laboratory setting. However, bumblebees live in insulated shelters and can shiver to warm up before venturing into the cold.",
+        "question": "is a bumble bee the same as a carpenter bee",
+        "answer": "FALSE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "is a bumble bee the same as a honey bee",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "does a bumble bee have lower chill-comma temperature than a carpenter bee",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "does a carpenter bee have lower chill-comma temperature than a bumble bee",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "does a bumble bee have lower chill-comma temperature than a honey bee",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "does a honey bee have lower chill-comma temperature than a bumble bee",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "does a bumble bee have any chill-comma temperature",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "does a carpenter bee have any chill-comma temperature",
+                "answer": "TRUE"
+            }
+        ]
+    },
+    {
+        "title": "Army Service Uniform",
+        "paragraph": "The ASU includes a midnight blue coat and low waist trousers for male soldiers; and a midnight blue coat, slacks and skirt for female soldiers. The fabric for the ASU is heavier and more wrinkle resistant than previously manufactured uniforms and will consist of 55% wool and 45% polyester material. The ASU coat has a tailored, athletic cut to improve uniform fit and appearance. The ASU includes an improved heavier and wrinkle resistant short and long-sleeved white shirt with permanent military creases and shoulder loops. The JROTC version replaces the white shirt with the prototype grey shirt and gold braid is not worn on the blue trousers or on the sleeves of the class A coat. Compared to the Army's previous uniforms, the ASU does not include a garrison cap; soldiers will continue to wear the Army's berets.",
+        "question": "can you wear short sleeve shirt with asu jacket",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "can you wear long sleeve shirt with asu jacket",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "can you still wear garrison cap in asu uniform",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "can you still wear berets in asu uniform",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "can you still wear white shirts in asu uniform",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "can you still wear grey shirts in asu uniform",
+                "answer": "TRUE"
+            }
+        ]
+    },
+    {
+        "title": "Scar (The Lion King)",
+        "paragraph": "Scar makes a brief cameo appearance in the film in Simba's nightmare. In the nightmare, Simba runs down the cliff where his father died, attempting to rescue him. Scar intervenes, however, and then turns into Kovu and throws Simba off the cliff. Scar makes another cameo appearance in a pool of water, as a reflection, after Kovu is exiled from Pride Rock.",
+        "question": "is scar alive in the lion king 2",
+        "answer": "FALSE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "does scar appear in Simba's dreams",
+                "answer": "TRUE"
+            }
+        ]
+    },
+    {
+        "title": "The Handmaid's Tale (film)",
+        "paragraph": "The Handmaid's Tale is a 1990 film adaptation of Margaret Atwood's novel of the same name. Directed by Volker Schl\u00f6ndorff, the film stars Natasha Richardson (Kate/Offred), Faye Dunaway (Serena Joy), Robert Duvall (The Commander, Fred), Aidan Quinn (Nick), and Elizabeth McGovern (Moira). The screenplay was written by Harold Pinter. The original music score was composed by Ryuichi Sakamoto. MGM Home Entertainment released an Avant-Garde Cinema DVD of the film in 2001. The film was entered into the 40th Berlin International Film Festival.",
+        "question": "is there a movie the handmaid's tale",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "is there a 2001 movie named \"the handmaid's tale\"",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is there a novel called \"the handmaid's tale\"",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is there a novel called \"Margaret Atwood\"",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is there a novel written by \"Margaret Atwood\"",
+                "answer": "TRUE"
+            }
+        ]
+    },
+    {
+        "title": "Indiana Jones and the Temple of Doom",
+        "paragraph": "Indiana Jones and the Temple of Doom is a 1984 American action-adventure film directed by Steven Spielberg. It is the second installment in the Indiana Jones franchise and a prequel to the 1981 film Raiders of the Lost Ark, featuring Harrison Ford reprising his role as the title character. After arriving in North India, Indiana Jones is asked by desperate villagers to find a mystical stone and rescue their children from a Thuggee cult practicing child slavery, black magic and ritual human sacrifice in honor of the goddess Kali.",
+        "question": "is indiana jones temple of doom a prequel",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "is indiana jones 'temple of doom' a prequel",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is indiana jones 'Raiders of the Lost Ark' a prequel",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is indiana jones in 'temple of doom' practicing child slavery",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "is indiana jones 'temple of doom' a North Indian movie",
+                "answer": "FALSE"
+            }
+        ]
+    },
+    {
+        "title": "United States women's national soccer team",
+        "paragraph": "After the defeat in the 2016 Olympics, the USWNT underwent a year of experimentation which saw them losing 3 home games. If not for a comeback win against Brazil, the USWNT was on the brink of losing 4 home games in one year, a low never before seen by the USWNT. 2017 saw the USWNT play 12 games against teams ranked in the top-15 in the world. The USWNT heads into World Cup Qualifying in fall of 2018.",
+        "question": "is the us womens soccer team in the world cup",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "did the us womens soccer team always win its games",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "did the us womens soccer team always lose its games",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "After the defeat in the 2016 Olympic, did the us womens soccer team lose only three consecutive home games",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "After the defeat in the 2016 Olympic, did the us womens soccer team lose four consecutive home games",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "did the us womens soccer team bounce back after its low",
+                "answer": "TRUE"
+            }
+        ]
+    },
+    {
+        "title": "African nations at the FIFA World Cup",
+        "paragraph": "Association football is the most popular sport in nearly every African country, and 13 members of the Confederation of African Football (CAF) have competed at the sport's biggest event -- the men's FIFA World Cup.",
+        "question": "can an african team win the world cup",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "do african teams compete in the world cup",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "do african countries dislike to compete in the world cup",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "can an african team win the men's FIFA World Cup",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "can an african team lose the men's FIFA World Cup",
+                "answer": "TRUE"
+            }
+        ]
+    },
+    {
+        "title": "List of backward compatible games for Xbox One",
+        "paragraph": "The Xbox One gaming console has received updates from Microsoft since its launch in 2013 that enable it to play select games from its two predecessor consoles, Xbox and Xbox 360. On June 15, 2015, backward compatibility with supported Xbox 360 games became available to eligible Xbox Preview program users with a beta update to the Xbox One system software. The dashboard update containing backward compatibility was released publicly on November 12, 2015. On October 24, 2017, another such update added games from the original Xbox library. The following is a list of all backward compatible games on Xbox One under this functionality.",
+        "question": "will all xbox 360 games work on xbox one",
+        "answer": "FALSE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "will several select xbox 360 games work on xbox one",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is the list of xbox 360 games that work on xbox one known",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "is the list of xbox 360 games that work on xbox one kept secret",
+                "answer": "FALSE"
+            },
+            {
+                "perturbed_q": "will some xbox 360 games remain incompatible with xbox one",
+                "answer": "TRUE"
+            }
+        ]
+    },
+    {
+        "title": "English words without vowels",
+        "paragraph": "English orthography typically represents vowel sounds with the five conventional vowel letters \u27e8a, e, i, o, u\u27e9, as well as \u27e8y\u27e9, which may also be a consonant depending on context. However, outside of abbreviations, there are a handful of words in English that do not have vowels, either because the vowel sounds are not written with vowel letters or because the words themselves are pronounced without vowel sounds.",
+        "question": "can there be a word without a vowel",
+        "answer": "TRUE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "can there be a word in English without a vowel",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "can there be a word in English with only consonant letters",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "can there be abbreviations without a vowel letters",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "are all words in English written only with consonant letters",
+                "answer": "FALSE"
+            }
+        ]
+    },
+    {
+        "title": "Deion Sanders",
+        "paragraph": "Sanders played football primarily at cornerback, but also as a kick returner, punt returner, and occasionally wide receiver. He played in the National Football League (NFL) for the Atlanta Falcons, the San Francisco 49ers, the Dallas Cowboys, the Washington Redskins and the Baltimore Ravens, winning the Super Bowl with both the 49ers and the Cowboys. An outfielder in baseball, he played professionally for the New York Yankees, the Atlanta Braves, the Cincinnati Reds and the San Francisco Giants, and participated in the 1992 World Series with the Braves. He attended Florida State University, where he was recognized as a two-time All-American in football, and also played baseball and ran track.",
+        "question": "did deion sanders ever win a world series",
+        "answer": "FALSE",
+        "perturbed_questions": [
+            {
+                "perturbed_q": "did deion sanders ever play in world series",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "did deion sanders ever play in world series final",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "did deion sanders ever win a super bowl",
+                "answer": "TRUE"
+            },
+            {
+                "perturbed_q": "did deion sanders ever play in world series with San Francisco 49ers",
+                "answer": "FALSE"
+            }
+        ]
+    }
+]

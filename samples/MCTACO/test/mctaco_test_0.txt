@@ -1,0 +1,3590 @@
+PassageID: 0
+Passage: Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean. What time did they leave the playground?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 12 midnight?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: once a year?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 1
+Passage: She told them that she would help take care of the puppy, if she could have one. For how long would she care for the puppy?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 135 years?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 2
+Passage: Later in the month, they traveled to China by train and were allowed to see how different life was over there. How long did they stay in China?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: two weeks?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: two week?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3
+Passage: They packed up the car and drove to the library, ready for a fun morning. When did they get to the library?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 8:00 AM?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: i eat a meal every 3 minutes?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4
+Passage: They packed up the car and drove to the library, ready for a fun morning. How often do they drive to the library?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every few seconds?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: multiples times in a month?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 5
+Passage: After meeting Maharishi Mahesh Yogi , the Beatles quickly return to London , and in a press conference they say they made a mistake when they trusted Maharishi . What happened after the press conference?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: they denounced maharishi?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 1 century?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 6
+Passage: She later adopted the stage name Fontaine -- the name of her mother's second husband. What happened after she was given a stage name?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: she retired?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: sometime around  june?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 7
+Passage: She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , now a dissolute alcoholic . How frequently does Tom drink?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every other week?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: yearly?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 8
+Passage: At about 9:20, security personnel at FAA headquarters set up a hijacking teleconference with several agencies, including the Defense Department. When did the teleconference end?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: at least 20 years?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: once a second?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 9
+Passage: She added a special growing mix from the garden store to make the soil better. What happened after the growing mix was added?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: the crops died?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: the plants grew better?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 10
+Passage: Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child . How long have they been anxious to have children?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: two weeks?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: the prime minister and powell met before 1981?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 11
+Passage: The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year does the average user go to a museum to look at fossils?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 125?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: five times a day?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 12
+Passage: Upon graduation in 1975, she entered private law practice in Oxford, joining NMRLS in 1978. How many cases does she work on a month?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 2?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 6?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 13
+Passage: A thin, washed-out, pretty woman stood up, and clasped her hands in front of her. How long were her hands clasped?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1 month?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: thousands of hours?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 14
+Passage: After meeting Maharishi Mahesh Yogi , the Beatles quickly return to London , and in a press conference they say they made a mistake when they trusted Maharishi . What happened after the press conference?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: they returned home?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: almost never?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 15
+Passage: She told them that she would help take care of the puppy, if she could have one. How often did she ask for a puppy?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every second?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 16
+Passage: The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year does the average user go to a museum to look at fossils?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: once?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: every few weeks?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 17
+Passage: Even though electronic espionage may cost U.S. firms billions of dollars a year, most aren't yet taking precautions, the experts said. Will electronic espionage always be happening in the U.S.?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: electronic intelligence does not exist?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 12.5?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 18
+Passage: Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps. Will the wiretaps last forever?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: he asked no questions?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 19
+Passage: A thin, washed-out, pretty woman stood up, and clasped her hands in front of her. How long were her hands clasped?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 10 days?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: days?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 20
+Passage: However, more recently, it has been suggested that it may date from earlier than Abdalonymus' death. How long has it existed?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1 year?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 4:00 PM?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 21
+Passage: One day, Kevin traveled from his home in the United States of America to Erin's house in England. How long did the trip take?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 162 seconds?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: she took a nap?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 22
+Passage: The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through donations. How often did al Qaeda receive donations prior to 9/11?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: monthly?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: a few seconds?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 23
+Passage: Einstein's affiliation with the Institute for Advanced Study would last until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 66 months?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: more fish started to live there?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 24
+Passage: Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go down the highest ramp?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: ten weeks?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: no?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 25
+Passage: After finally sleeping with Lucrezia , Callimaco confesses everything . How long had Callimaco pursued Lucrezia?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1 hour?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: a few years?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 26
+Passage: They packed up the car and drove to the library, ready for a fun morning. How long  was the drive?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 10 miles?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: they will not last forever?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 27
+Passage: The new novel takes place in a morally gray and often violent world. How often is there violence
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: twice a year?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 1 hour?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 28
+Passage: In the end , they drive off , listening to the radio . How long was the drive?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 2 years?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: in the classroom?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 29
+Passage: Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child . How often to Nicia and Lucrezia express their desire to have children?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every day?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 18 weeks?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 30
+Passage: What if you rode the bus or were driven in a car? How often do kids ride the bus?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 5 centuries a week?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 10:30 AM?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 31
+Passage: Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday. When did Roberta arrive at the Lamoreaux Justice Center?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 10:45 PM?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 1 night?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 32
+Passage: A thin, washed-out, pretty woman stood up, and clasped her hands in front of her. How long were her hands clasped?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 15 hours?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: thousands of years?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 33
+Passage: Upon graduation in 1975, she entered private law practice in Oxford, joining NMRLS in 1978. How many cases does she work on a month?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 3?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 120?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 34
+Passage: She told them that she would help take care of the puppy, if she could have one. How often did she ask for a puppy?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every 60 years?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 35
+Passage: The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly, senior vice president in charge of IBM's technology group. How long did John Kelly speak?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1 hour?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: one year?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 36
+Passage: He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent arrival. How often does the building host shows?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 3 times a day?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 37
+Passage: Even though electronic espionage may cost U.S. firms billions of dollars a year, most aren't yet taking precautions, the experts said. Will electronic espionage always be happening in the U.S.?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: electronic espionage does not existed?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: billions of years?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 38
+Passage: Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child . How long have they been anxious to have children?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: two years?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 10:00 AM?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 39
+Passage: A thin, washed-out, pretty woman stood up, and clasped her hands in front of her. What did she do after clasping her hands together?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: she talked to the audience?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: almost never?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 40
+Passage: The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period leading up to 9/11. When did al Qaeda begin financing itself?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 2012?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 4 p.m?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 41
+Passage: Gonzo treated himself to a massage today to try to work out all of his stuntman kinks. Was Gonzo still having a massage the next week?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: yes the massage was under an hour?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 0.6 days?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 42
+Passage: Durer's father died in 1502, and his mother died in 1513. How often did Durer visit his mother's grave?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every hour?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: every night?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 43
+Passage: The state has been first to pass major public health initiatives that have spread throughout the country. What day did the health initiatives pass?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: tomorrow?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 44
+Passage: A thin, washed-out, pretty woman stood up, and clasped her hands in front of her. How long were her hands clasped?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 25 hours?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: after 1502?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 45
+Passage: She had it for a long time so it is now a dark brown color. How long has she had it?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: ten years?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: every day?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 46
+Passage: The new novel takes place in a morally gray and often violent world. How often is there violence
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: once in a few seconds?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: rarely?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 47
+Passage: These fossils showed that this entire area was once at the bottom of a sea. For how long was the area at the bottom of the sea?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1 week?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 2000 years?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 48
+Passage: Danny begins spending less and less time at home with his wife and children . What time would he leave home in the morning?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 3:00 PM?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: Maybe next week ?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 49
+Passage: The letterhead on correspondence still bears the Bexar County Legal Aid name, even though the organization is no longer. How long was the organization active?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1000 years?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: i eat a meal every 15 minutes?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 50
+Passage: If you walked, you used chemical energy from the food you ate. How often do you eat a meal?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: once a hour?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 51
+Passage: Gonzo treated himself to a massage today to try to work out all of his stuntman kinks. Was Gonzo still having a massage the next week?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: he had no time to work?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: hourly?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 52
+Passage: She added a special growing mix from the garden store to make the soil better. What happened after the growing mix was added?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: the plants grew more?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: the plants grow worse?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 53
+Passage: One day, Kevin traveled from his home in the United States of America to Erin's house in England. How long did the trip take?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: about one second?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: twice a year?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 54
+Passage: Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. How long do the suits remain pressurized?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: two months?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: a few seconds?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 55
+Passage: Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. How long do the suits remain pressurized?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 10 days?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: they are sold off the black market?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 56
+Passage: He had never had any pets before, but was always excited to see the other dogs and cats in his neighborhood. When does he most often see dogs and cats.
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: during the day after school?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: every week?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 57
+Passage: The Vice President's guidance was we need to take them out." When is he wanting to take them out
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 18 years from now?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 58
+Passage: He has not told his wife that he was fired and is simply serving out his tenure at the agency while looking for a new position . When was he fired?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: friday?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 5 years?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 59
+Passage: A thin, washed-out, pretty woman stood up, and clasped her hands in front of her. How long were her hands clasped?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: one minute?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: before 1502?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 60
+Passage: Later in the month, they traveled to China by train and were allowed to see how different life was over there. How long did they stay in China?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: three weeks?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: few hours?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 61
+Passage: One day, Kevin traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: once a week?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: no?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 62
+Passage: The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand. When is the factory making chips?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1:00 PM?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: five hours?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 63
+Passage: In Malaysia, Powell met with Prime Minister Mahathir Mohamad, who has led the country since 1981. When did Powell and the Prime Minister meet ?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: the prime minister and powell met before 1981?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: decades?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 64
+Passage: Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go down the highest ramp?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: just a few seconds?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: for hours as long as the workers are in them?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 65
+Passage: In the end , they drive off , listening to the radio . How many times did they change the music during the trip?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 9000?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: in their basement ?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 66
+Passage: In the end , they drive off , listening to the radio . How many times did they change the music during the trip?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 111.11?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: more than 10 years?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 67
+Passage: However, more recently, it has been suggested that it may date from earlier than Abdalonymus' death. How long has it existed?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: thousands of centuries?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: they go to the playground once every few days?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 68
+Passage: The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year does the average user go to a museum to look at fossils?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 0.2 time?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: every few hours?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 69
+Passage: In the end , they drive off , listening to the radio . How long was the drive?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 2 weeks?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: during the hour after school?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 70
+Passage: They packed up the car and drove to the library, ready for a fun morning. How often do they drive to the library?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every few weeks?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 100 times a day?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 71
+Passage: Human operators are there to monitor the systems, catch errors and fine-tune the production process for maximum efficiency. When does the human operators first shift end?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 4 p.m?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: noon?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 72
+Passage: Einstein's affiliation with the Institute for Advanced Study would last until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 90 second?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 22 months?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 73
+Passage: Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday. When did Roberta arrive at the Lamoreaux Justice Center?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 10:00 AM?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: each minute?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 74
+Passage: He also submitted various suggestions as to its initial programs. How often do they accept suggestions for programs?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: each minute?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: he worked as a successful lawyer?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 75
+Passage: What if you rode the bus or were driven in a car? How often do kids ride the bus?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every 45 minutes?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 1:00 PM?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 76
+Passage: In Malaysia, Powell met with Prime Minister Mahathir Mohamad, who has led the country since 1981. When did Powell and the Prime Minister meet ?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: powell and the prime minister met after 1981?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 1 minute?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 77
+Passage: At about 9:20, security personnel at FAA headquarters set up a hijacking teleconference with several agencies, including the Defense Department. When did the teleconference end?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: at least 20?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: every hour?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 78
+Passage: The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through donations. How often did al Qaeda receive donations prior to 9/11?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every century?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: a few minutes?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 79
+Passage: He also submitted various suggestions as to its initial programs. How long did it take him to come up with his suggestions?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 60 years?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: immediately?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 80
+Passage: Danny begins spending less and less time at home with his wife and children . What time would he leave home in the morning?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 9:00 PM?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: around Monday ?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 81
+Passage: Durer's father died in 1502, and his mother died in 1513. When did Durer die?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 4545?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: three times a week?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 82
+Passage: In the fall of 1991, he asked a German family he had met in Cairo to help him continue his education in Germany. How long will he want help?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 15 years?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: for a few years?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 83
+Passage: If you walked, you used chemical energy from the food you ate. How often do you eat a meal?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: i eat a meal every 9 days?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 84
+Passage: Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean. What time did they leave the playground?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 5:00 AM?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: he took 0.78 years off?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 85
+Passage: Later in the month, they traveled to China by train and were allowed to see how different life was over there. How long did they stay in China?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 10 centuries?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 10 seconds?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 86
+Passage: In the end , they drive off , listening to the radio . How many times did they change the music during the trip?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: they changed the music 720 times?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: five minutes?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 87
+Passage: In the end , they drive off , listening to the radio . How long was the drive?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 2 seconds?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: yes?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 88
+Passage: Durer's father died in 1502, and his mother died in 1513. When did Durer die?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 170?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: they go to the playground twice a minute?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 89
+Passage: At current rates of use, coal will last about 300 years. How often are the coal reserves calculated?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every 6 centuries?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: he brushed his teeth?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 90
+Passage: She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , now a dissolute alcoholic . How frequently does Tom drink?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every morning?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: every week?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 91
+Passage: Moreover, he said, technology now exists for stealing corporate secrets after they've been "erased" from a computer's memory. What happens after hacker steal the corporate secrets?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: the hacker returns the data?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: once each month?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 92
+Passage: The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year does the average user go to a museum to look at fossils?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 2 times?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: every year?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 93
+Passage: The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year does the average user go to a museum to look at fossils?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 12.5?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: every few years?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 94
+Passage: Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean. What time did they leave the playground?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every 5 hours?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: he took 7 seconds off?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 95
+Passage: In the end , they drive off , listening to the radio . How long was the drive?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 6 years?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: they returned home ?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 96
+Passage: Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean. How often did they go to the playground?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: they go to the playground twice a night?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: never?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 97
+Passage: Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday. When did Roberta arrive at the Lamoreaux Justice Center?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 2:00 AM?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: a hour?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 98
+Passage: A thwarted Mongol invasion in 1274 weakened the Kamakura regime. Is the invasion still taking place today?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: no?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: few times in over a decades?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 99
+Passage: She had gotten out of her last day of school and was free for the summer. When was her last day of school?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: june 2nd?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: danny would leave around 10am?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 100
+Passage: Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child . How long have they been anxious to have children?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: two seconds?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: discussed a treaty between the two countries ?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 101
+Passage: Moreover, he said, technology now exists for stealing corporate secrets after they've been "erased" from a computer's memory. What happens after hacker steal the corporate secrets?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: takes a rest?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: few days, during their funraising events.?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 102
+Passage: Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while Perestrelo was awarded Porto Santo. What happened after Perestrelo was awarded Porto Santo?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: he took 0.78 years off?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: they changed the music 80 times?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 103
+Passage: Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. How long do the suits remain pressurized?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: four hours?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 1 month?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 104
+Passage: He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent arrival. How often does the building host shows?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: once every month?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 105
+Passage: A thwarted Mongol invasion in 1274 weakened the Kamakura regime. Is the invasion still taking place today?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: no, the invasion ended long ago?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: every day?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 106
+Passage: Over the centuries, the living here has always been easy enough to attract a steady stream of immigrants. Are immigrants still arriving?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: no they stopped a centuries ago?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 7 minutes?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 107
+Passage: These fossils showed that this entire area was once at the bottom of a sea. For how long was the area at the bottom of the sea?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: one year?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: going home?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 108
+Passage: They packed up the car and drove to the library, ready for a fun morning. What did they do after the morning?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: they had fun?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: nothing?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 109
+Passage: They packed up the car and drove to the library, ready for a fun morning. How often do they drive to the library?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: once a hour?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 11 a.m?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 110
+Passage: The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through donations. How long did it take al Qaeda to raise $30 million?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: two years?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: no?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 111
+Passage: He ran all around the pond, barking at the ducks. What did he do after he barked at the ducks?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: he went home?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 20 hours?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 112
+Passage: The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period leading up to 9/11. When did al Qaeda begin financing itself?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1891?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: before 9 / 11?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 113
+Passage: Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean. How often did they go to the playground?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: once a second?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: he took 63 years off?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 114
+Passage: Because then they feel like they are forced to stay in that situation." For how long do they feel they are forced to stay?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: they feel they can trust mr. krenz?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: every 6 centuries?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 115
+Passage: Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child . How long have they been anxious to have children?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 9 minute?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: two months later?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 116
+Passage: He has not told his wife that he was fired and is simply serving out his tenure at the agency while looking for a new position . When was he fired?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: saturday?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: the hacker sells the documents?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 117
+Passage: The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly, senior vice president in charge of IBM's technology group. How long did John Kelly speak?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: one hour?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: john kelly spoke for an hour?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 118
+Passage: Moreover, he said, technology now exists for stealing corporate secrets after they've been "erased" from a computer's memory. What happens after hacker steal the corporate secrets?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: the hack returns the data?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: centuries?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 119
+Passage: She told them that she would help take care of the puppy, if she could have one. How often did she ask for a puppy?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every 20 hours?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 120
+Passage: She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , now a dissolute alcoholic . How frequently does Tom drink?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every other second?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: rarely ?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 121
+Passage: These fossils showed that this entire area was once at the bottom of a sea. For how long was the area at the bottom of the sea?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1 day?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: one day?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 122
+Passage: He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent arrival. How often does the building host shows?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every 21 minutes?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 123
+Passage: She told me that she was heading for a drink and slipped out of the crowd. When did she have a drink?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: two centuries later?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: days?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 124
+Passage: After finally sleeping with Lucrezia , Callimaco confesses everything . How long had Callimaco pursued Lucrezia?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: minutes?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: they went to study?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 125
+Passage: She told me that she was heading for a drink and slipped out of the crowd. When did she have a drink?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: two months later?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: days?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 126
+Passage: One day, Kevin traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: each year?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: many of the nights due to their flexibility?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 127
+Passage: They packed up the car and drove to the library, ready for a fun morning. When did they get to the library?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 10:00 AM?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: i eat a meal every 5 minutes?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 128
+Passage: She had it for a long time so it is now a dark brown color. How long has she had it?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 2 seconds?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: a few hours?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 129
+Passage: At current rates of use, coal will last about 300 years. How often are the coal reserves calculated?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: once a year?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: few minutes?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 130
+Passage: The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand. Does the factory continue to make chips?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: no?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: ten weeks?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 131
+Passage: A thin, washed-out, pretty woman stood up, and clasped her hands in front of her. How long were her hands clasped?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: a woman nominated her boss?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: few years?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 132
+Passage: The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period leading up to 9/11. When did al Qaeda begin financing itself?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: after 9/11?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 5 a.m?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 133
+Passage: Hamilton attacked his political opponents as demanding freedom for themselves and refusing to allow it to blacks. What did Hamilton do before his political career?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: was in prison?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 134
+Passage: She later adopted the stage name Fontaine -- the name of her mother's second husband. What happened after she was given a stage name?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: she became famous?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 2:00 AM?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 135
+Passage: She had it for a long time so it is now a dark brown color. How long has she had it?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 10 years?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 2 years?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 136
+Passage: She later adopted the stage name Fontaine -- the name of her mother's second husband. Is she known as Fontaine today?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: yes?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: june 1st?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 137
+Passage: She added a special growing mix from the garden store to make the soil better. How long did it take to add growing mix into the garden?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1 month?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: a couple weeks?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 138
+Passage: These fossils showed that this entire area was once at the bottom of a sea. For how long was the area at the bottom of the sea?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 0.5 day?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: eating out?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 139
+Passage: Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go down the highest ramp?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: five seconds?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: they can continue breathing?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 140
+Passage: She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , now a dissolute alcoholic . How frequently does Tom drink?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every night?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: once a second?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 141
+Passage: Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps. What will happen next?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: the fbi had five black agents?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 142
+Passage: The clock could be heard ticking through the air and glass of the jar. Did the clock tick in 5 years?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: yes the clock was ticking?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 143
+Passage: They packed up the car and drove to the library, ready for a fun morning. How often do they drive to the library?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: once every two weeks?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 3 times per day?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 144
+Passage: They packed up the car and drove to the library, ready for a fun morning. How long  was the drive?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 18 minutes?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: the sun turned dark?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 145
+Passage: In the fall of 1991, he asked a German family he had met in Cairo to help him continue his education in Germany. What month did he do this?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: in september?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: in september?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 146
+Passage: The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through donations. How long did it take al Qaeda to raise $30 million?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: two seconds?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 9 minute?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 147
+Passage: Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps. Will the wiretaps last forever?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: last forever?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 148
+Passage: The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year does the average user go to a museum to look at fossils?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1000 times?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: once a week?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 149
+Passage: The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through donations. How long did it take al Qaeda to raise $30 million?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 2 years?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: he says yes?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 150
+Passage: They packed up the car and drove to the library, ready for a fun morning. What did they do after the morning?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: they went home?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: the fbi lose interest in the case ?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 151
+Passage: The fossils that are very distinct at certain times of Earths history are called index fossils. What happened after the fossils were found?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: the fossils were studied?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 1 year?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 152
+Passage: Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while Perestrelo was awarded Porto Santo. What happened after Perestrelo was awarded Porto Santo?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: he celebrated?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 54 hours?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 153
+Passage: They woke up and the sun was beginning to set. What happened after the sun set?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: it got dark?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 154
+Passage: Moreover, he said, technology now exists for stealing corporate secrets after they've been "erased" from a computer's memory. What happens after hacker steal the corporate secrets?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: the hacker sells the documents?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 25 times a day?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 155
+Passage: Christianity was introduced into Gaul in the first century a.d. What happened after it was introduced?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: christianity diminished into nothing, and people lost interest thereafter?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: christianity diminished into nothing, and people lost interest thereafter?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 156
+Passage: Danny begins spending less and less time at home with his wife and children . What time would he leave home in the morning?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 10:00 PM?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: Later today after his massage. ?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 157
+Passage: She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , now a dissolute alcoholic . How frequently does Tom drink?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every day?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: few weeks?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 158
+Passage: In the end , they drive off , listening to the radio . How long was the drive?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 18 weeks?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 5:00 PM?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 159
+Passage: Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean. What time did they leave the playground?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every 45 minutes?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: every 54 years?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 160
+Passage: Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. How long do the suits remain pressurized?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 10 months?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 1 hours?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 161
+Passage: They packed up the car and drove to the library, ready for a fun morning. How often do they drive to the library?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every few hours?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: yes?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 162
+Passage: Danny begins spending less and less time at home with his wife and children . Would the wife still be upset about this in six years?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: yes?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: she starting singing to the audience ?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 163
+Passage: If you walked, you used chemical energy from the food you ate. How often do you eat a meal?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 4 times a day?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 164
+Passage: If you walked, you used chemical energy from the food you ate. How often do you eat a meal?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 27 times a day?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 165
+Passage: The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand. When is the factory making chips?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1:00 AM?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 3 seconds?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 166
+Passage: The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand. When is the factory making chips?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 11:00 AM?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 10:00 PM?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 167
+Passage: After graduating from Cairo University with a degree in architectural engineering in 1990, Atta worked as an urban planner in Cairo for a couple of years. What happened after Atta worked as an urban planner?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: atta settled to moscow?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: every day?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 168
+Passage: In the end , they drive off , listening to the radio . How long was the drive?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 2 hours?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: they denounced maharishi?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 169
+Passage: They packed up the car and drove to the library, ready for a fun morning. How often do they drive to the library?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: five times a century?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 9:00 AM?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 170
+Passage: Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean. What time did they leave the playground?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every 5 minutes?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: he celebrated?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 171
+Passage: What if you rode the bus or were driven in a car? How often do kids ride the bus?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every 5 minutes?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 10:00 AM?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 172
+Passage: She told them that she would help take care of the puppy, if she could have one. For how long would she care for the puppy?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1 century?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 173
+Passage: The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through donations. How long did it take al Qaeda to raise $30 million?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: a few seconds?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 3 hours?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 174
+Passage: He also submitted various suggestions as to its initial programs. How often do they accept suggestions for programs?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: once a minute?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: discussing other major congressional interests were of less importance  ?
+Answer: no 
+Explanation: 
+
+--------------------------------------------------
+PassageID: 175
+Passage: If you walked, you used chemical energy from the food you ate. How often do you eat a meal?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 4 times a minute?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 176
+Passage: Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday. When did Roberta arrive at the Lamoreaux Justice Center?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: at 9:00 am?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: few days?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 177
+Passage: He also submitted various suggestions as to its initial programs. How often do they accept suggestions for programs?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: once a hour?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: died as a lawyer?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 178
+Passage: After finally sleeping with Lucrezia , Callimaco confesses everything . How long had Callimaco pursued Lucrezia?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: never, he's not interested in her?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: a year?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 179
+Passage: Durer's father died in 1502, and his mother died in 1513. When did Durer die?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 360 years later?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: twice a minute?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 180
+Passage: She told them that she would help take care of the puppy, if she could have one. How often did she ask for a puppy?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every 20 seconds?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 181
+Passage: A thwarted Mongol invasion in 1274 weakened the Kamakura regime. Is the invasion still taking place today?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: yes?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: several weeks?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 182
+Passage: Danny begins spending less and less time at home with his wife and children . What time would he leave home in the morning?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1:00 PM?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: One massage is enough for him today; no more for today. ?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 183
+Passage: Durer's father died in 1502, and his mother died in 1513. How often did Durer visit his mother's grave?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every year?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: every other week?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 184
+Passage: They packed up the car and drove to the library, ready for a fun morning. How long  was the drive?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 30 minutes?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: for hours?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 185
+Passage: These fossils showed that this entire area was once at the bottom of a sea. For how long was the area at the bottom of the sea?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1 year?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 0.5 day?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 186
+Passage: If you walked, you used chemical energy from the food you ate. How often do you eat a meal?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: i eat a meal every 3 days?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 187
+Passage: She told them that she would help take care of the puppy, if she could have one. How often did she ask for a puppy?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every other minute?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 188
+Passage: In the end , they drive off , listening to the radio . How long was the drive?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 20 seconds?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: in their living room ?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 189
+Passage: The letterhead on correspondence still bears the Bexar County Legal Aid name, even though the organization is no longer. How long was the organization active?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: for over a decade?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 3 times a day?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 190
+Passage: She told them that she would help take care of the puppy, if she could have one. For how long would she care for the puppy?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1 night?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 191
+Passage: Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean. How often did they go to the playground?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: twice a month?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: he chased the robbers?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 192
+Passage: They packed up the car and drove to the library, ready for a fun morning. How often do they drive to the library?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every week?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 4 p.m?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 193
+Passage: She told them that she would help take care of the puppy, if she could have one. For how long would she care for the puppy?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 15 years?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 194
+Passage: However, more recently, it has been suggested that it may date from earlier than Abdalonymus' death. How long has it existed?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 2,000 weeks?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: each 5 minutes?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 195
+Passage: Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. How long do the suits remain pressurized?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 4 hours?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 15 hours?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 196
+Passage: In the end , they drive off , listening to the radio . How many times did they change the music during the trip?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 5 times?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 9:00 PM?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 197
+Passage: Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child . How often to Nicia and Lucrezia express their desire to have children?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: yearly?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: every 45 minutes?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 198
+Passage: Einstein's affiliation with the Institute for Advanced Study would last until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 22 centuries?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 90 hours?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 199
+Passage: She told them that she would help take care of the puppy, if she could have one. How often did she ask for a puppy?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every 180 years?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 200
+Passage: Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child . How often to Nicia and Lucrezia express their desire to have children?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every hour?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 5 days a week?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 201
+Passage: She added a special growing mix from the garden store to make the soil better. What happened after the growing mix was added?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: the plants grows worse?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: the crops grew worse?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 202
+Passage: He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent arrival. When will the show start?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 11 a.m?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 203
+Passage: Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. How long do the suits remain pressurized?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: two minutes?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 10 days?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 204
+Passage: He had never had any pets before, but was always excited to see the other dogs and cats in his neighborhood. When does he most often see dogs and cats.
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: during the hour after school?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: every hour?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 205
+Passage: The fossils that are very distinct at certain times of Earths history are called index fossils. How long did it take for fossils to be made?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: millions of weeks?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: they went to china?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 206
+Passage: Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while Perestrelo was awarded Porto Santo. What happened after Perestrelo was awarded Porto Santo?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: he took 21 years off?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: they changed the music 240 times over the whole time ?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 207
+Passage: In the end , they drive off , listening to the radio . How long was the drive?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 6 seconds?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: maharishi mahesh yogi was seen as a fraud?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 208
+Passage: She told them that she would help take care of the puppy, if she could have one. For how long would she care for the puppy?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: a second?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 209
+Passage: Gonzo treated himself to a massage today to try to work out all of his stuntman kinks. Was Gonzo still having a massage the next week?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: no the massage was under an second?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: every hour?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 210
+Passage: Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child . How often to Nicia and Lucrezia express their desire to have children?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: couples passing a genetic defect to a child?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: twice a night?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 211
+Passage: Danny begins spending less and less time at home with his wife and children . What time would he leave home in the morning?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 7:00 AM?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: friday?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 212
+Passage: He also submitted various suggestions as to its initial programs. How often do they accept suggestions for programs?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: each month?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: sunday?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 213
+Passage: One day, Kevin traveled from his home in the United States of America to Erin's house in England. How long did the trip take?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 21 days?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: once every two years?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 214
+Passage: In the fall of 1991, he asked a German family he had met in Cairo to help him continue his education in Germany. How long will he want help?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 4 years?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 4 years?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 215
+Passage: A thin, washed-out, pretty woman stood up, and clasped her hands in front of her. How long were her hands clasped?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: a few seconds?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: months?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 216
+Passage: At current rates of use, coal will last about 300 years. How often are the coal reserves calculated?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every 18 months?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 3 minutes?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 217
+Passage: They packed up the car and drove to the library, ready for a fun morning. How long  was the drive?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 18 days?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: in a few days from now?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 218
+Passage: Christianity was introduced into Gaul in the first century a.d. What happened after it was introduced?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: people spewing  into the street?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: people spewing  into the street?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 219
+Passage: He has not told his wife that he was fired and is simply serving out his tenure at the agency while looking for a new position . When was he fired?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: a decade ago?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: the hacker returned the data?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 220
+Passage: These fossils showed that this entire area was once at the bottom of a sea. For how long was the area at the bottom of the sea?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1 season?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 0.5 year?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 221
+Passage: What if you rode the bus or were driven in a car? How often do kids ride the bus?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: twice a minute?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: at 9:00 am?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 222
+Passage: The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand. When is the factory making chips?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: many of them have different procedures and requirements?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 7:00 PM?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 223
+Passage: The fossils that are very distinct at certain times of Earths history are called index fossils. What happened after the fossils were found?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: the fossils were placed into a museum?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: the fossil turned into real humans?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 224
+Passage: One day, Kevin traveled from his home in the United States of America to Erin's house in England. How long did the trip take?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: about one hour?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: each year?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 225
+Passage: She told them that she would help take care of the puppy, if she could have one. How often did she ask for a puppy?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every century?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 226
+Passage: They packed up the car and drove to the library, ready for a fun morning. How long  was the drive?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 3.33 miles?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: forever ?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 227
+Passage: She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , now a dissolute alcoholic . How frequently does Tom drink?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: several times each day?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: a child leave home?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 228
+Passage: Hamilton attacked his political opponents as demanding freedom for themselves and refusing to allow it to blacks. What did Hamilton do before his political career?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: died as a lawyer?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 229
+Passage: A thin, washed-out, pretty woman stood up, and clasped her hands in front of her. How long were her hands clasped?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 5 seconds?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: it uprooted thousands of lives?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 230
+Passage: Upon graduation in 1975, she entered private law practice in Oxford, joining NMRLS in 1978. How many cases does she work on a month?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 360?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 3?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 231
+Passage: What if you rode the bus or were driven in a car? How often do kids ride the bus?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: always?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 10:45 PM?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 232
+Passage: She had gotten out of her last day of school and was free for the summer. When was her last day of school?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: in september?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 3:00 PM?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 233
+Passage: Despite his quick climb up the legal ladder, Bailey has always found time to help out in causes he feels strongly about. How often does he help out in causes he feels strongly about?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: a few times a hour?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: three weeks?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 234
+Passage: She added a special growing mix from the garden store to make the soil better. What happened after the growing mix was added?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: the plants grew better?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: about 15 minutes?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 235
+Passage: Einstein's affiliation with the Institute for Advanced Study would last until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 10 years?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 405 year?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 236
+Passage: The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through donations. How long did it take al Qaeda to raise $30 million?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: a few years?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: yes, they did?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 237
+Passage: A thwarted Mongol invasion in 1274 weakened the Kamakura regime. Is the invasion still taking place today?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: yes, the invasion still continues, many centuries later?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: once every two seconds?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 238
+Passage: However, more recently, it has been suggested that it may date from earlier than Abdalonymus' death. How long has it existed?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: thousands of years?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 12 midnight?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 239
+Passage: One day, Kevin traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every year?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: during the day?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 240
+Passage: She told them that she would help take care of the puppy, if she could have one. For how long would she care for the puppy?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 0.33 day?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 241
+Passage: One day, Kevin traveled from his home in the United States of America to Erin's house in England. How long did the trip take?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: about an hours?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: she and her husband need the car?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 242
+Passage: The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period leading up to 9/11. When did al Qaeda begin financing itself?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: after finishing the plan?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: after carrying out the plan?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 243
+Passage: The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly, senior vice president in charge of IBM's technology group. How long did John Kelly speak?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: john kelly spoke for an hour?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: no, his legacy stopped being important before his reign ended?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 244
+Passage: Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child . How often to Nicia and Lucrezia express their desire to have children?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every second?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 2 seconds?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 245
+Passage: She added a special growing mix from the garden store to make the soil better. How long did it take to add growing mix into the garden?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1 year?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: about 15 hours?
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 246
+Passage: Later in the month, they traveled to China by train and were allowed to see how different life was over there. How long did they stay in China?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 10 seconds?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: 1955?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 247
+Passage: The fossils that are very distinct at certain times of Earths history are called index fossils. What happened after the fossils were found?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: the fossils were lost?
+Answer: no
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: these two new crowd families lived?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 248
+Passage: A thin, washed-out, pretty woman stood up, and clasped her hands in front of her. How long were her hands clasped?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: a few minutes?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: yes?
+Answer: no
+Explanation: 
+
+--------------------------------------------------
+PassageID: 249
+Passage: The fossils that are very distinct at certain times of Earths history are called index fossils. How long did it take for fossils to be made?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: years?
+Answer: yes
+Explanation: 
+
+QuestionID: 1
+Question: Is this the answer: they had fun?
+Answer: no
+Explanation: 
+
+--------------------------------------------------

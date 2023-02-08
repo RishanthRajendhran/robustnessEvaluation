@@ -1,0 +1,83 @@
+[
+    {
+        "sentence1": "He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons. How often are chief executives typically replaced?",
+        "qas": [
+            {
+                "sentence2": "every 10 weeks",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "Other times, they play a game with Quack where they wave at Quack and laugh. How often do they play a game with Quack ?",
+        "qas": [
+            {
+                "sentence2": "they play every other early morning",
+                "label": "yes"
+            }
+        ]
+    },
+    {
+        "sentence1": "The bear looked up at the girl and it was almost as if he was smiling at her. When did the bear smile at the girl?",
+        "qas": [
+            {
+                "sentence2": "when it walked away",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "In January 1785, Hamilton attended the second meeting of the New York Manumission Society (NYMS). How often is the meeting of NYMS held?",
+        "qas": [
+            {
+                "sentence2": "the meeting of nyms is held twice a week",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "About 30% of Ratners's profit already is derived from the U.S. How long did it take to make profit?",
+        "qas": [
+            {
+                "sentence2": "1 days",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "After dinner, he went to look for Max one last time before he had to take a bath and go to bed. When did he go to bed?",
+        "qas": [
+            {
+                "sentence2": "10 p.m",
+                "label": "yes"
+            }
+        ]
+    },
+    {
+        "sentence1": "Then they laid down on some towels and enjoyed the sun. How often do they lay down and enjoy the sun?",
+        "qas": [
+            {
+                "sentence2": "always",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "Search \"Emiliano Malaquez\" and you'll find he's a master of the \"captured moment\" school of sculpture. What does Emiliano Malaquez do after he finishes a sculpture?",
+        "qas": [
+            {
+                "sentence2": "he places it on exhibition",
+                "label": "yes"
+            }
+        ]
+    },
+    {
+        "sentence1": "Pushkin gradually became committed to social reform and emerged as a spokesman for literary radicals. How long did it take for Pushkin to commit to social reform?",
+        "qas": [
+            {
+                "sentence2": "three days",
+                "label": "no"
+            }
+        ]
+    }
+]

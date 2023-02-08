@@ -1,0 +1,1007 @@
+[
+    {
+        "background": "Hepatitis B is a contagious virus that affects the liver, infection can last from a few weeks to a serious lifelong illness. Two different types of infection exist for this disease, \"acute\" and \"chronic.\" Acute Hepatitis B is a short term illness that occurs within 6 months of exposure, Chronic Hepatitis B is long term and happens when the virus remains in the body. The younger the child is, the greater their chance of developing a chronic infection and this risk goes down as the child gets older. Approximately 90% of infected infants will develop a chronic infection.[3]",
+        "situation": "A 4th grade classroom photo was held today. They all gathered by age. Eloy was the youngest, followed by Gail, and Josef was the oldest. They looked wonderful that day.",
+        "qas": [
+            {
+                "question": "Who has a smaller chance of developing a chronic infection: Gail or Eloy?",
+                "id": "4268107171",
+                "answers": [
+                    {
+                        "text": "Gail"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Since the 1990s, many regions have broken up the generation and distribution of electric power to provide a more competitive electricity market. While such markets can be abusively manipulated with consequent adverse price and reliability impact to consumers, generally competitive production of electrical energy leads to worthwhile improvements in efficiency. However, transmission and distribution are harder problems since returns on investment are not as easy to find.",
+        "situation": "George is moving cities, and wants to find an area to set up his new bitcoin mining operation. He is looking to find an area with cheap power to set up his devices. St. Louis has one giant power company to choose from called Veris Power, and Chicago has several different power companies in the area. He has narrowed his city choices down to those two. ",
+        "qas": [
+            {
+                "question": "Will Chicago more than likely have higher or lower power costs than St. Louis?",
+                "id": "603409309",
+                "answers": [
+                    {
+                        "text": "lower"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The example of someone having a positive experience with a drug is easy to see how drug dependence and the law of effect works. The tolerance for a drug goes up as one continues to use it after having a positive experience with a certain amount the first time.[38] It will take more and more to get that same feeling. This is when the controlled substance in an experiment would have to be modified and the experiment would really begin. The law of work for psychologist B. F. Skinner almost half a century later on the principles of operant conditioning, \"a learning process by which the effect, or consequence, of a response influences the future rate of production of that response.[39]",
+        "situation": "The Reefer Rebels met to discuss their experiences. They all said they always had a great experience using reefer and used the same amount each time. They told how many times they used reefer. Donald used it 2 times, George used it 7 times, Kenneth used it 12 times, Steven used it 16 times, Edward used it 24 times, Brian used it 30 times, and Ronald used it 50 times.",
+        "qas": [
+            {
+                "question": "Who has a higher tolerance for reefer: George or Ronald?",
+                "id": "245009840",
+                "answers": [
+                    {
+                        "text": "Ronald"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "If all the other factors influencing humidity remain constant, at ground level the relative humidity rises as the temperature falls. This is because less vapor is needed to saturate the air, so vapor condenses as the temperature falls. In normal conditions, the dew point temperature will not be greater than the air temperature because relative humidity cannot exceed 100%.[4]",
+        "situation": "Grace is trying to set up a running schedule for herself. She prefers running on days when the humidity is at it's lowest so she doesn't feel so muggy. On Wednesday the high temperature is going to be 90 degrees, and on Thursday the high temperature is going to be 75 degrees. ",
+        "qas": [
+            {
+                "question": "Which day will Grace most likely encounter more humidity?",
+                "id": "3484549679",
+                "answers": [
+                    {
+                        "text": "Thursday"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "To determine the concentration of an acid in an aqueous solution, an acid-base titration is commonly performed. A strong base solution with a known concentration, usually NaOH or KOH, is added to neutralize the acid solution according to the color change of the indicator with the amount of base added.[7] The titration curve of an acid titrated by a base has two axes, with the base volume on the x-axis and the solution's pH value on the y-axis. The pH of the solution always goes up as the base is added to the solution.",
+        "situation": "A chemist was trying to make a new solution to better get rid of stains on the carpet. Solution A stayed the same. Solution B had 1 ounce of base added. Solution C had 2 ounces of base added. Solution D had 3 ounces of base added. Solution E stayed the same. Solution F had 4 ounces of base added Solution D was proven as the best solution to get rid of carpet stains.",
+        "qas": [
+            {
+                "question": "Which solution had it's pH level go up: Solution A or Solution F?",
+                "id": "4107490082",
+                "answers": [
+                    {
+                        "text": "Solution F"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Artworks are sold at affordable prices [6] ranging from \u00a35 to \u00a31500. For many of the works, the price goes up as the edition sells out. The edition runs range from 30 to 10,000 editions. Each work comes with a digital certificate that is \u201csigned, numbered and authenticated by the artist\u201d [7][8] Once an edition is sold out, collectors can resell their works in the online marketplace.",
+        "situation": "An old art store had limited edition artworks for sale last week. They all had the same amount for each edition at the beginning of the week. The Gross Clinic nearly sold out. The Ninth Wave had half of the editions sold. The Last Supper only sold a few.\n",
+        "qas": [
+            {
+                "question": "What edition will least likely have it's price increased: The Ninth Wave or The Last Supper?",
+                "id": "273942498",
+                "answers": [
+                    {
+                        "text": "The Last Supper"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Storing large volumes of data \u2013 When storing XML to either file or database, the volume of data a system produces can often exceed reasonable limits, with a number of detriments: the access times go up as more data is read, CPU load goes up as XML data takes more power to process, and storage costs go up. By storing XML data in Fast Infoset format, data volume may be reduced by as much as 80 percent.\n\n",
+        "situation": "Samuel had a busy day storing XML. At 5 PM, he stored 223 Gigabytes to the database. At 6 PM, he stored 334 Gigabytes to the database. At 7 PM, he stored 445 Gigabytes to the database. At 8 PM, he got dinner. At 9 PM, he stored 556 Gigabytes to the database. At 10 PM, he stored 667 Gigabytes to the database. At 11 PM, he went to sleep to finish storing XML tomorrow.",
+        "qas": [
+            {
+                "question": "What time did storage costs go up:  10 PM or 8 PM?",
+                "id": "637474774",
+                "answers": [
+                    {
+                        "text": "10 PM"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Regions on the Earth's surface (or in its atmosphere) that are high above mean sea level are referred to as high altitude. High altitude is sometimes defined to begin at 2,400 meters (8,000 ft) above sea level.[5][6][7]\n\nAt high altitude, atmospheric pressure is lower than that at sea level. This is due to two competing physical effects: gravity, which causes the air to be as close as possible to the ground; and the heat content of the air, which causes the molecules to bounce off each other and expand.[8]",
+        "situation": "There was a competition for who can get their 30 lb drone the highest into the air. Team 70 got it 3,348 ft. Team 71 got it 4,459 ft. Team 72 go it 5,560 ft. Team 73 got it 6,671 ft. Team 74 got it 11,126 ft. Team 75 got it 12,237 ft. Team 76 got it 13,347 ft.\n",
+        "qas": [
+            {
+                "question": "What team got their drone into high altitude: Team 73 or Team 75?",
+                "id": "2374834127",
+                "answers": [
+                    {
+                        "text": "Team 75"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The primary advantage held by a player in late position is that he will have more information with which to make better decisions than players in early position, who will have to act first, without the benefit of this extra information. This advantage has led to many players in heads-up play raising on the button with an extremely wide range of hands because of this positional advantage.[3] Also, as earlier opponents fold, the probability of a hand being the best goes up as the number of opponents goes down.",
+        "situation": "Steve is in a poker tournament in the coming week. The tournament is broken up into two rounds. In the first round, Steve drew an early position at the table which will be on Saturday, and in the second round he drew a late position which will take place on Sunday. Steve hopes to win as the pot for winning is rather large.",
+        "qas": [
+            {
+                "question": "Which round will Steve most likely have a better advantage?",
+                "id": "430589266",
+                "answers": [
+                    {
+                        "text": "second round"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Hepatitis B is a contagious virus that affects the liver, infection can last from a few weeks to a serious lifelong illness. Two different types of infection exist for this disease, \"acute\" and \"chronic.\" Acute Hepatitis B is a short term illness that occurs within 6 months of exposure, Chronic Hepatitis B is long term and happens when the virus remains in the body. The younger the child is, the greater their chance of developing a chronic infection and this risk goes down as the child gets older. Approximately 90% of infected infants will develop a chronic infection.[3]",
+        "situation": "A 1st grade classroom photo was held today. They all gathered by age.  Lawrence was the oldest. Nicholas was the 2nd oldest. Roy was the 3rd oldest. Benjamin was the 4th oldest. Bruce was the 5th oldest. Brandon was the 6th oldest. The last one was Adam, who was the youngest. They all looked handsome that day.\n",
+        "qas": [
+            {
+                "question": "Who has a greater chance of developing a chronic infection: Roy or Adam?",
+                "id": "2263438900",
+                "answers": [
+                    {
+                        "text": "Adam"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Inbreeding is the production of offspring from the mating or breeding of individuals or organisms that are closely related genetically.[2] By analogy, the term is used in human reproduction, but more commonly refers to the genetic disorders and other consequences that may arise from expression of deleterious or recessive traits resulting from incestuous sexual relationships and consanguinity.\n\nInbreeding results in homozygosity, which can increase the chances of offspring being affected by deleterious or recessive traits.[3] This usually leads to at least temporarily decreased biological fitness of a population[4][5] (called inbreeding depression), which is its ability to survive and reproduce. An individual who inherits such deleterious traits is colloquially referred to as inbred. The avoidance of expression of such deleterious recessive alleles caused by inbreeding, via inbreeding avoidance mechanisms, is the main selective reason for outcrossing.[6][7] Crossbreeding between populations also often has positive effects on fitness-related traits,[8] but also sometimes leads to negative effects known as outbreeding depression. However increased homozygosity increases probability of fixing beneficial alleles and also slightly decreases probability of fixing deleterious alleles in population.[9] Inbreeding can result in purging of deleterious alleles from a population through purifying selection.[10][11][12]",
+        "situation": "Ralph owns a farm with a small population of cows on it. He needs to breed them to expand his population but is unsure how to do it. He finds out that most of his cows are closely related in some way and has a small amount of diversity. His friend from another farm however has a diverse set of cows and offers to help with Ralph's breeding problem for an extra cost.",
+        "qas": [
+            {
+                "question": "Will Ralph more than likely have better or worse results if he pays extra to have a diverse set of cows to breed with his own?",
+                "id": "3141978002",
+                "answers": [
+                    {
+                        "text": "better"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Candied fruit, also known as crystallized fruit or glac\u00e9 fruit, has existed since the 14th century. Whole fruit, smaller pieces of fruit, or pieces of peel, are placed in heated sugar syrup, which absorbs the moisture from within the fruit and eventually preserves it. Depending on size and type of fruit, this process of preservation can take from several days to several months.[1] This process allows the fruit to retain its quality for a year.[2]\n\nThe continual process of drenching the fruit in syrup causes the fruit to become saturated with sugar, preventing the growth of spoilage microorganisms due to the unfavourable osmotic pressure this creates.[3]",
+        "situation": "A 2nd grade classroom photo was held today. They all gathered by age. Efren was the youngest, followed by Nigel, and Ahmad was the oldest. They looked great that day.",
+        "qas": [
+            {
+                "question": "Who has a smaller chance of developing a chronic infection: Ahmad or Nigel?",
+                "id": "3507374344",
+                "answers": [
+                    {
+                        "text": "Ahmad"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Hepatitis B is a contagious virus that affects the liver, infection can last from a few weeks to a serious lifelong illness. Two different types of infection exist for this disease, \"acute\" and \"chronic.\" Acute Hepatitis B is a short term illness that occurs within 6 months of exposure, Chronic Hepatitis B is long term and happens when the virus remains in the body. The younger the child is, the greater their chance of developing a chronic infection and this risk goes down as the child gets older. Approximately 90% of infected infants will develop a chronic infection.[3]",
+        "situation": "A 1st grade classroom photo was held today. They all gathered by age. Waldo was the youngest. Antone was the 2nd youngest. Chi was the 3rd youngest. Damion was the 4th youngest. Kenton was the 5th youngest. Rolland was the 6th youngest. The last one was Rupert, who was the oldest. They all looked handsome.\n",
+        "qas": [
+            {
+                "question": "Who has a greater chance of developing a chronic infection: Damion or Antone?",
+                "id": "498161745",
+                "answers": [
+                    {
+                        "text": "Antone"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Storing large volumes of data \u2013 When storing XML to either file or database, the volume of data a system produces can often exceed reasonable limits, with a number of detriments: the access times go up as more data is read, CPU load goes up as XML data takes more power to process, and storage costs go up. By storing XML data in Fast Infoset format, data volume may be reduced by as much as 80 percent.\n\n",
+        "situation": "Earl had a busy day storing XML. At 3 PM, he stored 11000 Gigabytes to the database. At 4 PM, he stored 22000 Gigabytes to the database. At 5 PM, he stored 33000 Gigabytes to the database. At 6 PM, he got dinner. At 7 PM, he stored 44000 Gigabytes to the database. At 8 PM, he stored 55000 Gigabytes to the database. At 9 PM, he went to sleep to finish storing XML tomorrow morning.\n",
+        "qas": [
+            {
+                "question": "What time did the access times go up: 5 PM or 6 PM?",
+                "id": "138877950",
+                "answers": [
+                    {
+                        "text": "5 PM"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The water level is seasonal, being lowered by about 10 feet (3.0 m) over the winter. The reservoir fills in the spring from snow melt and underground springs. The lake is usually at full level by late spring, but in the occasional years of low snow melt and low rainfall, it may remain up to several feet below its typical level. Water is let out of the lake in the fall so that ice will not damage docks and other structures around the lake. This also leads to excellent water quality, as a significant portion of the water is replaced every year.",
+        "situation": "Ben and his family are looking to go swimming at the local lake, but can't decide what season they should go. They usually like to go when the lake is at is highest levels, as that makes for better swimming and fun activities. They have decide between Spring and Fall, as the summers are usually too hot where they live.",
+        "qas": [
+            {
+                "question": "Which season should Ben and his family avoid because of low water levels?",
+                "id": "2711310867",
+                "answers": [
+                    {
+                        "text": "Fall"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Alberta's electrical demand varies throughout the day and across the seasons. When individuals are fixing supper and using home appliances, demand for power goes up, as it does during heat waves and cold snaps. It tapers off during spring and fall. Like other mechanical devices, generators fail from time to time. If they are wind-powered, their output varies with the wind.",
+        "situation": "Greg works at a power facility in Alberta. He has been charged with regulating generators. His task is to turn on generators in times of high power demand, and to turn off generators at times of low power demand. He tries to remain as efficient as possible. Recently, the area has experienced record cold temperatures on Monday and Tuesday. By the weekend however, the temperature returned to normal, and Friday and Saturday the temperature was very moderate and spring like.",
+        "qas": [
+            {
+                "question": "What days did Greg most likely turn off more generators?",
+                "id": "4050209150",
+                "answers": [
+                    {
+                        "text": "Friday and Saturday"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Turner et al (2006) derived crash prediction models for this report\u2019s predecessor and found a\npronounced \u2018safety in numbers\u2019 effect in the models. Using the crash prediction model for mid-block\nlocations, generic motorist and cyclist volumes can be used to demonstrate the impacts on the\nexpected crash rate of varying motor vehicle and cycle volumes. As shown in figure 2.20, an increase\nin the proportion of cyclists to the overall traffic volume causes an increase in expected crashes at\nmid-block locations, but the crash rate increases at a decreasing rate. That is to say, the crash rate per\ncyclist goes down as the cycle volume increases. ",
+        "situation": "There were a lot of motorcycles on Interstate 16 last week. On Sunday, there were 1255 motorcyclists. On Monday, there were 2255 motorcyclists. On Tuesday, there were 3251 motorcyclists. On Wednesday, there were 4251 motorcyclists. On Thursday, there were 5251 motorcyclists. On Friday, there were 6251 motorcyclists. On Saturday, there were 7251 motorcyclists. ",
+        "qas": [
+            {
+                "question": "What day had a lower crash rate per cyclist: Monday or Saturday?",
+                "id": "4074734678",
+                "answers": [
+                    {
+                        "text": "Saturday"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Blue ice occurs when snow falls on a glacier, is compressed, and becomes part of the glacier. Air bubbles are squeezed out and ice crystals enlarge, making the ice appear blue.\n\nSmall amounts of regular ice appear to be white because of air bubbles inside them and also because small quantities of water appear to be colourless. In glaciers, the pressure causes the air bubbles to be squeezed out, increasing the density of the created ice. Large quantities of water appear to be blue, as it absorbs other colours more efficiently than blue. A large piece of compressed ice, or a glacier, similarly appears blue.",
+        "situation": "Bill is going to see some sites this week. On Wednesday he is going to see Fox Glacier, and on Thursday he is going to see Cobra Lake, which has frozen over for the winter. He has been excited to see all the sites.",
+        "qas": [
+            {
+                "question": "On which day will Bill most likely see blue ice?",
+                "id": "53884993",
+                "answers": [
+                    {
+                        "text": "Wednesday"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Turner et al (2006) derived crash prediction models for this report\u2019s predecessor and found a\npronounced \u2018safety in numbers\u2019 effect in the models. Using the crash prediction model for mid-block\nlocations, generic motorist and cyclist volumes can be used to demonstrate the impacts on the\nexpected crash rate of varying motor vehicle and cycle volumes. As shown in figure 2.20, an increase\nin the proportion of cyclists to the overall traffic volume causes an increase in expected crashes at\nmid-block locations, but the crash rate increases at a decreasing rate. That is to say, the crash rate per\ncyclist goes down as the cycle volume increases. ",
+        "situation": "There were a lot of motorcycles on Interstate 14 last week. On Friday, there were 1511 motorcyclists. On Saturday, there were 2511 motorcyclists. On Sunday, there were 3511 motorcyclists. On Monday, there were 4511 motorcyclists. On Tuesday, there were 5511 motorcyclists. On Wednesday, there were 6511 motorcyclists. On Thursday, there were 7511 motorcyclists. \n",
+        "qas": [
+            {
+                "question": "What day had a lower crash rate per cyclist: Sunday or Thursday?",
+                "id": "1112376418",
+                "answers": [
+                    {
+                        "text": "Thursday"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "If all the other factors influencing humidity remain constant, at ground level the relative humidity rises as the temperature falls. This is because less vapor is needed to saturate the air, so vapor condenses as the temperature falls. In normal conditions, the dew point temperature will not be greater than the air temperature because relative humidity cannot exceed 100%.[4]",
+        "situation": "Bob is an avid hiker. He loves to travel and hike on all the trails in his state. Although Bob loves being outside, he doesn't much like being in humid weather, and likes to keep inside on more humid days. He is deciding on which day to go hiking, Monday, which the high temperature will be 90 degrees, and Tuesday which the high temperature will be 75 degrees.",
+        "qas": [
+            {
+                "question": "Will there be more or less humidity on Tuesday than Monday?",
+                "id": "1229922008",
+                "answers": [
+                    {
+                        "text": "more"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Storing large volumes of data \u2013 When storing XML to either file or database, the volume of data a system produces can often exceed reasonable limits, with a number of detriments: the access times go up as more data is read, CPU load goes up as XML data takes more power to process, and storage costs go up. By storing XML data in Fast Infoset format, data volume may be reduced by as much as 80 percent.\n\n",
+        "situation": "Bradly had a busy day storing XML. At 6 AM, he stored 200 Gigabytes to the database. At 7 AM, he stored 300 Gigabytes to the database. At 8 AM, he stored 400 Gigabytes to the database. At 9 AM, he got breakfast. At 10 AM, he stored 500 Gigabytes to the database. At 11 AM, he stored 600 Gigabytes to the database. At 12 PM, she went to sleep to finish storing XML later.",
+        "qas": [
+            {
+                "question": "What time did storage costs go up:  6 AM or 12 PM?",
+                "id": "3339065242",
+                "answers": [
+                    {
+                        "text": "6 AM"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The example of someone having a positive experience with a drug is easy to see how drug dependence and the law of effect works. The tolerance for a drug goes up as one continues to use it after having a positive experience with a certain amount the first time.[38] It will take more and more to get that same feeling. This is when the controlled substance in an experiment would have to be modified and the experiment would really begin. The law of work for psychologist B. F. Skinner almost half a century later on the principles of operant conditioning, \"a learning process by which the effect, or consequence, of a response influences the future rate of production of that response.[39]",
+        "situation": "The Ham Hogs met to discuss their experiences. They all said they always had a great experience using hog and used the same amount each time. They told how many times they used hog. Lemuel used it a lot. Parker used it a few times. Barton used it once.\n",
+        "qas": [
+            {
+                "question": "Who has a higher tolerance for ham: Barton or Parker?",
+                "id": "1540908471",
+                "answers": [
+                    {
+                        "text": "Parker"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "If a nuclear chain reaction is uncontrolled, it produces a lot of energy all at once. This is what happens in an atomic bomb. However, if a nuclear chain reaction is controlled, it produces energy much more slowly. This is what occurs in a nuclear power plant. The reaction is controlled by inserting rods of nonfissioning material into the fissioning material. You can see this in the Figure below . The radiation from the controlled fission is used to heat water and turn it to steam. The steam is under pressure and causes a turbine to spin. The spinning turbine runs a generator, which produces electricity.",
+        "situation": "The city has recently come upon some nuclear material and is wanting to use it for power generation. They are not sure how to implement it safely and have devised several strategies which include an uncontrolled reaction and a controlled reaction of the material. ",
+        "qas": [
+            {
+                "question": "Which strategy is better suited for generating power?",
+                "id": "1885492047",
+                "answers": [
+                    {
+                        "text": "controlled reaction"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Turner et al (2006) derived crash prediction models for this report\u2019s predecessor and found a\npronounced \u2018safety in numbers\u2019 effect in the models. Using the crash prediction model for mid-block\nlocations, generic motorist and cyclist volumes can be used to demonstrate the impacts on the\nexpected crash rate of varying motor vehicle and cycle volumes. As shown in figure 2.20, an increase\nin the proportion of cyclists to the overall traffic volume causes an increase in expected crashes at\nmid-block locations, but the crash rate increases at a decreasing rate. That is to say, the crash rate per\ncyclist goes down as the cycle volume increases. ",
+        "situation": "Steven loves biking to get to and from places instead of driving his car. This weekend he is planning a long bike ride along the city streets to see some sites. He is however, concerned with traffic, and knows that it can sometimes be dangerous. He has wonder if he should travel with some friends for the ride, or just go alone. ",
+        "qas": [
+            {
+                "question": "Which would be the most crash prone way to travel for Steven?",
+                "id": "3752819643",
+                "answers": [
+                    {
+                        "text": "go alone"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The example of someone having a positive experience with a drug is easy to see how drug dependence and the law of effect works. The tolerance for a drug goes up as one continues to use it after having a positive experience with a certain amount the first time.[38] It will take more and more to get that same feeling. This is when the controlled substance in an experiment would have to be modified and the experiment would really begin. The law of work for psychologist B. F. Skinner almost half a century later on the principles of operant conditioning, \"a learning process by which the effect, or consequence, of a response influences the future rate of production of that response.[39]",
+        "situation": "The Hash Heroes met to discuss their experiences. They all said they always had a great experience using hash and used the same amount each time. They told how many times they used hash. Carolyn used it 15 times, Christine used it 20 times, Marie used it 25 times, Janet used it 25 times, Catherine used it 33 times, Frances used it 44 times, and Ann used it 55 times.",
+        "qas": [
+            {
+                "question": "Who has a higher tolerance for hash: Janet or Frances?",
+                "id": "4046359568",
+                "answers": [
+                    {
+                        "text": "Frances"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Turner et al (2006) derived crash prediction models for this report\u2019s predecessor and found a\npronounced \u2018safety in numbers\u2019 effect in the models. Using the crash prediction model for mid-block\nlocations, generic motorist and cyclist volumes can be used to demonstrate the impacts on the\nexpected crash rate of varying motor vehicle and cycle volumes. As shown in figure 2.20, an increase\nin the proportion of cyclists to the overall traffic volume causes an increase in expected crashes at\nmid-block locations, but the crash rate increases at a decreasing rate. That is to say, the crash rate per\ncyclist goes down as the cycle volume increases. ",
+        "situation": "There were a lot of motorcycles on Interstate 11 last week. On Wednesday, there were 1500 motorcyclists. On Thursday, there were 2500 motorcyclists. On Friday, there were 3500 motorcyclists. On Saturday, there were 4500 motorcyclists. On Sunday, there were 5500 motorcyclists. On Monday, there were 6500 motorcyclists. On Tuesday, there were 7500 motorcyclists. ",
+        "qas": [
+            {
+                "question": "What day had a lower crash rate per cyclist: Sunday or Tuesday?",
+                "id": "2090566610",
+                "answers": [
+                    {
+                        "text": "Tuesday"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Turner et al (2006) derived crash prediction models for this report\u2019s predecessor and found a\npronounced \u2018safety in numbers\u2019 effect in the models. Using the crash prediction model for mid-block\nlocations, generic motorist and cyclist volumes can be used to demonstrate the impacts on the\nexpected crash rate of varying motor vehicle and cycle volumes. As shown in figure 2.20, an increase\nin the proportion of cyclists to the overall traffic volume causes an increase in expected crashes at\nmid-block locations, but the crash rate increases at a decreasing rate. That is to say, the crash rate per\ncyclist goes down as the cycle volume increases. ",
+        "situation": "There were a lot of motorcycles on Interstate 2 last week. On Friday, there were 1000 motorcyclists. On Saturday, there were 1200 motorcyclists. On Sunday, there were 1400 motorcyclists. On Monday, there were 1600 motorcyclists. On Tuesday, there were 1800 motorcyclists. On Wednesday, there were 2000 motorcyclists. On Thursday, there were 2500 motorcyclists. ",
+        "qas": [
+            {
+                "question": "What day had a lower crash rate per cyclist: Wednesday or Friday?",
+                "id": "3897459765",
+                "answers": [
+                    {
+                        "text": "Wednesday"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Artworks are sold at affordable prices [6] ranging from \u00a35 to \u00a31500. For many of the works, the price goes up as the edition sells out. The edition runs range from 30 to 10,000 editions. Each work comes with a digital certificate that is \u201csigned, numbered and authenticated by the artist\u201d [7][8] Once an edition is sold out, collectors can resell their works in the online marketplace.",
+        "situation": "Bill is an art aficionado. He is searching for some particular pieces to complete his collection. The Stillman edition he wants is still being sold on a normal marketplace, while the Grossman edition of pieces has sold out, and is only available  by private seller.",
+        "qas": [
+            {
+                "question": "As more Grossman editions become available for sale will they become more or less expensive?",
+                "id": "494407430",
+                "answers": [
+                    {
+                        "text": "less"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Medical research on the effects of excessive light on the human body suggests that a variety of adverse health effects may be caused by light pollution or excessive light exposure, and some lighting design textbooks[33] use human health as an explicit criterion for proper interior lighting. Health effects of over-illumination or improper spectral composition of light may include: increased headache incidence, worker fatigue, medically defined stress, decrease in sexual function and increase in anxiety.[34][35][36][37] Likewise, animal models have been studied demonstrating unavoidable light to produce adverse effect on mood and anxiety.[38] For those who need to be awake at night, light at night also has an acute effect on alertness and mood.[39]",
+        "situation": "A couple met at a cafe to discuss their work weeks. Amy had to spend all day inside a brightly lit room to answer customer's complaints. Bob had to work inside a dimly lit cave to shovel coal. They both enjoyed their steak dinners.",
+        "qas": [
+            {
+                "question": "Who is likely to have less anxiety: Amy or Bob?",
+                "id": "487815166",
+                "answers": [
+                    {
+                        "text": "Bob"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Storing large volumes of data \u2013 When storing XML to either file or database, the volume of data a system produces can often exceed reasonable limits, with a number of detriments: the access times go up as more data is read, CPU load goes up as XML data takes more power to process, and storage costs go up. By storing XML data in Fast Infoset format, data volume may be reduced by as much as 80 percent.\n\n",
+        "situation": "Gary had a lot of storing to do on his computer. At 1 PM, he stored 1 Gigabyte of XML data to the main file. At 2 PM, he stored 2 Gigabytes of XML data to the main file. At 3 PM, he didn't store anything. At 4 PM, he stored 3 Gigabytes of XML data to the main file. At 5 PM, he stored 4 Gigabytes of XML data to the main file. At 6 PM, he did nothing. At 7 PM, he got dinner. At 8 PM, he stored 5 Gigabytes of XML data to the main file. He went to sleep at 9 PM and had to start again in the morning.",
+        "qas": [
+            {
+                "question": "What hour did storage costs go up: 1 PM or 6 PM?",
+                "id": "2499363391",
+                "answers": [
+                    {
+                        "text": "1 PM"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "About 10% of sedimentary rocks are limestones. The solubility of limestone in water and weak acid solutions leads to karst landscapes, in which water erodes the limestone over thousands to millions of years. Most cave systems are through limestone bedrock.",
+        "situation": "Bill is going on some trips this week. The first trip on Saturday is to Reginald's Peak. The next trip on Sunday is to Smuggler's Caves. He is very excited to see what both of the sites have to offer!",
+        "qas": [
+            {
+                "question": "Will Bill be more or less likely to see limestone formations on Sunday?",
+                "id": "3731734237",
+                "answers": [
+                    {
+                        "text": "more"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The example of someone having a positive experience with a drug is easy to see how drug dependence and the law of effect works. The tolerance for a drug goes up as one continues to use it after having a positive experience with a certain amount the first time.[38] It will take more and more to get that same feeling. This is when the controlled substance in an experiment would have to be modified and the experiment would really begin. The law of work for psychologist B. F. Skinner almost half a century later on the principles of operant conditioning, \"a learning process by which the effect, or consequence, of a response influences the future rate of production of that response.[39]",
+        "situation": "The Special K Club met to discuss their experiences. They all said they always had a great experience using Special K and used the same amount each time. They told how many times they used Special K. Rico used it 72 times, Wilton used it 62 times, Brant used it 52 times, Josiah used it 42 times, Lyman used it 32 times, Alfonzo used it 22 times, and Christoper used it 12 times.",
+        "qas": [
+            {
+                "question": "Who has a higher tolerance for Special K: Lyman or Rico?",
+                "id": "859541455",
+                "answers": [
+                    {
+                        "text": "Rico"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Regions on the Earth's surface (or in its atmosphere) that are high above mean sea level are referred to as high altitude. High altitude is sometimes defined to begin at 2,400 meters (8,000 ft) above sea level.[5][6][7]\n\nAt high altitude, atmospheric pressure is lower than that at sea level. This is due to two competing physical effects: gravity, which causes the air to be as close as possible to the ground; and the heat content of the air, which causes the molecules to bounce off each other and expand.[8]",
+        "situation": "There was a competition for who can get their gray drone the highest into the air. Team 20 got it 3,334 ft. Team 21 got it 4,445 ft. Team 22 go it 5,556 ft. Team 23 got it 6,667 ft. Team 24 got it 11,112 ft. Team 25 got it 12,223 ft. Team 26 got it 13,333 ft.\n",
+        "qas": [
+            {
+                "question": "What team got their drone into high altitude: Team 22 or Team 25?",
+                "id": "349444084",
+                "answers": [
+                    {
+                        "text": "Team 25"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "You generally can\u2019t see, smell, taste, hear, or feel radiation. Fortunately, there are devices such as Geiger counters that can detect radiation. A Geiger counter, like the one pictured in the Figure below , contains atoms of a gas that is ionized if it encounters radiation. When this happens, the gas atoms change to ions that can carry an electric current. The current causes the Geiger counter to click. The faster the clicks occur, the higher the level of radiation.",
+        "situation": "Steve is a geologist and is doing a study on the radioactivity of different rocks. He has gathered two distinctly different rocks for examination. The first rock is red in color, and the second is purple in color. He has brought along a Geiger counter to help him with his study. The red rock ends up making the Geiger counter click very rapidly, while the purple rock barely registers any clicks.",
+        "qas": [
+            {
+                "question": "Which color rock is most likely radioactive?",
+                "id": "2450934527",
+                "answers": [
+                    {
+                        "text": "red"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Storing large volumes of data \u2013 When storing XML to either file or database, the volume of data a system produces can often exceed reasonable limits, with a number of detriments: the access times go up as more data is read, CPU load goes up as XML data takes more power to process, and storage costs go up. By storing XML data in Fast Infoset format, data volume may be reduced by as much as 80 percent.\n\n",
+        "situation": "Antwan had a busy day storing XML. In the morning, he filled up a hard drive with XML. In the afternoon, he filled up a few hard drives with XML. At night, he filled up many hard drives with XML.",
+        "qas": [
+            {
+                "question": "What time did the access times go up the least: morning or afternoon?",
+                "id": "3248221161",
+                "answers": [
+                    {
+                        "text": "morning"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Alberta's electrical demand varies throughout the day and across the seasons. When individuals are fixing supper and using home appliances, demand for power goes up, as it does during heat waves and cold snaps. It tapers off during spring and fall. Like other mechanical devices, generators fail from time to time. If they are wind-powered, their output varies with the wind.",
+        "situation": "Carl is in charge of a power generation station in Alberta. He is tasked with turning on or off certain generators in instances of high or low demand (High demand would require more generators to be turned on, and low turned off). There are various occasions that Carl has to be vigilant for, such as various times of the day; early morning, dinner time, late night. Weather conditions also play a roll, such as; colder weather, hot weather, or moderate weather. He also must be aware of wind conditions, as some of the power is garnered from wind power.",
+        "qas": [
+            {
+                "question": "Which time of day should Carl power off more generators, late at night, or around dinner time?",
+                "id": "3893326122",
+                "answers": [
+                    {
+                        "text": "late at night"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "In Windows 2000 and later the threads in the System Idle Process are also used to implement CPU power saving. The exact power saving scheme depends on the operating system version and on the hardware and firmware capabilities of the system in question. For instance, on x86 processors under Windows 2000, the idle thread will run a loop of halt instructions, which causes the CPU to turn off many internal components until an interrupt request arrives. Later versions of Windows implement more complex CPU power saving methods. On these systems the idle thread will call routines in the Hardware Abstraction Layer to reduce CPU clock speed or to implement other power-saving mechanisms.",
+        "situation": "Bob is building a new computer and wants it to be the most advanced version he can make. He has all of his parts, but is not deciding on a operating system. He sees that Windows 2000 is on sale, but also isn't sure if it will do what he wants, and has the choice to pay a higher price for Windows 10. His other goal is to make sure that his machine is efficient, and won't cost a lot in the way of power costs while running, since he leaves his machine idle most days.",
+        "qas": [
+            {
+                "question": "Which operating system should Bob buy if he wants the best power efficiency?",
+                "id": "955038082",
+                "answers": [
+                    {
+                        "text": "Windows 10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Storing large volumes of data \u2013 When storing XML to either file or database, the volume of data a system produces can often exceed reasonable limits, with a number of detriments: the access times go up as more data is read, CPU load goes up as XML data takes more power to process, and storage costs go up. By storing XML data in Fast Infoset format, data volume may be reduced by as much as 80 percent.\n\n",
+        "situation": "Carl had a busy day storing XML. At 1 PM, he stored 1000 Gigabytes to the database. At 2 PM, he stored 2000 Gigabytes to the database. At 3 PM, he stored 3000 Gigabytes to the database. At 4 PM, he got dinner. At 5 PM, he stored 4000 Gigabytes to the database. At 6 PM, he stored 5000 Gigabytes to the database. At 7 PM, he went to sleep to finish storing XML tomorrow.\n",
+        "qas": [
+            {
+                "question": "What time did storage costs go up:  3 PM or 7 PM?",
+                "id": "4134688",
+                "answers": [
+                    {
+                        "text": "3 PM"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Making these healthy lifestyle choices can also help prevent some types of cancer. In addition, you can lower the risk of cancer by avoiding carcinogens , which are substances that cause cancer. For example, you can reduce your risk of lung cancer by not smoking. You can reduce your risk of skin cancer by using sunscreen. How to choose a sunscreen that offers the most protection is explained below ( Figure below ). Some people think that tanning beds are a safe way to get a tan. This is a myth. Tanning beds expose the skin to UV radiation. Any exposure to UV radiation increases the risk of skin cancer. It doesn\u2019t matter whether the radiation comes from tanning lamps or the sun.",
+        "situation": "Steve and Bill are really good friends with each other. The other day they were talking about some habits they have. Steve likes to work out and stay in shape, eats healthy and does not smoke. Bill said he wants to be more like Steve. Bill currently smokes, and loves to go out tanning in the sun without sunscreen.",
+        "qas": [
+            {
+                "question": "Which of the two men does not avoid carcinogens?",
+                "id": "451771270",
+                "answers": [
+                    {
+                        "text": "Bill"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "About 10% of sedimentary rocks are limestones. The solubility of limestone in water and weak acid solutions leads to karst landscapes, in which water erodes the limestone over thousands to millions of years. Most cave systems are through limestone bedrock.",
+        "situation": "Greg has been on a rock finding kick. Lately, he has decided he wanted to explore areas with higher amounts of limestone. He only has time this year for one trip, and his options are limited. He can go to Mount St. Helens, or he can go to the Meremac Caverns.",
+        "qas": [
+            {
+                "question": "Will Meremac Caverns be more or less likely to have limestone deposits than Mount St. Helens?",
+                "id": "1809570525",
+                "answers": [
+                    {
+                        "text": "more"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Turner et al (2006) derived crash prediction models for this report\u2019s predecessor and found a\npronounced \u2018safety in numbers\u2019 effect in the models. Using the crash prediction model for mid-block\nlocations, generic motorist and cyclist volumes can be used to demonstrate the impacts on the\nexpected crash rate of varying motor vehicle and cycle volumes. As shown in figure 2.20, an increase\nin the proportion of cyclists to the overall traffic volume causes an increase in expected crashes at\nmid-block locations, but the crash rate increases at a decreasing rate. That is to say, the crash rate per\ncyclist goes down as the cycle volume increases. ",
+        "situation": "There were a ton of motorcycles on Interstate 8 last week. On Monday, there were 2500 motorcyclists. On Tuesday, there were 3500 motorcyclists. On Wednesday, there were 4500 motorcyclists. On Thursday, there were 5500 motorcyclists. On Friday, there were 6500 motorcyclists. On Saturday, there were 7500 motorcyclists. On Sunday, there were 8500 motorcyclists. \n",
+        "qas": [
+            {
+                "question": "What day had a lower crash rate per cyclist: Wednesday or Saturday?",
+                "id": "2911602009",
+                "answers": [
+                    {
+                        "text": "Saturday"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Turner et al (2006) derived crash prediction models for this report\u2019s predecessor and found a\npronounced \u2018safety in numbers\u2019 effect in the models. Using the crash prediction model for mid-block\nlocations, generic motorist and cyclist volumes can be used to demonstrate the impacts on the\nexpected crash rate of varying motor vehicle and cycle volumes. As shown in figure 2.20, an increase\nin the proportion of cyclists to the overall traffic volume causes an increase in expected crashes at\nmid-block locations, but the crash rate increases at a decreasing rate. That is to say, the crash rate per\ncyclist goes down as the cycle volume increases. ",
+        "situation": "There were a lot of motorcycles on Interstate 17 last week. On Monday, there were 1355 motorcyclists. On Tuesday, there were 2355 motorcyclists. On Wednesday, there were 3351 motorcyclists. On Thursday, there were 4351 motorcyclists. On Friday, there were 5351 motorcyclists. On Saturday, there were 6351 motorcyclists. On Sunday, there were 7351 motorcyclists. \n",
+        "qas": [
+            {
+                "question": "What day had a lower crash rate per cyclist: Monday or Sunday?",
+                "id": "1942389647",
+                "answers": [
+                    {
+                        "text": "Sunday"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Sometimes muscles and tendons get injured when a person starts doing an activity before they have warmed up properly. A warm up is a slow increase in the intensity of a physical activity that prepares muscles for an activity. Warming up increases the blood flow to the muscles and increases the heart rate. Warmed-up muscles and tendons are less likely to get injured. For example, before running or playing soccer, a person might jog slowly to warm muscles and increase their heart rate. Even elite athletes need to warm up ( Figure below ).",
+        "situation": "Steve and Jon are getting ready for a big marathon that both have been training for. Steve gets ready for the race by stretching and doing some pre-race warm ups. Jon on the other had does no think warming up helps at all, and decides to just remain seated until it is time for the race to start.",
+        "qas": [
+            {
+                "question": "Who is more likely to get an injury during the race?",
+                "id": "3327345149",
+                "answers": [
+                    {
+                        "text": "Jon"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "About 10% of sedimentary rocks are limestones. The solubility of limestone in water and weak acid solutions leads to karst landscapes, in which water erodes the limestone over thousands to millions of years. Most cave systems are through limestone bedrock.",
+        "situation": "Allan has to plan a couple of adventures this year. One adventure involves taking his family on vacation, and his son has been interested in seeing different formations of limestone. The other adventure Allan must plan for is a trip with his coworkers, one of which has mentioned that they have seen all the limestone formations that they want to see, and want to see other rock formations. He has narrowed down his adventure spots to Wilson Caves and Mt. Everest.",
+        "qas": [
+            {
+                "question": "Which spot should Allan take his coworkers to most likely avoid limestone formations?",
+                "id": "4104923026",
+                "answers": [
+                    {
+                        "text": "Mt. Everest"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The example of someone having a positive experience with a drug is easy to see how drug dependence and the law of effect works. The tolerance for a drug goes up as one continues to use it after having a positive experience with a certain amount the first time.[38] It will take more and more to get that same feeling. This is when the controlled substance in an experiment would have to be modified and the experiment would really begin. The law of work for psychologist B. F. Skinner almost half a century later on the principles of operant conditioning, \"a learning process by which the effect, or consequence, of a response influences the future rate of production of that response.[39]",
+        "situation": "The Coke Crew met to discuss their experiences. They all said they always had a great experience using coke and used the same amount each time. They told how many times they used coke. Ashley used it 23 times, Judith used it 27 times, Rose used it 32 times, Janice used it 43 times, Kelly used it 57 times, Nicole used it 65 times, and Judy used it 72 times.",
+        "qas": [
+            {
+                "question": "Who has a higher tolerance for coke: Janice or Judy?",
+                "id": "3799222086",
+                "answers": [
+                    {
+                        "text": "Judy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The example of someone having a positive experience with a drug is easy to see how drug dependence and the law of effect works. The tolerance for a drug goes up as one continues to use it after having a positive experience with a certain amount the first time.[38] It will take more and more to get that same feeling. This is when the controlled substance in an experiment would have to be modified and the experiment would really begin. The law of work for psychologist B. F. Skinner almost half a century later on the principles of operant conditioning, \"a learning process by which the effect, or consequence, of a response influences the future rate of production of that response.[39]",
+        "situation": "The Salvia Squad met to discuss their experiences. They all said they always had a great experience using salvia and used the same amount each time. They told how many times they used salvia. Weston used it once. Jerrod used it a few times. Lucio used it a lot.",
+        "qas": [
+            {
+                "question": "Who's tolerance is stronger for salvia: Weston or Jerrod?",
+                "id": "513043382",
+                "answers": [
+                    {
+                        "text": "Jerrod"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The water cycle involves the exchange of energy, which leads to temperature changes. When water evaporates, it takes up energy from its surroundings and cools the environment. When it condenses, it releases energy and warms the environment. These heat exchanges influence climate.",
+        "situation": "The community around Lake Superior experienced a crazy weather week. On Sunday, 4 inches of Lake Superior evaporated. On Monday, 3 inches of Lake Superior evaporated. On Tuesday, 2 inches of Lake Superior evaporated. On Wednesday, Thursday, Friday, and Saturday, there was condensation all day.\n",
+        "qas": [
+            {
+                "question": "Which day did the environment in the community have a higher warming: Monday or Friday?",
+                "id": "1090252763",
+                "answers": [
+                    {
+                        "text": "Friday"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Regions on the Earth's surface (or in its atmosphere) that are high above mean sea level are referred to as high altitude. High altitude is sometimes defined to begin at 2,400 meters (8,000 ft) above sea level.[5][6][7]\n\nAt high altitude, atmospheric pressure is lower than that at sea level. This is due to two competing physical effects: gravity, which causes the air to be as close as possible to the ground; and the heat content of the air, which causes the molecules to bounce off each other and expand.[8]",
+        "situation": "There was a competition for who can get the kite highest into the air. Team A got it 2,000 ft. Team B got it 3,000 ft. Team C go it 6,000 ft. Team D got it 9,000 ft. Team E got it 10,000 ft.  Team F got it 11,000 ft. Team G got it 12,000 ft. Team G won the contest and got a gold trophy as the prize.",
+        "qas": [
+            {
+                "question": "What team got their kite into high altitude: Team C or Team E?",
+                "id": "1542202950",
+                "answers": [
+                    {
+                        "text": "Team E"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Artworks are sold at affordable prices [6] ranging from \u00a35 to \u00a31500. For many of the works, the price goes up as the edition sells out. The edition runs range from 30 to 10,000 editions. Each work comes with a digital certificate that is \u201csigned, numbered and authenticated by the artist\u201d [7][8] Once an edition is sold out, collectors can resell their works in the online marketplace.",
+        "situation": "The local art store had limited edition artworks for sale last week. They all had 200 pieces at the beginning of the week. By the end of the week, they started to sell out. There were only 2 of the Mona Lisa, 10 of The Starry Night, 20 of The Scream, 50 of The Night Watch, 120 of The Kiss, 150 of The Arnolfini Portrait, and 190 of The Girl With A Pearl Earring left.",
+        "qas": [
+            {
+                "question": "Which limited edition most likely had it's price increased: The Girl With A Pearl Earring or Mona Lisa?",
+                "id": "174402562",
+                "answers": [
+                    {
+                        "text": "Mona Lisa"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Hepatitis B is a contagious virus that affects the liver, infection can last from a few weeks to a serious lifelong illness. Two different types of infection exist for this disease, \"acute\" and \"chronic.\" Acute Hepatitis B is a short term illness that occurs within 6 months of exposure, Chronic Hepatitis B is long term and happens when the virus remains in the body. The younger the child is, the greater their chance of developing a chronic infection and this risk goes down as the child gets older. Approximately 90% of infected infants will develop a chronic infection.[3]",
+        "situation": "A 2nd grade classroom photo was held today. They all gathered by age. Larry was the youngest. Jeffrey was the 2nd youngest. Frank was the 3rd youngest. Scott was the 4th youngest. Eric was the 5th youngest. Stephen was the 6th youngest. The last one was Andrew, who was the oldest. They all looked great that day.",
+        "qas": [
+            {
+                "question": "Who has a greater chance of developing a chronic infection: Stephen or Larry?",
+                "id": "4041103956",
+                "answers": [
+                    {
+                        "text": "Larry"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "About 10% of sedimentary rocks are limestones. The solubility of limestone in water and weak acid solutions leads to karst landscapes, in which water erodes the limestone over thousands to millions of years. Most cave systems are through limestone bedrock.",
+        "situation": "Craig is traveling the country and seeing the different sites. On Monday and Tuesday, he will be seeing a vast field where an old battle happened, called Marshall Field. It is now mostly used for farming for its fertile soil. On Thursday and Friday Craig will venture to see Smuggler's Caves, an intricate cave system that used to be used by smuggler's and pirates. ",
+        "qas": [
+            {
+                "question": "Will Craig have more or less chance of seeing limestone on Thursday than Tuesday?",
+                "id": "770244348",
+                "answers": [
+                    {
+                        "text": "more"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Alberta's electrical demand varies throughout the day and across the seasons. When individuals are fixing supper and using home appliances, demand for power goes up, as it does during heat waves and cold snaps. It tapers off during spring and fall. Like other mechanical devices, generators fail from time to time. If they are wind-powered, their output varies with the wind.",
+        "situation": "It has been a weird week in the neighborhood. On Monday, there was a heat wave. On Tuesday, a cold snap happened. On Wednesday, everybody was using their ovens to bake cakes for the contest. On Thursday, everybody stayed home to do nothing but pray. On Friday, everybody went to the park to play in a soccer tournament and sleep in tents . On Saturday, there was another heat wave. On Sunday, another cold snap happened.",
+        "qas": [
+            {
+                "question": "What day did demand for power go up: Tuesday or Friday?",
+                "id": "218116390",
+                "answers": [
+                    {
+                        "text": "Tuesday"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Iron is first oxidized to iron(II) ions by oxygen. In the second step, the iron(II) ions are further oxidized and combine with water and oxygen gas to produce a hydrated form of iron(III) oxide known as rust. Rusting is one of many example of corrosion. Corrosion is the deterioration of metals by redox processes. Corrosion causes enormous amounts of damage to buildings, bridges, ships, cars, and other objects. It has been estimated that corrosion costs the U.S. economy over 100 billion dollars each year. A great amount of time and effort is spent to try to limit or prevent corrosion.",
+        "situation": "Aaron is doing a science experiment for school. He is trying to see what happens to different iron objects in different conditions. He has two samples that he is testing. Sample A he has placed in a dark dry room away from the elements. Sample B he has placed outside under no cover, so it will be rained on.",
+        "qas": [
+            {
+                "question": "Which sample will most likely rust first?",
+                "id": "459624881",
+                "answers": [
+                    {
+                        "text": "Sample B"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Hepatitis B is a contagious virus that affects the liver, infection can last from a few weeks to a serious lifelong illness. Two different types of infection exist for this disease, \"acute\" and \"chronic.\" Acute Hepatitis B is a short term illness that occurs within 6 months of exposure, Chronic Hepatitis B is long term and happens when the virus remains in the body. The younger the child is, the greater their chance of developing a chronic infection and this risk goes down as the child gets older. Approximately 90% of infected infants will develop a chronic infection.[3]",
+        "situation": "A 2nd grade classroom photo was held today. They all gathered by age. Dario was the oldest. Delmer was the 2nd oldest. Mohamed was the 3rd oldest. Brice was the 4th oldest. Horacio was the 5th oldest. Lupe was the 6th oldest. The last one was Richie, who was the youngest. They all looked great that day.",
+        "qas": [
+            {
+                "question": "Who has a greater chance of developing a chronic infection: Mohamed or Richie?",
+                "id": "2930857419",
+                "answers": [
+                    {
+                        "text": "Richie"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Hepatitis B is a contagious virus that affects the liver, infection can last from a few weeks to a serious lifelong illness. Two different types of infection exist for this disease, \"acute\" and \"chronic.\" Acute Hepatitis B is a short term illness that occurs within 6 months of exposure, Chronic Hepatitis B is long term and happens when the virus remains in the body. The younger the child is, the greater their chance of developing a chronic infection and this risk goes down as the child gets older. Approximately 90% of infected infants will develop a chronic infection.[3]",
+        "situation": "A 3rd grade classroom photo was held today. They all gathered by age. Gloria was the youngest. Evelyn was the 2nd youngest. Jean was the 3rd youngest. Cheryl was the 4th youngest. Mildred was the 5th youngest. Katherine was the 6th youngest. The last one was Joan, who was the oldest. They all looked fantastic that day.",
+        "qas": [
+            {
+                "question": "Who has a greater chance of developing a chronic infection: Jean or Gloria?",
+                "id": "3454426121",
+                "answers": [
+                    {
+                        "text": "Gloria"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Storing large volumes of data \u2013 When storing XML to either file or database, the volume of data a system produces can often exceed reasonable limits, with a number of detriments: the access times go up as more data is read, CPU load goes up as XML data takes more power to process, and storage costs go up. By storing XML data in Fast Infoset format, data volume may be reduced by as much as 80 percent.\n\n",
+        "situation": "Joel had a busy day storing XML. At 5 PM, he stored 11110 Gigabytes to the database. At 6 PM, he stored 22220 Gigabytes to the database. At 7 PM, he stored 33330 Gigabytes to the database. At 8 PM, he got dinner. At 9 PM, he stored 44440 Gigabytes to the database. At 10 PM, he stored 55550 Gigabytes to the database. At 11 PM, he went to sleep to finish storing XML tomorrow.\n",
+        "qas": [
+            {
+                "question": "What time did CPU load go up: 10 PM or 8 PM?",
+                "id": "2183271973",
+                "answers": [
+                    {
+                        "text": "10 PM"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Regions on the Earth's surface (or in its atmosphere) that are high above mean sea level are referred to as high altitude. High altitude is sometimes defined to begin at 2,400 meters (8,000 ft) above sea level.[5][6][7]\n\nAt high altitude, atmospheric pressure is lower than that at sea level. This is due to two competing physical effects: gravity, which causes the air to be as close as possible to the ground; and the heat content of the air, which causes the molecules to bounce off each other and expand.[8]",
+        "situation": "There was a competition for who can get their yellow drone the highest into the air. Team 7 got it 3,335 ft. Team 8 got it 4,445 ft. Team 9 go it 5,565 ft. Team 10 got it 6,645 ft. Team 11 got it 11,635 ft. Team 12 got it 14,875 ft. Team 13 got it 15,895 ft.\n",
+        "qas": [
+            {
+                "question": "What team got their drone into high altitude: Team 8 or Team 13?",
+                "id": "2409961538",
+                "answers": [
+                    {
+                        "text": "Team 13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Blue ice occurs when snow falls on a glacier, is compressed, and becomes part of the glacier. Air bubbles are squeezed out and ice crystals enlarge, making the ice appear blue.\n\nSmall amounts of regular ice appear to be white because of air bubbles inside them and also because small quantities of water appear to be colourless. In glaciers, the pressure causes the air bubbles to be squeezed out, increasing the density of the created ice. Large quantities of water appear to be blue, as it absorbs other colours more efficiently than blue. A large piece of compressed ice, or a glacier, similarly appears blue.",
+        "situation": "A science team has been dispatched to the Arctic for a study project. The teams objective is to study various forms of ice formations. They will look at a glacier in the area, and also a frozen over lake. The team is excited to gather different data while on the trip.",
+        "qas": [
+            {
+                "question": "Will the glacier or the frozen over lake more likely have a blueish color?",
+                "id": "3511965451",
+                "answers": [
+                    {
+                        "text": "glacier"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The primary advantage held by a player in late position is that he will have more information with which to make better decisions than players in early position, who will have to act first, without the benefit of this extra information. This advantage has led to many players in heads-up play raising on the button with an extremely wide range of hands because of this positional advantage.[3] Also, as earlier opponents fold, the probability of a hand being the best goes up as the number of opponents goes down.",
+        "situation": "Bill is in a poker tournament this week, and is very much wants to win. He has been placed randomly in certain positions for each day he is playing. On Monday and Tuesday he will be in an early position at the table. On Thursday and Friday he has been placed in a late position.",
+        "qas": [
+            {
+                "question": "Does Bill have a better or worse advantage on Monday than Thursday?",
+                "id": "2934519278",
+                "answers": [
+                    {
+                        "text": "worse"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Storing large volumes of data \u2013 When storing XML to either file or database, the volume of data a system produces can often exceed reasonable limits, with a number of detriments: the access times go up as more data is read, CPU load goes up as XML data takes more power to process, and storage costs go up. By storing XML data in Fast Infoset format, data volume may be reduced by as much as 80 percent.\n\n",
+        "situation": "Paul had a busy day storing XML. At 3 PM, he stored 22111 Gigabytes to the database. At 4 PM, he stored 33222 Gigabytes to the database. At 5 PM, he stored 44333 Gigabytes to the database. At 6 PM, he got dinner. At 7 PM, he stored 55444 Gigabytes to the database. At 8 PM, he stored 66555 Gigabytes to the database. At 9 PM, he went to sleep to finish storing XML tomorrow afternoon.",
+        "qas": [
+            {
+                "question": "What time did storage costs go up:  3 PM or 9 PM?",
+                "id": "1315773528",
+                "answers": [
+                    {
+                        "text": "3 PM"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Regions on the Earth's surface (or in its atmosphere) that are high above mean sea level are referred to as high altitude. High altitude is sometimes defined to begin at 2,400 meters (8,000 ft) above sea level.[5][6][7]\n\nAt high altitude, atmospheric pressure is lower than that at sea level. This is due to two competing physical effects: gravity, which causes the air to be as close as possible to the ground; and the heat content of the air, which causes the molecules to bounce off each other and expand.[8]",
+        "situation": "Riley has just been diagnosed with a disease that requires him to be in an area that has low atmospheric pressure to help his breathing. He has two cities he can choose to live in based on his current budget. Denver with an elevation of 10,000 ft, and Miami, which is around sea level. ",
+        "qas": [
+            {
+                "question": "Which city will have less atmospheric pressure?",
+                "id": "1006185151",
+                "answers": [
+                    {
+                        "text": "Denver"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Hepatitis B is a contagious virus that affects the liver, infection can last from a few weeks to a serious lifelong illness. Two different types of infection exist for this disease, \"acute\" and \"chronic.\" Acute Hepatitis B is a short term illness that occurs within 6 months of exposure, Chronic Hepatitis B is long term and happens when the virus remains in the body. The younger the child is, the greater their chance of developing a chronic infection and this risk goes down as the child gets older. Approximately 90% of infected infants will develop a chronic infection.[3]",
+        "situation": "A 2nd grade classroom photo was held today. They all gathered by age. Susan was the oldest. Margaret was the 2nd oldest. Dorothy was the 3rd oldest. Lisa was the 4th oldest. Nancy was the 5th oldest. Karen was the 6th oldest. The last one was Betty, who was the youngest. They all looked great that day.\n",
+        "qas": [
+            {
+                "question": "Who has a greater chance of developing a chronic infection: Nancy or Betty?",
+                "id": "28726481",
+                "answers": [
+                    {
+                        "text": "Betty"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Sometimes muscles and tendons get injured when a person starts doing an activity before they have warmed up properly. A warm up is a slow increase in the intensity of a physical activity that prepares muscles for an activity. Warming up increases the blood flow to the muscles and increases the heart rate. Warmed-up muscles and tendons are less likely to get injured. For example, before running or playing soccer, a person might jog slowly to warm muscles and increase their heart rate. Even elite athletes need to warm up ( Figure below ).",
+        "situation": "Greg and Carl and about to do a marathon. Greg sees Carl doing some warm ups and laughs to himself and thinks it is silly. They both want to get a good time, and are both avid runners. ",
+        "qas": [
+            {
+                "question": "Who is more likely to get an injury during the race?",
+                "id": "4035582237",
+                "answers": [
+                    {
+                        "text": "Greg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The example of someone having a positive experience with a drug is easy to see how drug dependence and the law of effect works. The tolerance for a drug goes up as one continues to use it after having a positive experience with a certain amount the first time.[38] It will take more and more to get that same feeling. This is when the controlled substance in an experiment would have to be modified and the experiment would really begin. The law of work for psychologist B. F. Skinner almost half a century later on the principles of operant conditioning, \"a learning process by which the effect, or consequence, of a response influences the future rate of production of that response.[39]",
+        "situation": "The Ganja Gang met to discuss their experiences. They all said they always had a great experience using ganja and used the same amount each time. They told how many times they used ganja. Susan used it 3 times, Margaret used it 6 times, Dorothy used it 10 times, Lisa used it 15 times, Nancy used it 20 times, Karen used it 25 times, and Betty used it 35 times.",
+        "qas": [
+            {
+                "question": "Who has a higher tolerance for ganja: Margaret or Karen?",
+                "id": "92572268",
+                "answers": [
+                    {
+                        "text": "Karen"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The Laffer curve depicts the amount of government revenue as a function of the rate of taxation. It shows that for a tax rate above a certain critical rate, government revenue starts decreasing as the tax rate rises, as a consequence of a decline in labour supply. This theory supports that, if the tax rate is above that critical point, a decrease in the tax rate should imply a rise in labour supply that in turn would lead to an increase in government revenue.",
+        "situation": "Bill is a tax agent, and is writing some tax law and is trying to decide the best rate. He knows that the average tax rate is 20% currently, but is unsure if he should push it above 30%, which is a higher than nominal rate and hasn't been tested.",
+        "qas": [
+            {
+                "question": "Which tax rate may lead to a decrease in labor supply?",
+                "id": "2101481873",
+                "answers": [
+                    {
+                        "text": "30%"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Storing large volumes of data \u2013 When storing XML to either file or database, the volume of data a system produces can often exceed reasonable limits, with a number of detriments: the access times go up as more data is read, CPU load goes up as XML data takes more power to process, and storage costs go up. By storing XML data in Fast Infoset format, data volume may be reduced by as much as 80 percent.\n\n",
+        "situation": "Dan had a busy day storing XML. At 2 PM, he stored 10000 Gigabytes to the database. At 3 PM, he stored 20000 Gigabytes to the database. At 4 PM, he stored 30000 Gigabytes to the database. At 5 PM, he got dinner. At 6 PM, he stored 40000 Gigabytes to the database. At 7 PM, he stored 50000 Gigabytes to the database. At 8 PM, he went to sleep to finish storing XML in the morning.",
+        "qas": [
+            {
+                "question": "What time did CPU load go up: 4 PM or 8 PM?",
+                "id": "1427510960",
+                "answers": [
+                    {
+                        "text": "4 PM"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Regions on the Earth's surface (or in its atmosphere) that are high above mean sea level are referred to as high altitude. High altitude is sometimes defined to begin at 2,400 meters (8,000 ft) above sea level.[5][6][7]\n\nAt high altitude, atmospheric pressure is lower than that at sea level. This is due to two competing physical effects: gravity, which causes the air to be as close as possible to the ground; and the heat content of the air, which causes the molecules to bounce off each other and expand.[8]",
+        "situation": "There was a competition for who can get the blue drone the highest into the air. Team A got it 2,500 ft. Team B got it 3,500 ft. Team C go it 4,500 ft. Team D got it 5,500 ft. Team E got it 10,500 ft. Team F got it 13,500 ft. Team G got it 14,500 ft. Team G won the contest and got a gold trophy as the prize.",
+        "qas": [
+            {
+                "question": "What team got their drone into high altitude: Team C or Team G?",
+                "id": "3362466376",
+                "answers": [
+                    {
+                        "text": "Team G"
+                    }
+                ]
+            }
+        ]
+    }
+]

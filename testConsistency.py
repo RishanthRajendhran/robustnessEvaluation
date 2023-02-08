@@ -3,6 +3,23 @@ import argparse
 import numpy as np
 import os
 import glob
+from nltk import tokenize 
+
+f1Threshold = 0.8 
+
+def checkAnswers(answer, corrAnswer):
+    answer = answer.lower()
+    corrAnswer = corrAnswer.lower()
+
+    wordsInAnswer = set(tokenize.word_tokenize(answer))
+    wordsInCorrAnswer = set(tokenize.word_tokenize(corrAnswer))   
+    
+    commonWords = wordsInCorrAnswer.intersection(wordsInAnswer)
+    precision = len(commonWords)/len(wordsInAnswer)
+    recall = len(commonWords)/len(wordsInCorrAnswer)
+    f1 = precision*recall 
+
+    return f1
 
 parser = argparse.ArgumentParser()
 
@@ -49,12 +66,19 @@ parser.add_argument(
     required=True,
 )
 
+parser.add_argument(
+    "-selfConsistency",
+    action="store_true",
+    help="Booleaan flag to compute self-consistency"
+)
+
 args = parser.parse_args()
 outputFiles = args.outputFiles
 isDirectory = args.isDirectory
 concise = args.concise
 summaryOnly = args.summaryOnly
 dataset = args.dataset
+selfConsistency = args.selfConsistency
 
 if isDirectory:
     jsonDirName = outputFiles[0]
@@ -76,71 +100,127 @@ def extractAnswer(answer, isOut):
         answer = answer.strip()
         if answer[-1] == ".":
             answer = answer[:-1]
+    if answer.lower() == "true":
+        answer = "yes"
+    elif answer.lower() == "false":
+        answer = "no"
     return answer
 #---------------------------------------------------------------------------
 def main():
     promptPerfs = {}
     for outputFile in outputFiles:
         passages = {}
+        if selfConsistency:
+            selfPassages = {}
         data = []   
         numEditTypes = {}
         for  line in open(outputFile, "r"):
             data.extend(json.loads(line))
         for d in data:
+            if len(d["output"]) == 0 or len(d["label"]) == 0:
+                continue
             answer = d["output"]
             answer = extractAnswer(answer, True)
             corrAnswer = d["label"]
             corrAnswer = extractAnswer(corrAnswer, False)
             passId = d["PassageID"]
             questionID = d["QuestionID"]
-            if dataset == "condaqa":
-                if d["PassageEditID"] not in numEditTypes.keys():
-                    numEditTypes[d["PassageEditID"]] = 1
-                else:
-                    numEditTypes[d["PassageEditID"]] += 1
-            if passId not in passages.keys():
-                if dataset in ["condaqa", "perspectrum", "mctaco", "ropes"]:
-                    passages[passId] = {}
-                else:
-                    passages[passId] = {
-                        "score": 0,
-                        "count": 0,
-                        "failureEditTypes": [],
-                        "failureCases": [],
-                    }
-            if dataset in ["condaqa", "perspectrum", "mctaco", "ropes"]:
-                if questionID not in passages[passId].keys():
-                    passages[passId][questionID] = {
-                        "score": 0,
-                        "count": 0,
-                        "failureEditTypes": [],
-                        "failureCases": [],
-                    }
-            if dataset in ["condaqa", "perspectrum", "mctaco", "ropes"]:
-                passages[passId][questionID]["count"] += 1
+            if selfConsistency:
+                if dataset != "condaqa":
+                    raise RuntimeError("Self consistency only supported for CondaQA dataset as of now!")
+                sampleID = d["SampleID"]
+                if sampleID not in selfPassages.keys():
+                    selfPassages[sampleID] = {
+                            "passageID": passId,
+                            "questionID": questionID,
+                            "answers": [],
+                            "label": corrAnswer,
+                            "score": 0,
+                            "count": 1,
+                            "failureCases": [],
+                        }    
+                selfPassages[sampleID]["answers"].append(answer) 
             else:
-                passages[passId]["count"] += 1
-            if answer == corrAnswer or ((" " + corrAnswer + " ") in answer and abs(len(corrAnswer)-len(answer))<=6) or ((" " + answer + " ") in  corrAnswer and abs(len(corrAnswer)-len(answer))<=6):
-                if dataset in ["condaqa", "perspectrum", "mctaco", "ropes"]:
-                    passages[passId][questionID]["score"] += 1
-                else: 
-                    passages[passId]["score"] += 1
-            else:
-                #Are answer and corrAnswer permutations of each other?
-                sortedAns = np.sort([x for x in answer.split(" ") if len(x) and x.isalnum()])
-                sortedCorrAns = np.sort([x for x in corrAnswer.split(" ") if len(x) and x.isalnum()])
-                if len(sortedAns) == len(sortedCorrAns) and (sortedAns == sortedCorrAns).all():
-                    if dataset in ["condaqa", "perspectrum", "mctaco", "ropes"]:
+                if dataset == "condaqa":
+                    if d["PassageEditID"] not in numEditTypes.keys():
+                        numEditTypes[d["PassageEditID"]] = 1
+                    else:
+                        numEditTypes[d["PassageEditID"]] += 1
+                if passId not in passages.keys():
+                    if dataset in ["condaqa", "perspectrum", "ropes"]:
+                        passages[passId] = {}
+                    else:
+                        passages[passId] = {
+                            "score": 0,
+                            "count": 0,
+                            "failureEditTypes": [],
+                            "failureCases": [],
+                        }
+                if dataset in ["condaqa", "perspectrum", "ropes"]:
+                    if questionID not in passages[passId].keys():
+                        passages[passId][questionID] = {
+                            "score": 0,
+                            "count": 0,
+                            "failureEditTypes": [],
+                            "failureCases": [],
+                        }
+                if dataset in ["condaqa", "perspectrum", "ropes"]:
+                    passages[passId][questionID]["count"] += 1
+                else:
+                    passages[passId]["count"] += 1
+
+                # if answer == corrAnswer or ((" " + corrAnswer + " ") in answer and abs(len(corrAnswer)-len(answer))<=6) or ((" " + answer + " ") in  corrAnswer and abs(len(corrAnswer)-len(answer))<=6):
+                f1 = checkAnswers(answer, corrAnswer)
+                if f1 >= f1Threshold:
+                    if dataset in ["condaqa", "perspectrum", "ropes"]:
                         passages[passId][questionID]["score"] += 1
                     else: 
                         passages[passId]["score"] += 1
                 else:
-                    if dataset in ["condaqa", "perspectrum", "mctaco", "ropes"]:
+                    # #Are answer and corrAnswer permutations of each other?
+                    # sortedAns = np.sort([x for x in answer.split(" ") if len(x) and x.isalnum()])
+                    # sortedCorrAns = np.sort([x for x in corrAnswer.split(" ") if len(x) and x.isalnum()])
+                    # if len(sortedAns) == len(sortedCorrAns) and (sortedAns == sortedCorrAns).all():
+                    #     if dataset in ["condaqa", "perspectrum", "ropes"]:
+                    #         passages[passId][questionID]["score"] += 1
+                    #     else: 
+                    #         passages[passId]["score"] += 1
+                    # else:
+                    if dataset in ["condaqa", "perspectrum", "ropes"]:
                         if dataset == "condaqa":
                             passages[passId][questionID]["failureEditTypes"].append(d["PassageEditID"])
                         passages[passId][questionID]["failureCases"].append({"output":answer, "label":corrAnswer})
                     else:
                         passages[passId]["failureCases"].append({"output":answer, "label":corrAnswer})
+        if selfConsistency:
+            for sampleID in selfPassages.keys():
+                values, counts = np.unique(selfPassages[sampleID]["answers"], return_counts=True)
+                majorityOutput = values[np.argmax(counts)]
+                answer = majorityOutput
+                corrAnswer = selfPassages[sampleID]["label"]
+
+                passId = selfPassages[sampleID]["passageID"]
+                questionID = selfPassages[sampleID]["questionID"]
+                if passId not in passages.keys():
+                    passages[passId] = {}
+                if questionID not in passages[passId].keys():
+                        passages[passId][questionID] = {
+                            "score": 0,
+                            "count": 0,
+                            "failureEditTypes": [],
+                            "failureCases": [],
+                        }
+                passages[passId][questionID]["count"] += 1
+                if answer == corrAnswer or ((" " + corrAnswer + " ") in answer and abs(len(corrAnswer)-len(answer))<=6) or ((" " + answer + " ") in  corrAnswer and abs(len(corrAnswer)-len(answer))<=6):
+                    passages[passId][questionID]["score"] += 1
+                else:
+                    #Are answer and corrAnswer permutations of each other?
+                    sortedAns = np.sort([x for x in answer.split(" ") if len(x) and x.isalnum()])
+                    sortedCorrAns = np.sort([x for x in corrAnswer.split(" ") if len(x) and x.isalnum()])
+                    if len(sortedAns) == len(sortedCorrAns) and (sortedAns == sortedCorrAns).all():
+                        passages[passId][questionID]["score"] += 1
+                    else:
+                        passages[passId][questionID]["failureCases"].append({"output":answer, "label":corrAnswer})
         accuracy = 0
         consistency = 0
         totalCounts = 0
@@ -149,13 +229,13 @@ def main():
         failureCases = []
         for pID in passages.keys():
             numQues += len(passages[pID].keys())
-            if dataset in ["condaqa", "perspectrum", "mctaco", "ropes"]:
+            if dataset in ["condaqa", "perspectrum", "ropes"]:
                 for qID in passages[pID].keys():
                     accuracy += passages[pID][qID]["score"]
                     totalCounts += passages[pID][qID]["count"]
                     if passages[pID][qID]["score"] == passages[pID][qID]["count"]:
                         consistency += 1
-                    if dataset == "condaqa":
+                    if dataset == "condaqa" and (not selfConsistency):
                         failureEditTypes.extend(passages[pID][qID]["failureEditTypes"])
                     failureCases.extend(passages[pID][qID]["failureCases"])
             else:
@@ -276,7 +356,4 @@ def main():
 #---------------------------------------------------------------------------
 if __name__ == '__main__':
     main()
- 
-
-
-
+#---------------------------------------------------------------------------

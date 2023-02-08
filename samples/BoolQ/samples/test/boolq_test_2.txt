@@ -1,0 +1,805 @@
+PassageID: 0
+Passage: The Willis Tower, built as and still commonly referred to as the Sears Tower, is a 110-story, 1,450-foot (442.1 m) skyscraper in Chicago, Illinois. At completion in 1973, it surpassed the World Trade Center towers in New York to become the tallest building in the world, a title it held for nearly 25 years; it remained the tallest building in the Western Hemisphere until the completion of a new building at the World Trade Center site in 2014. The building is considered a seminal achievement for its designer Fazlur Rahman Khan. The Willis Tower is the second-tallest building in the United States and the Western hemisphere -- and the 16th-tallest in the world. More than one million people visit its observation deck each year, making it one of Chicago's most-popular tourist destinations. The structure was renamed in 2009 by the Willis Group as part of its lease on a portion of the tower's space.
+
+Questions:
+QuestionID: 0
+Question: was the sears tower the tallest building in the world
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: 
+Answer: 
+Explanation: 
+
+QuestionID: 0
+Question: was The Willis Tower the tallest building in the world
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: was the World Trade Center towers the tallest building in the world
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: was the sears tower the tallest building in the world for 442 years
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is the sears tower the tallest building in the world now
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is The Willis Tower the tallest building in the world at this moment
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: was the sears tower the tallest building in the Western Hemisphere
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: was The Willis Tower the tallest building in the Western Hemisphere
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is the sears tower the tallest building in the Western Hemisphere now
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 1
+Passage: The Isle of Man holds neither membership nor associate membership of the European Union, and lies outside the European Economic Area (EEA). Nonetheless, Protocol 3 permits trade in Manx goods without non-EU tariffs. In conjunction with the Customs and Excise agreement with the UK, this facilitates free trade with the UK. While Manx goods can be freely moved within the EEA, people, capital and services cannot.
+
+Questions:
+QuestionID: 0
+Question: is the isle of man part of the european economic area
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is the Isle of Man a member in the european economic area
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is the Isle of Man an associate member in the european economic area
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is the Isle of Man an associate member in EEA
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is the isle of man part of the European Union
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is the Isle of Man a member in the European Union
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is the Isle of Man an associate member in the European Union
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is the Isle of Man an associate member in EEA
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: can the Isle of Man trade with EEA
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: can the Isle of Man trade with the European Union
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: can the Isle of Man trade with UK
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 2
+Passage: The Resident is an American medical drama television series aired by Fox Broadcasting Company that premiered on January 21, 2018, as a mid-season replacement entry in the 2017--18 television season. The fictional series focuses on the lives and duties of staff members at Chastain Park Memorial Hospital, while delving into the bureaucratic practices of the hospital industry. Formerly called The City, the show was purchased by Fox from Showtime in 2017. It was created by created by Amy Holden Jones, Hayley Schore, and Roshan Sethi. On May 10, 2017, Fox ordered a full 14-episode season and renewed the series for a second season on May 7, 2018. The first season officially concluded on May 14, 2018.
+
+Questions:
+QuestionID: 0
+Question: is the tv show the resident over for the season
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is the tv show "the resident" going to continue for more than one season
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is the tv show "the resident" was going to continue for less than two seasons
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: the second season of tv show "the resident" ordered after the first season over
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3
+Passage: The film was shot in black and white in the styles and motifs of German Expressionism (bizarre shadows, stylized dialogue, distorted perspectives, surrealistic sets, odd camera angles) to create a simplified and disturbing mood that reflects the sinister character of Powell, the nightmarish fears of the children, and the sweetness of their savior Rachel. Due to the film's visual style and themes, it is also often categorized as a film noir.
+
+Questions:
+QuestionID: 0
+Question: is night of the hunter a film noir
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is "the night of the hunter" unanimously categorized as a film noir
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is "the night of the hunter" a modern film
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: does "the night of the hunter" have colors more than black and white
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is "the night of the hunter" a sinister film
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4
+Passage: In the latter half of the 20th century, a series of controversies arose with regard to gymnast ages, some of them leading to sanctions by FIG, and paving the way for the age requirements to be raised from 14 to 15 in 1981, and then to 16 in 1997.
+
+Questions:
+QuestionID: 0
+Question: is there an age limit to compete in the olympics
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: there is no age limit to compete in the olympics
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is there an age limit of 16 to compete in the olympics
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is there an age limit of 15 to compete in the olympics
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: was there an age limit of 15 to compete in the olympics
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is there an age limit of 14 to compete in the olympics
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: was there an age limit of 14 to compete in the olympics
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: did the age limit to compete in the olympics increase in the latter half of the 20th century
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: did the age limit to compete in the olympics decrease in the latter half of the 20th century
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 5
+Passage: The University of Mary Hardin--Baylor (UMHB) is a Christian co-educational institution of higher learning located in Belton, Texas, United States. UMHB was chartered by the Republic of Texas in 1845 as Baylor Female College, the female department of what is now Baylor University. It has since become its own institution and grown to 3,914 students and awards degrees at the baccalaureate, master's, and doctoral levels. It is affiliated with the Baptist General Convention of Texas.
+
+Questions:
+QuestionID: 0
+Question: is baylor and mary hardin baylor the same school
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is baylor and mary hardin baylor different schools
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is baylor and UMHB the same school
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is baylor and UMHB different schools
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is the Republic of Texas and mary hardin baylor the same school
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is baylor and the Republic of Texas the same school
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 6
+Passage: In 2011, Philip Pullman remarked at the British Humanist Association annual conference that due to the first film's disappointing sales in the United States, there would not be any sequels made.
+
+Questions:
+QuestionID: 0
+Question: is there going to be another golden compass movie
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is it true that there isn't going to be another golden compass movie
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: the British Humanist Association did announce that there isn't going to be another golden compass movie
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: Pullman did announce that there isn't going to be another golden compass movie
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 7
+Passage: Relations between the United States of America (US) and the European Union (EU) are the bilateral relations between that country and the supranational organization. The US and EU have been interacting for more than sixty years. US-EU relations officially started in 1953 when US ambassadors visited the European Coal and Steel Community (former EU). The two parties share a good relationship which is strengthened by cooperation on trade, military defense and shared values.
+
+Questions:
+QuestionID: 0
+Question: is the united states a part of the european union
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: do the united states and the european union have relations
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: do the united states and the european union have positive relations
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is the european union a part of the united states
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is the united states an independent country the european union
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 8
+Passage: The Fire Tablet, formerly called the Kindle Fire, is a tablet computer developed by Amazon.com. Built with Quanta Computer, the Kindle Fire was first released in November 2011, featuring a color 7-inch multi-touch display with IPS technology and running a custom version of Google's Android operating system called Fire OS. The Kindle Fire HD followed in September 2012, and the Kindle Fire HDX in September 2013. In September 2014, when the fourth generation was introduced, the name ``Kindle'' was dropped. In September 2015, the fifth generation Fire 7 was released, followed by the sixth generation Fire HD 8, in September 2016. The seventh generation Fire 7 was released in June 2017.
+
+Questions:
+QuestionID: 0
+Question: is a fire 7 the same as a kindle
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is a fire 7 and kindle fire have the same producers
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is a fire 7 and kindle fire have different producers
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is a fire tablet more advanced than former kindle fire
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is a fire tablet HDX more advanced than formet kindle fire
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 9
+Passage: As part of Marvel's Marvel NOW! initiative a new Deadpool ongoing series was launched, written by Brian Posehn and Gerry Duggan and illustrated by Tony Moore. He is also a member of the Thunderbolts. In the 27th issue of his new series, as part of ``All-New Marvel NOW!'', Deadpool was married for the third time. Initially a secret, his bride was revealed in the webcomic Deadpool: The Gauntlet to be Shiklah, Queen of the Undead. Deadpool also discovers that he has a daughter by the name of Eleanor from a former flame of Deadpool named Carmelita.
+
+Questions:
+QuestionID: 0
+Question: does deadpool have a kid in the comics
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: does deadpool have a kid named Shiklah in the comics
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: does deadpool have a wife in the comics
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: does deadpool have a husband in the comics
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: does deadpool marry multiple times in the comics
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: does deadpool have a more than 3 wives in the comics
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 10
+Passage: To promote the film prior to its release, Townsend, along with the other actors who portrayed the fictional musical quartet The Five Heartbeats (Leon Robinson, Michael Wright, Harry J. Lennix, and Tico Wells) performed in a concert with real-life Soul/R&B vocal group The Dells, one of many groups that inspired the film. The Dells sang and recorded the vocals as the actors lip synced.
+
+Questions:
+QuestionID: 0
+Question: is there a group called the five heartbeats
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is there a group called The Dells
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is there a film about a group called the five heartbeats
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is there a fictional group called the five heartbeats
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is there a movied about the five heartbeats
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 11
+Passage: Conscription in the United States, commonly known as the draft, has been employed by the federal government of the United States in five conflicts: the American Revolution, the American Civil War, World War I, World War II, and the Cold War (including both the Korean War and the Vietnam War). The third incarnation of the draft came into being in 1940 through the Selective Training and Service Act. It was the country's first peacetime draft. From 1940 until 1973, during both peacetime and periods of conflict, men were drafted to fill vacancies in the United States Armed Forces that could not be filled through voluntary means. The draft came to an end when the United States Armed Forces moved to an all-volunteer military force. However, the Selective Service System remains in place as a contingency plan; all male civilians between the ages of 18 and 25 are required to register so that a draft can be readily resumed if needed. United States Federal Law also provides for the compulsory conscription of men between the ages of 17 and 45 and certain women for militia service pursuant to Article I, Section 8 of the United States Constitution and 10 U.S. Code § 246.
+
+Questions:
+QuestionID: 0
+Question: was there a draft in the revolutionary war
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is the draft system still in place
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: was there a draft during either of the World Wars
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: was draft limited to only the revolutionary war
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: was there a draft in the Vietnam war
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: was there a draft in the Iraq war
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: was there a draft in during the peacetime
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 12
+Passage: U.S. Highway 20 (US 20) is an east--west United States highway that stretches from the Pacific Northwest all the way to New England. The ``0'' in its route number indicates that US 20 is a coast-to-coast route. Spanning 3,365 miles (5,415 km), it is the longest road in the United States, and particularly from Idaho to Massachusetts, the route roughly parallels that of Interstate 90 (I-90), which is in turn the longest Interstate Highway in the U.S. There is a discontinuity in the official designation of US 20 through Yellowstone National Park, with unnumbered roads used to traverse the park.
+
+Questions:
+QuestionID: 0
+Question: is there an interstate that goes coast to coast
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is there an interstate that goes west to east
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is there an highway that goes west to east
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is there an highway with discontinuity because of a national park
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 13
+Passage: The new locks opened for commercial traffic on 26 June 2016, and the first ship to cross the canal using the third set of locks was a modern New Panamax vessel, the Chinese-owned container ship Cosco Shipping Panama. The original locks, now over 100 years old, allow engineers greater access for maintenance, and are projected to continue operating indefinitely.
+
+Questions:
+QuestionID: 0
+Question: is the old panama canal still in use
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is the old panama canal lock still in use
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is the old panama canal lock in use
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is there new panama canal locks opened
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is the old panama canal lock expected to retire soon
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is the old panama canal lock over 100 years old
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is the new panama canal lock over 100 years old
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 14
+Passage: Journey 2: The Mysterious Island is a 2012 American science fiction comedy adventure film directed by Brad Peyton and produced by Beau Flynn, Tripp Vinson and Charlotte Huggins. It is the sequel to Journey to the Center of the Earth (2008). Following the first film, the sequel is based on another Jules Verne novel, this time The Mysterious Island. The film stars Dwayne ``The Rock'' Johnson, Michael Caine, Josh Hutcherson, Vanessa Hudgens, Luis Guzmán, and Kristin Davis. The story was written by Richard Outten, Brian Gunn and Mark Gunn, and the screenplay by Brian and Mark Gunn. Journey 2: The Mysterious Island was released in cinemas on February 10, 2012 by Warner Bros. Pictures, New Line Cinema and Walden Media to mixed reviews, but became a box office success with a worldwide gross of nearly $335 million, surpassing its predecessor. Journey 2: The Mysterious Island was released on DVD/Blu-ray on June 5, 2012.
+
+Questions:
+QuestionID: 0
+Question: is journey 2 the mysterious island a sequel
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is "journey 2: the mysterious island" a sequel
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is "journey 2: the mysterious island" released on 2008
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is "journey 2: the mysterious island" a sequel to a 2012 movie
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is "journey 2: the mysterious island" a sequel to a 2008 movie
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 15
+Passage: Anosmia is the inability to perceive odor or a lack of functioning olfaction--the loss of the sense of smell. Anosmia may be temporary, but some forms such as from an accident, can be permanent. Anosmia is due to a number of factors, including an inflammation of the nasal mucosa, blockage of nasal passages or a destruction of one temporal lobe. Inflammation is due to chronic mucosa changes in the paranasal sinus lining and the middle and superior turbinates.
+
+Questions:
+QuestionID: 0
+Question: is it possible to have no sense of smell
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: 
+Answer: 
+Explanation: 
+
+QuestionID: 0
+Question: is it possible to have no sense of smell forever
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is it possible to have no sense of smell temporary
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is it possible to have no sense of smell by just an accident
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is it possible to have no sense of smell due to blockage of nasal passage
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is it possible to have no sense of pain due to blockage of nasal passage
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is it possible to have nasal blockage due to no sense of smell
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is it possible to have inflammation of the nasal mucosa due to no sense of smell
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is it possible to have a destruction of one temporal lobe due to no sense of smell
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 16
+Passage: Temples, houses, bridges, and roads were destroyed. It is believed that almost all buildings in the city of Pompeii were affected. In the days after the earthquake, anarchy ruled the city, where theft and starvation plagued the survivors. In the time between 62 and the eruption in 79, some rebuilding was done, but some of the damage had still not been repaired at the time of the eruption. Although it is unknown how many, a considerable number of inhabitants moved to other cities within the Roman Empire while others remained and rebuilt.
+
+Questions:
+QuestionID: 0
+Question: were there any survivors in the pompeii eruption
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: were all the survivors stay in pompeii after the eruption
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: were any survivors stay in pompeii after the eruption
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: were majority of the survivors stay in pompeii after the eruption
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 17
+Passage: The navel (clinically known as the umbilicus, colloquially known as the belly button, or tummy button) is a hollowed or sometimes raised area on the abdomen at the attachment site of the umbilical cord. All placental mammals have a navel.
+
+Questions:
+QuestionID: 0
+Question: is navel and belly button the same thing
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: 
+Answer: 
+Explanation: 
+
+QuestionID: 0
+Question: is navel and tummy button the same thing
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is navel and umbilicus the same thing
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is navel and umbilical cord the same thing
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is navel and placental mammal the same thing
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: does navel have multiple names
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is navel and abdomen the same thing
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is umbilicus and belly button the same thing
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 18
+Passage: The storm brought strong winds to the Swan Islands, including hurricane-force winds on the main island. Heavy rains fell in Cuba, particularly in Pinar del Río Province, but only minor damage occurred. In Florida, storm surge and abnormally high tides caused damage along much of the state's west coast from Pasco County southward. Several neighborhoods and sections of Tampa were inundated, especially in Ballast Point, DeSoto Park, Edgewater Park, Hyde Park, Palmetto Beach, and other areas in the vicinity of Bayshore Boulevard. Strong winds also damaged hundreds of trees, signs, buildings, and homes. Four deaths occurred in Tampa, three from drownings and another after a man touched a live wire. The storm left two additional fatalities in St. Petersburg. A number of streets in Tarpon Springs were littered with masses of debris, with many structures and trees suffering extensive damage. Strong winds occurred as far east as the Atlantic coast of the state, though wind damage east of the Tampa Bay area was generally limited to downed trees and power lines, resulting in power outages, particularly in Orlando. Agriculture throughout the state experienced significant impact as well, including over $2 million (equivalent to $20 million in 2016) in damage and the loss of at least 800,000 boxes of citrus crops alone. Overall, the hurricane left at least eight deaths and about $10 million (equivalent to $110 million in 2016) in damage.
+
+Questions:
+QuestionID: 0
+Question: has tampa ever been hit by a hurricane
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: has the east of tampa ever been hit by a hurricane
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: did tampa hurricane cause deaths
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: did tampa hurricane cause less than five deaths
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 19
+Passage: EMT-I/85 is a level of EMT-I training formulated by the National Registry of Emergency Medical Technicians in 1985. This training level includes more invasive procedures than are covered at the EMT-Basic level, including IV therapy, the use of advanced airway devices, and provides for advanced assessment skills. The EMT-I/85 typically administered the same medications as an EMT-B (oxygen, oral glucose, activated charcoal, epinephrine auto-injectors (EpiPens), nitroglycerin, and metered-dose inhalers such as albuterol). However, in some states they were also allowed to administer naloxone, D50, and glucagon. Like all other EMT levels, their scope of practice was governed by the state and/or their Medical Director.
+
+Questions:
+QuestionID: 0
+Question: can an emt-basic start an iv
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: can an EMT-I start an iv
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: can an emt-basic start more invasive procedures
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: can an emt-I start more invasive procedures
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: can an emt-basic training start on advanced airway devices
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: can an emt-I training start on advanced airway devices
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 20
+Passage: Phantom pain sensations are described as perceptions that an individual experiences relating to a limb or an organ that is not physically part of the body. Limb loss is a result of either removal by amputation or congenital limb deficiency. However, phantom limb sensations can also occur following nerve avulsion or spinal cord injury.
+
+Questions:
+QuestionID: 0
+Question: is pain experienced in a missing body part or paralyzed area
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is pain experienced in a missing body part or paralyzed area
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is pain experienced in organs that are not physically part of the body
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is pain experienced as a perception
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is pain experienced before limb amputation
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: can pain experienced without spinal cord injury
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is pain experienced only with spinal cord injury
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 21
+Passage: Gamblers' winnings in Australia are not taxed . There are 3 main reasons for that:
+
+Questions:
+QuestionID: 0
+Question: do you pay tax on gambling winnings in australia
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: are you exempt from paying tax on gambling winnings in australia
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: there are no reason to not have tax on gambling winnings in australia
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 22
+Passage: Ladies may wear a long (over the shoulders or to ankles) cloak usually called a cape, or a full-length cloak. Gentlemen wear an ankle-length or full-length cloak. Formal cloaks often have expensive, colored linings and trimmings such as silk, satin, velvet and fur.
+
+Questions:
+QuestionID: 0
+Question: is a cape and a cloak the same
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: 
+Answer: 
+Explanation: 
+
+--------------------------------------------------

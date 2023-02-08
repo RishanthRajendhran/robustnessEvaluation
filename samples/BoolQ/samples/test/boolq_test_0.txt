@@ -1,0 +1,810 @@
+PassageID: 0
+Passage: The following tables list the cardinal number names and symbols for the numbers 0 through 10 in various languages and scripts of the world. Where possible, each language's native writing system is used, along with transliterations in Latin script and other important writing systems where applicable. In some languages, numbers will be illustrated through to 20.
+
+Questions:
+QuestionID: 0
+Question: do numbers look the same in all languages
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: do numbers look different in any languages
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: do numbers look similar in some languages
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: do some languages use numbers 0 through 20
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: do some languages use numbers 0 through 10
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 1
+Passage: In mathematics, the dot product or scalar product is an algebraic operation that takes two equal-length sequences of numbers (usually coordinate vectors) and returns a single number. In Euclidean geometry, the dot product of the Cartesian coordinates of two vectors is widely used and often called inner product (or rarely projection product); see also inner product space.
+
+Questions:
+QuestionID: 0
+Question: is the dot product of two vectors a scalar
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is the dot product of two vectors a vector
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is the dot product of two equal-length vectors a vector
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is the dot product of two equal-length vectors a scalar
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is the scalar product of two vectors a scalar
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 2
+Passage: As state law on waiting periods and background checks do not apply to sales by non-licensed sellers, the Florida Constitution, Art VIII Sec. 5(b), permits counties to enact ordinances that require a criminal history records check and a 3 to 5-day waiting period for non-licensed sellers when any part of a firearm sale is conducted on property to which the public has the ``right of access'', such as at a gun show conducted on public property. These local option ordinances may not be applied to holders of a concealed weapons license. Only Miami-Dade, Broward, Palm Beach, Hillsborough, and Volusia counties had enacted such ordinances.
+
+Questions:
+QuestionID: 0
+Question: can you sell a gun privately in florida
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: can you sell a gun privately in florida, even if it's not a concealed weapon
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3
+Passage: A new engine is broken in by following specific driving guidelines during the first few hours of its use. The focus of breaking in an engine is on the contact between the piston rings of the engine and the cylinder wall. There is no universal preparation or set of instructions for breaking in an engine. Most importantly, experts disagree on whether it is better to start engines on high or low power to break them in. While there are still consequences to an unsuccessful break-in, they are harder to quantify on modern engines than on older models. In general, people no longer break in the engines of their own vehicles after purchasing a car or motorcycle, because the process is done in production. It is still common, even today, to find that an owner's manual recommends gentle use at first (often specified as the first 500 or 1000 kilometres or miles). But it is usually only normal use without excessive demands that is specified, as opposed to light/limited use. For example, the manual will specify that the car be driven normally, but not in excess of the highway speed limit.
+
+Questions:
+QuestionID: 0
+Question: do you need to break in a car
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: do you need to break in a car in the past
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: do you need to break if it is not done in the production
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: do you need to break in a car for the modern cars
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: did the older cars need to be broken-in
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4
+Passage: Because the courts of appeals possess only appellate jurisdiction, they do not hold trials. Only courts with original jurisdiction hold trials and thus determine punishments (in criminal cases) and remedies (in civil cases). Instead, appeals courts review decisions of trial courts for errors of law. Accordingly, an appeals court considers only the record (that is, the papers the parties filed and the transcripts and any exhibits from any trial) from the trial court, and the legal arguments of the parties. These arguments, which are presented in written form and can range in length from dozens to hundreds of pages, are known as briefs. Sometimes lawyers are permitted to add to their written briefs with oral arguments before the appeals judges. At such hearings, only the parties' lawyers speak to the court.
+
+Questions:
+QuestionID: 0
+Question: does the us court of appeals have original jurisdiction
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is it true that the us court of appeals have no original jurisdiction
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: does the us court of appeals review cases for their errors
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: does the us court of appeals review cases to determine punishments
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: does the us court of appeals review cases to determine remedies
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: does the us court of appeals review hear the arguments of the people involved in the case
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 5
+Passage: The Fate of the Furious premiered in Berlin on April 4, 2017, and was theatrically released in the United States on April 14, 2017, playing in 3D, IMAX 3D and 4DX internationally. The film received mixed reviews from critics, many of whom praised the action sequences and acting performances but criticized the storyline. The film grossed over $1.2 billion worldwide, making it the thirtieth film (and the second in the franchise, after Furious 7) to gross over $1 billion, the third-highest-grossing film of 2017 and the fifteenth-highest-grossing film of all time. The film grossed $542 million worldwide during its opening weekend, which is the second highest-grossing worldwide opening of all time behind Avengers: Infinity War (2018). A spinoff film starring Johnson and Statham's characters is scheduled for release in August 2019, while the ninth and tenth films are scheduled for releases on the years 2020 and 2021.
+
+Questions:
+QuestionID: 0
+Question: is fate and the furious the last movie
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is "fate and the furious" the first of multiple movies
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: was "fate and the furious" released in the USA before Germany
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: was "fate and the furious" premiered in Germany
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: was "fate and the furious" premiered in Munich
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is "fate and the furious" scheduled for releases on 2020
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is "fate and the furious" scheduled for releases on 2021
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is "fate and the furious" scheduled for releases on 2017
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: was "fate and the furious" released on April
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 6
+Passage: After the completion of the first season titled Spartacus: Blood and Sand, production for another season was delayed because lead actor Andy Whitfield was diagnosed with early-stage non-Hodgkin lymphoma so Starz produced a six-episode prequel mini-series entitled Spartacus: Gods of the Arena. When the actor's cancer recurred and he later died on September 11, 2011, Starz had actor Liam McIntyre take on the role of Spartacus in the second season titled Spartacus: Vengeance. On June 4, 2012, Starz announced the third and final season, titled Spartacus: War of the Damned.
+
+Questions:
+QuestionID: 0
+Question: will there be a new spartacus season 5
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: will there be a new spartacus season 4
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: will there be a new spartacus season 3
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: will there be Andy Whitfield in the new spartacus season 3
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: was the seson 2 of spartacus its last season
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 7
+Passage: Fantastic Beasts and Where to Find Them is a 2016 fantasy film directed by David Yates. A joint British and American production, it is a spin-off and prequel to the Harry Potter film series, and it was produced and written by J.K. Rowling in her screenwriting debut, and inspired by her 2001 book of the same name. The film stars Eddie Redmayne as Newt Scamander, with Katherine Waterston, Dan Fogler, Alison Sudol, Ezra Miller, Samantha Morton, Jon Voight, Carmen Ejogo, Ron Perlman, Colin Farrell and Johnny Depp in supporting roles. It is the first installment in the Fantastic Beasts film series, and ninth overall in the Wizarding World franchise, that began with the Harry Potter films.
+
+Questions:
+QuestionID: 0
+Question: is fantastic beasts and where to find them a prequel
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is "fantastic beasts" a prequel for "where to find them"
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is "where to find them" a prequel to "fantastic beasts"
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is "where to find them" a prequel to "harry potter"
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is "where to find them" the ninth prequel to "harry potter"
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 8
+Passage: A pitaya (/pɪˈtaɪ.ə/) or pitahaya (/ˌpɪtəˈhaɪ.ə/) is the fruit of several different cactus species indigenous to the Americas. Pitaya usually refers to fruit of the genus Stenocereus, while pitahaya or dragon fruit refers to fruit of the genus Hylocereus, both in the Cactaceae family. The dragon fruit is cultivated in Southeast Asia, Florida, the Caribbean, Australia, and throughout tropical and subtropical world regions.
+
+Questions:
+QuestionID: 0
+Question: is dragon fruit and pitaya the same thing
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is the fruit of the genus Stenocereus and pitaya the same thing
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is dragon fruit and pitahaya the same thing
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is the fruit of the genus Stenocereus and pitahaya the same thing
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is pitahaya and pitaya the same thing
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is "the fruit of the genus Stenocereus" and "the fruit of the genus Hylocereus" the same thing
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: do dragon fruit and pitaya belong to the same family
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: do dragon fruit and pitaya belong to the same family of the Cactaceae
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 9
+Passage: All but two of the universities in the Russell Group are part of the Sutton Trust's group of 30 highly selective universities, the Sutton Trust 30 (the absent members being Queen Mary University of London and Queen's University Belfast). The Sutton 13 group of the 13 most highly selective universities only includes one non-Russell Group member, the University of St Andrews. St Andrews was also the only non-Russell Group University in the top 10 by average UCAS tariff score of new undergraduate students in 2015--16, placing fifth with an average score of 525 (and an offer rate of 52.2%). Half of the Russell Group made offers to more than three quarter of their undergraduate applicants in 2015.
+
+Questions:
+QuestionID: 0
+Question: is st andrews university in the russell group
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is st andrews university in the Sutton group
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is st andrews university in the Sutton 13 group
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is st andrews university in the Sutton 30 group
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is Queen Mary University in the russell group
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is Queen Mary University in the Sutton group
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is Queen's University Belfast in the russell group
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is Queen's University Belfast in the Sutton group
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 10
+Passage: Trees have a wide variety of sizes and shapes and growth habits. Specimens may grow as individual trunks, multitrunk masses, coppices, clonal colonies, or even more exotic tree complexes. Most champion tree programs focus finding and measuring the largest single-trunk example of each species. There are three basic parameters commonly measured to characterize the size of a single trunk tree: height, girth, and crown spread. Additional details on the methodology of Tree height measurement, Tree girth measurement, Tree crown measurement, and Tree volume measurement are presented in the links herein. A detailed guideline to these basic measurements is provided in The Tree Measuring Guidelines of the Eastern Native Tree Society by Will Blozan.
+
+Questions:
+QuestionID: 0
+Question: can a tree have more than one trunk
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: do some trees have more than one trunk
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: do all trees have more than one trunk
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: do all trees have one trunk
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: do some trees have one trunk
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: do trees have a variety of trunk structures
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: do all trees have the same trunk measurements
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: do most trees have the same trunk measurements
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 11
+Passage: The Sole Survivor receives a cash prize of $1,000,000 prior to taxes and sometimes also receives a car provided by the show's sponsor. Every player receives a prize for participating on Survivor depending on how long he or she lasts in the game. In most seasons, the runner-up receives $100,000, and third place wins $85,000. All other players receive money on a sliding scale, though specific amounts have rarely been made public. Sonja Christopher, the first player voted off of Survivor: Borneo, received $2,500. In Survivor: Fiji, the first season with tied runners-up, the two runners-up received US$100,000 each, and Yau-Man Chan received US$60,000 for his fourth-place finish. All players also receive an additional $10,000 for their appearance on the reunion show.
+
+Questions:
+QuestionID: 0
+Question: do the runners up on survivor win money
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: do the winners on Survivor get a house in Fiji
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: do the runners up on survivor win $10M
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: do the runners up on survivor win money regardless of how long he or she lasts in the game
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: do the runners up on survivor win money depending on how long he or she lasts in the game
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 12
+Passage: The turkey vulture (Cathartes aura), also known in some North American regions as the turkey buzzard (or just buzzard), and in some areas of the Caribbean as the John crow or carrion crow, is the most widespread of the New World vultures. One of three species in the genus Cathartes of the family Cathartidae, the turkey vulture ranges from southern Canada to the southernmost tip of South America. It inhabits a variety of open and semi-open areas, including subtropical forests, shrublands, pastures, and deserts.
+
+Questions:
+QuestionID: 0
+Question: is there such a thing as a turkey vulture
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: are there turkey vulture in different countries of Americas
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 13
+Passage: Time in New Zealand, by law, is divided into two standard time zones. The main islands use New Zealand Standard Time (NZST), 12 hours in advance of Coordinated Universal Time (UTC) / military M (Mike), while the outlying Chatham Islands use Chatham Standard Time (CHAST), 12 hours 45 minutes in advance of UTC / military M^ (Mike-Three).
+
+Questions:
+QuestionID: 0
+Question: is all of new zealand in the same time zone
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: new zealand has different time zones
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: The New Zealand time zones are different but close to each other
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: new zealand has three time zones
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: new zealand has a single time zone
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: new zealand has multiple time zones
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: new zealand has two time zones
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 14
+Passage: The Strangers is a 2008 American slasher film written and directed by Bryan Bertino. Kristen (Liv Tyler) and James (Scott Speedman) are expecting a relaxing weekend at a family vacation home, but their stay turns out to be anything but peaceful as three masked torturers leave Kristen and James struggling for survival. Writer-director Bertino was inspired by real-life events: the Manson family Tate murders, a multiple homicide; the Keddie Cabin Murders, that occurred in California in 1981; and a series of break-ins that occurred in his own neighborhood as a child. Made on a budget of $9 million, the film was shot on location in rural South Carolina in the fall of 2006.
+
+Questions:
+QuestionID: 0
+Question: was the movie strangers based on a true story
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: was the movie strangers based a single person's death
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: was the movie strangers produced by Manson family
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: was the slasher movie based on a true story
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: was the horror movie based on a true story
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is the movie "strangers" a good choice for a relaxing weekend
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: was the movie "strangers" filmed in California
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: was the horror movie filmed shot in 2006
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: was the horror movie filmed released in 2008
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 15
+Passage: Street Addressing will have the same street address of the post office, plus a ``unit number'' that matches the P.O. Box number. As an example, in El Centro, California, the post office is located at 1598 Main Street. Therefore, for P.O. Box 9975 (fictitious), the Street Addressing would be: 1598 Main Street Unit 9975, El Centro, CA. Nationally, the first five digits of the zip code may or may not be the same as the P.O. Box address, and the last four digits (Zip + 4) are virtually always different. Except for a few of the largest post offices in the U.S., the 'Street Addressing' (not the P.O. Box address) nine digit Zip + 4 is the same for all boxes at a given location.
+
+Questions:
+QuestionID: 0
+Question: does p o box come before street address
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: does P.O. box come after street address
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: does P.O. box contain the street address
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: does P.O. box contain the street address
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: does P.O. box come before zip code
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 16
+Passage: Fox hunting with hounds, as a formalised activity, originated in England in the sixteenth century, in a form very similar to that practised until February 2005, when a law banning the activity in England and Wales came into force. A ban on hunting in Scotland had been passed in 2002, but it continues to be within the law in Northern Ireland and several other countries, including Australia, Canada, France, Ireland and the United States. In Australia, the term also refers to the hunting of foxes with firearms, similar to deer hunting. In much of the world, hunting in general is understood to relate to any game animals or weapons (e.g., deer hunting with bow and arrow); in Britain and Ireland, ``hunting'' without qualification implies fox hunting (or other forms of hunting with hounds--beagling, drag hunting, hunting the clean boot, mink hunting, or stag hunting), as described here.
+
+Questions:
+QuestionID: 0
+Question: do they still have fox hunts in england
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: do they still have fox hunts in Australia
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: do they still have fox hunts in Ireland
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is fox hunting banned in England
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is fox hunting banned in Scotland
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: did they still have fox hunts in england until 2005
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: did they still have fox hunts in england until 2002
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: did they still have fox hunts in england until 2006
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 17
+Passage: This is the list of U.S. states that have participated in the Little League World Series. As of the 2018 LLWS, eight states had never reached the LLWS: Alaska, Colorado, Kansas, North Dakota, Utah, Vermont, Wisconsin, and Wyoming; additionally, the District of Columbia has never reached the LLWS.
+
+Questions:
+QuestionID: 0
+Question: has wisconsin ever been in the little league world series
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: has Wyoming ever been in the little league world series
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: has North Dakota ever been in the little league world series
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: has South Dakota ever been in the little league world series
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: have all the US states ever been in the little league world series
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: have any of the US states ever been in the little league world series
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 18
+Passage: MetLife Stadium is an American sports stadium located in East Rutherford, New Jersey, 8 miles outside of New York City. It is part of the Meadowlands Sports Complex and serves as the home stadium for two National Football League (NFL) franchises: the New York Giants and the New York Jets. The stadium is owned by the MetLife Stadium Company, a joint venture of the Giants and Jets, who jointly built the stadium using private funds on land owned by the New Jersey Sports and Exposition Authority. The stadium opened as New Meadowlands Stadium in 2010. In 2011, MetLife, an insurance company based in New York City, acquired the naming rights to the stadium. At a construction cost of approximately $1.6 billion, it was the most expensive stadium ever built, at the time it opened, and is the second-largest stadium in the NFL in terms of seating capacity.
+
+Questions:
+QuestionID: 0
+Question: do the jets and giants share a stadium
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: are the jets and giants the same team
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: are the jets and giants two different teams
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: did the jets and giants jointly build their stadium
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: do the jets and giants own the MetLife stadium
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: do the jets and giants share the naming rights for the MetLife stadium
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 19
+Passage: The first FA Cup Final to go to extra time and a replay was the 1875 final, between the Royal Engineers and the Old Etonians. The initial tie finished 1--1 but the Royal Engineers won the replay 2--0 in normal time. The last replayed final was the 1993 FA Cup Final, when Arsenal and Sheffield Wednesday fought a 1--1 draw. The replay saw Arsenal win the FA Cup, 2--1 after extra time.
+
+Questions:
+QuestionID: 0
+Question: can the fa cup final end in a tie
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: 
+Answer: 
+Explanation: 
+
+QuestionID: 0
+Question: does the fa cup final always end in a tie
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: can the fa cup final end in a win
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: can the fa cup final always end in a team's win
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: can the fa cup final end in an extra time
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: does the fa cup final always end in an extra time
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: can the fa cup final go to extra time
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: does the fa cup final always go to an extra time
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 20
+Passage: Shaquem Alphonso Griffin /ʃəˈkiːm/ (born July 20, 1995) is an American football linebacker for the Seattle Seahawks of the National Football League (NFL). He is the twin brother of Seahawks cornerback Shaquill Griffin, and both brothers played college football for the University of Central Florida Knights. As an amputee with one hand, Shaquem Griffin received extensive media coverage as a prospective 2018 NFL Draft pick. He was selected as a fifth round pick (141st overall) by the Seahawks on April 28, 2018, reuniting him with Shaquill.
+
+Questions:
+QuestionID: 0
+Question: is there a player in the nfl missing a hand
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: do all the players in the nfl miss a hand
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: do all the players in the nfl have both hands
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is there a player in the National Football League withh a missing hand
+Answer: TRUE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 21
+Passage: Columbus Day is a national holiday in many countries of the Americas and elsewhere which officially celebrates the anniversary of Christopher Columbus's arrival in the Americas on October 12, 1492. The landing is celebrated as ``Columbus Day'' in the United States, as ``Día de la Raza'' (``Day of the Race'') in some countries in Latin America, as ``Día de la Hispanidad'' and ``Fiesta Nacional'' in Spain, where it is also the religious festivity of la Virgen del Pilar, as Día de las Américas (Day of the Americas) in Belize and Uruguay, as Día del Respeto a la Diversidad Cultural (Day of Respect for Cultural Diversity) in Argentina, and as Giornata Nazionale di Cristoforo Colombo or Festa Nazionale di Cristoforo Colombo in Italy as well as in Little Italys around the world. As the day of remembrance of Our Lady of the Pillar, 12 October had been declared a religious feast day throughout the Spanish Empire in 1730; the secular Fiesta de la Raza Española was first proposed by Faustino Rodríguez-San Pedro y Díaz-Argüelles in 1913. In recent years, celebration of the holiday has faced some opposition from various organizations.
+
+Questions:
+QuestionID: 0
+Question: is columbus day a national holiday in the united states
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is "columbus day" celebrated in Americas
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is "columbus day" celebrated in several European countries
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is "columbus day" a religious festivity in Americas
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: is "columbus day" a religious festivity in Spain
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: is "columbus day" a religious festivity in Italy
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------
+PassageID: 22
+Passage: Kelly played Laurie Forman, the older sister of Eric Forman, on That '70s Show. She abruptly left the show midway through the third season, and her character was written out of the show to ``attend beauty school''. She returned to the show in the fifth season for four episodes but was replaced with Christina Moore in the sixth season. In an interview with ABC News, she admitted that ``with That '70s Show I was guilty of a drinking problem, and I ran'', blaming her alcoholism on the loss of a baby.
+
+Questions:
+QuestionID: 0
+Question: did they change laurie in that 70s show
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: did they change laurie because of having a baby in "that 70s show"
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: did they change laurie because of drinking problem in "that 70s show"
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: did they replace laurie in "that 70s show" with Christina Moore
+Answer: TRUE
+Explanation: 
+
+QuestionID: 0
+Question: did they replace Christina Moore in `that 70s show` with laurie
+Answer: FALSE
+Explanation: 
+
+QuestionID: 0
+Question: did they replace eric in `that 70s show` with Christina Moore
+Answer: FALSE
+Explanation: 
+
+--------------------------------------------------

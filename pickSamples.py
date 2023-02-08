@@ -82,7 +82,7 @@ parser.add_argument(
 #For quoref
 parser.add_argument(
     "-inputOriginal",
-    help = "Path to json file containing original dataset (for ropes/quoref/IMDB dataset only)",
+    help = "Path to json file containing original dataset (for ropes/quoref/IMDB/mctaco dataset only)",
 )
 
 parser.add_argument(
@@ -244,13 +244,13 @@ def main():
             for i in range(len(dataOriginal)):
                 background = dataOriginal[i]["background"]
                 situation = dataOriginal[i]["situation"]
-                if background not in oriPassages.keys():
-                    oriPassages[background] = {
+                if (background + situation) not in oriPassages.keys():
+                    oriPassages[(background + situation)] = {
                         "background": background,
                         "situation": situation,
                         "qas": []
                     }
-                oriPassages[background]["qas"].extend(dataOriginal[i]["qas"])
+                oriPassages[(background + situation)]["qas"].extend(dataOriginal[i]["qas"])
             if train: 
                 passages = oriPassages
                 for p in passages.keys():
@@ -260,15 +260,18 @@ def main():
                 for i in range(len(data)):
                     background = data[i]["background"]
                     situation = data[i]["situation"]
-                    if background not in perPassages.keys():
-                        perPassages[background] = {
+                    if (background + situation) not in perPassages.keys():
+                        perPassages[(background + situation)] = {
+                            "background": background,
                             "situation": situation,
                             "qas": []
                         }
-                    perPassages[background]["qas"].extend(data[i]["qas"])
-                for bg in oriPassages.keys():
-                    if bg in perPassages.keys():
-                        commonSituation = findCommonStartStr(oriPassages[bg]["situation"], perPassages[bg]["situation"])
+                    perPassages[(background + situation)]["qas"].extend(data[i]["qas"])
+                for i in oriPassages.keys():
+                    for j in perPassages.keys():
+                        if perPassages[j]["background"] != oriPassages[i]["background"]:
+                            continue
+                        commonSituation = findCommonStartStr(oriPassages[i]["situation"], perPassages[j]["situation"])
                         fullStopPos = len(commonSituation)-1
                         while fullStopPos >=0:
                             if commonSituation[fullStopPos] == ".":
@@ -277,40 +280,98 @@ def main():
                             fullStopPos -= 1
                         if fullStopPos < 0:
                             commonSituation = ""
-                        if len(commonSituation) == len(oriPassages[bg]["situation"]) or len(commonSituation) == len(perPassages[bg]["situation"]):
+                        if len(commonSituation) == len(oriPassages[i]["situation"]) or len(commonSituation) == len(perPassages[j]["situation"]):
                             continue
+                        bg = oriPassages[i]["background"]
                         if (bg + commonSituation) not in passages.keys():
                             passages[(bg + commonSituation)] = {
                                 "background": bg,
-                                "situation": commonSituation,
+                                # "situation": commonSituation,
+                                "situation": "",
                                 "qas": []
                             }
-                        for q in oriPassages[bg]["qas"]:
+                        for q in oriPassages[i]["qas"]:
                             newQ = q.copy()
-                            newQ["question"] = oriPassages[bg]["situation"][len(commonSituation):].strip() + " " + newQ["question"].strip()
+                            # newQ["question"] = oriPassages[i]["situation"][len(commonSituation):].strip() + " " + newQ["question"].strip()
+                            # newQ["question"] = oriPassages[i]["situation"].strip() + " " + newQ["question"].strip()
+                            newQ["question"] = {
+                                "situation": oriPassages[i]["situation"],
+                                "question": newQ["question"]
+                            }
                             passages[(bg + commonSituation)]["qas"].append(newQ)
-                        for q in perPassages[bg]["qas"]:
+                        for q in perPassages[j]["qas"]:
                             newQ = q.copy()
-                            newQ["question"] = perPassages[bg]["situation"][len(commonSituation):].strip() + " " + newQ["question"].strip()
+                            # newQ["question"] = perPassages[j]["situation"][len(commonSituation):].strip() + " " + newQ["question"].strip()
+                            # newQ["question"] = perPassages[j]["situation"].strip() + " " + newQ["question"].strip()
+                            newQ["question"] = {
+                                "situation": perPassages[j]["situation"],
+                                "question": newQ["question"]
+                            }
                             passages[(bg + commonSituation)]["qas"].append(newQ)  
+                        break
         elif dataset == "mctaco":
-            for i in range(len(data)):
-                if "sentence1" not in data[i].keys():
-                    continue
-                if data[i]["sentence1"] not in passages.keys():
-                    passages[data[i]["sentence1"]] = {
-                        "sentence1": data[i]["sentence1"],
-                        "qas": []
+            if not train:
+                with open(inputOriginal,"r", encoding='utf-8-sig') as f:
+                    dataOriginal = json.load(f)
+                #Extract questions from original dataset
+                for i in range(len(dataOriginal)):
+                    if "sentence1" not in dataOriginal[i].keys():
+                        continue
+                    if "sentence2" not in dataOriginal[i].keys():
+                        continue
+                    if dataOriginal[i]["index"] not in passages.keys():
+                        passages[dataOriginal[i]["index"]] = {
+                            "sentence1": dataOriginal[i]["sentence1"],
+                            "qas": []
+                        }
+                    passages[dataOriginal[i]["index"]]["qas"].append({
+                        "sentence2": dataOriginal[i]["sentence2"],
+                        "label": dataOriginal[i]["label"]
+                    })
+                #Extract questions from perturbed dataset with
+                #matching indices
+                for i in range(len(data)):
+                    if data[i]["index"] not in passages.keys():
+                        continue
+                    passages[data[i]["index"]]["qas"].append({
+                        "sentence2": data[i]["sentence2"],
+                        "label": data[i]["label"]
+                    })
+            else:
+                newPassages = {}
+                for i in range(len(data)):
+                    if "sentence1" not in data[i].keys() or "sentence2" not in data[i].keys():
+                        continue
+                    if data[i]["sentence1"] not in newPassages.keys():
+                        newPassages[data[i]["sentence1"]] = {}
+                    if data[i]["sentence2"] not in newPassages[data[i]["sentence1"]].keys():
+                        newPassages[data[i]["sentence1"]][data[i]["sentence2"]] = []
+                    newPassages[data[i]["sentence1"]][data[i]["sentence2"]].append((data[i]["answer"], data[i]["label"]))
+                i = 0
+                for pkey in newPassages.keys():
+                    passQList = list(newPassages[pkey].keys())
+                    qkey = np.random.randint(len(newPassages[pkey]))
+                    qChoice = passQList[qkey]
+                    akey = np.random.randint(len(newPassages[pkey][qChoice]))
+                    aChoice = newPassages[pkey][passQList[qkey]][akey]
+                    passages[str(i)] = {
+                        "sentence1": pkey + " " + qChoice,
+                        "qas": [ 
+                            {
+                                "sentence2": aChoice[0],
+                                "label": aChoice[1]
+                            }
+                        ]
                     }
-                passages[data[i]["sentence1"]]["qas"].append({
-                    "sentence2": data[i]["sentence2"],
-                    "label": data[i]["label"]
-                })
+                    i += 1
         elif dataset == "quoref":
             data = data["data"]
-            with open(inputOriginal,"r", encoding='utf-8-sig') as f:
-                dataOriginal = json.load(f)
-            dataOriginal = dataOriginal["data"]
+            if not train:
+                with open(inputOriginal,"r", encoding='utf-8-sig') as f:
+                    dataOriginal = json.load(f)
+                dataOriginal = dataOriginal["data"]
+            else: 
+                dataOriginal = data
             passages = {}
             for i in range(len(dataOriginal)):
                 for p in dataOriginal[i]["paragraphs"]:
@@ -320,10 +381,14 @@ def main():
                             "qas": []
                         }
                     passages[p["context_id"]]["qas"].extend(p["qas"])
-            for i in range(len(data)):
-                for p in data[i]["paragraphs"]:
-                    if p["context_id"] in passages.keys():
-                        passages[p["context_id"]]["qas"].extend(p["qas"])
+            if not train:
+                for i in range(len(data)):
+                    for p in data[i]["paragraphs"]:
+                        if p["context_id"] in passages.keys():
+                            passages[p["context_id"]]["qas"].extend(p["qas"])
+            else: 
+                for p in passages.keys():
+                    passages[p]["qas"] = np.random.choice(passages[p]["qas"],1).tolist()
         elif dataset == "imdb":
             with open(inputOriginal,"r", encoding='utf-8-sig') as f:
                 dataOriginal = json.load(f)
@@ -408,7 +473,7 @@ def main():
         for s in range(numSets):
             chosenPasses = []
             for i in range(numSamples):
-                if dataset == "ropes":
+                if dataset in ["ropes", "quoref", "mctaco"]:
                     chosenPasses.append(passages[chosenData[s*numSamples+i]])
                 else: 
                     chosenPasses.append(passages[tuple(chosenData[s*numSamples+i])])
@@ -416,7 +481,7 @@ def main():
             with open(outputPath+"_"+inputFile.split("/")[-1].split(".")[0]+"_"+str(s)+".json","w") as o:
                 o.write(jsonObj)
     else:
-        if dataset == "condaqa" or dataset == "nlvr2":
+        if dataset == "condaqa" or (dataset == "boolq" and train):
             data = []
             for line in open(inputFile,"r"):
                 data.append(json.loads(line))

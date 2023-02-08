@@ -1,0 +1,1685 @@
+PassageID: 0
+Passage: Bath once had an important manufacturing sector, particularly in crane manufacture, furniture manufacture, printing, brass foundries, quarries, dye works and Plasticine manufacture, as well as many mills. Significant Bath companies included Stothert & Pitt, Bath Cabinet Makers and Bath & Portland Stone. Nowadays, manufacturing is in decline, but the city boasts strong software, publishing and service-oriented industries, being home to companies such as Future plc and London & Country mortgage brokers. The city's attraction to tourists has also led to a significant number of jobs in tourism-related industries. Important economic sectors in Bath include education and health (30,000 jobs), retail, tourism and leisure (14,000 jobs) and business and professional services (10,000 jobs). Major employers are the National Health Service, the city's two universities, and the Bath and North East Somerset Council, as well as the Ministry of Defence although a number of MOD offices formerly in Bath have recently moved to Bristol. Growing employment sectors include information and communication technologies and creative and cultural industries where Bath is one of the recognised national centres for publishing, with the magazine and digital publisher Future plc employing around 650 people. Others include Buro Happold (400) and IPL Information Processing Limited (250). The city boasts over 400 retail shops, half of which are run by independent specialist retailers, and around 100 restaurants and cafes primarily supported by tourism.
+
+Questions:
+QuestionID: b4d1458697a45d643e671eb17e409a8ec2c16cd2
+Question: What is the name of the place that has over 400 retail shops?
+Answer: Bath
+Explanation: 
+
+QuestionID: 9dfbd682a6a55329be8b40a5e5d21cde966e2d93
+Question: What is the name of the place that attraction to tourists has also led to a significant number of jobs in tourism-related industries?
+Answer: Bath
+Explanation: 
+
+QuestionID: 9dfbd682a6a55329be8b40a5e5d21cde966e2d93
+Question: What industries did the place that currently attracts tourists have previously?
+Answer: crane manufacture, furniture manufacture, printing, brass foundries, quarries, dye works and Plasticine manufacture, many mills
+Explanation: 
+
+QuestionID: 9dfbd682a6a55329be8b40a5e5d21cde966e2d93
+Question: What industries does the place that currently attracts tourists have currently?
+Answer: software, publishing, service-oriented industries, tourism-related industries
+Explanation: 
+
+QuestionID: b4d1458697a45d643e671eb17e409a8ec2c16cd2
+Question: half of what are run by independent specialists?
+Answer: 400 retail shops
+Explanation: 
+
+--------------------------------------------------
+PassageID: 1
+Passage: The Triumph of Cleopatra, also known as Cleopatra's Arrival in Cilicia and The Arrival of Cleopatra in Cilicia, is an oil painting by English artist William Etty. It was first exhibited in 1821, and is now in the Lady Lever Art Gallery in Port Sunlight across the River Mersey from Liverpool. During the 1810s Etty had become widely respected among staff and students at the Royal Academy of Arts, in particular for his use of colour and ability to paint realistic flesh tones. Despite having exhibited at every Summer Exhibition since 1811 he attracted little commercial or critical interest. In 1820 he exhibited The Coral Finder, which showed nude figures on a gilded boat. This painting attracted the attention of Sir Francis Freeling, who commissioned a similar painting on a more ambitious scale. The Triumph of Cleopatra illustrates a scene from Plutarch's Life of Antony and Shakespeare's Antony and Cleopatra, in which Cleopatra, Queen of Egypt, travels to Tarsus in Cilicia aboard a magnificently decorated ship to cement an alliance with the Roman general Mark Antony. An intentionally cramped and crowded composition, it shows a huge group of people in various states of undress, gathering on the bank to watch the ship's arrival. Although not universally admired in the press, the painting was an immediate success, making Etty famous almost overnight. Buoyed by its reception, Etty devoted much of the next decade to creating further history paintings containing nude figures, becoming renowned for his combination of nudity and moral messages.
+
+Questions:
+QuestionID: 41532a95fbbca6f86362639bf29cc76f69f11582
+Question: What are the two other names of The Arrival of Cleopatra in Cilicia?
+Answer: The Triumph of Cleopatra, Cleopatra's Arrival in Cilicia
+Explanation: 
+
+QuestionID: 0567f535653eab055a2eecfeccad34cf47282f00
+Question: What is the last name of the person whose attention was attracted to The Coral Finder?
+Answer: Freeling
+Explanation: 
+
+QuestionID: 41532a95fbbca6f86362639bf29cc76f69f11582
+Question: What are the names of the oil painting by William Etty?
+Answer: The Triumph of Cleopatra, Cleopatra's Arrival in Cilicia, The Arrival of Cleopatra in Cilicia
+Explanation: 
+
+QuestionID: 0567f535653eab055a2eecfeccad34cf47282f00
+Question: Which paining attracted Freeling?
+Answer: The Coral Finder
+Explanation: 
+
+--------------------------------------------------
+PassageID: 2
+Passage: The early history of Gyeongju is closely tied to that of the Silla kingdom, of which it was the capital. Gyeongju first enters non-Korean records as Saro-guk, during the Samhan period in the early Common Era. Korean records, probably based on the dynastic chronicles of Silla, record that Saro-guk was established in 57 BCE, when six small villages in the Gyeongju area united under Bak Hyeokgeose. As the kingdom expanded, it changed its name to Silla. During the Silla period, the city was called "Seorabeol" (lit. Capital), "Gyerim" (lit. Rooster's forest) or "Geumseong" (lit. City of Gold).After the unification of the peninsula up to Taedong River in 668 AD, Gyeongju became the center of Korean political and cultural life. The city was home to the Silla court and the great majority of the kingdom's elite. Its prosperity became legendary, and was reported as far away as Persia according to the 9th century book The Book of Roads and Kingdoms. Records of Samguk Yusa give the city's population in its peak period as 178,936 households, suggesting that the total population was almost one million. Many of Gyeongju's most famous sites date from this Unified Silla period, which ended in the late 9th century by Goryeo (918–1392).In 940, the founder of Goryeo, King Taejo, changed the city's name to "Gyeongju", which literally means "Congratulatory district". In 987, as Goryeo introduced a system in which three additional capitals were established in politically important provinces outside Gaegyeong (nowadays Kaesong), and Gyeongju was designated as "Donggyeong" ("East Capital"). However, that title was removed in 1012, the third year of King Hyeongjong's reign, due to political rivalries at that time, though Gyeongju was later made the seat of Yeongnam Province. It had jurisdiction over a wide area, including much of central eastern Yeongnam, although this area was greatly reduced in the 13th century. Under the subsequent Joseon (1392–1910) dynasties, Gyeongju was no longer of national importance, but remained a regional center of influence. In 1601, the city ceased to be the provincial capital.
+
+Questions:
+QuestionID: 8bca2771faa465b70fc1d18c7686a95e2c821017
+Question: When did Gyeongju cease to be the provincial capital?
+Answer: In 1601
+Explanation: 
+
+QuestionID: 8bca2771faa465b70fc1d18c7686a95e2c821017
+Question: What was the city that ceased to be the provincial capital in 1601 called before 940?
+Answer: Seorabeol, Gyerim, Geumseong
+Explanation: 
+
+QuestionID: 8bca2771faa465b70fc1d18c7686a95e2c821017
+Question: What names was the city that ceased to be the provincial capital in 1601 known by?
+Answer: Gyeongju, Saro-guk, Silla, Seorabeol, Gyerim, Geumseong, Donggyeong
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3
+Passage: Forty-something schoolmistress Kate and her two best friends, police superintendent Janine and doctor Molly, live in rural Britain and share their single lives and dating exploits in weekly chats.  Kate has recovered from ovarian cyst disease and fears a relapse; she hasn't been dating much.  By chance, she meets Jed, a former student of hers, now a handsome twenty-something church organist.  To her surprise, she ends up sleeping with him and the two embark on an unlikely relationship that's looked on with suspicion by Janine and Molly.  Janine comes to believe in Kate and Jed's feelings for each other.  But Molly is still dubious, showing Jed's criminal record and medical history to Kate, bringing adult dates to their dinner parties and taking her and Janine to Paris so that she will go off Jed.  Conversely, this brings Kate and Jed closer together and they plan their wedding. Molly eventually attempts to prove Jed's faithlessness by seducing him, which fails but angers Kate to the extreme.  After an argument about how Kate has kept their engagement quiet, Jed is thrown out of Kate's house.  He is struck and killed by a passing truck; this unexpected tragedy breaks the three women up, as Kate is inconsolable and Janine blames Molly.  Kate reluctantly embarks on a mild romance with a local vicar who's always been in love with her, but when she finally agrees to marry him, she becomes ill at the altar.  Molly and Janine take her away, and discover that she is pregnant with Jed's child.  She decides to have the baby and raise it on her own, while the vicar meets a woman who's actually excited about him.  Also, Janine starts going out with Bill (a robbery suspect) and Molly falls for a pediatrician named Eleanor.  The three friends reconcile and continue to share their lives and experiences.
+
+Questions:
+QuestionID: cd810af29a6e1759c7ae1f2865c2816e6545b73c
+Question: Who becomes ill at the altar?
+Answer: Kate
+Explanation: 
+
+QuestionID: cd810af29a6e1759c7ae1f2865c2816e6545b73c
+Question: Who does the person who becomes ill at the altar agree to marry?
+Answer: a local vicar
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4
+Passage: Prior to abandoning Bowling Green, Governor Johnson requested that Richard Hawes come to the city and help with the administration of the government, but Hawes was delayed due to a bout with typhoid fever. Following Johnson's death, the provisional government elected Hawes, who was still recovering from his illness, as governor. Following his recovery, Hawes joined the government in Corinth, Mississippi, and took the oath of office on May 31.During the summer of 1862, word began to spread through the Army of Tennessee that Generals Bragg and Edmund Kirby Smith were planning an invasion of Kentucky. The legislative council voted to endorse the invasion plan, and on August 27, Governor Hawes was dispatched to Richmond to favorably recommend it to President Davis. Davis was non-committal, but Bragg and Smith proceeded, nonetheless.On August 30, Smith commanded one of the most complete Confederate victories of the war against an inexperienced Union force at the Battle of Richmond. Bragg also won a decisive victory at the September 13 Battle of Munfordville, but the delay there cost him the larger prize of Louisville, which Don Carlos Buell moved to occupy on September 25. Having lost Louisville, Bragg spread his troops into defensive postures in the central Kentucky cities of Bardstown, Shelbyville and Danville and waited for something to happen, a move that historian Kenneth W. Noe called a "stupendously illogical decision."Meanwhile, the leaders of Kentucky's Confederate government had remained in Chattanooga, Tennessee, awaiting Governor Hawes' return. They finally departed on September 18, and caught up with Bragg and Smith in Lexington, Kentucky on October 2. Bragg had been disappointed with the number of soldiers volunteering for Confederate service in Kentucky; wagon loads of weapons that had been shipped to the Commonwealth to arm the expected enlistees remained unissued. Desiring to enforce the Confederate Conscription Act to boost recruitment, Bragg decided to install the provisional government in the recently captured state capital of Frankfort. On October 4, 1862, Hawes was inaugurated as governor by the Confederate legislative council. In the celebratory atmosphere of the inauguration ceremony, however, the Confederate forces let their guard down, and were ambushed and forced to retreat by Buell's artillery.
+
+Questions:
+QuestionID: 4411d714dcbe24140db1850cd772b04a99872a83
+Question: What is the first name of the person who was delayed due to a bout with typhoid fever?
+Answer: Richard
+Explanation: 
+
+QuestionID: ace8eed5f9e939282903f8dfa0f4fe4dcded7d52
+Question: What was the first name of the person who replaced Governor Johnson?
+Answer: Richard
+Explanation: 
+
+QuestionID: c47d2e53c25353ad69525f4365f842fe894b2429
+Question: What is the last name of the person who was cost the larger prize of Louisville due to delays?
+Answer: Bragg
+Explanation: 
+
+QuestionID: 09c10c20d0f2e13dc6daa087518b55a23879c91e
+Question: In what state did the Confederate recently capture Frankfort?
+Answer: Kentucky
+Explanation: 
+
+QuestionID: c47d2e53c25353ad69525f4365f842fe894b2429
+Question: Where was the person who lost Louisville delayed?
+Answer: Battle of Munfordville
+Explanation: 
+
+QuestionID: c47d2e53c25353ad69525f4365f842fe894b2429
+Question: What is the rank of the person who was cost the larger prize of Louisville due to delays?
+Answer: General
+Explanation: 
+
+QuestionID: 4411d714dcbe24140db1850cd772b04a99872a83
+Question: What is the full name of the person who was delayed due to a bout with typoid fever?
+Answer: Richard Hawes
+Explanation: 
+
+QuestionID: ace8eed5f9e939282903f8dfa0f4fe4dcded7d52
+Question: What is the full name of the person who replaced Governor Johnson?
+Answer: Richard Hawes
+Explanation: 
+
+QuestionID: 09c10c20d0f2e13dc6daa087518b55a23879c91e
+Question: What state was Frankfort the capital of?
+Answer: Kentucky
+Explanation: 
+
+--------------------------------------------------
+PassageID: 5
+Passage: The sequel picks up on Christmas Eve some years after the first movie, with Ricky Caldwell, the 18-year-old brother of the first film's killer, now being held in a mental hospital, awaiting trial for a series of murders that he committed. While being interviewed by the psychiatrist Dr. Henry Bloom, Ricky tells the story of the murders his brother Billy committed throughout a series of several flashbacks using footage from the original film. These flashbacks have new shots to make Ricky appear in more of Billy's original story. After this, Ricky tells his own story: after Billy's death, he was adopted and given a good upbringing, but his trauma was never treated. After his foster father's death, Ricky loses his composure and commits a series of random murders, targeting people who are "naughty". A chance for a normal life seems to appear when he starts dating Jennifer Statson, but an unpleasant encounter with Jennifer's ex-boyfriend Chip sends Ricky over the edge. He kills Chip by electrocuting him with jumper cables that are attached to a car while Jennifer watches, and uses the car antenna to strangle Jennifer to death. A security guard witnesses this and as Ricky is about to get arrested, he grabs the guard's gun, shoots him in the forehead, and goes on a shooting spree. He kills at least three more people throughout a suburban neighborhood, including shooting one man through a garbage can after yelling "Garbage Day!" Later on, Ricky gets himself into a stand-off where he tries and fails to commit suicide before getting arrested by the police.
+
+Questions:
+QuestionID: 9b93fe7d27e25f25ae9c84cf47d1274fded06a83
+Question: Who does the man that electrocutes someone to death kill by strangulation?
+Answer: Jennifer
+Explanation: 
+
+QuestionID: 9b93fe7d27e25f25ae9c84cf47d1274fded06a83
+Question: Who did the strangled person date?
+Answer: Ricky Caldwell, Chip
+Explanation: 
+
+--------------------------------------------------
+PassageID: 6
+Passage: The Prime Minister undertakes a tour of the cities and towns with the highest percentage figures of employment: Glasgow, Newcastle, Cardiff, and at the top of the list at 99.9%, Little Hayhoe, a small town in Essex (filmed in Thaxted) with a population of 2,000. The 0.1% is Irishman Daniel "Dan" Dance, who is well-liked by most of the residents. The village  council, however, are eager to put him out of the way before the Prime Minister arrives. Councillor Eric Hace orders the village's only policeman, Police Constable Tumball to arrest Dan for skipping out without paying his bill at Hace's pub. Sir Digby Montague, as the head of the council and the local magistrate, plans to sentence him to a week in the gaol. When Sir Digby finds that his maid Sally, who happens to be Dan's granddaughter, has been giving Dan Sir Digby's leftovers for dinner regularly, he promptly sacks her. Miss Mouncey, another council member, comes up with a notion: Dan should go live in the almshouse, which has been empty for 50 years. Vicar Reverend Simpson informs the Crouches, the custodians, that the regulations are to be strictly enforced, even though they are 400 years old. Among other things, the rules dictate that he be washed by the matron every night and wear an old-fashioned uniform. When he returns drunk the next night, he is put in stocks. Displeased by this, the villagers pelt Timothy Crouch with food. Bill Jordan is sympathetic to Dan's plight (and attracted to Sally). He reminds the councillors that an election will be held before the Prime Minister's visit. 
+
+Questions:
+QuestionID: 3d00c8427fc32a45327f1b4f432f36408d290cb4
+Question: Who is put in stocks?
+Answer: Daniel "Dan" Dance
+Explanation: 
+
+QuestionID: 6017debc7c7d77c66d24397ecb3b0ca87e31c9bf
+Question: What is the full name of the person who has a made named Sally?
+Answer: Digby Montague
+Explanation: 
+
+QuestionID: 11583222899e490150061078aca65c71b34709e0
+Question: What is the nickname of Sally's grandfather?
+Answer: Dan
+Explanation: 
+
+QuestionID: 3d00c8427fc32a45327f1b4f432f36408d290cb4
+Question: Residents of which village are displeased by someone being put in stocks?
+Answer: Little Hayhoe
+Explanation: 
+
+QuestionID: 3d00c8427fc32a45327f1b4f432f36408d290cb4
+Question: Which village is the person put in stocks resident of?
+Answer: Little Hayhoe
+Explanation: 
+
+QuestionID: 6017debc7c7d77c66d24397ecb3b0ca87e31c9bf
+Question: Who gets sacked?
+Answer: Sally
+Explanation: 
+
+QuestionID: 6017debc7c7d77c66d24397ecb3b0ca87e31c9bf
+Question: What is the full name of the grandfather of the person who is sacked?
+Answer: Daniel "Dan" Dance
+Explanation: 
+
+QuestionID: 6017debc7c7d77c66d24397ecb3b0ca87e31c9bf
+Question: What is the last name of the grandfather of the person who gets sacked?
+Answer: Dance
+Explanation: 
+
+QuestionID: 6017debc7c7d77c66d24397ecb3b0ca87e31c9bf
+Question: What is the full name of the person who sacks someone?
+Answer: Sir Digby Montague
+Explanation: 
+
+QuestionID: 6017debc7c7d77c66d24397ecb3b0ca87e31c9bf
+Question: What positions are held by the person who sacks their maid?
+Answer: the head of the council, the local magistrate
+Explanation: 
+
+QuestionID: 11583222899e490150061078aca65c71b34709e0
+Question: What is the last name of Sally's grandfather?
+Answer: Dance
+Explanation: 
+
+--------------------------------------------------
+PassageID: 7
+Passage: The film begins with Brick Bardo hitchhiking to get to the town of Pahoota, where he tries to find a girl named Nurse Ginger (Melissa Behr, who was shrunken to 11 inches in Bad Channels), to prove to her that she is not alone. Meanwhile, the film cuts to Judith Grey, who has a nightmare about the events that happened in the previous film a year before. Ever since the events that took place a year before, Judith has been watching the Toyland Warehouse, believing that the toys are still alive. Meanwhile, a drunken bum enters the warehouse to shelter from the rain, and starts to mess around with a clown tricycle, until he gets knocked in the head with a box of toys, causing him to hit his head on the ground, killing him. However, his blood continues to flow over to the place where the demon was buried, and brings back: Baby Oopsy Daisy, Jack Attack, and Mr. Static, but Grizzly Teddy is replaced by a new toy named Zombietoid - a blonde GI Joe action figure with a sword as a weapon. Judith, who's now inside the building, sees the toys in full view, but is then arrested for breaking into a secluded building while serving out a suspension. After the police leave, the toys force the new security guard Ray Vernon to help them with their needs. Ginger who spends her time on a kitchen counter all alone is being harassed by a sleazy reporter for an interview and so she reluctantly agrees to one so he'll leave her in peace. After he leaves, a big spider appears and as Ginger screams, Brick suddenly shows up and shoots it dead. Then a surprised Ginger asks Brick how he's so tiny like her, which results in both characters recapping their stories. Although Ginger explains that it's herself who's been left at a doll sized height by aliens, instead of Bunny, which was what occurred in the actual story of Bad Channels.
+
+Questions:
+QuestionID: bf058978821e359c6f08261f8efa9ac9802afaba
+Question: Who agrees to an interview?
+Answer: Ginger
+Explanation: 
+
+QuestionID: 7ee35fccda450e99794deaf14ff75f39a6fcee1c
+Question: What is the first name of the person who spends her time on the kitchen counter?
+Answer: Ginger
+Explanation: 
+
+QuestionID: 7ee35fccda450e99794deaf14ff75f39a6fcee1c
+Question: Where does Brick Bardo find the girl he is looking for?
+Answer: on a kitchen counter
+Explanation: 
+
+QuestionID: bf058978821e359c6f08261f8efa9ac9802afaba
+Question: What does Ginger agree to?
+Answer: an interview
+Explanation: 
+
+QuestionID: bf058978821e359c6f08261f8efa9ac9802afaba
+Question: Who does Ginger want to leave her in peace?
+Answer: a sleazy reporter
+Explanation: 
+
+--------------------------------------------------
+PassageID: 8
+Passage: The cemetery is less than an acre in size and is located to the immediate east of the church, surrounded by a wrought iron fence manufactured by Stewart Iron Works. As of 2012, the cemetery contains approximately 270 interments, including John Monroe (1750–1824), Virginia House of Delegates member William C. Nixon (1789–1869), West Virginia House of Delegates member Captain David Pugh (1806–1899), American Civil War veterans from the Union and the Confederacy, and free and enslaved African Americans. Gertrude Ward (1896–1988), a local historian and orchardist, is also interred in the cemetery. Captain David Pugh was an elected representative Hampshire County, who voted to secede from the Union in 1861.Older gravestones in the cemetery are generally cut from limestone, and the gravestones placed after 1900 are predominantly made of polished granite. Most of the gravestones have weathered significantly. The gravestones are generally rounded or rectangular in shape, and are placed on small stone foundations. The gravestones of prominent local leaders are more ornate in character, including that of Captain David Pugh and his family, who are buried under a large obelisk that lists the names of his three wives and their respective children. Nixon's gravestone is deteriorating due to advanced weathering; it is made of limestone and contains a carving of an open book. Following the purchase of a rectangular land tract around 1990, the cemetery was expanded on the east side. This section of the cemetery is excluded from the church's historically-recognized boundaries, as it was not associated with the church during the period of its greatest significance.The cemetery perimeter is lined on three sides by a cast wrought iron fence, accessible by a gate 3 feet (0.91 m) in width at its western entryway. The wrought iron fence is 4 feet (1.2 m) in height, and has approximately 1-inch (2.5 cm) diameter tubular fence posts, which are supported by three horizontal metal rails. The fence posts are capped with white-painted stylized arrows, with a ball at the tip. A shield with the emblem reading, "The Stewart Iron Works, Cincinnati, Ohio", is emblazoned on the fence's gate. The cemetery's eastern extension is surrounded by chain-link fencing.
+
+Questions:
+QuestionID: fd94606c6e33c5a4ddf5329f1ad3453dabf3040c
+Question: What is the full name of the person whose gravestone is deteriorating due to advanced weathering? 
+Answer: William C. Nixon
+Explanation: 
+
+QuestionID: 1a7f12e4341153fcc4ab8044e219fa357dec3afe
+Question: What is the full name of the person who voted to secede from the Union in 1861?
+Answer: David Pugh
+Explanation: 
+
+QuestionID: 1a7f12e4341153fcc4ab8044e219fa357dec3afe
+Question: What is the title of the person who voted to seced from the Union in 1861?
+Answer: Captain
+Explanation: 
+
+QuestionID: 1a7f12e4341153fcc4ab8044e219fa357dec3afe
+Question: What was the person who voted to secede from the Union in 1861 a member of?
+Answer: West Virginia House of Delegates
+Explanation: 
+
+QuestionID: 1a7f12e4341153fcc4ab8044e219fa357dec3afe
+Question: When was the person who voted to secede from the union in 1861 born?
+Answer: 1806
+Explanation: 
+
+QuestionID: 1a7f12e4341153fcc4ab8044e219fa357dec3afe
+Question: When did the person who voted to secede from the union in 1861 die?
+Answer: 1899
+Explanation: 
+
+QuestionID: fd94606c6e33c5a4ddf5329f1ad3453dabf3040c
+Question: What was the person whose gravestone is deteriorating due to advanced weathering a member of?
+Answer: Virginia House of Delegates
+Explanation: 
+
+QuestionID: fd94606c6e33c5a4ddf5329f1ad3453dabf3040c
+Question: When was the person whose gravestone is deteriorating due to advanced weathering born?
+Answer: 1789
+Explanation: 
+
+QuestionID: fd94606c6e33c5a4ddf5329f1ad3453dabf3040c
+Question: When did the person whose gravestone is deteriorating due to advanced weathering die?
+Answer: 1869
+Explanation: 
+
+QuestionID: fd94606c6e33c5a4ddf5329f1ad3453dabf3040c
+Question: What is the gravestone that is deteriorating due to advanced weathering made of?
+Answer: limestone
+Explanation: 
+
+QuestionID: fd94606c6e33c5a4ddf5329f1ad3453dabf3040c
+Question: What does the gravestone that is deteriorating due to advance weathering contain?
+Answer: a carving of an open book
+Explanation: 
+
+--------------------------------------------------
+PassageID: 9
+Passage: On 4 February 2013, the University of Leicester confirmed that the skeleton was that of Richard III. The identification was based on mitochondrial DNA evidence, soil analysis, and dental tests, and physical characteristics of the skeleton consistent with contemporary accounts of Richard's appearance. Osteoarchaeologist Jo Appleby commented: "The skeleton has a number of unusual features: its slender build, the scoliosis, and the battle-related trauma. All of these are highly consistent with the information that we have about Richard III in life and about the circumstances of his death."Caroline Wilkinson, Professor of Craniofacial Identification at the University of Dundee, led the project to reconstruct the face, commissioned by the Richard III Society. On 11 February 2014, the University of Leicester announced a project headed by Turi King to sequence the entire genome of Richard III and Michael Ibsen—a direct female-line descendant of Richard's sister, Anne of York—whose mitochondrial DNA confirmed the identification of the excavated remains. Richard III is thus the first ancient person with known historical identity whose genome has been sequenced. A study published in Nature in December 2014 confirmed a perfect whole-mitochondrial genome match between Richard's skeleton and Michael Ibsen and a near-perfect match between Richard and his other confirmed living relative. However, Y chromosome DNA inherited via the male line found no link with five other claimed living relatives, indicating that at least one "false-paternity event" occurred in the generations between Richard and these men. One of these five was found to be unrelated to the other four, showing that another false-paternity event had occurred in the four generations separating them.The story of the excavation and subsequent scientific investigation was told in a Channel 4 documentary, Richard III: The King in the Car Park, broadcast on 4 February 2013. It proved a ratings hit for the channel, watched by up to 4.9 million viewers, and won a Royal Television Society award. Channel 4 subsequently screened a follow-up documentary on 27 February 2014, Richard III: The Untold Story, which detailed the scientific and archaeological analyses that led to the identification of the skeleton as Richard III.
+
+Questions:
+QuestionID: 064154fdfc6ffe51d5f508aca90c9e519ac37c7f
+Question: What was the last name of the person that the Richard III Society commissioned for the reconstruction of the face?
+Answer: Wilkinson
+Explanation: 
+
+QuestionID: 2cc8db406f594f9e91d66670e1110e0d6d222393
+Question: What did the Y chromosome DNA inherited via the male line that found no link with five other claimed living relatives indicate?
+Answer: at least one "false-paternity event" occurred
+Explanation: 
+
+QuestionID: 18a36a8c4352d2bb016eaad58906461b4f0b3fff
+Question: What was the name of the documentary about the excavation on Channel 4?
+Answer: Richard III: The King in the Car Park
+Explanation: 
+
+QuestionID: 9f345c288a46254410c69c3ab61aa355e9aee6d2
+Question: What was the name of the follow-up documentary to Richard III: The King in the Car Park?
+Answer: Richard III: The Untold Story
+Explanation: 
+
+QuestionID: 18a36a8c4352d2bb016eaad58906461b4f0b3fff
+Question: What documentary proved to be a ratings hit for Channel 4?
+Answer: Richard III: The King in the Car Park
+Explanation: 
+
+QuestionID: 18a36a8c4352d2bb016eaad58906461b4f0b3fff
+Question: When was the documentary made about the excavation broadcast?
+Answer: 4 February 2013
+Explanation: 
+
+QuestionID: 18a36a8c4352d2bb016eaad58906461b4f0b3fff
+Question: What was a sequel to the documentary made about the excavation on Channel 4?
+Answer: Richard III: The Untold Story
+Explanation: 
+
+QuestionID: 18a36a8c4352d2bb016eaad58906461b4f0b3fff
+Question: When was the sequel to the documentary made about the excavation on Channel 4 broadcast?
+Answer: 27 February 2014
+Explanation: 
+
+QuestionID: 2cc8db406f594f9e91d66670e1110e0d6d222393
+Question: A false paternity event was indicated to have occurred between Richard and whom?
+Answer: five other claimed living relatives
+Explanation: 
+
+QuestionID: 9f345c288a46254410c69c3ab61aa355e9aee6d2
+Question: What documentary did the one that detailed the scientific and archeological analyses that led to the identification of a skeleton follow?
+Answer: Richard III: The King in the Car Park
+Explanation: 
+
+QuestionID: 064154fdfc6ffe51d5f508aca90c9e519ac37c7f
+Question: What university is the person commissioned for the reconstruction of the face at?
+Answer: University of Dundee
+Explanation: 
+
+--------------------------------------------------
+PassageID: 10
+Passage: Fur trapper Jean La Bête paddles his canoe through wild water towards the settlement in order to sell a load of furs. At the settlement, a steamboat is landing and the trader and his foster-child Eve arrive at the seaport to fetch mail and consumer goods. The trader explains to Eve that the ship brings "Jailbirds ... from the east" and that "their husbands-to-be had bailed them out and paid their fines and their passages with a guarantee of marriage". Later, the captain is auctioning off one of those women because her husband-to-be has died in the meantime. Jean La Bête decides to take his chance to buy the wife, but he makes his bid too late. Two Canadian Indians, Yellow Dog and No Name, have told the Trader that La Bete is dead. The Trader, heavily in debt, has spent money he owes La Bete so that when La Bete calls to collect his dues, the trader has to use his own savings, to the fury of his wife. Next day, the trader's wife, in the need to compensate for the loss of her savings, seizes the opportunity to offer her foster-child for a thousand dollars to the simple-minded, rough-cut trapper. She praises the qualities of the shy girl and explains, that her inability to speak is caused from the shock she suffered when she had to witness how her parents were barbarously murdered several years ago. La Bête finally agrees to buy the mute girl and takes her against her will into the wilderness of British Columbia. Here the strange couple starts a difficult relationship characterized by mistrust and Eve's fear and dislike of the trapper. Eve vehemently rejects the advances of the gruff trapper. La Bête takes her for hunting and acquaints her with the beauty and the dangers of the wilderness, but here, as well, he fails to win her trust. Eve defends herself from his advances with a knife.
+
+Questions:
+QuestionID: 1d9cdecab9a287fb6efdf16a6880c36c9a3f36f5
+Question: Who is offered to a trader for a thousand dollars?
+Answer: Eve
+Explanation: 
+
+QuestionID: 31c0d829cfadfe7a6b80f33d6382e9f8b1459838
+Question: Whose qualities are praised?
+Answer: Eve
+Explanation: 
+
+QuestionID: f69529c7c17d1fbf844c591fde6f8a6ffc0c36b2
+Question: Who is bought and taken into the wilderness?
+Answer: Eve
+Explanation: 
+
+QuestionID: 5f06b43dbdb3a8400c33c5d1eda7b8e6d5f56456
+Question: Who is acquainted with the dangers of the wilderness by someone?
+Answer: Eve
+Explanation: 
+
+QuestionID: 9ac3abfef889eb6001083e97c8c881e2124fa64b
+Question: What is the last name of the person who fails to win someone's trust?
+Answer: La Bête
+Explanation: 
+
+QuestionID: 1d9cdecab9a287fb6efdf16a6880c36c9a3f36f5
+Question: What is the full name of the person to whom someone is offered for a thousand dollars?
+Answer: Jean La Bête
+Explanation: 
+
+QuestionID: f69529c7c17d1fbf844c591fde6f8a6ffc0c36b2
+Question: Who are the strange couple that start a relationship in the wilderness?
+Answer: Eve, Jean La Bête
+Explanation: 
+
+QuestionID: f69529c7c17d1fbf844c591fde6f8a6ffc0c36b2
+Question: Where do a strange couple start a relationship?
+Answer: the wilderness of British Columbia
+Explanation: 
+
+QuestionID: 31c0d829cfadfe7a6b80f33d6382e9f8b1459838
+Question: Who praises someone's qualities?
+Answer: the trader's wife
+Explanation: 
+
+QuestionID: 31c0d829cfadfe7a6b80f33d6382e9f8b1459838
+Question: Whose foster child's qualities are praised?
+Answer: the trader, the trader's wife
+Explanation: 
+
+QuestionID: 9ac3abfef889eb6001083e97c8c881e2124fa64b
+Question: What is the job of the person who fails to win someone's trust?
+Answer: Fur trapper
+Explanation: 
+
+QuestionID: 9ac3abfef889eb6001083e97c8c881e2124fa64b
+Question: Whose trust does someone fail to win?
+Answer: Eve
+Explanation: 
+
+QuestionID: 9ac3abfef889eb6001083e97c8c881e2124fa64b
+Question: Whose foster-child's trust does someone fail to win?
+Answer: the trader, the trader's wife
+Explanation: 
+
+QuestionID: 9ac3abfef889eb6001083e97c8c881e2124fa64b
+Question: What is the full name of the person who fails to win someone's trust?
+Answer: Jean La Bête
+Explanation: 
+
+QuestionID: 5f06b43dbdb3a8400c33c5d1eda7b8e6d5f56456
+Question: Whose foster-child is acquainted with the dangers of the wilderness by someone?
+Answer: the trader, the trader's wife
+Explanation: 
+
+--------------------------------------------------
+PassageID: 11
+Passage: Manzanar was first inhabited by Native Americans nearly 10,000 years ago. Approximately 1,500 years ago, the area was settled by the Owens Valley Paiute, who ranged across the Owens Valley from Long Valley on the north to Owens Lake on the south, and from the crest of the Sierra Nevada on the west to the Inyo Mountains on the east. Other Native American nations in the region included the Miwok, Western Mono, and Tubatulabal to the west, the Shoshone to the south and east, and the Mono Lake Paiute to the north. The Owens Valley Paiute hunted and fished, collected pine nuts, and raised crops utilizing irrigation in the Manzanar area. They also traded brown-ware pottery for salt from the Saline Valley, and traded other wares and goods across the Sierra Nevada during the summer and fall.The Owens Valley had received scant attention from European Americans before the early 1860s, as it was little more than a crossroads of the routes through the area. When gold and silver were discovered in the Sierra Nevada and the Inyo Mountains, the resulting sudden influx of miners, farmers, cattlemen and their hungry herds brought conflict with the Owens Valley Paiute, whose crops were being destroyed. The Owens Valley Indian War of 1861–1863 ensued; at the end, the Owens Valley Paiute, along with other native peoples in the region, were forced at gunpoint by the United States Army to walk almost 200 miles (320 km) to Fort Tejon, in one of the many forced relocations or "Trails of Tears" inflicted upon Native Americans in the United States.In this Trail of Tears, the U.S. Army was intentionally brutal. "The Army didn't take them on a direct route, either, said Owens Valley Paiute elder Irene Button. "They were forced to walk all the way around the eastern shore of Owens Lake (covers an area of approximately 108 square miles (280 km2)). They wanted to make sure that as many as possible would die before they reached Fort Tejon."Approximately one-third of the Native Americans in the Owens Valley were forcibly relocated to Fort Tejon. After 1863, many returned to their permanent villages that had been established along creeks flowing down from the Sierra Nevada mountains. In the Manzanar area, the Owens Valley Paiute had established villages along Bairs, Georges, Shepherds, and Symmes creeks. Evidence of Paiute settlement in the area is still present.
+
+Questions:
+QuestionID: d06a5a4be4de55d9bb21d7494c97a2f3c42f3bed
+Question: What mountain range did the creeks flow from when the Indians returned to their villages in 1863?
+Answer: Sierra Nevada
+Explanation: 
+
+QuestionID: 47fe28e50b252df075e70cdba247ab3fff176bc7
+Question: What is the term that is used as the name of the forced march for the tribes in the Owens valley?
+Answer: Trails of Tears
+Explanation: 
+
+QuestionID: 47fe28e50b252df075e70cdba247ab3fff176bc7
+Question: Who forced the Trail of Tears?
+Answer: the United States Army
+Explanation: 
+
+QuestionID: 47fe28e50b252df075e70cdba247ab3fff176bc7
+Question: Where did the Trail of Tears end?
+Answer: Fort Tejon
+Explanation: 
+
+QuestionID: d06a5a4be4de55d9bb21d7494c97a2f3c42f3bed
+Question: Who had permanent villages along creeks flowing down from the Sierra Nevada mountains?
+Answer: Native Americans
+Explanation: 
+
+--------------------------------------------------
+PassageID: 12
+Passage: In 1931, the patients at the Vannacutt Psychiatric Institute for the Criminally Insane revolt against the staff headed by the sadistic Dr. Richard B. Vannacutt. The patients start a fire which engulfs the building, killing all of the inmates and all but five of Vannacutt's staff. In 1999, Evelyn Stockard-Price is in a disintegrating marriage with Steven Price, an amusement park mogul. At Evelyn's insistence, Price stages her birthday party at the long-abandoned hospital. The building's owner, Watson Pritchett, is convinced it is evil, having lived there as a child when it was converted to a private residence. Five guests arrive for the party: film producer Jennifer Jenzen; baseball player Eddie Baker; former television personality Melissa Marr; Donald Blackburn, a physician; and Pritchett. The guests are not the ones Price invited and neither of the Prices know who they are. Despite this, Price continues the party's advertised theme, offering $1 million to each guest who remains in the house until morning; those who flee forfeit their $1 million to the others. The building's security system is mysteriously tripped, locking everyone inside – a stunt which Price blames on Evelyn. Jennifer, Eddie and Pritchett search the basement for the control panel. While exploring the labyrinthine basement, Jennifer confesses to Eddie that her real name is Sara Wolfe, the recently fired assistant to the real Jennifer. She impersonated Jennifer hoping to win the prize money. Shortly after, Sara is nearly drowned in a tank of blood by a ghost impersonating Eddie, but the real Eddie arrives in time to save her. Melissa subsequently disappears, leaving behind a massive trail of blood. Price visits his assistant Schechter, who is supposed to be managing the party stunts, but finds him horribly mutilated. On the surveillance monitor he sees the ghost of Dr. Vannacutt walking around with a bloody saw.
+
+Questions:
+QuestionID: bab72e9869c9cabe9a297d173ff8bef50b10c13e
+Question: What is the real full name of the person that searches the basement with Eddie and Pritchett?
+Answer: Sara Wolfe
+Explanation: 
+
+QuestionID: 1a4888d092312d1f0acf6517c73f6fd589df5600
+Question: Where does the baseball player look for the control panel?
+Answer: the basement
+Explanation: 
+
+QuestionID: 459517338918bbd2d8f0c699844695b70ee22dac
+Question: What is the full name of the person that sees the ghost of Dr. Vannacut on a monitor?
+Answer: Steven Price
+Explanation: 
+
+QuestionID: 459517338918bbd2d8f0c699844695b70ee22dac
+Question: What is the first name of the spouse of the person that sees the ghost of Dr. Vannacut on a monitor?
+Answer: Evelyn
+Explanation: 
+
+QuestionID: 459517338918bbd2d8f0c699844695b70ee22dac
+Question: What is the full name of the spouse of the person that sees the ghost of Dr. Vannacut on a monitor?
+Answer: Evelyn Stockard-Price
+Explanation: 
+
+QuestionID: 459517338918bbd2d8f0c699844695b70ee22dac
+Question: What is the job of the person that sees the ghost of Dr. Vannacut on a monitor?
+Answer: amusement park mogul
+Explanation: 
+
+QuestionID: 1a4888d092312d1f0acf6517c73f6fd589df5600
+Question: What is the place where people look for the control panel described as?
+Answer: labyrinthine
+Explanation: 
+
+QuestionID: bab72e9869c9cabe9a297d173ff8bef50b10c13e
+Question: What is the job of the person whom the one that searches the basement with Eddie and Pritchett impersonates?
+Answer: film producer
+Explanation: 
+
+QuestionID: bab72e9869c9cabe9a297d173ff8bef50b10c13e
+Question: What is the full name of the person the one who searches the basement with Eddie and Pritchett impersonates?
+Answer: Jennifer Jenzen
+Explanation: 
+
+--------------------------------------------------
+PassageID: 13
+Passage: Keswick is the home of the Theatre by the Lake, opened in 1999. The theatre serves a dual purpose as the permanent home of a professional repertory company and a venue for visiting performers and festivals. It replaced the Century Theatre or "Blue Box", which had spent 25 years in semi-retirement on a permanent lakeside site in Keswick, after a career of similar length as a mobile theatre. The Alhambra cinema in St John Street, opened in 1913, is one of the oldest continuously functioning cinemas in the country; it is equipped with digital technology and satellite receiving equipment to allow the live screening of plays, operas and ballet from the National Theatre, Royal Opera House and other venues.The town is the site of the Cumberland Pencil Museum. One of the exhibits is what is claimed to be the world's largest coloured pencil. Fitz Park, on the bank of the River Greta, is home to the Keswick Museum and Art Gallery, a Victorian museum which features the Musical Stones of Skiddaw, Southey manuscripts, and a collection of sculptures and paintings of regional and wider importance, including works by Epstein, John Opie, Richard Westall and others. After extensive restoration and enlargement the museum reopened in 2014. In 2001 the cricket ground in Fitz Park was named the most beautiful in England by Wisden Cricket Monthly.Greta Hall (see Lake Poets, below), is a Grade I listed building. The home of Coleridge in 1800–04 and Southey from 1803 until 1843, it later became part of Keswick School and is now in private ownership, partly divided into holiday flats. The three-storey house dates to the late 18th century and features a flush-panelled central double door with Gothic top panels and Venetian windows. A carved oak fireplace inside is dated to 1684. The Moot Hall is a prominent Grade II* listed building situated at the southern end of Main Street. It was built in 1571 and rebuilt in 1695, and the current building dates to 1813. It is built of lime-washed stone and slate walling, and has a square tower on the north end with a round-arched doorway and a double flight of exterior steps. At the top of the tower is what the Keswick Tourist Information Board describes as an "unusual one-handed clock". Formerly an assembly building, The Moot Hall contains a tourist information centre on the ground floor, with an art gallery on the floor above.The prominent social thinker and art critic John Ruskin, who had many associations with Keswick, once said that the town was a place almost too beautiful to live in. In October 1900, mainly through the efforts of Rawnsley, a simple memorial of Borrowdale slate was erected to Ruskin at Friars Crag. The monument is a now a Grade II listed structure.
+
+Questions:
+QuestionID: 8332b479279a087400286c3881f569af46744bef
+Question: What is the name of the Grade II* listed building that was originally built in 1571 and rebuilt in 1695?
+Answer: The Moot Hall
+Explanation: 
+
+QuestionID: 8332b479279a087400286c3881f569af46744bef
+Question: What was rebuilt in 1695?
+Answer: The Moot Hall
+Explanation: 
+
+QuestionID: 8332b479279a087400286c3881f569af46744bef
+Question: What was built in 1571?
+Answer: The Moot Hall
+Explanation: 
+
+QuestionID: 8332b479279a087400286c3881f569af46744bef
+Question: What was the Grade II* building made of?
+Answer: lime-washed stone, slate walling
+Explanation: 
+
+--------------------------------------------------
+PassageID: 14
+Passage: The movie opens with a narration describing the fate of the Samillian Tribe; once a noble people, they were subjugated by the despotic King Laypach and condemned to wander aimlessly in the wilderness. The Samillians rebelled against King Laypach, under the command of their mightiest warrior and holy leader, Draden, who slew over a thousand of Laypach's men. After a 23-year struggle, Draden is captured and beheaded.  Before his execution, however, he prophesies that his spirit will descend upon a member of the Samillians, who will then lead them against their oppressors and to the holy land of Promethea. Eight years later, Grado Amurilus, son of the deposed King of the Samillians, is living as a farmer with his own boys, Magnus and Binon. Despite a century-and-a-half of Samillian oppression, they live an idyllic life, seemingly untouched by Laypach's tyranny. Meanwhile, King Laypach is informed by his Wise Men that Draden's prophecy has come to pass, and that the chosen liberator of the Samillian tribe has come of age.  They warn that King Laypach must not allow the boy to unite with Draden's daughter, Aria, and receive Draden's sword.  If the chosen one uses the sword to pierce the ancient Stone of Groboda—which was blessed by the gods after it fell to the earth—King Laypach will turn to dust.  They tell him the chosen boy will possess "the light" of Draden in his eyes.  King Laypach dismisses the wise men and orders the boy found and brought before him.
+
+Questions:
+QuestionID: 7d9d712ea4c4df8ed10783b2588f11ca34804a63
+Question: Who says that the chosen boy will possess "the light" of Draden in his eyes?
+Answer: Wise Men
+Explanation: 
+
+QuestionID: 7d9d712ea4c4df8ed10783b2588f11ca34804a63
+Question: Who is told that the chosen boy will possess "the light" of Draden in his eyes?
+Answer: King Laypach
+Explanation: 
+
+QuestionID: 7d9d712ea4c4df8ed10783b2588f11ca34804a63
+Question: Whose prophecy says that the chosen boy will possess "the light" of Draden in his eyes?
+Answer: Draden
+Explanation: 
+
+--------------------------------------------------
+PassageID: 15
+Passage: The film begins with a voice-over narration by Rolfe Whitehouse, announcing the story of his brother Wade's "strange criminal behavior" and subsequent disappearance. Wade Whitehouse is a small-town policeman in New Hampshire. On Halloween night, Wade meets his daughter Jill from his divorced marriage, but he is late and the evening is overshadowed by disharmony. Jill eventually calls her mother to come and pick her up. When his ex-wife finally arrives, Wade shoves her lover against their car and watches them drive away with Jill. Wade vows to get a lawyer to help gain custody of his daughter. The next day, Wade rushes to the scene of a crime. Jack Hewitt, hunting guide claims that Evan Twombley, with whom he was hunting, accidentally shot and killed himself. The police believe Jack, but Wade grows suspicious, believing that the man's death was no accident. When he is informed that the victim was scheduled to testify in a lawsuit, his suspicion slowly turns into conviction. A while later, Wade and his girlfriend Margie Fogg arrive at the house of Wade's father, Glen Whitehouse, whose abusive treatment of Wade and Rolfe as children is seen in flashbacks throughout the film. Wade finds his mother lying dead in her bed from hypothermia. Glen Whitehouse reacts to her death with little surprise. At the funeral wake, the father gets drunk and loudly exclaims, "Not one of you is worth one hair on that woman's head!", resulting in a confrontation between himself and Wade.
+
+Questions:
+QuestionID: 70828cecf4702d279295a633ac2075104a4dbc92
+Question: What is the full name of the person that is told about Evan's role as a trial witness?
+Answer: Wade Whitehouse
+Explanation: 
+
+QuestionID: b7deced83eef35b95ff42cd7a2bb0796ca9314fc
+Question: What is the first name of the person that becomes convinced that Evan's death was no accident?
+Answer: Wade
+Explanation: 
+
+QuestionID: ab1365e58abf8a323712ed9338e4b5a1b457a1dd
+Question: What is the full name of the person that gets drunk at the wake?
+Answer: Glen Whitehouse
+Explanation: 
+
+QuestionID: 70828cecf4702d279295a633ac2075104a4dbc92
+Question: Who was scheduled to testify in a lawsuit?
+Answer: Evan Twombley
+Explanation: 
+
+QuestionID: b7deced83eef35b95ff42cd7a2bb0796ca9314fc
+Question: What is the job of the person that becomes convinced that Evan's death was no accident?
+Answer: policeman
+Explanation: 
+
+QuestionID: ab1365e58abf8a323712ed9338e4b5a1b457a1dd
+Question: What are the full names of the people whose father gets drunk at the wake?
+Answer: Rolfe Whitehouse, Wade Whitehouse
+Explanation: 
+
+QuestionID: ab1365e58abf8a323712ed9338e4b5a1b457a1dd
+Question: What are the first names of the people whose father gets drunk at the wake?
+Answer: Rolfe, Wade
+Explanation: 
+
+--------------------------------------------------
+PassageID: 16
+Passage: In 1880 four escapees from death row, Crip, Leo, Chunk and Hash ride into the town of Paradise and enter the Rosebud Saloon.  Crip shoots the town marshal Isaac Webb and takes ten men as hostages, killing some to ensure the four are unmolested.  The gang leaves town with $11,200 from the Bank of Paradise and a female hostage Helen Caldwell who entered the bar because her alcoholic Uncle Billy was one of the captives. Prior to these events, Marshal Webb had sent for a friend and former gunfighter Banner Cole to be his deputy. He takes Webb's place in leading a posse to rescue Helen and bring the men to justice.  Cole is a loner with a big reputation as a gunman.  He rides into a town marked by the gang's rampage, and is enraged to discover that the townspeople have put Webb on a table next to the three dead bodies of those murdered by the four.  The doctor said at first they thought Webb was dead himself, then realized he couldn't be moved. Webb's last act is to deputize Cole, telling him to do the right thing, not out of hate, but out of liking people, as the townsfolk are good people who have been badly hurt.  Cole agrees only out of liking Webb.  He makes his original plan for hunting down the four by himself clear by turning down the offer of Webb's handcuffs by saying "I won't be needing any." However, town elder Benson convinces Cole to follow Webb's wishes and organize a posse. The men of the town gather but enthusiasm wanes when not as many able bodied men as expected volunteer to go up against the killers, some men leaving because the posse doesn't outnumber the killers by ten to one.  Cole's frank assessment of the situation scares others off with Cole saying "If they're afraid of words they shouldn't go."
+
+Questions:
+QuestionID: fbb1766320e5f62d2c4ba891ac0e69f6f6d30012
+Question: What is the first name of the man that hired the former gunfighter that leads the posse?
+Answer: Isaac
+Explanation: 
+
+QuestionID: 952fd2f46fb2230c2ab1f84f00fad65f03a79ac0
+Question: What is the last name of the person that couldn't be moved from the table?
+Answer: Webb
+Explanation: 
+
+QuestionID: 45c3ea04dcd6a5b045a0258e1ca25ee7cacc6464
+Question: What is the last name of the person that doesn't need handcuffs?
+Answer: Cole
+Explanation: 
+
+QuestionID: 45c3ea04dcd6a5b045a0258e1ca25ee7cacc6464
+Question: What is the full name of the person that doesn't need handcuffs?
+Answer: Banner Cole
+Explanation: 
+
+QuestionID: 45c3ea04dcd6a5b045a0258e1ca25ee7cacc6464
+Question: What is the first name of the person that doesn't need handcuffs?
+Answer: Banner
+Explanation: 
+
+QuestionID: 45c3ea04dcd6a5b045a0258e1ca25ee7cacc6464
+Question: What is the full name of the friend of the person who doesn't need handcuffs?
+Answer: Isaac Webb
+Explanation: 
+
+QuestionID: fbb1766320e5f62d2c4ba891ac0e69f6f6d30012
+Question: What is the first name of the man that hired Cole?
+Answer: Isaac
+Explanation: 
+
+QuestionID: 952fd2f46fb2230c2ab1f84f00fad65f03a79ac0
+Question: What is the first name of the person that couldn't be moved from the table?
+Answer: Isaac
+Explanation: 
+
+--------------------------------------------------
+PassageID: 17
+Passage: After the December 7, 1941, attack on Pearl Harbor, the United States Government swiftly moved to begin solving the "Japanese Problem" on the West Coast of the United States. In the evening hours of that same day, the Federal Bureau of Investigation (FBI) arrested selected "enemy" aliens, including more than 5,500 Issei men. The California government pressed for action by the national government, as many citizens were alarmed about potential activities by people of Japanese descent. On February 19, 1942, President Franklin D. Roosevelt signed Executive Order 9066, which authorized the Secretary of War to designate military commanders to prescribe military areas and to exclude "any or all persons" from such areas. The order also authorized the construction of what would later be called "relocation centers" by the War Relocation Authority (WRA) to house those who were to be excluded. This order resulted in the forced relocation of over 120,000 Japanese Americans, two-thirds of whom were native-born American citizens. The rest had been prevented from becoming citizens by federal law. Over 110,000 were incarcerated in the ten concentration camps located far inland and away from the coast.Manzanar was the first of the ten concentration camps to be established. Initially, it was a temporary "reception center", known as the Owens Valley Reception Center from March 21, 1942, to May 31, 1942. At that time, it was operated by the US Army's Wartime Civilian Control Administration (WCCA).The Owens Valley Reception Center was transferred to the WRA on June 1, 1942, and officially became the "Manzanar War Relocation Center." The first Japanese American incarcerees to arrive at Manzanar were volunteers who helped build the camp. By mid–April, up to 1,000 Japanese Americans were arriving daily, and by July, the population of the camp neared 10,000. Over 90 percent of the incarcerees were from the Los Angeles area, with the rest coming from Stockton, California; and Bainbridge Island, Washington. Many were farmers and fishermen. Manzanar held 10,046 incarcerees at its peak, and a total of 11,070 people were incarcerated there.
+
+Questions:
+QuestionID: dda7c1984db53d1a4647c3828138d375b2a227f4
+Question: What order authorized the construction of what would later be called "relocation centers"?
+Answer: Executive Order 9066
+Explanation: 
+
+QuestionID: 513e7a697f098281d5b7f0357331ae3ad2f9d0e7
+Question: What order resulted in forced relocation of over 120,000 Japanese Americans?
+Answer: Executive Order 9066
+Explanation: 
+
+QuestionID: 6a5ae1d1c7bc0f3ae6a668d1ee320b823022e0dc
+Question: What was the name of the place from March 21 1942 to May 31, 1942 that had incarcerees from Stockton California and Bainbridge Island?
+Answer: Owens Valley Reception Center
+Explanation: 
+
+QuestionID: ab0582d52f448f839fe0f8050d916279fa52283d
+Question: What was the name of the place from March 21 1942 to May 31, 1942 that had most of its incarcerees made up of farmers and fishermen?
+Answer: Owens Valley Reception Center
+Explanation: 
+
+QuestionID: 513e7a697f098281d5b7f0357331ae3ad2f9d0e7
+Question: When was the forced relocation of over 120,000 Japanese Americans authorized?
+Answer: February 19, 1942
+Explanation: 
+
+QuestionID: ab0582d52f448f839fe0f8050d916279fa52283d
+Question: What were the names of the place that had most of its incarcerees made up of farmers and fishermen?
+Answer: Owens Valley Reception Center, Manzanar War Relocation Center
+Explanation: 
+
+QuestionID: ab0582d52f448f839fe0f8050d916279fa52283d
+Question: What was the place that had most of its incarcerees made up of farmers and fishermen till May 31, 1942?
+Answer: Owens Valley Reception Center
+Explanation: 
+
+QuestionID: ab0582d52f448f839fe0f8050d916279fa52283d
+Question: What was the name of the place that had most of its incarcerees made up of farmers and fishermen after May 31, 1942?
+Answer: Manzanar War Relocation Center
+Explanation: 
+
+QuestionID: ab0582d52f448f839fe0f8050d916279fa52283d
+Question: Which organization operated the place that had most of its incarcerees made up of farmers and fishermen before May 31, 1942?
+Answer: the US Army's Wartime Civilian Control Administration
+Explanation: 
+
+QuestionID: ab0582d52f448f839fe0f8050d916279fa52283d
+Question: Which organization operated the place that had most of its incarcerees made up of farmers and fishermen after May 31, 1942?
+Answer: War Relocation Authority
+Explanation: 
+
+QuestionID: 6a5ae1d1c7bc0f3ae6a668d1ee320b823022e0dc
+Question: Which organization operated the place that had incarcerees from Stockton California and Bainbridge Island till May 31, 1942?
+Answer: the US Army's Wartime Civilian Control Administration
+Explanation: 
+
+QuestionID: dda7c1984db53d1a4647c3828138d375b2a227f4
+Question: When was the order that authorized the construction of what were later called "relocation centers" signed?
+Answer: February 19, 1942
+Explanation: 
+
+--------------------------------------------------
+PassageID: 18
+Passage: Nan Taylor is a member of a gang of bank robbers, posing as a regular customer to distract the security guard while her accomplices take the money. Her cover is blown by a policeman who had arrested her before, and she is arrested. Reform-minded radio star, David Slade, falls in love with her and gets her released as a favor from District Attorney Simpson. However, when she confesses that she is guilty, Simpson has her imprisoned. At San Quentin State Prison, Nan meets fellow inmates Linda, "Sister Susie", and Aunt Maggie, as well as prison matron Noonan. Slade continues to send Nan letters, but she refuses his entreaties. Meanwhile, Linda has a fancy for Slade, and resents Nan for spurring him. Her bank accomplice, Lefty, visits her, and tells her that Don is now imprisoned in the men's section on the other side of the wall. Lefty tells her to make a map of the women's section as well as a copy of the matron's key so that the men can escape via the women's section of the prison. However, Nan believes Slade told the prison officials about the escape plot and Don is shot dead as he gets to Nan's cell to break her out. Nan is given another year, and is not allowed visitors, but vows to seek revenge on Slade. When she is released, Nan goes to a revival group meeting hosted by Slade. He is glad to see her, and she is escorted to a back room where he professes his love for her. She scoffs and accuses him of turning in her bank robber accomplices. She shoots him but misses, hitting him in the arm. Sister Susie sees this from outside via a keyhole, but Slade denies that he has been shot, and Slade and Nan announce their intention to marry.
+
+Questions:
+QuestionID: 4b60b04f24cb4888bfbcd298fb8e21611f965667
+Question: What is the full name of the person that the radio star is glad to see at the revivial group meeting?
+Answer: Nan Taylor
+Explanation: 
+
+QuestionID: 4e51107a66ad341f98523b1ea5307bc122a4c696
+Question: What is the profession of the person that Nan Taylor shoots in the arm?
+Answer: radio star
+Explanation: 
+
+QuestionID: 4e51107a66ad341f98523b1ea5307bc122a4c696
+Question: What is the first name of the person whom Nan Taylor shoots in the arm?
+Answer: David
+Explanation: 
+
+QuestionID: 4e51107a66ad341f98523b1ea5307bc122a4c696
+Question: What is the full name of the person who gets shot in the arm?
+Answer: David Slade
+Explanation: 
+
+QuestionID: 4b60b04f24cb4888bfbcd298fb8e21611f965667
+Question: What is the profession of the person who is glad to see Nan?
+Answer: radio star
+Explanation: 
+
+--------------------------------------------------
+PassageID: 19
+Passage: Drowning Girl is derived from the splash page from "Run for Love!", illustrated by Tony Abruzzo and lettered by Ira Schnapp, in Secret Hearts #83 (November 1962), DC Comics. This is the same comic book issue that inspired Hopeless.In 1963, Lichtenstein was parodying various types of sources such as commercial illustrations, comic imagery and even modern masterpieces. The masterpieces represented what could have been dubbed the "canon" of art and was thought of as "high art," while the "low-art" subject matter included comic strip images. His masterworks sources included the likes of Cézanne, Mondrian and Picasso. During this time in his career, Lichtenstein noted that "the things that I have apparently parodied I actually admire." At the time, Lichtenstein was exploring the theme of "industrialization of emotion". In Lichtenstein's obituary, Los Angeles Times critic Christopher Knight said the work was "a witty rejoinder to De Kooning's famously brushy paintings of women". His comic romances often depicted stereotypical representations of thwarted passions. Although the Lichtenstein Foundation website claims that Lichtenstein did not begin using his opaque projector technique until the fall of 1963, Lichtenstein described his process for producing comics based art, including Drowning Girl: As directly as possible ... From a cartoon, photograph or whatever, I draw a small picture—the size that will fit into my opaque projector ... I don't draw a picture to reproduce it—I do it in order to recompose it ... I project the drawing onto the canvas and pencil it in and then I play around with the drawing until it satisfies me. When Lichtenstein had his first solo show at the Leo Castelli Gallery in New York City in February 1962, it sold out before the opening. In addition to Drowning Girl, the exhibition included Look Mickey, Engagement Ring, Blam and The Refrigerator. The show ran from February 10 through March 3, 1962.  According to the Lichtenstein Foundation website, Drowning Girl was part of Lichtenstein's first exhibition at Ferus Gallery in Los Angeles from April 1 – April 27, 1963, featuring Masterpiece, Portrait of Madame Cézanne and other works from 1962 and 1963. It was also part of his second solo exhibition at the Leo Castelli Gallery from September 28 – October 24, 1963 that included Torpedo...Los!, Baseball Manager, In the Car, Conversation, and Whaam!. Marketing materials for the show included the lithograph Crak! The Museum of Modern Art acquired Drowning Girl in 1971, and their webpage for this work credits Philip Johnson and Mr. and Mrs. Bagley Wright for the acquisition.
+
+Questions:
+QuestionID: 36d5c10b09137c554f1b7e1f839dbf7baca99700
+Question: What is the last name of the person whose first and second exhibitions included Drowning Girl?
+Answer: Lichtenstein
+Explanation: 
+
+QuestionID: 36d5c10b09137c554f1b7e1f839dbf7baca99700
+Question: What work was part of both first and second exhibitions of Lichtenstein?
+Answer: Drowning Girl
+Explanation: 
+
+QuestionID: 36d5c10b09137c554f1b7e1f839dbf7baca99700
+Question: What works were part of Lichtenstein's first solo exhibition?
+Answer: Drowning Girl, Look Mickey, Engagement Ring, Blam, The Refrigerator
+Explanation: 
+
+QuestionID: 36d5c10b09137c554f1b7e1f839dbf7baca99700
+Question: What works were part of Lichtenstein's second solo exhibition?
+Answer: Drowning Girl, Torpedo...Los!, Baseball Manager, In the Car, Conversation, Whaam!
+Explanation: 
+
+--------------------------------------------------
+PassageID: 20
+Passage: Keswick lies in north-western England, in the heart of the northern Lake District. The town is 31.4 miles (50.5 km) south-west of Carlisle, 22.1 miles (35.6 km) northwest of Windermere and 14.2 miles (22.9 km) south-east of Cockermouth. Derwentwater, the lake to the south-west of the town, is approximately 3 miles (4.8 km) long by 1 mile (1.6 km) wide and is some 72 feet (22 m) deep. It contains several islands, including Derwent Isle, Lord's Island, Rampsholme Island and St Herbert's Island, the largest. Derwent Isle is the only island on the lake that is inhabited; it is run by the National Trust and open to visitors five days a year. The land between Keswick and the lake consists mainly of fields and areas of woodland, including Isthmus Wood, Cockshot Wood, Castlehead Wood and Horseclose and Great Wood, further to the south. The River Derwent flows from Derwentwater to Bassenthwaite, the most northerly of the major Cumbrian lakes. The Derwent and its tributary the Greta, which flows through Keswick, meet to the east of Portinscale. The source of the Greta is near Threlkeld, at the confluence of the River Glenderamackin and St John's Beck.Keswick is in the lee of the Skiddaw group, the oldest group of rocks in the Lake District. These fells were formed during the Ordovician period, 488 to 443 million years ago; they form a triangle sheltering the town, reaching a maximum height of 931m on Skiddaw itself. To the west of Portinscale, to the south-west of the village of Thornthwaite, is Whinlatter Forest Park and Grisedale Pike. To the east, beyond Castlerigg stone circle, is St John's in the Vale, at the foot of the Helvellyn range, which is popular with ramblers starting from Keswick. In 2010, Electricity North West, United Utilities, the Lake District National Park Authority and the conservation charity Friends of the Lake District invested £100,000 to remove power lines and replace them with underground cables, to improve the quality of scenery in the vicinity.Climatically, Keswick is in the North West sector of the UK, which is characterised by cool summers, mild winters, and high monthly rainfalls throughout the year. The wettest months fall at the end of the year, the peak average of 189.3 mm falling in October. Rain, sunshine and temperature figures are shown below.
+
+Questions:
+QuestionID: 6e75e8839e5070b00a237774b07d1687fe732a6c
+Question: What is the name of the oldest group of rocks in the Lake District?
+Answer: Skiddaw group
+Explanation: 
+
+QuestionID: 6e75e8839e5070b00a237774b07d1687fe732a6c
+Question: What form a triangle sheltering Keswick?
+Answer: Skiddaw group
+Explanation: 
+
+QuestionID: 6e75e8839e5070b00a237774b07d1687fe732a6c
+Question: What town does the Skiddaw group shelter?
+Answer: Keswick
+Explanation: 
+
+--------------------------------------------------
+PassageID: 21
+Passage: Roland is getting married (and is currently missing) and Slim, who scoffs at the idea of marriage, is furious at Roland for disappearing. The story reminisces back to Mike's (Omar Epps, portrayed as a youth by Sean Nelson) first encounters with Roland and Slim, his first real crush on a girl named Alicia, and the three young men's misadventures as teenagers growing up in 1980s Inglewood, California ("The Wood").  Shy and awkward, Mike sticks out like a sore thumb on his first day, but is quickly befriended by Slim and Roland. On a dare from Slim and Roland, Mike reluctantly runs and grabs Alicia's butt, leading to a big fight with her big brother Stacey, a Blood gang member. While he is thoroughly beat down, Mike earns Stacey's private respect for fighting back like a man.  Meanwhile in present day, Mike and Slim go to find Roland for his wedding, when they get a call from Tanya saying that she has him with her and that he is very drunk. They go to her house to pick him up to take him back to the wedding to marry his bride Lisa because they only have two hours before the ceremony begins. Back to their old school times: on their way to their first dance of the year, the boys go to a store that gets held up by Stacey, who recognizes the boys and offers them a ride to the dance. The boys almost get arrested by two cops due to Stacey's broken taillight. Mike's quick thinking prevents one of the cops from finding Stacey's gun and they are let go not realizing that the hold-up Stacey and Boo did is what gotten them off the hook. Impressed, Stacey begins a new friendship with Mike by apologizing for their prior run-in. However, he explains that he was protecting his sister, and, seeing how much Mike likes her, gives him advice on how to win her heart.  
+
+Questions:
+QuestionID: e02c89916621b3233c68e99052ceddc576a87e4b
+Question: Who is beaten up?
+Answer: Mike
+Explanation: 
+
+QuestionID: 518bcb4f3318ba1a1dd91c2ed1f57dee25975ff2
+Question: Who is very drunk at a wedding?
+Answer: Roland
+Explanation: 
+
+QuestionID: e02c89916621b3233c68e99052ceddc576a87e4b
+Question: Whom does the Blood Gang member beat up?
+Answer: Mike
+Explanation: 
+
+QuestionID: e02c89916621b3233c68e99052ceddc576a87e4b
+Question: Who are the friends of the one who is beaten up?
+Answer: Slim, Roland
+Explanation: 
+
+QuestionID: 518bcb4f3318ba1a1dd91c2ed1f57dee25975ff2
+Question: Who takes the drunk man back to the wedding?
+Answer: Mike, Slim
+Explanation: 
+
+--------------------------------------------------
+PassageID: 22
+Passage: A Romeo and Juliet story set in Auckland, New Zealand, Emily Chu is the daughter of traditional Chinese parents, whose only wishes are that she marries a good Chinese boy and becomes a doctor. But life seems to have other ideas for Emily, who dreams of becoming a world-famous director and falls in love with a white boy from university, James Harrison. When she and James, two kindred nerd spirits fall clumsily into love they must overcome the expectations of her parents. A Kiwi-Asian, Emily considers herself a banana (yellow on the outside, white on the inside), but her father Dr Chu has a different perspective, and his past threats of disownment on her sister hangs over Emily's head. With their secret marriage, Emily's documentary, and James' ultimatum to learn Mandarin or lose Emily, life suddenly becomes very busy for the young pair. Emily is faced with the difficult decision of having to choose between long-suffering James and her parents who have made countless sacrifices to bring their family to New Zealand. It seems Emily must learn the hard way that love and family require sacrifice and not everybody can be happy.
+
+Questions:
+QuestionID: 2a1b187e8fa07557926b6a5d805289eebbdbd142
+Question: What is the first name of the person who wants to become a director? 
+Answer: Emily
+Explanation: 
+
+QuestionID: 63e7be97b32cefbf0e7d63f8c7d86fd763052e05
+Question: What is the first name of the person who falls in love with James? 
+Answer: Emily
+Explanation: 
+
+QuestionID: d45ac51c3c8f81193f95fbbcd688ece426e6c9b0
+Question: What are the first names of the people who life got very busy for? 
+Answer: Emily, James
+Explanation: 
+
+QuestionID: 68e1310b440c48082bb4f82b5f2f824cdc859d68
+Question: What is the full name of the person who falls in love with James?
+Answer: Emily Chu
+Explanation: 
+
+QuestionID: 35cb136f8661a96b186978d8e6a98cf12e2cbc01
+Question: What are the full names of the people who must overcome the expectations of one of their parents?
+Answer: Emily Chu, James Harrison
+Explanation: 
+
+QuestionID: adcd36142d33dbd35f7ffdf6c72e522c97a5342e
+Question: What is the full name of the person whose father has a different perspective of her heritage?
+Answer: Emily Chu
+Explanation: 
+
+QuestionID: 35cb136f8661a96b186978d8e6a98cf12e2cbc01
+Question: What is the full name of the person whos parents' expectations must be overcome?
+Answer: Emily Chu
+Explanation: 
+
+QuestionID: 35cb136f8661a96b186978d8e6a98cf12e2cbc01
+Question: What is the ethnicity of the person whose parents expectations must be overcome?
+Answer: Kiwi-Asian
+Explanation: 
+
+QuestionID: 35cb136f8661a96b186978d8e6a98cf12e2cbc01
+Question: What are the ethnicities of the people who must overcome the expectations of one of their parents?
+Answer: Kiwi-Asian, white
+Explanation: 
+
+QuestionID: 63e7be97b32cefbf0e7d63f8c7d86fd763052e05
+Question: What is the ethnicity of the person who falls in love with James?
+Answer: Kiwi-Asian
+Explanation: 
+
+QuestionID: 63e7be97b32cefbf0e7d63f8c7d86fd763052e05
+Question: What is the last name of the person who falls in love with James?
+Answer: Chu
+Explanation: 
+
+QuestionID: 68e1310b440c48082bb4f82b5f2f824cdc859d68
+Question: What is the ethnicity of the person who falls in love with James?
+Answer: Kiwi-Asian
+Explanation: 
+
+QuestionID: 2a1b187e8fa07557926b6a5d805289eebbdbd142
+Question: What is the full name of the person whom the person that wants to be a director falls in love with?
+Answer: James Harrison
+Explanation: 
+
+QuestionID: d45ac51c3c8f81193f95fbbcd688ece426e6c9b0
+Question: What are the ethnicities of the people whose life got very busy?
+Answer: white, Kiwi-Asian
+Explanation: 
+
+QuestionID: adcd36142d33dbd35f7ffdf6c72e522c97a5342e
+Question: What is the name of the father of the person who wants to be a director?
+Answer: Dr Chu
+Explanation: 
+
+--------------------------------------------------
+PassageID: 23
+Passage: Angie, a young woman frustrated after being fired from her thirtieth dead-end job, decides to set up a recruitment agency of her own, running it from her kitchen with her friend and flatmate Rose.  Angie is able to build a successful business, while also dealing with a neglected son who gets in trouble at school and parents who disapprove of her venture. She also has to keep reassuring Rose that they will become legitimate once the business is on a firm financial footing - they do not have a licence, but Angie at least insists on only hiring workers with papers, not illegal immigrants. Meanwhile, Angie becomes romantically involved with Karol, an English-speaking Pole who is in the same predicament as those Angie recruits. She also helps Mahmoud, his wife and two young daughters, much to Rose's distress. Mahmoud has been ordered deported, but he has gone into hiding to avoid a likely jail sentence back home in Iran. Despite Rose's misgivings, Angie becomes increasingly eager to do whatever it takes to build the business. When Angie anonymously informs the government about a camp of immigrants, that is the final straw for Rose. She quits. Disaster strikes when one employer refuses to pay twenty of Angie's workers the £40,000 they are owed. They blame her, and some of them take drastic action. They first kidnap her son Jamie, then tie her up. After searching her flat, they take her profits (about a quarter of what they are due) and leave, but not before warning her that they want the rest or she will never see her son again. Soon after, Jamie shows up, unaware that the "policemen" he was talking to were fake. In the final scene, Angie abandons her scruples completely; she travels to the Ukraine to knowingly recruit illegal workers, offering to obtain forged papers for them.
+
+Questions:
+QuestionID: 777b24d60d872799a5f6ba8afec6d463aeaa5333
+Question: What's Rose's flatmate's son's name?
+Answer: Jamie
+Explanation: 
+
+QuestionID: 70fee67ce7b4614931ff5da27eea889a33b03f76
+Question: Where will the Iranian man Angie helps probably end up if he's deported?
+Answer: jail
+Explanation: 
+
+QuestionID: 777b24d60d872799a5f6ba8afec6d463aeaa5333
+Question: What is Rose's flatmate's neglected child's name?
+Answer: Jamie
+Explanation: 
+
+QuestionID: 70fee67ce7b4614931ff5da27eea889a33b03f76
+Question: Who helps an Iranian man and his family?
+Answer: Angie
+Explanation: 
+
+QuestionID: 777b24d60d872799a5f6ba8afec6d463aeaa5333
+Question: What is Jamie's mother's name?
+Answer: Angie
+Explanation: 
+
+QuestionID: 777b24d60d872799a5f6ba8afec6d463aeaa5333
+Question: What is Jamie's mother's flatmate's name?
+Answer: Rose
+Explanation: 
+
+--------------------------------------------------
+PassageID: 24
+Passage: One Hot Minute was not as universally well received as Blood Sugar Sex Magik, and was ultimately considered to be a poor follow-up. It did however receive mixed to positive reviews from critics. Daina Darzin of Rolling Stone said "One Hot Minute dives into the emotionally deep end of drug addiction and loss", and that the album "is a ferociously eclectic and imaginative disc that also presents the band members as more thoughtful, spiritual—even grown-up. After a 10 plus-year career, they're realizing their potential at last." David Browne of Entertainment Weekly said that "One Hot Minute wails and flails like a mosh-pit workout tape, but it also has moments of outright subtlety and maturity." He goes on to praise Kiedis for "keeping his boorish tendencies under control." Browne, however, criticizes the band for "attempts at cosmic philosophy which often trip up on hippie-dippie sentiments", and some songs "fall back on tired frat-funk flop sweat." "The Peppers work their own little patch with considerable expertise," wrote Peter Kane in Q. "The incoming Navarro rarely fails to deliver the goods and upfront the taut ball of energy going by the name of Anthony Kiedis still makes for a suitably rubbery-lipped frontman, if not exactly a lovable one." Q also included One Hot Minute in its 'best of the year' roundup: "A bulging, blistering blend of a skewed ballads and physically intimidating workouts that charge around like a bull on a promise."AllMusic's Stephen Thomas Erlewine said that "following up Blood Sugar Sex Magik proved to be a difficult task for the Red Hot Chili Peppers", and "Navarro's metallic guitar shredding should have added some weight to the Chili Peppers' punk-inflected heavy-guitar funk, but tends to make it plodding." Erlewine went on to add that "by emphasizing the metal, the funk is gradually phased out of the blend, as is melody." Robert Christgau gave the album a rating of "dud"."My Friends" was considered by Erlewine to be a blatant attempt to hold on to the mainstream audience gained by "Under the Bridge", and that in contrast, "the melodies are weak and the lyrics are even more feeble." The song also "tries to be a collective hug for all [of Kiedis's] troubled pals." Rolling Stone, on the other hand, said the song was "lovely", and incorporated a "vaguely folky chorus, and sports the same sad wishfulness of 'Under the Bridge' and 'Breaking the Girl'." The article went on to praise "Warped" claiming it "mixes harrowing lyrics with a multi-toned, layered intro and a whirling dervish of noises and big-rock rhythms surfing through and over big, funky hooks. It's like, well, a drug rush." Rolling Stone went on to say that the title track was "funky and fun. It's about love and sex. What the hell. Some things don't have to change." Entertainment Weekly said "some of these songs last a little too long and could have benefited from a trimming", though they credited Kiedis for sounding "nearly spiritual" on "Falling into Grace".
+
+Questions:
+QuestionID: 7ed72d58214c28c74737e5b0e629f42fcd917146
+Question: What is the full name of the band whose members, according to Daina Darzin, are presented as more thoughtful, spiritual -- even grown up -- by One Hot Minute?
+Answer: Red Hot Chili Peppers
+Explanation: 
+
+QuestionID: ee9814784f09e20f9e2406c3df20f19710839f85
+Question: What is the title of the song described in a Rolling Stone article as "like, well, a drug rush"?
+Answer: Warped
+Explanation: 
+
+QuestionID: 7ed72d58214c28c74737e5b0e629f42fcd917146
+Question: What album was better received than the one that caused someone to say the band was more thoughtful?
+Answer: Blood Sugar Sex Magik
+Explanation: 
+
+QuestionID: 7ed72d58214c28c74737e5b0e629f42fcd917146
+Question: What album did someone think presents the band members as being grown up?
+Answer: One Hot Minute
+Explanation: 
+
+--------------------------------------------------
+PassageID: 25
+Passage: Among the buildings extant at the royal city during the time of King Andrianampoinimerina (1787–1810), only the original Mahandrihono palace remains intact. The Mahandrihono palace, which served as the home of Andrianampoinimerina before he relocated the political capital of Imerina to Antananarivo, has been preserved in its original state since construction, excepting the replacement of the original roof thatch with wooden shingles. The simple wooden structure is constructed in the traditional style of the aristocracy of Imerina: the walls are made of solid rosewood and topped by a peaked roof that is supported by 10-meter central rosewood pillar, much like the one that had originally supported the roof of the Rova Manjakamiadana of Antananarivo before it was destroyed by fire in 1995. The roof horns (tandrotrano) formed at each end of the roof peak by the crossing of the gable beams were originally silver-plated, and a silver eagle was affixed in the middle of the roof peak. Silver ornaments were also hung from the corners of the roof in the interior of the house. The building's name is inscribed on a white marble plaque affixed to an exterior wall near one of the building's two entrances. This house contains a number of items that belonged to Andrianampoinimerina, including weapons, drums, talismans and a bed raised on stilts. During Andrianampoinimerina's time, his wives were allowed to visit this building but not allowed to sleep there overnight. The site is highly sacred: Queen Rasoherina and her successors often sat on the stepping stone at its threshold to address their audience, and many pilgrims come here to connect with the spirits of Andrianampoinimerina and his ancestors. Visitors are asked to enter the house by stepping in with their right foot and exiting backwards, according to custom, in order to show respect for the spirit of Andrianampoinimerina.
+
+Questions:
+QuestionID: 1b8042d4f013aad8c9487679fc4069bb496cabbc
+Question: What is the name of the royal who sat at the steps of the building to address the audience were the wives of the king were not allowed to sleep?
+Answer: Rasoherina
+Explanation: 
+
+QuestionID: 1b8042d4f013aad8c9487679fc4069bb496cabbc
+Question: Who often sat at the steps of Mahandrihono palace to address their audience?
+Answer: Queen Rasoherina, her successors
+Explanation: 
+
+QuestionID: 1b8042d4f013aad8c9487679fc4069bb496cabbc
+Question: Queen Rasoherina sat at the stepping stone of which building to address her audience?
+Answer: Mahandrihono palace
+Explanation: 
+
+--------------------------------------------------
+PassageID: 26
+Passage: Just before the Bastille Day holiday weekend English secretary, Danielle 'Dany' Lang, types up a document for her advertising agency boss, Michael Caldwell, to take on a business trip to Geneva. On the way to drop off her boss and his wife, Anita, her former room-mate, at the airport, her boss gives her a envelope with her pay in it. After dropping them off Dany impulsively decides to drive to the Riviera for the weekend. When Dany pulls into a small café the owner tries to return a coat to her she claims she left there the day before. At a petrol station Dany is attacked in the toilet and injures her hand. She is bemused as various strangers claim to know her.  Heading further south she picks up a hitch-hiker, Philippe and the pair spend the night together. The following day Philippe steals Dany's car prior to reaching the coast. She later finds Philippe in Marseilles where they find a man's body and a gun in the trunk of the car.  After Philippe disappears again, Dany visits the home of the dead man in Avignon and oddly finds both some of her clothes and also nude pictures of herself. Returning to the café to reclaim the coat she finds a copy of her pay envelope in one of the coat's pockets. Dany is now completely perplexed by the situation and returns to the dead man's home where her boss, Michael, is waiting for her. He tells Dany that the dead man was one of Anita's lovers, whom she murdered at his home. To frame Dany, they planted evidence and set up various incidents to establish her guilt: the attack in the toilet was committed by Michael, who injured her hand so Anita could wear a bandage and be mistaken for the secretary; and the nude photos had been taken by Anita when they were room-mates.  When Michael tells Dany he plans to murder her and make it look like a suicide she tells him he won't succeed as she has already sent both pay envelopes to the police.
+
+Questions:
+QuestionID: 96bdbf3ff8ce33e7f4dd1a078dfda1be85ac3620
+Question: What is the nickname of the person that takes her boss to the airport?
+Answer: Dany
+Explanation: 
+
+QuestionID: d076a70ba3f2396aca4d800b85b3569965d895e1
+Question: What is the real first name of the person who is confused that so many people seem to know her?
+Answer: Danielle
+Explanation: 
+
+QuestionID: a218affd230f53c2f10a6c022ffce1fb2c2b4f4f
+Question: What is the first name of the person who tells Dany that the dead man was a lover of Anita?
+Answer: Michael
+Explanation: 
+
+QuestionID: 1e5607954beefbfcdf687fc892323c42ff7bec23
+Question: What is the first name of Anita's husband? 
+Answer: Michael
+Explanation: 
+
+QuestionID: 79fbb728c5585fdabf0823720b3e635815c355d2
+Question: What is the first name of the person dropping Anita and her husband off at the airport? 
+Answer: Danielle
+Explanation: 
+
+QuestionID: 70724460f770b647efdd0bcde1b7dbd9e06ccdc9
+Question: What is the first name of the person who gives Danielle an envelope with her pay in it? 
+Answer: Michael
+Explanation: 
+
+QuestionID: a6304219086b6c954c4467b2bfd96892dde9cf96
+Question: What is the alias of the person who spends the night with Philippe?
+Answer: Dany
+Explanation: 
+
+QuestionID: 70724460f770b647efdd0bcde1b7dbd9e06ccdc9
+Question: What is the alias of the person who receives an envelope from their boss?
+Answer: Dany
+Explanation: 
+
+QuestionID: 70724460f770b647efdd0bcde1b7dbd9e06ccdc9
+Question: What is the last name of the person who receives an envelope from their boss?
+Answer: Lang
+Explanation: 
+
+QuestionID: 1e5607954beefbfcdf687fc892323c42ff7bec23
+Question: What is the last name of Anita's husband?
+Answer: Caldwell
+Explanation: 
+
+QuestionID: 1e5607954beefbfcdf687fc892323c42ff7bec23
+Question: What is the first name of Anita's former room-mate?
+Answer: Danielle
+Explanation: 
+
+QuestionID: 1e5607954beefbfcdf687fc892323c42ff7bec23
+Question: What is the last name of Anita's former room-mate?
+Answer: Lang
+Explanation: 
+
+QuestionID: 96bdbf3ff8ce33e7f4dd1a078dfda1be85ac3620
+Question: What is the last name of the person that takes her boss to the airport?
+Answer: Lang
+Explanation: 
+
+QuestionID: 79fbb728c5585fdabf0823720b3e635815c355d2
+Question: What are the forst names of the people Dany drops off at the airport?
+Answer: Anita, Michael
+Explanation: 
+
+QuestionID: a218affd230f53c2f10a6c022ffce1fb2c2b4f4f
+Question: What is the last name of the person who tells Dany that the dead man was a lover of Anita?
+Answer: Caldwell
+Explanation: 
+
+QuestionID: a6304219086b6c954c4467b2bfd96892dde9cf96
+Question: What are the first names of the people who spend a night together?
+Answer: Danielle, Philippe
+Explanation: 
+
+QuestionID: d076a70ba3f2396aca4d800b85b3569965d895e1
+Question: What is the nationality of the person who is confused that so many people know her?
+Answer: English
+Explanation: 
+
+QuestionID: d076a70ba3f2396aca4d800b85b3569965d895e1
+Question: What is the job of the person who is confused that so many people seem to know her?
+Answer: secretary
+Explanation: 
+
+--------------------------------------------------
+PassageID: 27
+Passage: Bellingham was born in about 1770, in the county of Huntingdonshire. His father, also named John, was a land agent and painted miniatures. His mother Elizabeth was from a well-to-do Huntingdonshire family. In 1779 John senior became mentally ill, and, after confinement in an asylum, died in 1780 or 1781. The family  were then provided for by William Daw, Elizabeth's brother-in-law, a prosperous lawyer who arranged Bellingham's appointment as an officer cadet on board the East India Company's ship Hartwell. En route to India the  ship mutinied and was wrecked of the coast of the Cape Verde islands; Bellingham survived and returned home.  Daw then helped him to set up in business as a tin plate manufacturer in London, but after a few years the business failed, and Bellingham was made bankrupt in 1794. He appears to have escaped debtors' prison, perhaps through the further intervention of Daw. Chastened by this experience, he decided to settle down, and obtained a post as a book-keeper with a firm engaged in trade with Russia. He worked hard, and was sufficiently regarded by his employers to be appointed in 1800 as the firm's resident representative in Archangel, Russia. On his return home, Bellingham set up his own trading business, and moved to Liverpool. In 1803 he married Mary Neville from Dublin.
+
+Questions:
+QuestionID: 427f0a04ab4917e9e60652dec7d761204b0d8764
+Question: What is the full name of the person whose wife is from Dublin?
+Answer: Bellingham
+Explanation: 
+
+QuestionID: 427f0a04ab4917e9e60652dec7d761204b0d8764
+Question: What are the first names of the parents of the person who married Mary Neville?
+Answer: John, Elizabeth
+Explanation: 
+
+--------------------------------------------------
+PassageID: 28
+Passage: Jack, a 24 year old gay man living in New York and working as a drag queen named 'Sabrina', is the mistress of ceremonies for the Miss All-America Camp Beauty Contest. The contest operates on a points system - a maximum of five points each for walk, talk, bathing suit, gown, make-up and hair-do, and ten points for beauty.  Jack's protégé, Richard, performs under the name 'Harlow' and has entered the contest. Also competing is Crystal LaBeija (founder of the House of Labeija, of which Pepper LaBeija was a member and later the mother). Harlow and Crystal both make it into the top five, with each finalist completing a final runway walk into the audience. Crystal places fourth, to her displeasure, and storms off the stage. Harlow is crowned as the winner. As the contests begin to pack up, Crystal and another contestant are shown exclaiming to the camera why Harlow should not have won. Crystal states that the contest was fixed, that she may sue Sabrina, and that she knows she is beautiful despite not winning. As they begin to leave the building, Crystal runs into Harlow and Sabrina on the stairs where Sabrina denies the allegations. The film closes on Harlow out of drag, walking through a subway station and twirling his crown on one hand. In between rehearsing and performing, the contestants discuss topics of the time such as draft boards, sexual identity and sex-change operations, and being a drag queen. One contestant recounts receiving a draft notice and being turned away because of his feminine appearance, despite writing a letter to the government requesting to serve so he could protect his country.
+
+Questions:
+QuestionID: e257fc2c9e773d9b7d0e8f25c67c047c5a357894
+Question: What is the first name of the person who may sue Jack?
+Answer: Crystal
+Explanation: 
+
+QuestionID: a9e1fd1d1bc75be77a2265408141fabfc8bb3ba1
+Question: What is the real name of the person who walks through a subway station?
+Answer: Richard
+Explanation: 
+
+QuestionID: e257fc2c9e773d9b7d0e8f25c67c047c5a357894
+Question: What is the real name of the person who may be sued by Crystal?
+Answer: Jack
+Explanation: 
+
+QuestionID: a9e1fd1d1bc75be77a2265408141fabfc8bb3ba1
+Question: What is the stage name of the person whose protege walks through a subway station?
+Answer: Sabrina
+Explanation: 
+
+--------------------------------------------------
+PassageID: 29
+Passage: In the early 1960s Lichtenstein's theme of comics-based work was hotly debated. In a 1963 New York Times article, Brian O'Doherty wrote that Lichtenstein's work was not art, saying Lichtenstein was "one of the worst artists in America" who "briskly went about making a sow's ear out of a sow's ear." This was part of a widespread debate about the merits of Lichtenstein's comic blow-ups as true art. In January 1964 Life ran a story under the title "Is He the Worst Artist in the U.S.?" on this controversy. Later reviews were much kinder. Todd Brewster noted that this may have been motivated by popular demand; he told Life in 1986 that "Those cartoon blowups may have disturbed the critics, but collectors, tired of the solemnity of abstract expressionism, were ready for some comic relief. Why couldn't the funny pages be fine art?" His work is now widely accepted, although some criticize him for borrowing from comics without attributing the original creators, paying royalties, or seeking permission from copyright holders. David Barsalou has dedicated decades to identifying all of Lichtenstein's source materials and has posted more than 1,000 images on Flickr detailing Lichtenstein's unrecognized sources.Some critics question Lichtenstein's artistic skills. Everett Kinstler said that despite Lichtenstein's association with romance comics, in his day "no comics publisher would have hired Lichtenstein—he wasn't good enough." Kinstler said Lichtenstein lacked the ability to portray the emotional range of the story through facial expressions and body language independently.
+
+Questions:
+QuestionID: 5d6f1b2e9456eac2720cc8b5815d911d1dc19210
+Question: What is the last name of the person who told Life that Lichtenstein's "cartoon blowups may have disturbed the critics, but collectors, tired of the solemnity of abstract expressionism, were ready for some comic relief"? 
+Answer: Brewster
+Explanation: 
+
+QuestionID: 5d6f1b2e9456eac2720cc8b5815d911d1dc19210
+Question: Who told Life that the collectors were ready for some comic relief?
+Answer: Todd Brewster
+Explanation: 
+
+--------------------------------------------------
+PassageID: 30
+Passage: In 1951,  Walt Carver, Russ Coulter, Jerry Connell and former U.S. Army Sgt. Joe Czanoczek join a group of cadets beginning air force pilot training. Each of the cadets have their own reasons for being in the United States Air Force with Carver attempting to overcome his privileged background, Coulter wanting to emulate his brother who had died in World War II, Connell trading on his prior background as a civilian pilot, and Sgt. Czanoczek vying to make his wartime military experience count. Besides flying, the trainees have to contend with Upper Classmen who are intent on hazing the newcomers. After primary training at Randolph Field on AT-6 Texan aircraft, the group loses one of their group, with Connell "washing out" and opting to become a navigator. All the others successfully solo and await their next assignment. The rest of the group of trainees including Czanoczekas, who wanted to fly B-25 Mitchell medium bombers, move on to advanced training on jet aircraft at Williams Air Force Base. There cadet Coulter meets and falls in love with Janet Page, the estranged wife of one of the instructors, Major Jack Page, the leader of a F-80 Shooting Star jet aerobatics team based at Williams AFB. His job is to identify and wash out unsuitable candidates and with the turmoil at home, Page hones in on Coulter. The rivalry between the two puts Coulter's future as a fighter pilot in jeopardy. Janet realizes that Coulter has aggravated some of Page's former demons. He had been tormented by the guilt of sending men to their deaths in wartime. After being branded a coward by Page, Coulter's brother had committed suicide, a secret that had been gnawing at the trainee.
+
+Questions:
+QuestionID: 562d8e2a506bf8a82ff9a2db4a0b3a2e61ef2d7a
+Question: What is the full name of the character who has a job which entails identifying unsuitable candidates?
+Answer: Jack Page
+Explanation: 
+
+QuestionID: efc85250409a60b7440f03e003a1a4d93b9ecb21
+Question: What is the full name of the former cadet who left pilot training to become a navigator?
+Answer: Jerry Connell
+Explanation: 
+
+QuestionID: 562d8e2a506bf8a82ff9a2db4a0b3a2e61ef2d7a
+Question: What is the full name of the wife of the character who has a job which entails identifying unsuitable candidates?
+Answer: Janet Page
+Explanation: 
+
+QuestionID: efc85250409a60b7440f03e003a1a4d93b9ecb21
+Question: What was the former job of the person who left pilot training to become a navigator?
+Answer: civilian pilot
+Explanation: 
+
+QuestionID: efc85250409a60b7440f03e003a1a4d93b9ecb21
+Question: What is the first name of the person who left pilot training to become a navigator?
+Answer: Jerry
+Explanation: 
+
+--------------------------------------------------
+PassageID: 31
+Passage: Following the conquest of Antananarivo in 1793, Andrianampoinimerina shifted the political capital of Imerina from Ambohimanga to its original site at Antananarivo, while pronouncing Ambohimanga the kingdom's spiritual capital. Important traditional rituals continued to be held at Ambohimanga, and Andrianampoinimerina regularly stayed in its Mahandrihono palace. His son, Radama I, inhabited Ambohimanga's Nanjakana compound as a youth before relocating to Antananarivo, and visited Ambohimanga frequently after the move. Radama's widow and successor, Ranavalona I, renovated the Mahandrihono compound and moved several buildings from the sister rova at Antananarivo to Ambohimanga. She also forbade swine at Ambohimanga due to their association with Europeans, who had propagated pork as a food source in the decade prior. Subsequent queens made their own mark on the site, including the reconstruction of Nanjakana by Rasoherina, and Ranavalona II's addition of two large pavilions to the Mahandrihono compound that reflected a syncretism of traditional and Western architectural styles.Throughout much of the 19th century and particularly under the reign of Queen Ranavalona I (1828–1861), Ambohimanga was forbidden to visiting foreigners, contributing to its mystique as a "forbidden city". This status remained until 1897 when the French colonial administration transferred all the relics and significant belongings of the royal family from Ambohimanga to Antananarivo to break the spirit of resistance and ethnic identity that these symbols inspired in the Malagasy people, particularly in the highlands. In the early 20th century, the area was further changed when the French removed the sacred forests remaining on the neighboring hilltops in the early 20th century. The city nonetheless retains its symbolic significance in Imerina to this day.
+
+Questions:
+QuestionID: 391ed2bef042f46b22e04e1bf1641982877ee0f1
+Question: Whose son inhabited Nanjakana compound as a youth?
+Answer: Andrianampoinimerina
+Explanation: 
+
+QuestionID: 391ed2bef042f46b22e04e1bf1641982877ee0f1
+Question: Whose son was Radama I?
+Answer: Andrianampoinimerina
+Explanation: 
+
+QuestionID: 391ed2bef042f46b22e04e1bf1641982877ee0f1
+Question: Whose son visited Ambohimanga frequently after relocating to Antananarivo?
+Answer: Andrianampoinimerina
+Explanation: 
+
+--------------------------------------------------
+PassageID: 32
+Passage: Rachel Stewart is devastated to learn her newborn has died shortly after birth, but a short while later, she begins to suspect the baby has been abducted. Certain that there's only one way to find out the truth, Rachel returns to the hospital. Here she encounters the menacing Dennis Betts, and in an attempt to flee from him, she ís forced to hide in a car belonging to Daniel Stone, a hospital porter. Initially reluctant to help, Daniel's conscience eventually gets the better of him. Rachel's world is further rocked by the death of her best friend Annie, and the discovery that Dennis Betts is actually a policeman, with his own very personal reasons for pursuing Rachel. As Rachel and Daniel race through London's nightscape, desperate to stay one step ahead of Betts, every discovery unleashes further hell, extending way beyond the disappearance of Rachel's baby. Their only solid lead seems to be Joanne, a young prostitute, whose own baby provides a link. But with Betts systematically eliminating anyone in his way, a further web of conspiracy unfolds and Rachel and Daniel are led to her old family doctor, Robert Barrum.
+
+Questions:
+QuestionID: 685f79bf9e97545c85c2ee6998fdd7611909889a
+Question: What is the first name of the person who attempts to flee from someone menacing?
+Answer: Rachel
+Explanation: 
+
+QuestionID: eea3b98e2a45ee42a588157e073232d29b97fc5b
+Question: What are the first names of the people who have only one solid lead?
+Answer: Rachel, Daniel
+Explanation: 
+
+QuestionID: 685f79bf9e97545c85c2ee6998fdd7611909889a
+Question: Who does Stewart flee from?
+Answer: Dennis Betts
+Explanation: 
+
+QuestionID: eea3b98e2a45ee42a588157e073232d29b97fc5b
+Question: What are the last names of the people who have only one solid lead?
+Answer: Stewart, Stone
+Explanation: 
+
+--------------------------------------------------
+PassageID: 33
+Passage: The film opens in Victorian London on a December night in 1900. The first night of the season at the London Opera House finds the opening of a new opera by Lord Ambrose D'Arcy, a wealthy and pompous man, who is annoyed and scornful when the opera manager Lattimer informs him the theatre has not been completely sold out.  No one will sit in a certain box because it is haunted. Backstage, despite the soothing efforts of the opera's producer, Harry Hunter, everyone, including the show's star, Maria, is nervous and upset as if a sinister force was at work.  The climax comes during Maria's first aria, when a side of the scenery rips apart to reveal the body of a hanged stage hand.  In a panic, the curtain is rung down, and Maria refuses to sing again. With the show postponed, Harry frantically auditions new singers.  He finds a promising young star in Christine Charles, one of the chorus girls. Lord Ambrose lecherously approves of the selection, and invites Christine to dinner. In her dressing room Christine is warned against Lord Ambrose by a Phantom voice.  At dinner, Lord Ambrose attempts to seduce her, but as they are about to leave to his apartment, she is saved by Harry. On the ride back home, Christine tells Harry about the voice she heard.  Intrigued, Harry takes Christine back to the opera house, where in her dressing room, the same voice tells Harry to leave her there and go. At the same time the rat catcher is murdered by the Phantom's lackey, a dwarf. Investigating the murder, Harry leaves Christine by herself where she is approached by a man dressed in black, wearing a mask with only one eye, The Phantom of the Opera. He tells her she must come with him but she screams and The Phantom flees. Harry comforts her and takes her home.
+
+Questions:
+QuestionID: 22d118ecc212b63a4d1a7d4f578b6702e29fd813
+Question: Who warns Christine?
+Answer: The Phantom of the Opera
+Explanation: 
+
+QuestionID: 76a81e765cdbcf39dd7dafe3fbcaa32ed4555f3b
+Question: Who is with the man who investigates the murder of the rat catcher by the lackey?
+Answer: Christine
+Explanation: 
+
+QuestionID: 76a81e765cdbcf39dd7dafe3fbcaa32ed4555f3b
+Question: Whose murder is investigated?
+Answer: the rat catcher
+Explanation: 
+
+--------------------------------------------------
+PassageID: 34
+Passage: Don Bellows, a prominent New York architect, is engaged to the beautiful and wealthy Gail Armitage when he meets down-and-out Joyce Heath, who was once the most promising young actress on Broadway. Don feels deeply indebted to Joyce because her performance as Juliet inspired him to become an architect. While rehabilitating her, Don falls in love with the tempestuous actress. Joyce, convinced she destroys anything and anyone she touches, warns him she is a jinx. Compelled to save her, Don breaks his engagement to Gail and risks his fortune to back the actress in a Broadway show. Before opening night, he insists they marry, but Joyce resists his proposal, hiding the fact she is married to Gordon Heath, an ineffectual but devoted man who was financially ruined by their marriage. Joyce goes to Gordon and begs him for a divorce. When he refuses, she causes an automobile accident that cripples him for life. Her own injuries keep her from opening in the show, which fails. Don is ruined, and when he learns that Joyce has deceived him, he accuses her of being a completely selfish woman, her only true jinx. Joyce briefly considers suicide, but eventually sees the truth in Don's accusation. She re-opens the show and, although she truly loves Don, sends him away to marry Gail. The show is a success, and Joyce, now dedicated to a responsible life, goes to visit Gordon and salvage her marriage.
+
+Questions:
+QuestionID: 90b6ce6e79929a98cec8824fe45018b2dc2df699
+Question: What's the last name of the man who is adamant that Joyce marry him?
+Answer: Bellows
+Explanation: 
+
+QuestionID: 791954b3f46713c04a05089bd015d3b1d514ee97
+Question: What's the full name of the person that falls in love with the former Broadway star?
+Answer: Don Bellows
+Explanation: 
+
+QuestionID: 221b827f5f5487a0b7785fcf26e344eb5d50a828
+Question: What's the full name of the person that Gail's fiance leaves her for?
+Answer: Joyce Heath
+Explanation: 
+
+QuestionID: 221b827f5f5487a0b7785fcf26e344eb5d50a828
+Question: What is the name of husband of the person that Gail's fiance leaves her for?
+Answer: Gordon Heath
+Explanation: 
+
+QuestionID: 90b6ce6e79929a98cec8824fe45018b2dc2df699
+Question: What is the job of the man who is adamant that Joyce marry him?
+Answer: architect
+Explanation: 
+
+QuestionID: 90b6ce6e79929a98cec8824fe45018b2dc2df699
+Question: What is the full name of the wife of the man who is adamant that Joyce marry him?
+Answer: Gail Armitage
+Explanation: 
+
+QuestionID: 90b6ce6e79929a98cec8824fe45018b2dc2df699
+Question: What is the job of the person that Don wants to marry?
+Answer: actress
+Explanation: 
+
+QuestionID: 791954b3f46713c04a05089bd015d3b1d514ee97
+Question: What is the job of the person that falls in love with the former Broadway star?
+Answer: architect
+Explanation: 
+
+--------------------------------------------------
+PassageID: 35
+Passage: Stelae have become threatened in modern times by plundering for sale on the international art market. Many stelae are found in remote areas and their size and weight prevents them from being removed intact. Various methods are used to cut or break a stela for easier transport, including power saws, chisels, acid and heat. When a monument is well preserved, the looters attempt to cut off its face for transport. Even when successful, this results in damage to inscriptions on the sides of the stela. At worst, this method results in complete fragmentation of the stela face with any recoverable sculpture removed for sale. Traceable fragments of well known monuments have been purchased by American museums and private collectors in the past. When such monuments are removed from their original context, their historical meaning is lost. Although museums have justified their acquisition of stelae fragments with the argument that such objects are better preserved in an institution, no stela has been sold in as good a condition as it was in its original location. After 1970 there was a sharp drop in Maya stelae available on the New York art market due to the ratification of a treaty with Mexico that guarantees the return of stolen pre-Columbian sculpture that was removed from the country after the ratification date. In the early 1970s some museums, such as that of the University of Pennsylvania, responded to international criticism by no longer purchasing archaeological artefacts that lack a legally documented history, including place of origin, previous owners and an export license. Harvard University also instituted a similar policy in the early 1970s.In 1972, the initially well preserved Stela 5 at Ixkun was smashed into pieces by looters, who heated it until it shattered and then stole various pieces. A number of remaining fragments of the monument were rescued by archaeologist Ian Graham and transferred to the mayor's office in Dolores, Petén, where they were eventually used as construction material before once again being recovered, this time by the Atlas Arqueológico de Guatemala in 1989, and moved to their archaeological laboratory. At the nearby site of Ixtonton, 7.5 kilometres (4.7 mi) from Ixkun, most of the stelae were robbed before the site's existence was reported to the Guatemalan authorities. By the time archaeologists visited the site in 1985 only 2 stelae remained.In 1974, a dealer in pre-Columbian artefacts by the name of Hollinshead arranged for the illegal removal of Machaquilá Stela 2 from the Guatemalan jungle. He and his co-conspirators were prosecuted in the United States under the National Stolen Property Act and they were the first people to be convicted under this act with reference to national patrimony laws. The act states: "whoever transports, transmits, or transfers in interstate or foreign commerce any goods ... of the value of $5,000 or more, knowing the
+
+Questions:
+QuestionID: 7ceb022c1ca72aa17b44b5d8f3057d141c317c74
+Question: What was the name of the artefact that was smashed into pieces by looters?
+Answer: Stela 5 at Ixkun, Stela 5
+Explanation: 
+
+QuestionID: 7ceb022c1ca72aa17b44b5d8f3057d141c317c74
+Question: What was the name of the person who preserved what was left of the artefact that was smashed into pieces by looters?
+Answer: Ian Graham
+Explanation: 
+
+QuestionID: 7ceb022c1ca72aa17b44b5d8f3057d141c317c74
+Question: How was an artefact shashed into pieces by looters?
+Answer: heated it until it shattered
+Explanation: 
+
+--------------------------------------------------
+PassageID: 36
+Passage: Anthony Fait attempts to steal diamonds for a Frenchman named Christophe, who serves as the middleman for a mysterious employer. When Fait contacts Christophe, a Taiwanese Intelligence Agent named Su intercepts the conversation and attempts to identify the criminals. While the crew gathers up as many diamonds as they can, including a bag of black diamonds, Agent Su calls Fait and demands that he and his crew leave the diamonds in the vault, warning him that the police are on the way. However, Fait ignores this warning, and the criminals attempt a daring escape past a SWAT team blockade. While Fait, Daria, and Tommy all manage to escape, Agent Su captures Miles and recovers Miles' share of the diamonds. Su is disappointed to find that Miles does not have the black diamonds though. Meanwhile, Fait asks his friend Archie to appraise the black diamonds he had stolen. Arriving at the San Francisco International Airport, Christophe's mysterious employer, Ling, is informed, by his assistant Sona, that Christophe has been attacked and that Fait and his gang have taken the black diamonds. Later that night, Fait runs into Su. During this inadvertent meeting, Fait receives a phone call from Ling, who demands that Fait hand over the black diamonds. Fait refuses and is subsequently attacked by two of Ling's henchman. With Su's help, he defeats them and escapes. After the fight, Archie tells Fait that some gangsters came to his workshop and demanded the black diamonds as well. After some hesitation, Archie admits that he gave the stones to the gangsters to spare his own life. Fait also receives another call from Ling, who has kidnapped Fait's daughter, Vanessa, to persuade Fait to give up the diamonds. Now with a common enemy, Fait and Su team up to recover the diamonds from the gangsters and rescue Vanessa from Ling.
+
+Questions:
+QuestionID: 80cb6ddbab8ad3b00ac3f0391a766428008d3f99
+Question: What is the last name of the person who is told to leave the diamonds in the vault?
+Answer: Fait
+Explanation: 
+
+QuestionID: cced328334cfdce1209760616fb91e83318879e9
+Question: What is the last name of the person who defeats two henchmen?
+Answer: Fait
+Explanation: 
+
+QuestionID: cced328334cfdce1209760616fb91e83318879e9
+Question: What are the last names of the people who jointly defeat wto henchmen?
+Answer: Su, Fait
+Explanation: 
+
+QuestionID: cced328334cfdce1209760616fb91e83318879e9
+Question: What is the full name of the person Su helps defeat someone?
+Answer: Anthony Fait
+Explanation: 
+
+QuestionID: cced328334cfdce1209760616fb91e83318879e9
+Question: Who get defeated by someone with Su's help?
+Answer: two of Ling's henchman
+Explanation: 
+
+QuestionID: 80cb6ddbab8ad3b00ac3f0391a766428008d3f99
+Question: What are the first names of the people who are asked to leave the diamonds in the vault?
+Answer: Anthony, Daria, Tommy, Miles
+Explanation: 
+
+--------------------------------------------------
+PassageID: 37
+Passage: Private David Manning is a soldier in the 28th Infantry Division who, in order to survive, does just enough to stay out of trouble but not enough to actually make a difference. Through the sheer bloodiness of the Hürtgen battles, Manning is left as the sole survivor of his platoon. He is assigned to lead a squad of green reinforcements and promoted to sergeant. He tries to get out of it, saying he is unqualified for the position, but his company commander, Captain Roy Pritchett, thinks otherwise. Manning then tries to back out of responsibility by asking to be filed on a Section 8 (designating him mentally unfit due to combat stress), but is refused. Leading a squad of replacements on the front line is a prospect he is less than thrilled with. He meets with his new men, and during the evening, leads them into position on the line.  The next morning, on patrol with his squad, Manning puts Private Warren Sanderson on point. Sanderson goes forward too quickly, gets separated from the squad, and then narrowly avoids contact with the enemy.  After some time, Manning decides the squad must leave without Sanderson. At that moment, Sanderson returns. After the incident, Manning is scorned by his peers and berated by his platoon leader, First Lieutenant Terrence Lukas. Manning's company makes a push toward the town of Schmidt, to take and hold a bridge. However, they move into an enemy minefield and are shelled by 88mm guns.  They retreat, and Pritchett comes to Manning with a mission that he requires volunteers for. Manning wishes him luck, so Pritchett offers Manning a Section 8 if he volunteers for and succeeds on the mission. 
+
+Questions:
+QuestionID: 4c3dc27c75de9f12dba0d24ef945c4d1502d6f2e
+Question: What rank does the survivor of the Hürtgen battles attain?
+Answer: sergeant
+Explanation: 
+
+QuestionID: 5fbe5900c177c1fcdbe0984dfd35593ef18824c9
+Question: What does the company commander task the sergeant with?
+Answer: lead a squad of green reinforcements
+Explanation: 
+
+QuestionID: ad834dc736b2c307af0955f820e8f4a0204b5edd
+Question: What's the rank of the man who needs volunteers for a mission?
+Answer: Captain
+Explanation: 
+
+QuestionID: 5fbe5900c177c1fcdbe0984dfd35593ef18824c9
+Question: What was the original rank of the person assigned to lead a squad of green reinforcements?
+Answer: Private
+Explanation: 
+
+QuestionID: 5fbe5900c177c1fcdbe0984dfd35593ef18824c9
+Question: What is the full name of the person who is assigned to lead a squad of green reinforcements?
+Answer: David Manning
+Explanation: 
+
+QuestionID: 5fbe5900c177c1fcdbe0984dfd35593ef18824c9
+Question: What is the full name of the person who thinks someone is qualified to lead a squad?
+Answer: Roy Pritchett
+Explanation: 
+
+QuestionID: 5fbe5900c177c1fcdbe0984dfd35593ef18824c9
+Question: What is the full name of the person who thinks someone is unqualified to lead a squad?
+Answer: David Manning
+Explanation: 
+
+QuestionID: 5fbe5900c177c1fcdbe0984dfd35593ef18824c9
+Question: What is the full name of the person who tries to get out of leading a squad?
+Answer: David Manning
+Explanation: 
+
+QuestionID: 4c3dc27c75de9f12dba0d24ef945c4d1502d6f2e
+Question: What was the original rank of the survivor of the Hürtgen battles?
+Answer: Private
+Explanation: 
+
+QuestionID: ad834dc736b2c307af0955f820e8f4a0204b5edd
+Question: What is the first name of the person who needs volunteers for a mission?
+Answer: Roy
+Explanation: 
+
+--------------------------------------------------
+PassageID: 38
+Passage: Late one night, private investigator Philip Marlowe is visited by his close friend Terry Lennox, who asks for a lift from Los Angeles to the California–Mexico border at Tijuana. Marlowe obliges. On returning home, Marlowe is met by two police detectives, who accuse Lennox of having murdered his rich wife, Sylvia. Marlowe refuses to give them any information, so they arrest him. After he is jailed for three days, the police release him, because they have learned that Lennox has committed suicide in Mexico. The police and the press seem to believe it is an obvious case, but Marlowe does not accept the official facts. Marlowe is hired by Eileen Wade, the platinum-blonde trophy wife of Roger Wade, an alcoholic novelist with writer's block, whose macho, Hemingway-like persona is proving self-destructive. She asks that Marlowe find her missing husband. He has had regular alcoholic binges and days-long disappearances from their Malibu home in the past. In the course of investigating Mrs. Wade's missing husband, Marlowe visits the subculture of private detoxification clinics for rich alcoholics and drug addicts. He locates and recovers Roger Wade and learns that the Wades knew the Lennoxes socially. He suspects that there is more to Lennox's suicide and the murder of Sylvia. Marlowe incurs the wrath of gangster Marty Augustine, who wants money returned that Lennox owed him. Augustine maims his mistress to demonstrate what could happen to Marlowe, saying, "That's someone I love. You, I don't even like."
+
+Questions:
+QuestionID: 48bd2d1bfa7f6bd18bd8c22181ffe8b639e1cc59
+Question: What is the full name of the person who is arrested?
+Answer: Philip Marlowe
+Explanation: 
+
+QuestionID: 446d2bbb0ed1705939f9a9f30f6c9b8b11b09217
+Question: What is the full name of the person who has had regular alcoholic binges?
+Answer: Roger Wad
+Explanation: 
+
+QuestionID: 79d171343705701bc9d796419d0f31076bac46fd
+Question: What is the full name of the person who has had days-long disappearances from their home in the past?
+Answer: Roger Wade
+Explanation: 
+
+QuestionID: 0d7287e62a69ad0f42f6f3d3f377395fdc252884
+Question: What is the full name of the person who suspects that there is more to a suicide and a murder?
+Answer: Philip Marlowe
+Explanation: 
+
+QuestionID: 0d7287e62a69ad0f42f6f3d3f377395fdc252884
+Question: What does the person who suspects that there is more to a suicide and a murder work as?
+Answer: private investigator
+Explanation: 
+
+QuestionID: 0d7287e62a69ad0f42f6f3d3f377395fdc252884
+Question: What is the first name of the person who suspects there is more to a suicide and a murder?
+Answer: Philip
+Explanation: 
+
+QuestionID: 48bd2d1bfa7f6bd18bd8c22181ffe8b639e1cc59
+Question: What is the job of the person who is arrested?
+Answer: private investigator
+Explanation: 
+
+QuestionID: 48bd2d1bfa7f6bd18bd8c22181ffe8b639e1cc59
+Question: What is the first name of the person who is arrested?
+Answer: Philip
+Explanation: 
+
+QuestionID: 446d2bbb0ed1705939f9a9f30f6c9b8b11b09217
+Question: What is the full name of the spouse of the person who has had regular alcoholic binges?
+Answer: Eileen Wade
+Explanation: 
+
+QuestionID: 446d2bbb0ed1705939f9a9f30f6c9b8b11b09217
+Question: Where does the person who has had regular alcoholic binges live?
+Answer: Malibu
+Explanation: 
+
+QuestionID: 446d2bbb0ed1705939f9a9f30f6c9b8b11b09217
+Question: What is the job of the person who has had regular alcoholic binges?
+Answer: novelist
+Explanation: 
+
+QuestionID: 79d171343705701bc9d796419d0f31076bac46fd
+Question: Where does the person who has had days-long disappearances from their home live?
+Answer: Malibu
+Explanation: 
+
+QuestionID: 79d171343705701bc9d796419d0f31076bac46fd
+Question: What is the job of the person who has had days-long disappearances from their home?
+Answer: novelist
+Explanation: 
+
+--------------------------------------------------
+PassageID: 39
+Passage: Once a photographer by day, spy by night, Matt Helm is now a happily retired secret agent, shooting photos of glamorous models instead of guns and enjoying a close relationship with his assistant, the lovely Lovey Kravezit. But then his old boss, Macdonald, coaxes him back to the agency ICE to thwart a new threat from the villainous organization Big O. The sinister Tung-Tze is masterminding a diabolical scheme to drop a missile on an underground atomic bomb test in New Mexico and possibly instigate a nuclear war in the process. Helm's assignment is to stop him, armed with a wide assortment of useful spy gadgets, plus the assistance of the capable femme fatale, Tina, and the seemingly incapable Gail Hendricks, a beautiful but bumbling possible enemy agent. Along the way, Helm is nearly sidetracked by a mysterious knife-wielding seductress and he witnesses the murder of a beautiful Big O operative, the sultry striptease artist Sarita. In the end, Helm prevails, with Gail by his side as he all but singlehandedly destroys Tung-Tze's evil enterprise and plot to rule the world.
+
+Questions:
+QuestionID: 1b8456858c8b574a3ffc623cc6f49f9ccbdfdd75
+Question: What is the full name of the person that is armed with a wide assortment of useful spy gadgets?
+Answer: Matt Helm
+Explanation: 
+
+QuestionID: b5c62612c01ed331dfc9112b56c38b5feee246a0
+Question: What is the first name of the person who prevails in his assignment? 
+Answer: Matt
+Explanation: 
+
+QuestionID: 4622ebd1a65c27921270e988b473ae7bd47b3523
+Question: What is the last name of the person by Helms side when he prevails?
+Answer: Hendricks
+Explanation: 
+
+QuestionID: 294e312ff3855b890e71471706a6fa3c5c785584
+Question: What is the first name of the person who all but singlehandedly destroys Tung-Tze?
+Answer: Matt
+Explanation: 
+
+QuestionID: 294e312ff3855b890e71471706a6fa3c5c785584
+Question: What is the last name of person that accompanies the one who all but singlehandedly destroys Tung-Tze?
+Answer: Hendricks
+Explanation: 
+
+QuestionID: b5c62612c01ed331dfc9112b56c38b5feee246a0
+Question: What is the last name of the person that accompanies the one who prevails in his assignment?
+Answer: Hendricks
+Explanation: 
+
+QuestionID: 1b8456858c8b574a3ffc623cc6f49f9ccbdfdd75
+Question: What are the first names of the people assisting the person that is armed with a wide assortment of useful spy gadgets?
+Answer: Tina, Gail
+Explanation: 
+
+QuestionID: 4622ebd1a65c27921270e988b473ae7bd47b3523
+Question: What is the full name of the person whose side Gail is by?
+Answer: Matt Helm
+Explanation: 
+
+QuestionID: 4622ebd1a65c27921270e988b473ae7bd47b3523
+Question: What is the last name of the person by Helms side when he prevails?
+Answer: Hendricks
+Explanation: 
+
+--------------------------------------------------
+PassageID: 40
+Passage: McCartney biographer Ray Coleman asserted that the majority of the song's lyrics were written by Jackson and given to McCartney the next day. Recording began at AIR Studios in London in May 1981. At the time, McCartney was recording Tug of War, the former Beatle's first solo album after the breakup of his group Wings.Jackson stayed at the home of McCartney and his wife Linda during the recording sessions, and became friends with both. While at the dining table one evening, Paul McCartney brought out a booklet that displayed all the songs to which he owned the publishing rights. "This is the way to make big money", the musician informed Jackson. "Every time someone records one of these songs, I get paid. Every time someone plays these songs on the radio, or in live performances, I get paid." McCartney's words influenced Jackson's later purchase of ATV Music Publishing in 1985. McCartney played several instruments on "Say Say Say", including percussion, synthesiser, guitar, and bass guitar. The harmonica was played by Chris Smith and the rhythm guitar was played by David Williams. The song was engineered by former Beatles sound engineer, Geoff Emerick. The production of "Say Say Say" was completed in February 1983, after it had been refined and overdubbed at Cherokee Studios in California. George Martin, who had worked with The Beatles, produced the song. He said of his experience with Jackson, "He actually does radiate an aura when he comes into the studio, there's no question about it. He's not a musician in the sense that Paul is ... but he does know what he wants in music and he has very firm ideas."Jackson also spoke of the experience in his autobiography, Moonwalk. The younger singer revealed that the collaboration boosted his confidence, as Quincy Jones—producer of Thriller—was not present to correct his mistakes. Jackson added that he and McCartney worked as equals, stating, "Paul never had to carry me in that studio."According to Musicnotes.com by Alfred Music Publishing, "Say Say Say" was performed in common time, with a dance beat of 116 beats per minute. It is in the key of B♭ minor and sung in a vocal range from F3 to B♭4. The lyrics to "Say Say Say" reflect an attempt to "win back" a girl's affection; Deseret News considered the song to be a "pleading kind of love song".
+
+Questions:
+QuestionID: 6d5ec494905e389c193450d1ede9c9c942bfc06d
+Question: What is the last name of the person Michael said never had to carry him in the studio?
+Answer: McCartney
+Explanation: 
+
+QuestionID: 6d5ec494905e389c193450d1ede9c9c942bfc06d
+Question: Whom did Paul never have to carry to the studio?
+Answer: Jackson
+Explanation: 
+
+--------------------------------------------------
+PassageID: 41
+Passage: During a drug bust, LAPD patrolmen Dennis Peck and Van Stretch assault a dealer and his girlfriend. Outside, fellow patrolman Dorian Fletcher shoots a man running towards him, only to discover that he was unarmed. While Fletcher is distraught by the incident, Peck plants a knife on the body to get Fletcher off the hook. Soon afterwards, Raymond Avila joins the LAPD's Internal Affairs Division and is assigned to investigate the drug bust with partner Amy Wallace. The investigation reveals that Stretch abuses drugs, has a history of excessive force, and may be corrupt. Avila eventually begins to look into Peck, who is held up as a role model for the LAPD but is regarded with distaste by other officers over his brutal techniques and has a lifestyle (including paying spousal support for a string of ex-wives) that is hard to justify with a patrolman's salary alone. Avila unsuccessfully pressures Stretch to provide evidence against Peck in return for immunity from prosecution. Fletcher, who has gotten into an altercation with Peck, agrees to help Avila's investigation. Avila's marriage starts to wilt due to his increased obsession with the case, and Peck insinuates he will make advances on Avila's wife, Kathleen. When Stretch makes it known that he will testify, Peck (who is having an affair with Stretch's wife) resolves to have him murdered. During a routine patrol in Huntington Park, Stretch is shot through the chest in a hit staged by Peck. After Peck murders the hitman, he sees the blue van used in the hit speeding away, indicating a witness to the crime. When Stretch is revealed to be alive, Peck strangles him. Avila and Wallace set up a sting to catch the witness, but two SWAT units arrive on the scene after the sting is leaked. Fletcher and the witness are killed in the resulting shootout. As he dies in Avila's arms, he identifies Peck as Stretch's killer.
+
+Questions:
+QuestionID: 4ec1d01e4366d6eb7c360158e8abb4ca34c809ba
+Question: What is the first name of the person that sees a blue van used in the hit speeding away?
+Answer: Dennis
+Explanation: 
+
+QuestionID: 4ec1d01e4366d6eb7c360158e8abb4ca34c809ba
+Question: What is the first name of the person shot in the hit that used a blue van?
+Answer: Van
+Explanation: 
+
+--------------------------------------------------
+PassageID: 42
+Passage: When Joseph left Girton, the First World War was at a critical state; the Battle of the Somme had begun on 1 July 1916. Joseph wanted to assist the war effort, and after considering work on the land or in a munitions factory, took up part-time welfare work in Islington. In the autumn of 1916 she began teaching at Eothen, a small private school for girls in Caterham, founded and run by the Misses Catharine and Winifred Pye. In 1917 Holst's ten-year-old daughter Imogen started at the school; soon, under Joseph's guidance the young pupil was composing her own music. Joseph extended her own musical activities by joining the orchestra at Morley College, where Holst was the director of music and where her brother Edwin had played the cello before the war. At first she played the double-bass, but later took French horn lessons, possibly from Adolph Borsdorf; later still, at very short notice, she taught herself the timpani part for a summer concert. By 1918 she was a member of the Morley committee that on 9 March organised and produced an opera burlesque, English Opera as She is Wrote, in which English, Italian, German, French and Russian opera styles were parodied in successive scenes. The performance was a great success and was repeated at several venues. It may have inspired Holst to use parody in his own opera, The Perfect Fool, which he began composing in 1918. In her spare time Joseph founded and ran a choir for Kensington nannies, which took part in local singing contests as the "Linden Singers".
+
+Questions:
+QuestionID: 9ff2bfda93ac7a624af00d4bb9d0ed81d71e073a
+Question: What is the name of the person who began teaching at Eothen in the autumn of 1916?
+Answer: Joseph
+Explanation: 
+
+QuestionID: ab9a4049f2c71c4903ed9d4ca03d6b13409c2e01
+Question: What is the name of the person who played the double-bass, but later took French horn lessons?
+Answer: Joseph
+Explanation: 
+
+QuestionID: 5be148f9e8f35994da58b7871e767d2ccc70f162
+Question: What is the name of the person who taught herself the timpani part for a summer concert?
+Answer: Joseph
+Explanation: 
+
+QuestionID: 2656747dbdc131ddb4c8bd6d6403e7dd1cd186f9
+Question: What is the name of the performance that may have inspired Holst to use parody in his own opera?
+Answer: English Opera as She is Wrote
+Explanation: 
+
+QuestionID: 9ff2bfda93ac7a624af00d4bb9d0ed81d71e073a
+Question: What is the name of the school Holst's daughter's attended?
+Answer: Eothen
+Explanation: 
+
+QuestionID: ab9a4049f2c71c4903ed9d4ca03d6b13409c2e01
+Question: What is the name of the person who was possibly taught by Adolph Borsdorf?
+Answer: Joseph
+Explanation: 
+
+QuestionID: 5be148f9e8f35994da58b7871e767d2ccc70f162
+Question: What is the name of the person who was member of the Morley committee?
+Answer: Joseph
+Explanation: 
+
+QuestionID: 2656747dbdc131ddb4c8bd6d6403e7dd1cd186f9
+Question: What is the name of the opera that was inspired by English Opera as She is Wrote?
+Answer: The Perfect Fool
+Explanation: 
+
+--------------------------------------------------
+PassageID: 43
+Passage: Gwen Harold, an American woman from Tennessee, meets Hidenari Terasaki (called Terry by his friends and family), the secretary to the Japanese Ambassador, while attending a reception at the Japanese Embassy in Washington D.C. with her Aunt Peggy and friend Bill.  They share a moment while Terry is showing her the antique Japanese artworks on display in the Embassy, and after some reluctance, she agrees to allow him to call on her. They begin dating and they quickly fall in love, even though Terry occasionally has fits of anti-western sentiment.  When Terry asks her to marry him, she agrees, much to the chagrin of Aunt Peggy (who was raised in the Jim Crow South), and who sees the relationship as unnatural, especially when there are "nice clean young men" available.  The Japanese Ambassador also calls on Gwen and attempts to dissuade her from accepting, claiming it would hurt Terry's career by giving him an American bias, and states that even though the two countries are friendly, anything could happen between foreign countries.  He seems to hint at possible aggression in the future, even though it is only 1935 and the Japanese have not yet resumed conflicts with China, keeping the countries of Gwen and Terry at an uneasy peace. They eventually marry despite the obstacles and, when Terry is recalled, travel to Japan by ship. Almost immediately after disembarking and arriving in Tokyo, Terry begins to treat Gwen much differently, expecting her to behave according to the male-centric beliefs of contemporary Japan, such as being silent among men, always entering doors after the men, and virtually bending to every whim of Terry and her male relatives.  They continually fight and make up, mostly because of Gwen's outspokenness among men and Terry's strict adherence to the local customs.
+
+Questions:
+QuestionID: b23c73ebd89161df0a3c45bb16a3ad1f8085a04a
+Question: What are the full names of the bride and groom?
+Answer: Gwen Harold, Hidenari Terasaki
+Explanation: 
+
+QuestionID: b23c73ebd89161df0a3c45bb16a3ad1f8085a04a
+Question: What are the first names of the bride and groom?
+Answer: Gwen, Hidenari
+Explanation: 
+
+--------------------------------------------------
+PassageID: 44
+Passage: Upon initial publication, Murray's thesis gained a favourable reception from many readers, including some significant scholars, albeit none who were experts in the witch trials. Historians of Early Modern Britain like George Norman Clark and Christopher Hill incorporated her theories into their work, although the latter subsequently distanced himself from the theory. For the 1961 reprint of The Witch-Cult in Western Europe, the Medieval historian Steven Runciman provided a foreword in which he accepted that some of Murray's "minor details may be open to criticism", but in which he was otherwise supportive of her thesis. Her theories were recapitulated by Arno Runeberg in his 1947 book Witches, Demons and Fertility Magic as well as Pennethorne Hughes in his 1952 book Witches. As a result, the Canadian historian Elliot Rose, writing in 1962, claimed that the Murrayite interpretations of the witch trials "seem to hold, at the time of writing, an almost undisputed sway at the higher intellectual levels", being widely accepted among "educated people".Rose suggested that the reason that Murray's theory gained such support was partly because of her "imposing credentials" as a member of staff at UCL, a position that lent her theory greater legitimacy in the eyes of many readers. He further suggested that the Murrayite view was attractive to many as it confirmed "the general picture of pre-Christian Europe a reader of Frazer or [Robert] Graves would be familiar with". Similarly, Hutton suggested that the cause of the Murrayite theory's popularity was because it "appealed to so many of the emotional impulses of the age", including "the notion of the English countryside as a timeless place full of ancient secrets", the literary popularity of Pan, the widespread belief that the majority of British had remained pagan long after the process of Christianisation, and the idea that folk customs represented pagan survivals. At the same time, Hutton suggested, it seemed more plausible to many than the previously dominant rationalist idea that the witch trials were the result of mass delusion. Related to this, the folklorist Jacqueline Simpson suggested that part of the Murrayite theory's appeal was that it appeared to give a "sensible, demystifying, liberating approach to a longstanding but sterile argument" between the rationalists who denied that there had been any witches and those, like Montague Summers, who insisted that there had been a real Satanic conspiracy against Christendom in the Early Modern period replete with witches with supernatural powers. "How refreshing", noted the historian Hilda Ellis Davidson, "and exciting her first book was at that period. A new approach, and such a surprising one."
+
+Questions:
+QuestionID: a9258cee1bab212ee3a3a03bdbad49c68c7e955d
+Question: Whose theories were incorporated into Clark and Hill's work?
+Answer: Murray
+Explanation: 
+
+QuestionID: b1c0e66520ff31cf2a25668cf7548378c2fa6482
+Question: Whose theory did Hill distance himself from?
+Answer: Murray
+Explanation: 
+
+QuestionID: 4915f39a02e9e6bf26fb91a210dfb5ff05265b6b
+Question: What is the name of the person who wrote The Witch-Cult in Western Europe?
+Answer: Murray
+Explanation: 
+
+QuestionID: 395a334efe2611e1d9834e4b66cc49297c50b249
+Question: Whose theories were recapitulated by Arno Runeberg?
+Answer: Murray
+Explanation: 
+
+QuestionID: 6ab2a474f63e4ac1cfbead248644465723b27138
+Question: What is the last name of the person that suggested that the cause of the Murrayite theory's popularity was because it "appealed to so many of the emotional impulses of the age?"
+Answer: Hutton
+Explanation: 
+
+QuestionID: 2bb8a12700dffc5d36f076052bd4b7f285f3877b
+Question: What was said to "appealed to so many of the emotional impulses of the age?"
+Answer: the Murrayite theory
+Explanation: 
+
+QuestionID: a9258cee1bab212ee3a3a03bdbad49c68c7e955d
+Question: Who incorporated Murray's theories into their work?
+Answer: Norman Clark, Christopher Hill
+Explanation: 
+
+QuestionID: b1c0e66520ff31cf2a25668cf7548378c2fa6482
+Question: Who distanced himself from Murray's theories?
+Answer: Christopher Hill
+Explanation: 
+
+QuestionID: 4915f39a02e9e6bf26fb91a210dfb5ff05265b6b
+Question: What is the name of the person who said Murray's "minor details may be open to criticism"?
+Answer: Steven Runciman
+Explanation: 
+
+QuestionID: 395a334efe2611e1d9834e4b66cc49297c50b249
+Question: Who recapitulated Murray's tehories in 1952 book Witches?
+Answer: Pennethorne Hughes
+Explanation: 
+
+QuestionID: 6ab2a474f63e4ac1cfbead248644465723b27138
+Question: What is the last name of the person whose theories "appealed to so many of the emotional impulses of the age?"
+Answer: Murray
+Explanation: 
+
+QuestionID: 2bb8a12700dffc5d36f076052bd4b7f285f3877b
+Question: Who said that Murray's theories confirmed "the general picture of pre-Christian Europe a reader of Frazer or [Robert] Graves would be familiar with"?
+Answer: Elliot Rose
+Explanation: 
+
+--------------------------------------------------
+PassageID: 45
+Passage: The royal compound can be accessed through fourteen stone gateways in total. In addition to the inner seven gateways constructed by Andriantsimitoviaminiandriana in the early 18th century, there exists an exterior wall and second set of seven gates that were built before 1794 during the reign of Andrianampoinimerina, an act that symbolically marked the completion of the king's reunification of Imerina. The largest and principal gate is also the most well-preserved and is known as Ambatomitsangana ("standing stone").  Every morning and evening, a team of twenty soldiers would work together to roll into place an enormous stone disk, 40.5 meters in diameter and 30 cm thick, weighing about 12 tons, to open or seal off the doorway. This form of gate (vavahady in the Malagasy language), typical of most walled royal villages of Imerina built between 1525 and 1897, protected the villagers from marauders.The gateway is topped by an observation post. The second main entrance, called Andakana, is situated in the western wall. Its stone disk is also intact, and the path leading to it is paved with cut stones. Both Ambatomitsangana and Andakana were considered the gateways of the living; cadavers could not be transported through them, and passage was denied to anyone who had recently come into contact with the dead.  A northern gateway called Miandrivahiny retains its well-preserved stone disk and was one of two entrances used whenever it was necessary to transport corpses in or out of the site; the second gateway for corpses was called Amboara. The stone disk at the southern Andranomatsatso gateway is also in good condition. This gateway, as well as Antsolatra and Ampitsaharana, were primarily used as lookout points. In the late 18th century Andrianampoinimerina replaced the Ambavahadiantandranomasina gate with another made of wood instead of stone and renamed it Ambavahadimasina. He and his successors shaved a small piece of wood from this lintel to light the sacred hearth fire that played a ritual role in the traditional circumcision ceremony. The red soil inside the gate and a series of wooden boards that paneled the approach to the gate were both considered sacred, and soldiers or others who anticipated a voyage away from Imerina would take handfuls of the soil and pieces of the wooden boards with them before departing in the belief that it would ensure their safe return.Several large stones are set in the ground near gates or at points outside the walls of Ambohimanga. Rulers would stand atop these stones, each identified by distinct names, to deliver speeches to the public. To the south were the stones called Ambatomasina and Ambatomenaloha, while Ambatorangotina was situated to the northwest. The latter stone was of particular importance: here the twelve leaders of the Ambatofotsy clan first declared their rejection of Andrianjafy's rule and their allegiance to his nephew, Andrianampoinimerina. Upon taking the throne, Andrianampoinimerina used this site to first declare new laws and decrees that would later be announced throughout the kingdom. This was also the main site at Ambohimanga for dispensing justice. After Andrianampoinimerina's succession to the throne, he sacrificed a black zebu whose mother had died, named Lemainty ("black one"), with repeated spear thrusts; after its death, the animal was cut into pieces and buried on the site. Lemainty was thereafter regularly invoked in royal speeches and decrees to allude to the fate of those who misguidedly sought to forsake the protection of their guardian, the sovereign, and his laws.
+
+Questions:
+QuestionID: 2d694673b56f75ac91c2458d956195df73095e9c
+Question: What is the name of the gateway that, along with Antsolatra and Ampitsaharana, was primarily used as a lookout point?
+Answer: Andranomatsatso
+Explanation: 
+
+QuestionID: f64eba0b1108283e5b7b2692b40901735fb4b5a0
+Question: What is the name of the stone whose particular importance derives from being the location where the twelve leaders of the Ambatofotsy clan first declared their rejection of Andrianjafy's rule and their allegiance to his nephew, Andrianampoinimerina? 
+Answer: Ambatorangotina
+Explanation: 
+
+QuestionID: 2d694673b56f75ac91c2458d956195df73095e9c
+Question: What gateways were primarily used as lookout points?
+Answer: Antsolatra, Ampitsaharana, Andranomatsatso
+Explanation: 
+
+QuestionID: f64eba0b1108283e5b7b2692b40901735fb4b5a0
+Question: Where is the stone whose particular importance derives from being the location where the twelve leaders of the Ambatofotsy clan first declared their rejection of Andrianjafy's rule and their allegiance to his nephew, Andrianampoinimerina situated?
+Answer: the northwest
+Explanation: 
+
+--------------------------------------------------

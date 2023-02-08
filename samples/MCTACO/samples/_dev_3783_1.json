@@ -1,0 +1,83 @@
+[
+    {
+        "sentence1": "Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life. How often does Deborah prepare the lettuce?",
+        "qas": [
+            {
+                "sentence2": "someone know what their status is",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "In one of the paintings, a character has been cut out and is instead sitting on the painting's frame, perhaps taking a break from posing? How long did the artist take to paint the picture?",
+        "qas": [
+            {
+                "sentence2": "5 seconds",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "Pushkin published his first poem at the age of fifteen, and was widely recognized by the literary establishment by the time of his graduation from the Tsarskoye Selo Lyceum. How many poems has Pushkin published in total?",
+        "qas": [
+            {
+                "sentence2": "pushkin has published 50 poems in total",
+                "label": "yes"
+            }
+        ]
+    },
+    {
+        "sentence1": "He tried and tried to please every person who came to the store, but they all picked smaller puppies. How often do people come to the store ?",
+        "qas": [
+            {
+                "sentence2": "multiple times a minute",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "Tumble would see Billy and walk up to him as fast as a turtle can go. What time did the turtle see Billy?",
+        "qas": [
+            {
+                "sentence2": "4:00 PM",
+                "label": "yes"
+            }
+        ]
+    },
+    {
+        "sentence1": "The properties of matter depend on the types of atoms that matter is made of. How often are new atoms created?",
+        "qas": [
+            {
+                "sentence2": "every 2 months",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "Max seemed to be happy to have his human by his side as well as a new doggy friend. When did Max meet up with his human and doggy friend?",
+        "qas": [
+            {
+                "sentence2": "30 years ago",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "And as they waited for His coming, one generation after another, and yet He did not come, a sadness fell upon them. For how many years did each generation wait?",
+        "qas": [
+            {
+                "sentence2": "50 seconds",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "In 1930, the poet Muhammad Iqbal proposed a separate Muslim homeland in the northwest of India. What time of the day was the proposal made?",
+        "qas": [
+            {
+                "sentence2": "noon",
+                "label": "yes"
+            }
+        ]
+    }
+]

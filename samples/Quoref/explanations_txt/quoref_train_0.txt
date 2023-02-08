@@ -1,0 +1,92 @@
+PassageID: 0
+Passage: In the year 1978, Gracie Bowen, a 15-year-old tomboy who lives in South Orange, New Jersey, is crazy about soccer, as are her three brothers and their former soccer star father. Although Gracie wants to join her brothers and neighbor Kyle in the nightly practices her father runs, she is discouraged by everyone except her older brother, Johnny. Johnny, Gracie and Kyle attend Columbia High School, where Johnny is the captain and star player for the varsity soccer team. After missing a shot at the end of a game, the despondent Johnny drives off with a friend's car and dies in a traffic accident. Struggling with grief, Gracie decides that she wants to replace her brother on the team. Her father does not believe that girls should play soccer, telling her she is neither tough nor talented enough. Her mother is a nurse who lacks the competitive drive of the rest of her family and fears for Gracie's safety. Her mother later tells Gracie that she would have liked to become a surgeon, but that option had not been available to her as a woman. Rejected and depressed, Gracie begins to rebel; she stops doing her schoolwork, is caught cheating on an exam, and experiments with wild and self-destructive behavior. She is finally caught by her father almost having sex with a guy she met near the docks after telling her friend, "I want to do something that I've never done before." This serves as a wake-up call for her parents, particularly her father. He quits his job to work with her on her soccer training.
+
+Questions:
+QuestionID: 195e664201fd439ffe6f85e933d5ab697dcdb70d
+Question: What happens to the sibling that supports Gracie's interest in soccer?
+Answer: dies in a traffic accident
+Explanation: Garcie’s older brother Johnny who was supportive of her interest in soccer died in a car accident.
+
+--------------------------------------------------
+PassageID: 1
+Passage: Bob Weston works for STOP, a scandal magazine whose owner and staff are proud of being regarded as the filthiest rag in America. One of Bob's colleagues has just written an article about Dr. Helen Gurley Brown, a young psychologist and author of the best-selling book Sex and the Single Girl, a self-help guide with advice to single women on how to deal with men. The article raises doubts on her experience with sex and relationships. Helen is very offended, having lost six appointments with patients due to the article discrediting her as a "23 year-old virgin.". Bob wants to follow up by interviewing her, but she refuses. Bob's friend and neighbor, stocking manufacturer Frank Broderick, is having marriage issues with his strong-willed wife Sylvia, but can't find the time to go to a counselor. Therefore, Bob decides to impersonate Frank and go to Helen as a patient, with the goal of getting close to her in order to gather more information. In exchange, he'll report back to Frank her advice. During their first couple of sessions, Bob acts shy and smitten, and tries to gently seduce Helen. She seems to respond to Bob's courteous advances, all while insisting it's a transfer and that she'll play the role of Sylvia to the benefit of his therapy. After he fakes a suicide attempt, the two of them end up making out in her apartment, with Bob realizing he's actually falling for Helen, which is the reason he still has not written anything about her, prompting an ultimatum from his boss.
+
+Questions:
+QuestionID: fe0f23ec6e6e8ac86213929c9e46a99bc6283e82
+Question: What is the full name of the person that fakes a suicide attempt?
+Answer: Bob Weston
+Explanation: It was Bob Weston who faked a suicide attempt in an attempt to get close to Helen.
+
+--------------------------------------------------
+PassageID: 2
+Passage: Home from the war, Captain Tony Travis eyes an estate in Santa Barbara and wonders what it must be like to be that rich. It is the property of the fabulously wealthy Nora Hunter, who has secretary and friend Sylvia Lockwood impersonate her in public. Longtime guardian Jonathan Connors protects his ward's privacy zealously. During a ship launching, a press photographer takes Nora's picture, but Connors sees to it that the camera film is ruined. Sylvia tells Nora that she is quitting so that she can accompany her husband, Phil Vernon, whose job requires him to move to Washington. Nora decides to marry her fiance Donald so that Sylvia can be her maid of honor at her wedding, but when Donald returns from military duty, he breaks the news that he has fallen in love with someone else. Nora hosts a tea, but has Sylvia again pretend to be her. There she meets and takes a liking to Tony, but he is more interested in Sylvia. On hearing him vow that love is more important to him than money, Nora and Sylvia invite him to a weekend at Nora's beach house. Nora helps Tony court Sylvia, so that if he does genuinely love the real Nora, it will not be because of her money. All of her friends tell her she is being foolish, that nobody can resist that much temptation, but she stubbornly persists.
+
+Questions:
+QuestionID: 8584af783d24dd4ad7205787434bcd10f29166b1
+Question: What is the first name of Connors' ward?
+Answer: Nora
+Explanation: Nora Hunter is the ward of Jonathan Connor, a long time guardian.
+
+--------------------------------------------------
+PassageID: 3
+Passage: For a few months following Peterloo it seemed to the authorities that the country was heading towards an armed rebellion. Encouraging them in that belief were two abortive uprisings, in Huddersfield and Burnley, during the autumn of 1819, and the discovery and foiling of the Cato Street conspiracy to blow up the cabinet that winter. By the end of the year, the government had introduced legislation, later known as the Six Acts, to suppress radical meetings and publications, and by the end of 1820 every significant working-class radical reformer was in jail; civil liberties had declined to an even lower level than they were before Peterloo. Historian Robert Reid has written that "it is not fanciful to compare the restricted freedoms of the British worker in the post-Peterloo period in the early nineteenth century with those of the black South African in the post-Sharpeville period of the late twentieth century."One direct consequence of Peterloo was the foundation of the Manchester Guardian newspaper in 1821, by the Little Circle group of non-conformist Manchester businessmen headed by John Edward Taylor, a witness to the massacre. The prospectus announcing the new publication proclaimed that it would "zealously enforce the principles of civil and religious Liberty ... warmly advocate the cause of Reform ... endeavour to assist in the diffusion of just principles of Political Economy and ... support, without reference to the party from which they emanate, all serviceable measures."Events such as the Pentrich rising, the March of the Blanketeers and the Spa Fields meeting, all serve to indicate the breadth, diversity and widespread geographical scale of the demand for economic and political reform at the time. Peterloo had no effect on the speed of reform, but in due course all but one of the reformers' demands, annual parliaments, were met. Following the Great Reform Act of 1832, the newly created Manchester parliamentary borough elected its first two MPs. Five candidates including William Cobbett stood, and the Whigs, Charles Poulett Thomson and Mark Philips, were elected. Manchester became a Municipal Borough in 1837, and what remained of the manorial rights were purchased by the borough council. On the other hand R J White has affirmed the true significance of Peterloo as marking the point of final conversion of provincial England to the struggle for enfranchisement of the working class.  "The ship which had tacked and lain for so long among the shoals and shallows of Luddism, hunger-marching, strikes and sabotage, was coming to port" : "Henceforth, the people were to stand with ever greater fortitude behind that great movement, which, stage by stage throughout the nineteenth century, was to impose a new political order upon society." : "With Peterloo, and the departure of Regency England, parliamentary reform had come of age."
+
+Questions:
+QuestionID: c98cb46b65e37a27fe54e4c64fbc601f942fd13d
+Question: What is the full name of the man that said "With Peterloo, and the departure of Regency England, parliamentary reform had come of age."?
+Answer: R J White
+Explanation: R J White had said that "With Peterloo, and the departure of Regency England, parliamentary reform had come of age.".
+
+--------------------------------------------------
+PassageID: 4
+Passage: In the mid-1970s, Theresa Dunn, a young Irish-American school teacher in New York City, experiences her sexual awakening, while searching for excitement outside her ordered life. While in college, Theresa lives with her repressive Polish-Irish Catholic parents, and suffers from severe body image issues following a childhood surgery for scoliosis that left a large scar on her back. Theresa later finds out that her scoliosis is congenital, and that her aunt had the same condition and committed suicide. As a result, Theresa is reluctant to have children of her own.  Meanwhile, her beautiful "perfect" older sister, Katherine, has left her husband and embarked on a wild lifestyle involving multiple affairs, a secret abortion, recreational drug use, and a short-lived marriage to a Jewish man. Theresa finds first love, and loses her virginity, to her much older, married college professor Martin. He ends their affair just before her graduation, leaving Theresa feeling used and lonely. Theresa takes a job teaching deaf children, and proves to be a gifted and caring teacher. With Katherine's encouragement, she moves out of her parents' home and into an apartment in Katherine's building. She frequents a bar at night where she meets a charming but vain Italian-American character named Tony. She ends up sleeping with, and taking cocaine with Tony. He leaves in a hurry, and gives her a Quaalude pill to counteract the cocaine. This causes her to oversleep, and she arrives very late for work the next day, angering her employer and students. Tony then disappears for a long while, and Theresa misses him initially.
+
+Questions:
+QuestionID: 2a5830bdc1dac884c19cea6b3a6e37e18e4719ed
+Question: What is the full name of the person who moves out of their parents' home?
+Answer: Theresa Dunn
+Explanation: Theresa Dunn moved out of her parent’s home on Katherine’s encouragement.
+
+--------------------------------------------------
+PassageID: 5
+Passage: Notable sportsmen from Karnataka include B.S. Chandrasekhar, E. A. S. Prasanna, Anil Kumble, Javagal Srinath, Rahul Dravid, Venkatesh Prasad, Robin Uthappa, Vinay Kumar, Gundappa Vishwanath, Syed Kirmani, Stuart Binny, K. L. Rahul, Mayank Agarwal, Manish Pandey, Karun Nair, Ashwini Ponnappa, Mahesh Bhupathi, Rohan Bopanna, Prakash Padukone who won the All England Badminton Championships in 1980 and Pankaj Advani who has won three world titles in cue sports by the age of 20 including the amateur World Snooker Championship in 2003 and the World Billiards Championship in 2005.Bijapur district has produced some of the best known road cyclists in the national circuit. Premalata Sureban was part of the Indian contingent at the Perlis Open '99 in Malaysia. In recognition of the talent of cyclists in the district, the state government laid down a cycling track at the B.R. Ambedkar Stadium at a cost of ₹ 40 lakh.Sports like kho kho, kabaddi, chinni daandu and goli (marbles) are played mostly in Karnataka's rural areas.
+
+Questions:
+QuestionID: cb08f3bdecc4fc25a0338c93ee0ba2c2cfb9db8d
+Question: What district's government put in a cycling track at Ambedkar Stadium?
+Answer: Bijapur
+Explanation: The government of Bijapur district had set up a cycling track at Ambedkar Stadium.
+
+--------------------------------------------------
+PassageID: 6
+Passage: In the early 1960s, a three-girl "Greek chorus"—Crystal, Ronnette, and Chiffon—introduce the movie, warning the audience that some horror is coming their way ("Prologue: Little Shop of Horrors"). Seymour Krelborn and his colleague, Audrey, work at Mushnik's Flower Shop in a run-down, rough neighborhood in New York City referred to as "Skid Row". They lament that they cannot escape the neighborhood ("Skid Row (Downtown)"). Struggling from a lack of customers, Mr. Mushnik decides to close the store, but Audrey suggests he may have more success by displaying an unusual plant that Seymour owns. Immediately attracting a customer, Seymour explains he bought the plant, which he dubbed "Audrey II", from a Chinese flower shop during a solar eclipse. Attracting business to Mushnik's shop, the plant soon starts to wither. Seymour accidentally pricks his finger, and discovers that Audrey II needs human blood to thrive ("Grow for Me").
+
+Questions:
+QuestionID: bbed94ba24a1283717c2a9f5fc78e5c7c2df3ea8
+Question: Besides the owner, who else works in the store with the man that owns the unusual plant?
+Answer: Audrey
+Explanation: The owner’s colleague, Audrey, also worked at his store.
+
+--------------------------------------------------
+PassageID: 7
+Passage: Elliot Hopper is a workaholic widower who is about to land the deal of a lifetime at work, which he hopes will win him a promotion and a company car. After he forgets his daughter Diane's birthday, he attempts to make it up to her by promising her she can have his car when he secures the deal at work on the coming Thursday. After being persuaded to give the car to his daughter early, Elliot must hail a taxi from work, which is driven by Satanist Curtis Burch, who drives erratically and is of control. Attempting to get the taxi stopped, Elliot announces that he is Satan and commands him to stop the taxi, and also attempts to give him his wallet. Shocked to see his "Evil Master", Burch drives off a bridge and into the river. Elliot emerges from the accident scene, only to learn that he is a ghost when a police officer fails to notice him and a speeding bus goes straight through him. When he gets home he discovers that his three children can see him, but only in a totally dark room, and they can't hear him at times. He struggles to tell them what happened when he is whisked away to London by paranormal researcher Sir Edith, who tells him he is a ghost who has yet to enter the afterlife because "they screwed up"; his soul will not cross over until Thursday. The pressures of work and family life lead to many comedic events, as Elliot attempts to renew his life insurance policy and complete his company's merger, so his family will be provided for once he crosses over. One day, he must choose between staying in an important work meeting and helping his son with a magic trick at school. He eventually decides that his family's happiness is more important and walks out on his furious boss, Mr. Collins, who later smugly fires him. Dejected, Elliot reveals himself as a ghost to his love interest, Joan, whose initial shock soon turns to sympathy.
+
+Questions:
+QuestionID: 4ff1334acb2a6339f052c4574271267e86154570
+Question: Who is Joan's love interest?
+Answer: Elliot Hopper
+Explanation: Elliot Hopper is Joan’s love interest. 
+
+--------------------------------------------------
+PassageID: 8
+Passage: The film is based on actual events, beginning in August 1941.  Nazi Einsatzgruppen (task forces) are sweeping through Eastern Europe, systematically killing Jews. Among the survivors not killed or restricted to ghettoes are the Belarusian Jewish Bielski brothers: Tuvia, Zus, Asael and Aron. Their parents are dead, killed by local police under orders from the occupying Germans. The brothers flee to the Naliboki Forest, vowing to avenge the deaths of their parents. They encounter other Jewish escapees hiding in the forest, and the brothers take them under their protection and leadership. Tuvia kills the local Auxiliary Police chief responsible for his parents' deaths. Over the next year, they shelter a growing number of refugees, raiding local farms for food and supplies and moving their camp whenever they are discovered by the collaborationist police. Bielski brothers stage raids on the Germans and their collaborators. Casualties cause Tuvia to reconsider this approach because of the risk to the hiding Jews. Rivalry between the two eldest brothers, Tuvia and Zus, fuels a disagreement between them about their future; as winter approaches, Zus decides to leave the camp and join a local company of Soviet partisans, while his older brother Tuvia remains with the camp as their leader. An arrangement is made between the two groups in which the Soviet partisans agree to protect the Jewish camp in exchange for supplies.
+
+Questions:
+QuestionID: 74a1b77144833a85a4319b9702854f534cf71a3f
+Question: Who are the two  youngest of the Bielski brothers?
+Answer: Asael and Aron
+Explanation: The Bielski brothers are Tuvia, Zus, Asael and Aron. Tuvia and Zus are the eldest.
+
+--------------------------------------------------
+
+

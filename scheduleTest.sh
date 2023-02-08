@@ -12,8 +12,10 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:../miniconda3/lib
 
 ISTRAINDIR=false
 ISTESTDIR=false
+MODELSIZE="xxl"
+SELFCONSISTENCY=false
 
-while getopts 'a:b:c:d:efg:' opt; do
+while getopts 'a:b:c:d:efg:h:i' opt; do
   case "$opt" in
     a)   PROMPTTYPE="$OPTARG"   ;;
     b)    BESTPROMPTTYPE="$OPTARG"   ;;
@@ -22,6 +24,8 @@ while getopts 'a:b:c:d:efg:' opt; do
     e)   ISTRAINDIR=true     ;;
     f)    ISTESTDIR=true     ;;
     g)  DATASET="$OPTARG"   ;;
+    h)  MODELSIZE="$OPTARG"   ;;
+    i)   SELFCONSISTENCY=true     ;;
     *) echo "Unexpected option: $1 - this should not happen."
        usage ;;
   esac
@@ -67,15 +71,31 @@ conda activate /scratch/general/vast/u1419542/miniconda3/envs/flant5Env
 # mkdir /scratch/general/vast/u1419542/huggingface_cache
 export TRANSFORMERS_CACHE="/scratch/general/vast/u1419542/huggingface_cache"
 if [ "$ISTRAINDIR" = true ] ; then 
-    if [ "$ISTESTDIR" = true ] ; then 
-        python3.9 test.py -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir -isTestDir ;
+    if [ "$ISTESTDIR" = true ] ; then
+        if [ "$SELFCONSISTENCY" = true ] ; then 
+            python3.9 test.py -selfConsistency -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir -isTestDir ;
+        else 
+            python3.9 test.py -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir -isTestDir ;
+        fi ;
     else 
-        python3.9 test.py -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir ;
+        if [ "$SELFCONSISTENCY" = true ] ; then
+            python3.9 test.py -selfConsistency -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir ;
+        else
+            python3.9 test.py -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir ;
+        fi ;
     fi ;
 else 
     if [ "$ISTESTDIR" = true ] ; then 
-        python3.9 test.py -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTestDir ;
-    else 
-        python3.9 test.py -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST ;
+        if [ "$SELFCONSISTENCY" = true ] ; then
+            python3.9 test.py -selfConsistency -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTestDir ;
+        else
+            python3.9 test.py -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTestDir ;
+        fi ;
+    else
+        if [ "$SELFCONSISTENCY" = true ] ; then 
+            python3.9 test.py -selfConsistency -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST ;
+        else 
+            python3.9 test.py -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST ;
+        fi ;
     fi ;
 fi

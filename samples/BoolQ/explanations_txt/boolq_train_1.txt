@@ -1,0 +1,92 @@
+PassageID: 0
+Passage: The Eighth Amendment (Amendment VIII) of the United States Constitution prohibits the federal government from imposing excessive bail, excessive fines, or cruel and unusual punishment. The U.S. Supreme Court has ruled that this amendment's Cruel and Unusual Punishment Clause also applies to the states. The phrases in this amendment originated in the English Bill of Rights of 1689. This amendment was adopted on December 15, 1791, along with the rest of the United States Bill of Rights.
+
+Questions:
+QuestionID: 0
+Question: the first amendment to the constitution protects citizens against cruel and unusual punishment
+Answer: False
+Explanation: It is the eighth amendment that protected citizens against cruel and unusual punishment.
+
+--------------------------------------------------
+PassageID: 1
+Passage: The most popular kiełbasa is also called ``Kiełbasa Polska'' (``Polish Sausage'') or ``Kiełbasa Starowiejska'' (``Old Countryside Sausage''). This one comes closest to what is generally known in America as ``kiełbasa'' (a Polish sausage). Nowadays, many major meat packers across America offer a product called ``kiełbasa,'' usually somewhat different from the original.
+
+Questions:
+QuestionID: 0
+Question: is polska kielbasa the same thing as polish sausage
+Answer: True
+Explanation: Kiełbasa Polska is also known as the Polish Saussage.
+
+--------------------------------------------------
+PassageID: 2
+Passage: L'Étranger (The Outsider (UK), or The Stranger (US)) is a 1942 novel by French author Albert Camus. Its theme and outlook are often cited as examples of Camus' philosophy of the absurd and existentialism, though Camus personally rejected the latter label.
+
+Questions:
+QuestionID: 0
+Question: is the stranger and the outsider the same book
+Answer: True
+Explanation: They are titles of the same book in different countries.
+
+--------------------------------------------------
+PassageID: 3
+Passage: Worldwide recognized breeds at this time are the Chinese Crested Dog, the Mexican Hairless Dog, and the Peruvian Hairless Dog.
+
+Questions:
+QuestionID: 0
+Question: is there such thing as a hairless dog
+Answer: True
+Explanation: Mexican hairless dog is a world recognized breed.
+
+--------------------------------------------------
+PassageID: 4
+Passage: In March 1500, Spanish conquistador Vicente Yáñez Pinzón was the first documented European to sail up the Amazon River. Pinzón called the stream Río Santa María del Mar Dulce, later shortened to Mar Dulce, literally, sweet sea, because of its fresh water pushing out into the ocean. Another Spanish explorer, Francisco de Orellana, was the first European to travel from the origins of the upstream river basins, situated in the Andes, to the mouth of the river. In this journey, Orellana baptised some of the affluents of the Amazonas like Rio Negro, Napo and Jurua. The name Amazonas is taken from the native warriors that attacked this expedition, mostly women, that reminded De Orellana of the mythical female Amazon warriors from the ancient Hellenic culture in Greece.
+
+Questions:
+QuestionID: 0
+Question: does the amazon river start in the andes
+Answer: True
+Explanation: The amazon river is situated in the Andes.
+
+--------------------------------------------------
+PassageID: 5
+Passage: A second season aired from April 1 to June 17, 2017 on MBS and other television networks. Funimation and Crunchyroll streamed the second season on their respective websites, while Adult Swim aired a dubbed version. The opening theme song is ``Opfert eure Herzen!'' (心臓を捧げよ!, Shinzō o Sasageyo!, lit. ``Dedicate Your Hearts!'') by Linked Horizon and the ending theme song is ``Yūgure no Tori'' (夕暮れの鳥) by Shinsei Kamattechan.
+
+Questions:
+QuestionID: 0
+Question: is there an attack on titan season 2
+Answer: True
+Explanation: The second season aired in 2017.
+
+--------------------------------------------------
+PassageID: 6
+Passage: The sixth and final season (also known as A Place to Call Home: The Final Chapter) of the Seven Network television series A Place to Call Home will premiere on Showcase 19 August 2018. The series is produced by Chris Martin-Jones, and executive produced by Penny Win and Julie McGauran.
+
+Questions:
+QuestionID: 0
+Question: is there a 6th season of a place to call home
+Answer: True
+Explanation: The sixth season, also the final season, will air in 2018.
+
+--------------------------------------------------
+PassageID: 7
+Passage: Polygamy is the act or condition of a person marrying another person while still being lawfully married to another spouse. As this is the very definition of bigamy, it is illegal in the United States. The crime is punishable by a fine, imprisonment, or both, according to the law of the individual state and the circumstances of the offense. Polygamy was outlawed federally by the Edmunds Act, and there are laws against the practice in all 50 states, as well as the District of Columbia, Guam, and Puerto Rico. Because state laws exist, polygamy is not actively prosecuted at the federal level, but the practice is considered ``against public policy'' and, accordingly, the U.S. government won't recognize bigamous marriages for immigration purposes (that is, would not allow one of the spouses to petition for immigration benefits for the other), even if they are legal in the country where bigamous marriage was celebrated. Any immigrant who is coming to the United States to practice polygamy is inadmissible.
+
+Questions:
+QuestionID: 0
+Question: can you have more than one wife in the united states
+Answer: False
+Explanation: Polygamy and Bigamy are illegal in the US.
+
+--------------------------------------------------
+PassageID: 8
+Passage: In late 2013, Cage was in preproduction on Detroit: Become Human, which he said would build upon his work on Heavy Rain and Beyond: Two Souls. Cage's script -- between 2,000 and 3,000 pages -- was first relayed to the design team while programmers created the graphics as well as a new game engine with advancements in features like rendering, dynamic lighting, shading, bokeh, and physical cameras. Quantic Dream improved their game engine's depth of field after Mark Cerny, lead architect of the PlayStation 4, came to evaluate it. In October 2016, the screenplay was completed after more than two years. Writer Adam Williams was hired to help finish and flesh out the story. Cage used charts and diagrams to see where the choices would end up; penning ``five or six thousand pages of notes'', he likened the story to a Rubik's Cube. Two scenes were cancelled for how violence was portrayed. The casting extended to Los Angeles, London, and Paris in search for more than 250 actors to portray 513 roles. The actors were scanned in 3D, whose models were then made into characters. Shooting and animation followed, and on 8 September 2017, the performance capture was finished after 324 days. Detroit: Become Human was worked on by the 180 staff members at Quantic Dream and also outsourced to the Philippines, China, Vietnam, and India. The game has 35,000 camera shots, 74,000 unique animations, and 5.1 million lines of code.
+
+Questions:
+QuestionID: 0
+Question: is detroit become human connected to heavy rain
+Answer: False
+Explanation: Cage had said that Detroit would build upon Heavy Rain.
+
+--------------------------------------------------
+
+

@@ -1,0 +1,92 @@
+PassageID: 0
+Passage: Deborah likes to add some sugar with the lettuce so that Billy and Sally know what it is like to have sweet tastes in their life. How often does Deborah prepare the lettuce?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 5 times a day?
+Answer: no
+Explanation: If Deborah made sugar-laced lettuce 5 times a day, Billy and Sally would be pretty used to sweet tastes by now.
+
+--------------------------------------------------
+PassageID: 1
+Passage: In one of the paintings, a character has been cut out and is instead sitting on the painting's frame, perhaps taking a break from posing? How long did the artist take to paint the picture?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 5 seconds?
+Answer: no
+Explanation: Artists usually take a very long time to finish painting.
+
+--------------------------------------------------
+PassageID: 2
+Passage: Pushkin published his first poem at the age of fifteen, and was widely recognized by the literary establishment by the time of his graduation from the Tsarskoye Selo Lyceum. How many poems has Pushkin published in total?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: Pushkin has published 50 poems in total?
+Answer: yes
+Explanation: Pushkin’s wide recognition at the time of graduation should mean that he had published a lot of poems by them.
+
+--------------------------------------------------
+PassageID: 3
+Passage: He tried and tried to please every person who came to the store, but they all picked smaller puppies. How often do people come to the store ?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: multiple times a minute?
+Answer: no
+Explanation: It is very unlikely that customers visit a pet store multiple times a minute.
+
+--------------------------------------------------
+PassageID: 4
+Passage: Tumble would see Billy and walk up to him as fast as a turtle can go. What time did the turtle see Billy?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 4:00 PM?
+Answer: yes
+Explanation: It is common for people to meet up at 4:00 pm.
+
+--------------------------------------------------
+PassageID: 5
+Passage: The properties of matter depend on the types of atoms that matter is made of. How often are new atoms created?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every 2 months?
+Answer: no
+Explanation: New atoms take a very long time to be created.
+
+--------------------------------------------------
+PassageID: 6
+Passage: Max seemed to be happy to have his human by his side as well as a new doggy friend. When did Max meet up with his human and doggy friend?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 30 years ago?
+Answer: no
+Explanation: Most dogs don’t live for 30 years.
+
+--------------------------------------------------
+PassageID: 7
+Passage: And as they waited for His coming, one generation after another, and yet He did not come, a sadness fell upon them. For how many years did each generation wait?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 50 seconds?
+Answer: no
+Explanation: They waited several years.
+
+--------------------------------------------------
+PassageID: 8
+Passage: In 1930, the poet Muhammad Iqbal proposed a separate Muslim homeland in the northwest of India. What time of the day was the proposal made?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: noon?
+Answer: yes
+Explanation: Proposals are usually made at mid-day.
+
+--------------------------------------------------
+
+

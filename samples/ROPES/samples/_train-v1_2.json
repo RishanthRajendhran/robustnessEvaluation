@@ -1,0 +1,137 @@
+[
+    {
+        "background": "Genetically modified organisms (GMO) are organisms whose genetic material has been altered by genetic engineering techniques generally known as recombinant DNA technology. Genetic engineering has expanded the genes available to breeders to utilize in creating desired germlines for new crops. Increased durability, nutritional content, insect and virus resistance and herbicide tolerance are a few of the attributes bred into crops through genetic engineering. For some, GMO crops cause food safety and food labeling concerns. Numerous countries have placed restrictions on the production, import or use of GMO foods and crops. Currently a global treaty, the Biosafety Protocol, regulates the trade of GMOs. There is ongoing discussion regarding the labeling of foods made from GMOs, and while the EU currently requires all GMO foods to be labeled, the US does not.Herbicide-resistant seed has a gene implanted into its genome that allows the plants to tolerate exposure to herbicides, including glyphosate. These seeds allow the farmer to grow a crop that can be sprayed with herbicides to control weeds without harming the resistant crop. Herbicide-tolerant crops are used by farmers worldwide. With the increasing use of herbicide-tolerant crops, comes an increase in the use of glyphosate-based herbicide sprays. In some areas glyphosate resistant weeds have developed, causing farmers to switch to other herbicides. Some studies also link widespread glyphosate usage to iron deficiencies in some crops, which is both a crop production and a nutritional quality concern, with potential economic and health implications.Other GMO crops used by growers include insect-resistant crops, which have a gene from the soil bacterium Bacillus thuringiensis (Bt), which produces a toxin specific to insects. These crops resist damage by insects. Some believe that similar or better pest-resistance traits can be acquired through traditional breeding practices, and resistance to various pests can be gained through hybridization or cross-pollination with wild species. In some cases, wild species are the primary source of resistance traits; some tomato cultivars that have gained resistance to at least 19 diseases did so through crossing with wild populations of tomatoes.",
+        "situation": "Two neighboring farms used different farming methods. Hill farm used GMO seeds, fertilizers and pesticides. Valley farm used only organic methods and non-GMO seeds.",
+        "qas": [
+            {
+                "question": "Which farm used more herbicide-resistant seeds?",
+                "id": "677810520",
+                "answers": [
+                    {
+                        "text": "Hill"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The Human Immunodeficiency Virus ( HIV ) is the virus that causes Acquired Immunodeficiency Syndrome ( AIDS ). Most researchers believe that the HIV originated in sub-Saharan Africa during the 20th century. HIV is transmitted by sexual contact and by contact with infected bodily fluids, such as blood, semen, breast milk, and vaginal secretions. It is also passed from mother to fetus. HIV is now a pandemic , with an estimated (as of 2008) 38.6 million people now living with the disease worldwide. It is estimated that AIDS has killed more than 25 million people since it was first recognized in 1981. For further information about HIV/AIDS, see the CDC (Centers for Disease Control and Prevention) web site at http://www.cdc.gov/hiv/resources/factsheets/ .",
+        "situation": "Two neighboring countries had health epidemics. While Ghana had a measles problem, Niger had a very serious HIV problem that seemed to get out of control.",
+        "qas": [
+            {
+                "question": "Which country had fewer people transmitting HIV by contact with infected blood?",
+                "id": "1947033542",
+                "answers": [
+                    {
+                        "text": "Ghana"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "In the U.S., the majority of electricity is produced by burning coal or other fossil fuels. This causes air pollution, acid rain, and global warming. Fossil fuels are also limited and may eventually run out. Like fossil fuels, radioactive elements are limited. In fact, they are relatively rare, so they could run out sooner rather than later. On the other hand, nuclear fission does not release air pollution or cause the other environmental problems associated with burning fossil fuels. This is the major advantage of using nuclear fission as a source of energy.",
+        "situation": "Iran an Iraq are 2 neighbors. Iraq produces its electricity by burning fossil fuels, while Iran uses nuclear fission as its energy source.",
+        "qas": [
+            {
+                "question": "Which country causes less environmental problems?",
+                "id": "1006768937",
+                "answers": [
+                    {
+                        "text": "Iran"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "When humans dig up and use fossil fuels, we have an impact on the carbon cycle ( Figure below ). This carbon is not recycled until it is used by humans. The burning of fossil fuels releases more carbon dioxide into the atmosphere than is used by photosynthesis. So, there is more carbon dioxide entering the atmosphere than is coming out of it. Carbon dioxide is known as a greenhouse gas , since it lets in light energy but does not let heat escape, much like the panes of a greenhouse. The increase of greenhouse gasses in the atmosphere is contributing to a global rise in Earth\u2019s temperature, known as global warming or global climate change.",
+        "situation": "Greg is an environmental scientist. He wants to know how earth's atmosphere differed in two different time. To that end, he selected two time periods, time A and time B. Time A is set in the year one thousand when using fossil fuels was not very common. Time B is set in the year two thousand when fossil fuels are used in large quantities. ",
+        "qas": [
+            {
+                "question": "Would time B have lower or higher earth temperature than time A?",
+                "id": "2074442705",
+                "answers": [
+                    {
+                        "text": "higher"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Cholesterol can't dissolve in the blood. It has to be transported to and from the cells by carriers called lipoproteins. Low-density lipoprotein, or LDL, is known as \"bad\" cholesterol. High-density lipoprotein (HDL) is known as good cholesterol. When too much LDL cholesterol circulates in the blood, it can slowly build up in the inner walls of the arteries that feed the heart and brain. Together with other substances, it can form plaque, and lead to atherosclerosis. If a clot forms and blocks a narrowed artery, a heart attack or stroke can result. Cholesterol comes from the food you eat as well as being made by the body. To lower bad cholesterol, a diet low in saturated fat and dietary cholesterol should be followed. Regular aerobic exercise also lowers LDL cholesterol and increases HDL cholesterol.",
+        "situation": "Mary and Beth both went to see their blood test results. The Doc told Mary she has high cholesterol and she had to change her diet and lifestyle. Beth had a normal cholesterol level.",
+        "qas": [
+            {
+                "question": "Which patient had lower HDL levels?",
+                "id": "3237966190",
+                "answers": [
+                    {
+                        "text": "Mary"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Plates include both oceanic crust and continental crust. Stable subduction zones involve the oceanic lithosphere of one plate sliding beneath the continental or oceanic lithosphere of another plate due to the higher density of the oceanic lithosphere. That is, the subducted lithosphere is always oceanic while the overriding lithosphere may or may not be oceanic. Subduction zones are sites that usually have a high rate of volcanism and earthquakes.[2][better source needed] Furthermore, subduction zones develop belts of deformation and metamorphism in the subducting crust, whose exhumation is part of orogeny and also leads to mountain building in addition to collisional thickening.",
+        "situation": "David is interested in geology. One day he was studying about how the earth's crust works. He specifically noticed two lithosphere, lithosphere A an lithosphere B. Lithosphere A is an oceanic lithosphere while lithosphere B is an overriding lithosphere. He also noticed two \ndistinct zones, zone A an zone B. Zone A is a subduction zone, but zone B is not a subduction zone. Just reading about geology made David excited. Now, he wants to \nvisit places with high volcanic activity. For that he chose place C. To compare with place C geology he would also visit place D, which does not have any volcanic activity.",
+        "qas": [
+            {
+                "question": "Would zone A develop or not develop belts of deformation?",
+                "id": "1511583898",
+                "answers": [
+                    {
+                        "text": "develop"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "For example, if a circuit has a potential difference of 100 volts and it is intended for the circuit to contain a 100 ohm resistance, then the wires carrying the current for this circuit will be designed for 1.0 amp. If that 100 ohm resistance is suddenly cut out of the circuit and only 0.10 ohm resistance remains, then the voltage will push 1000 amps of current through the circuit. This current overheats the wires and may damage the circuits or start a fire in the walls or the appliance. There are many possible causes of a short circuit, one possible cause could be something overheating, melting wires, and thereby fusing the circuit closed, bypassing the resistance. Another cause might be something damaging the insulation of a wire, allowing the incoming and grounds wires to touch. In any case, once the resistance is lost, the voltage pushes a huge amount of charge through the wires causing them to overheat.",
+        "situation": "Customers bought two types of electrical ovens, type A and type B. They were all happy at first but type B ovens started to short circuit.",
+        "qas": [
+            {
+                "question": "Which type of oven had fewer instances of voltage pushing a huge amount of charge through the wires?",
+                "id": "747283055",
+                "answers": [
+                    {
+                        "text": "type A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Chemical equilibrium was studied by French chemist Henri Le Ch\u00e2telier (1850-1936), and his description of how a system at equilibrium responds to a change in conditions has become known as Le Ch\u00e2telier\u2019s principle . This principle states that when a chemical system is at equilibrium and is disturbed by a stress, the system will respond by attempting to counteract that stress until a new equilibrium is established. Stresses to a chemical system include changes in the concentrations of reactants or products, changes in the temperature of the system, or changes in the pressure of the system. We will discuss each of these stresses separately. In each case, the change to the equilibrium position will cause either the forward or reverse reaction to be favored over the opposite process. When the forward reaction is favored, the concentrations of the products increase, and the concentrations of the reactants decrease. When the reverse reaction is favored, the concentrations of the products decrease, and the concentrations of the reactants increase.",
+        "situation": "John was trying to reenact Le Chatelier's principle. To that end, he conducted four tests, test A, test B, test C, and test D. In test A, he didn't input any stress to a chemical system in equilibrium. But In test B, he put some stress to the same system. In test C, he observed a forward reaction, but in test D, he observed a reverse reaction.",
+        "qas": [
+            {
+                "question": "Which test saw lower concentrations of the products, test C or test D?",
+                "id": "4146534505",
+                "answers": [
+                    {
+                        "text": "test D"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Ammonia toxicity is believed to be a cause of otherwise unexplained losses in fish hatcheries. Excess ammonia may accumulate and cause alteration of metabolism or increases in the body pH of the exposed organism. Tolerance varies among fish species. At lower concentrations, around 0.05 mg/L, un-ionised ammonia is harmful to fish species and can result in poor growth and feed conversion rates, reduced fecundity and fertility and increase stress and susceptibility to bacterial infections and diseases. Exposed to excess ammonia, fish may suffer loss of equilibrium, hyper-excitability, increased respiratory activity and oxygen uptake and increased heart rate. At concentrations exceeding 2.0 mg/L, ammonia causes gill and tissue damage, extreme lethargy, convulsions, coma, and death. Experiments have shown that the lethal concentration for a variety of fish species ranges from 0.2 to 2.0 mg/l.During winter, when reduced feeds are administered to aquaculture stock, ammonia levels can be higher. Lower ambient temperatures reduce the rate of algal photosynthesis so less ammonia is removed by any algae present. Within an aquaculture environment, especially at large scale, there is no fast-acting remedy to elevated ammonia levels. Prevention rather than correction is recommended to reduce harm to farmed fish and in open water systems, the surrounding environment.",
+        "situation": "Woodland had two nearby fish hatcheries. Pine hatchery had great result the past few years because they found a way to reduce ammonia water toxicity. Spruce hatchery has big ammonia toxicity problems and hadn't find a way to remediate them.",
+        "qas": [
+            {
+                "question": "Which hatchery found more fish with reduced fecundity?",
+                "id": "3908986089",
+                "answers": [
+                    {
+                        "text": "Spruce"
+                    }
+                ]
+            }
+        ]
+    }
+]

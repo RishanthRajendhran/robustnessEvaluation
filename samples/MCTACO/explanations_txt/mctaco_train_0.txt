@@ -1,0 +1,92 @@
+PassageID: 0
+Passage: He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons. How often are chief executives typically replaced?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every 10 weeks?
+Answer: no
+Explanation: Most chief executives keep their positions for years.
+
+--------------------------------------------------
+PassageID: 1
+Passage: Other times, they play a game with Quack where they wave at Quack and laugh. How often do they play a game with Quack ?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: they play every other early morning?
+Answer: yes
+Explanation: They must play be playing the game with the quacks in the morning to be able to see them.
+
+--------------------------------------------------
+PassageID: 2
+Passage: The bear looked up at the girl and it was almost as if he was smiling at her. When did the bear smile at the girl?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: when it walked away?
+Answer: no
+Explanation: The bear smiled when it looked up at the girl.
+
+--------------------------------------------------
+PassageID: 3
+Passage: In January 1785, Hamilton attended the second meeting of the New York Manumission Society (NYMS). How often is the meeting of NYMS held?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: the meeting of nyms is held twice a week?
+Answer: no
+Explanation: Since Hamilton had attended the only second meeting, their meeting could not have happened frequently.
+
+--------------------------------------------------
+PassageID: 4
+Passage: About 30% of Ratners's profit already is derived from the U.S. How long did it take to make profit?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 1 days?
+Answer: no
+Explanation: Most companies take several years to make profit.
+
+--------------------------------------------------
+PassageID: 5
+Passage: After dinner, he went to look for Max one last time before he had to take a bath and go to bed. When did he go to bed?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: 10 p.m?
+Answer: yes
+Explanation: Most people have dinner at around 9 pm.
+
+--------------------------------------------------
+PassageID: 6
+Passage: Then they laid down on some towels and enjoyed the sun. How often do they lay down and enjoy the sun?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: always?
+Answer: no
+Explanation: If it was a regular thing, they would probably not enjoy it. 
+
+--------------------------------------------------
+PassageID: 7
+Passage: Search "Emiliano Malaquez" and you'll find he's a master of the "captured moment" school of sculpture. What does Emiliano Malaquez do after he finishes a sculpture?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: he places it on exhibition?
+Answer: yes
+Explanation: Once a sculptor is done sculpting, the sculpture is usually displayed at an exhibition.
+
+--------------------------------------------------
+PassageID: 8
+Passage: Pushkin gradually became committed to social reform and emerged as a spokesman for literary radicals. How long did it take for Pushkin to commit to social reform?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: three days?
+Answer: no
+Explanation: Since he did it gradually, it probably took several weeks or months.
+
+--------------------------------------------------
+
+

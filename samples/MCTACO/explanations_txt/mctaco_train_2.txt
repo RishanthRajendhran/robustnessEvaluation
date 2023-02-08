@@ -1,0 +1,92 @@
+PassageID: 0
+Passage: Wallace, 38, called Gastonia home from the age of 8 until she graduated from Hunter Huss High School in 1983. When did Wallace wake up for high school?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: at midnight?
+Answer: no
+Explanation: Schools usually start in the morning and end by evening.
+
+--------------------------------------------------
+PassageID: 1
+Passage: Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off. How often do Pompey, Julius Caesar, and Augustus visit the tomb?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: once a year?
+Answer: yes
+Explanation: People usually visit tombs once in a year, during anniversaries.
+
+--------------------------------------------------
+PassageID: 2
+Passage: A levee is a raised strip of sediments deposited close to the waters edge. How often are sediments raised?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: once each minute?
+Answer: no
+Explanation: Sediments get raised due to accumulation over a long period of time.
+
+--------------------------------------------------
+PassageID: 3
+Passage: He says that instead of everyone dying , they could keep at least one of their princes alive . How often do people die?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every year?
+Answer: no
+Explanation: People die day in and day out.
+
+--------------------------------------------------
+PassageID: 4
+Passage: He would splash and play until he was ready to go back home, where he would sleep for hours, having worn himself out playing. Was he still worn out after sleeping?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: no?
+Answer: yes
+Explanation: People usually wake up refreshed after sleeping.
+
+--------------------------------------------------
+PassageID: 5
+Passage: Another way is when an animal or plant is brought to an area where it does not belong. Are animals still being brought to places they aren't native to?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: yes?
+Answer: yes
+Explanation: Taking animals to places where they don’t belong is not uncommon.
+
+--------------------------------------------------
+PassageID: 6
+Passage: The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are. How often do people conceal who they truly are?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: every 3rd day?
+Answer: no
+Explanation: People try to conceal their true selves day in and day out.
+
+--------------------------------------------------
+PassageID: 7
+Passage: His son and successor, Caracalla, a great admirer, visited the tomb during his own reign. What did he do when he left the tomb?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: sang a song?
+Answer: no
+Explanation: People are usually sad and quiet after visiting tombs.
+
+--------------------------------------------------
+PassageID: 8
+Passage: W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost. How long did Gorbachev's campaign last?
+
+Questions:
+QuestionID: 0
+Question: Is this the answer: century?
+Answer: no
+Explanation: Most campaigns last a few years and most people do not live upto a century.
+
+--------------------------------------------------
+
+

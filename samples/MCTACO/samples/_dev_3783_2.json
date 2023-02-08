@@ -1,0 +1,83 @@
+[
+    {
+        "sentence1": "Wallace, 38, called Gastonia home from the age of 8 until she graduated from Hunter Huss High School in 1983. When did Wallace wake up for high school?",
+        "qas": [
+            {
+                "sentence2": "at midnight",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "Pompey, Julius Caesar and Augustus all visited the tomb in Alexandria, where Augustus, allegedly, accidentally knocked the nose off. How often do Pompey, Julius Caesar, and Augustus visit the tomb?",
+        "qas": [
+            {
+                "sentence2": "once a year",
+                "label": "yes"
+            }
+        ]
+    },
+    {
+        "sentence1": "A levee is a raised strip of sediments deposited close to the waters edge. How often are sediments raised?",
+        "qas": [
+            {
+                "sentence2": "once each minute",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "He says that instead of everyone dying , they could keep at least one of their princes alive . How often do people die?",
+        "qas": [
+            {
+                "sentence2": "every year",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "He would splash and play until he was ready to go back home, where he would sleep for hours, having worn himself out playing. Was he still worn out after sleeping?",
+        "qas": [
+            {
+                "sentence2": "no",
+                "label": "yes"
+            }
+        ]
+    },
+    {
+        "sentence1": "Another way is when an animal or plant is brought to an area where it does not belong. Are animals still being brought to places they aren't native to?",
+        "qas": [
+            {
+                "sentence2": "yes",
+                "label": "yes"
+            }
+        ]
+    },
+    {
+        "sentence1": "The suggestion that you are some one else is the thing to strive for, not the concealment of who you really are. How often do people conceal who they truly are?",
+        "qas": [
+            {
+                "sentence2": "every 3rd day",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "His son and successor, Caracalla, a great admirer, visited the tomb during his own reign. What did he do when he left the tomb?",
+        "qas": [
+            {
+                "sentence2": "sang a song",
+                "label": "no"
+            }
+        ]
+    },
+    {
+        "sentence1": "W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost. How long did Gorbachev's campaign last?",
+        "qas": [
+            {
+                "sentence2": "century",
+                "label": "no"
+            }
+        ]
+    }
+]

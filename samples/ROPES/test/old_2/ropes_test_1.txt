@@ -1,0 +1,1975 @@
+PassageID: 0
+Passage: Chills is a feeling of coldness occurring during a high fever, but sometimes is also a common symptom which occurs alone in specific people. It occurs during fever due to the release of cytokines and prostaglandins as part of the inflammatory response, which increases the set point for body temperature in the hypothalamus. The increased set point causes the body temperature to rise (pyrexia), but also makes the patient feel cold or chills until the new set point is reached. Shivering also occurs along with chills because the patient's body produces heat during muscle contraction in a physiological attempt to increase body temperature to the new set point. When it does not accompany a high fever, it is normally a light chill. Sometimes a chill of medium power and short duration may occur during a scare, especially in scares of fear, commonly interpreted like or confused by trembling. 
+
+Questions:
+QuestionID: 401725444
+Question: Beth has been coughing all morning and she has a high fever. She decided to stay home but has noticed that she can not get warm and is shaking. Meanwhile her roommate Susan was driving to work when she was suddenly cut off by a large truck and had to go off the road to narrowly miss an accident. Susan was terrified, she looked at the steering wheel and saw that her hands were shaking. Is Susan sick.
+Answer: no
+Explanation: 
+
+QuestionID: 401725444
+Question: Amelia has been coughing all morning and she has a high fever. She decided to stay home but has noticed that she can not get warm and is shaking. Meanwhile her roommate Jennifer was driving to work when she was suddenly cut off by a large truck and had to go off the road to narrowly miss an accident. Jennifer was terrified, she looked at the steering wheel and saw that her hands were shaking. Is Jennifer sick or not sick?
+Answer: not sick
+Explanation: 
+
+QuestionID: 2989347170
+Question: Beth has been coughing all morning and. She decided to stay home but has noticed that she can not get warm and is shaking. Meanwhile her roommate Susan was driving to work when she was suddenly cut off by a large truck and had to go off the road to narrowly miss an accident. Susan was terrified, she looked at the steering wheel and saw that her hands were shaking. Who has a fever.
+Answer: Beth
+Explanation: 
+
+QuestionID: 401725444
+Question: Amelia has been coughing all morning and she has a high fever. She decided to stay home but has noticed that she can not get warm and is shaking. Meanwhile her roommate Jennifer was driving to work when she was suddenly cut off by a large truck and had to go off the road to narrowly miss an accident. Jennifer was terrified, she looked at the steering wheel and saw that her hands were shaking. Is Jennifer sick or not sick?
+Answer: not sick
+Explanation: 
+
+QuestionID: 4198878132
+Question: Beth has been coughing all morning and. She decided to stay home but has noticed that she can not get warm and is shaking. Meanwhile her roommate Susan was driving to work when she was suddenly cut off by a large truck and had to go off the road to narrowly miss an accident. Susan looked at the steering wheel and saw that her hands were shaking. Who is frightened.
+Answer: Susan
+Explanation: 
+
+QuestionID: 401725444
+Question: Amelia has been coughing all morning and she has a high fever. She decided to stay home but has noticed that she can not get warm and is shaking. Meanwhile her roommate Jennifer was driving to work when she was suddenly cut off by a large truck and had to go off the road to narrowly miss an accident. Jennifer was terrified, she looked at the steering wheel and saw that her hands were shaking. Is Jennifer sick or not sick?
+Answer: not sick
+Explanation: 
+
+--------------------------------------------------
+PassageID: 1
+Passage: Another possible benefit of aggregation is to protect against predation by group anti-predator behavior. Many species exhibit higher rates of predator vigilance behavior per individual at lower density. This increased vigilance might result in less time and energy spent on foraging, thus reducing the fitness of an individual living in smaller groups. One striking example of such shared vigilance is exhibited by meerkats. Meanwhile, other species move in synchrony to confuse and avoid predators such as schools of sardines and flocks of starlings. The confusion effect that this herding behavior would have on predators will be more effective when more individuals are present.Cooperative feeding Camilla is interested in how smaller fish avoid larger predators.
+
+Questions:
+QuestionID: 2735374031
+Question: She has been observing two groups of fish: Group A travels together in the same direction in a coordination fashion. Group B also travels together, but each fish moves somewhat independently. Which group is more likely to confuse and avoid predators, Group A or Group B?
+Answer: Group A
+Explanation: 
+
+QuestionID: 618102581
+Question: She has been observing two groups of fish: Group A travels together in the same direction in a coordination fashion. Group B also travels together, but each fish moves somewhat independently. Which group is least likely to confuse and avoid predators, Group A or Group B?
+Answer: Group B
+Explanation: 
+
+QuestionID: 4141710789
+Question: She has been observing two groups of fish: Group A travels together in the same direction in a coordination fashion. Group B also travels together, but each fish moves somewhat independently. Is Group A more or less likely than Group B to confuse and avoid predators?
+Answer: more
+Explanation: 
+
+QuestionID: 4143873477
+Question: She has been observing two groups of fish: Group A travels together in the same direction in a coordination fashion. Group B also travels together, but each fish moves somewhat independently. Is Group B more or less likely than Group A to confuse and avoid predators?
+Answer: less
+Explanation: 
+
+QuestionID: 2735374031
+Question: She has been observing two groups of fish: group A and group B.  The former travels together, but each fish moves somewhat independently. The latter travels together in the same direction in a coordination fashion. Which group is more likely to confuse and avoid predators, Group A or Group B?
+Answer: Group B
+Explanation: 
+
+QuestionID: 618102581
+Question: She has been observing two groups of fish: group A and group B.  The former travels together, but each fish moves somewhat independently. The latter travels together in the same direction in a coordination fashion. Which group is least likely to confuse and avoid predators, Group A or Group B?
+Answer: Group A
+Explanation: 
+
+QuestionID: 4141710789
+Question: She has been observing two groups of fish: group A and group B.  The former travels together, but each fish moves somewhat independently. The latter travels together in the same direction in a coordination fashion. Is Group A more or less likely than Group B to confuse and avoid predators?
+Answer: less
+Explanation: 
+
+QuestionID: 4143873477
+Question: She has been observing two groups of fish: group A and group B.  The former travels together, but each fish moves somewhat independently. The latter travels together in the same direction in a coordination fashion. Is Group B more or less likely than Group A to confuse and avoid predators?
+Answer: more
+Explanation: 
+
+--------------------------------------------------
+PassageID: 2
+Passage: Allergy symptoms can range from mild to severe. Mild symptoms might include itchy eyes, sneezing, and a runny nose. Severe symptoms can cause difficulty breathing, which may be life threatening. Keep in mind that it is the immune system and not the allergen that causes the allergy symptoms. Allergy symptoms can be treated with medications such as antihistamines. Severe allergic reactions may require an injection of the hormone epinephrine. These treatments lessen or counter the immune system’s response. 
+
+Questions:
+QuestionID: 2715363240
+Question: Jane and his friends Sue and Jim decided to have a picnic. Sue was sneezing and her eyes were itching but her friends were fine and enjoyed their meal. As they were packing up a bee stung Jim and his throat started to swell and he was having trouble breathing. Who was having an allergic reaction
+Answer: Sue and Jim
+Explanation: 
+
+QuestionID: 1132472632
+Question: Jane and his friends Sue and Jim decided to have a picnic. Sue was sneezing and her eyes were itching but her friends were fine and enjoyed their meal. As they were packing up a bee stung Jim and his throat started to swell and he was having trouble breathing. Who was not having an allergic reaction?
+Answer: Jane
+Explanation: 
+
+QuestionID: 1264593297
+Question: Jane and his friends Sue and Jim decided to have a picnic. Sue was sneezing and her eyes were itching but her friends were fine and enjoyed their meal. As they were packing up a bee stung Jim and his throat started to swell and he was having trouble breathing. Who would benefit from an antihistamine?
+Answer: Sue
+Explanation: 
+
+QuestionID: 2180655051
+Question: Jane and his friends Sue and Jim decided to have a picnic. Sue was sneezing and her eyes were itching but her friends were fine and enjoyed their meal. As they were packing up a bee stung Jim and his throat started to swell and he was having trouble breathing. Who would benefit from epinephrine?
+Answer: Jim
+Explanation: 
+
+QuestionID: 2269596752
+Question: Beth and Ann's class was going on a picnic. The teacher had made sure all the other children new not to bring anything that had nut in it because If Beth even touch nuts she would start to swell and her throat would close so that she could not breath. But at least she could play outside and run through the grass without sneezing and coughing like her friend Ann. Who were more likely to get allergies in the picnic?
+Answer: Ann
+Explanation: 
+
+QuestionID: 107300798
+Question: Beth and Ann's class was going on a picnic. The teacher had made sure all the other children new not to bring anything that had nut in it because If Beth even touch nuts she would start to swell and her throat would close so that she could not breath. But at least she could play outside and run through the grass without sneezing and coughing like her friend Ann. Who has allergies?
+Answer: Beth and Ann
+Explanation: 
+
+QuestionID: 1875987942
+Question: Beth and Ann's class was going on a picnic. The teacher had made sure all the other children new not to bring anything that had nut in it because If Beth even touch nuts she would start to swell and her throat would close so that she could not breath. But at least she could play outside and run through the grass without sneezing and coughing like her friend Ann. Who probably uses antihistamines?
+Answer: Ann
+Explanation: 
+
+QuestionID: 2260683932
+Question: Beth and Ann's class was going on a picnic. The teacher had made sure all the other children new not to bring anything that had nut in it because If Beth even touch nuts she would start to swell and her throat would close so that she could not breath. But at least she could play outside and run through the grass without sneezing and coughing like her friend Ann. Who probably uses epinephrine?
+Answer: Beth
+Explanation: 
+
+QuestionID: 2135903291
+Question: Beth and Ann's class was going on a picnic. The teacher had made sure all the other children new not to bring anything that had nut in it because If Beth even touch nuts she would start to swell and her throat would close so that she could not breath. But at least she could play outside and run through the grass without sneezing and coughing like her friend Ann. Who has more severe allergies?
+Answer: Beth
+Explanation: 
+
+QuestionID: 2139442239
+Question: Beth and Ann's class was going on a picnic. The teacher had made sure all the other children new not to bring anything that had nut in it because If Beth even touch nuts she would start to swell and her throat would close so that she could not breath. But at least she could play outside and run through the grass without sneezing and coughing like her friend Ann. Who has less severe allergies?
+Answer: Ann
+Explanation: 
+
+QuestionID: 2055296395
+Question: Beth and Ann's class was going on a picnic. The teacher had made sure all the other children new not to bring anything that had nut in it because If Beth even touch nuts she would start to swell and her throat would close so that she could not breath. But at least she could play outside and run through the grass without sneezing and coughing like her friend Ann. Whose immune system is responding to things in the air?
+Answer: Ann
+Explanation: 
+
+QuestionID: 2065388694
+Question: Beth and Ann's class was going on a picnic. The teacher had made sure all the other children new not to bring anything that had nut in it because If Beth even touch nuts she would start to swell and her throat would close so that she could not breath. But at least she could play outside and run through the grass without sneezing and coughing like her friend Ann. Whose immune system is responding to things in food?
+Answer: Beth
+Explanation: 
+
+QuestionID: 3488503397
+Question: Beth and Ann's class was going on a picnic. The teacher had made sure all the other children new not to bring anything that had nut in it because If Beth even touch nuts she would start to swell and her throat would close so that she could not breath. But at least she could play outside and run through the grass without sneezing and coughing like her friend Ann. Whose immune system causing a life threatening response?
+Answer: Beth
+Explanation: 
+
+QuestionID: 2269596752
+Question: Beth and Ann's class was going on a picnic. The teacher had made sure all the other children new not to bring anything that had nut in it because If Beth even touch nuts she would start to swell and her throat would close so that she could not breath. But at least she could play outside and run through the grass without sneezing and coughing like her friend Ann. Whose symptoms can be treated?
+Answer: Beth and Ann's
+Explanation: 
+
+QuestionID: 1011307880
+Question: Tim, Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. Who is having an allergic reaction?
+Answer: Beth and Jane
+Explanation: 
+
+QuestionID: 1500928489
+Question: Tim, Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. Who is having an less severe allergic reaction?
+Answer: Jane
+Explanation: 
+
+QuestionID: 1495292389
+Question: Tim, Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. Who is having an more severe allergic reaction?
+Answer: Beth
+Explanation: 
+
+QuestionID: 4125315438
+Question: Tim, Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. What is Jane allergic to?
+Answer: pollen
+Explanation: 
+
+QuestionID: 4129247603
+Question: Tim, Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. What is Beth allergic to?
+Answer: bee
+Explanation: 
+
+QuestionID: 3145685570
+Question: Tim, Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. Will an antihistamine make Jane better or worse?
+Answer: better
+Explanation: 
+
+QuestionID: 4269299833
+Question: Tim, Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. Will epinephrane make Beth better or worse?
+Answer: better
+Explanation: 
+
+QuestionID: 1320179972
+Question: Tim, Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. Does Jane need epinephrine or anihistamines?
+Answer: anihistamines
+Explanation: 
+
+QuestionID: 2738172217
+Question: Beth and Mark where hiking. Mike was not having a good time. The pollen count was very high today and his eyes and throat were itching and he couldn't stop sneezing. When they sat down to rest Beth felt a sting on her arm and saw a be fly away. Her throat started to close and she was struggling to breath. Who had allergies?
+Answer: Beth and Mark
+Explanation: 
+
+QuestionID: 3131389716
+Question: Beth and Mark where hiking. Mike was not having a good time. The pollen count was very high today and his eyes and throat were itching and he couldn't stop sneezing. When they sat down to rest Beth felt a sting on her arm and saw a be fly away. Her throat started to close and she was struggling to breath. Whose allergies were more severe?
+Answer: Beth
+Explanation: 
+
+QuestionID: 3132307224
+Question: Beth and Mark where hiking. Mike was not having a good time. The pollen count was very high today and his eyes and throat were itching and he couldn't stop sneezing. When they sat down to rest Beth felt a sting on her arm and saw a be fly away. Her throat started to close and she was struggling to breath. Whose allergies were less severe?
+Answer: Mark
+Explanation: 
+
+QuestionID: 940325200
+Question: Beth and Mark where hiking. Mike was not having a good time. The pollen count was very high today and his eyes and throat were itching and he couldn't stop sneezing. When they sat down to rest Beth felt a sting on her arm and saw a be fly away. Her throat started to close and she was struggling to breath. Who would be helped by an antihistamine?
+Answer: Mark
+Explanation: 
+
+QuestionID: 535508874
+Question: Beth and Mark where hiking. Mike was not having a good time. The pollen count was very high today and his eyes and throat were itching and he couldn't stop sneezing. When they sat down to rest Beth felt a sting on her arm and saw a be fly away. Her throat started to close and she was struggling to breath. Who would be helped by epinephrine?
+Answer: Beth
+Explanation: 
+
+QuestionID: 2561357973
+Question: Beth and Mark where hiking. Mike was not having a good time. The pollen count was very high today and his eyes and throat were itching and he couldn't stop sneezing. When they sat down to rest Beth felt a sting on her arm and saw a be fly away. Her throat started to close and she was struggling to breath. Whose allergies are life threatening?
+Answer: Beth
+Explanation: 
+
+QuestionID: 2269596752
+Question: Beth and Ann's class was going on a picnic. The teacher had made sure all the other children new not to bring anything that had nut in it because If Beth even touch nuts she would start to swell and her throat would close so that she could not breath. But at least she could play outside and run through the grass without sneezing and coughing like her friend Ann. Who were more likely to get allergies in the picnic?
+Answer: Ann
+Explanation: 
+
+QuestionID: 1011307880
+Question: Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing  a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. Who is having an allergic reaction?
+Answer: Beth and Jane
+Explanation: 
+
+QuestionID: 1500928489
+Question: Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing  a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. Who is having an less severe allergic reaction?
+Answer: Jane
+Explanation: 
+
+QuestionID: 1495292389
+Question: Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing  a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. Who is having an more severe allergic reaction?
+Answer: Beth
+Explanation: 
+
+QuestionID: 3638714305
+Question: Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing  a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. Whose Janes immune system or the pollen causing her symptoms??
+Answer: immune system
+Explanation: 
+
+QuestionID: 162815631
+Question: Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing  a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. Whose Beth's immune system or the bee causing her symptoms??
+Answer: immune system
+Explanation: 
+
+QuestionID: 4125315438
+Question: Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing  a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. What is Jane allergic to?
+Answer: pollen
+Explanation: 
+
+QuestionID: 4129247603
+Question: Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing  a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. What is Beth allergic to?
+Answer: bee
+Explanation: 
+
+QuestionID: 3145685570
+Question: Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing  a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. Will an antihistamine make Jane better or worse?
+Answer: better
+Explanation: 
+
+QuestionID: 4269299833
+Question: Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing  a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. Will epinephrane make Beth better or worse?
+Answer: better
+Explanation: 
+
+QuestionID: 1320179972
+Question: Beth and Jane were enjoying the outdoors. But the pollen levels were high today and so Jane's eyes were itching and she was sneezing  a lot. Beth was about to suggest they go inside and get Jane an antihistamine when she felt a sharp sting on her arm as she saw a bee fly away. Suddenly she felt her throat swelling and she could not breath, Beth reached in her pocket for her epinephrine. Does Jane need epinephrine or anihistamines?
+Answer: anihistamines
+Explanation: 
+
+QuestionID: 2269596752
+Question: Beth and Ann's class was going on a picnic. The teacher had made sure all the other children new not to bring anything that had nut in it because If Beth even touch nuts she would start to swell and her throat would close so that she could not breath. But at least she could play outside and run through the grass without sneezing and coughing like her friend Ann. Who were more likely to get allergies in the picnic?
+Answer: Ann
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3
+Passage: As new changes in the DNA sequence are constantly being generated in a population's gene pool (changing the population's allele frequencies), some of these changes will be beneficial and result in traits that allow adaptation and survival. Natural selection causes evolution of a species as these beneficial traits become more common within a population. Evolution can occur within a species without completely resulting in a new species. Therefore, evolution and speciation are not the same. In population of mice, young mice could be born with one of three colors. They were born with grey, black or white fur. Initially the color was random.
+
+Questions:
+QuestionID: 4027853951
+Question: However black coloring made the mice easy targets for fox and cats during the day while white coloring made them easy targets for owls at night. Which colors were a disadvantage?
+Answer: black or white
+Explanation: 
+
+QuestionID: 3112251952
+Question: However black coloring made the mice easy targets for fox and cats during the day while white coloring made them easy targets for owls at night. Which color mouse was least likely to reproduce?
+Answer: black or white
+Explanation: 
+
+QuestionID: 2323002672
+Question: However black coloring made the mice easy targets for fox and cats during the day while white coloring made them easy targets for owls at night. Which color mouse was most least likely to pass on genes?
+Answer: black or white
+Explanation: 
+
+QuestionID: 2276799384
+Question: However black coloring made the mice easy targets for fox and cats during the day while white coloring made them easy targets for owls at night. What color mouse would become less common over time?
+Answer: black or white
+Explanation: 
+
+QuestionID: 525021953
+Question: However black coloring made the mice easy targets for fox and cats during the day while white coloring made them easy targets for owls at night. What color mouse was favored by natural selection?
+Answer: grey
+Explanation: 
+
+QuestionID: 243937315
+Question: However black coloring made the mice easy targets for fox and cats during the day while white coloring made them easy targets for owls at night. Were the grey mice a new or the same species?
+Answer: same species
+Explanation: 
+
+QuestionID: 4027853951
+Question: However grey coloring made the mice easy targets for fox and cats during the day and also easy targets during for owls during the night. While, black mice were easy targets during the day also for fox and cats, and white mice were easy targets during the night for owls; they were not exposed to the constant predation. Which colors were a disadvantage?
+Answer: grey
+Explanation: 
+
+QuestionID: 3112251952
+Question: However grey coloring made the mice easy targets for fox and cats during the day and also easy targets during for owls during the night. While, black mice were easy targets during the day also for fox and cats, and white mice were easy targets during the night for owls; they were not exposed to the constant predation. Which color mouse was least likely to reproduce?
+Answer: grey
+Explanation: 
+
+QuestionID: 2323002672
+Question: However grey coloring made the mice easy targets for fox and cats during the day and also easy targets during for owls during the night. While, black mice were easy targets during the day also for fox and cats, and white mice were easy targets during the night for owls; they were not exposed to the constant predation. Which color mouse was most least likely to pass on genes?
+Answer: grey
+Explanation: 
+
+QuestionID: 2276799384
+Question: However grey coloring made the mice easy targets for fox and cats during the day and also easy targets during for owls during the night. While, black mice were easy targets during the day also for fox and cats, and white mice were easy targets during the night for owls; they were not exposed to the constant predation. What color mouse would become less common over time?
+Answer: grey
+Explanation: 
+
+QuestionID: 243937315
+Question: However grey coloring made the mice easy targets for fox and cats during the day and also easy targets during for owls during the night. While, black mice were easy targets during the day also for fox and cats, and white mice were easy targets during the night for owls; they were not exposed to the constant predation. Were the grey mice a new or the same species?
+Answer: same species
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4
+Passage: Habitat destruction has played a key role in extinctions, especially in relation to tropical forest destruction. Factors contributing to habitat loss include: overconsumption, overpopulation, land use change, deforestation, pollution (air pollution, water pollution, soil contamination) and global warming or climate change.Habitat size and numbers of species are systematically related. Physically larger species and those living at lower latitudes or in forests or oceans are more sensitive to reduction in habitat area. Conversion to "trivial" standardized ecosystems (e.g., monoculture following deforestation) effectively destroys habitat for the more diverse species that preceded the conversion. Even the simplest forms of agriculture affect diversity – through clearing/draining land, discouraging weeds and "pests", and encouraging just a limited set of domesticated plant and animal species. In some countries lack of property rights or lax law/regulatory enforcement necessarily leads to biodiversity loss (degradation costs having to be supported by the community).A 2007 study conducted by the National Science Foundation found that biodiversity and genetic diversity are codependent—that diversity among species requires diversity within a species and vice versa. "If any one type is removed from the system, the cycle can break down and the community becomes dominated by a single species." Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions.
+
+Questions:
+QuestionID: 4260809924
+Question: Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area. In which tropical forest is the extinction of an animal species more likely?
+Answer: Tropical Forest B
+Explanation: 
+
+QuestionID: 4261727432
+Question: Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area. In which tropical forest is the extinction of an animal species less likely?
+Answer: Tropical Forest A
+Explanation: 
+
+QuestionID: 633915158
+Question: Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area. In which tropical forest will the number of species be lower?
+Answer: Tropical Forest B
+Explanation: 
+
+QuestionID: 3973629796
+Question: Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area. In which tropical forest will the number of species be higher?
+Answer: Tropical Forest A
+Explanation: 
+
+QuestionID: 3303791241
+Question: Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area. Will the number of species in Tropical Forest A be larger or smaller than the number of species in Tropical Forest B?
+Answer: larger
+Explanation: 
+
+QuestionID: 3308313225
+Question: Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area. Will the number of species in Tropical Forest B be larger or smaller than the number of species in Tropical Forest A?
+Answer: smaller
+Explanation: 
+
+QuestionID: 781045996
+Question: Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area. In which tropical forest will biodiversity and genetic diversity of species be higher?
+Answer: Tropical Forest A
+Explanation: 
+
+QuestionID: 1575407774
+Question: Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area. In which tropical forest will biodiversity and genetic diversity of species be lower?
+Answer: Tropical Forest B
+Explanation: 
+
+QuestionID: 2148981914
+Question: Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area. Will the biodiversity and genetic diversity of species in Tropical Forest A be higher or lower than in Tropical Forest B?
+Answer: higher
+Explanation: 
+
+QuestionID: 2151931034
+Question: Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area. Will the biodiversity and genetic diversity of species in Tropical Forest B be higher or lower than in Tropical Forest A?
+Answer: lower
+Explanation: 
+
+QuestionID: 4260809924
+Question: Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area. In which tropical forest is the extinction of an animal species more likely?
+Answer: Tropical Forest A
+Explanation: 
+
+QuestionID: 4261727432
+Question: Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area. In which tropical forest is the extinction of an animal species less likely?
+Answer: Tropical Forest B
+Explanation: 
+
+QuestionID: 633915158
+Question: Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area. In which tropical forest will the number of species be lower?
+Answer: Tropical Forest A
+Explanation: 
+
+QuestionID: 3973629796
+Question: Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area. In which tropical forest will the number of species be higher?
+Answer: Tropical Forest B
+Explanation: 
+
+QuestionID: 3303791241
+Question: Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area. Will the number of species in Tropical Forest A be larger or smaller than the number of species in Tropical Forest B?
+Answer: smaller
+Explanation: 
+
+QuestionID: 3308313225
+Question: Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area. Will the number of species in Tropical Forest B be larger or smaller than the number of species in Tropical Forest A?
+Answer: larger
+Explanation: 
+
+QuestionID: 781045996
+Question: Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area. In which tropical forest will biodiversity and genetic diversity of species be higher?
+Answer: Tropical Forest B
+Explanation: 
+
+QuestionID: 1575407774
+Question: Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area. In which tropical forest will biodiversity and genetic diversity of species be lower?
+Answer: Tropical Forest A
+Explanation: 
+
+QuestionID: 2148981914
+Question: Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area. Will the biodiversity and genetic diversity of species in Tropical Forest A be higher or lower than in Tropical Forest B?
+Answer: lower
+Explanation: 
+
+QuestionID: 2151931034
+Question: Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area. Will the biodiversity and genetic diversity of species in Tropical Forest B be higher or lower than in Tropical Forest A?
+Answer: higher
+Explanation: 
+
+--------------------------------------------------
+PassageID: 5
+Passage: Mechanical weathering increases the rate of chemical weathering. As rock breaks into smaller pieces, the surface area of the pieces increases. With more surfaces exposed, there are more places for chemical weathering to occur. Let’s say you wanted to make some hot chocolate on a cold day. It would be hard to get a big chunk of chocolate to dissolve in your milk or hot water. Maybe you could make hot chocolate from some smaller pieces like chocolate chips, but it is much easier to add a powder to your milk. This is because the smaller the pieces are, the more surface area they have. Smaller pieces dissolve more easily. 
+
+Questions:
+QuestionID: 1497965602
+Question: Jane and Beth both decided to have a glass of ice tea. Beth put a large chunk of ice in her glass then poured the tea while Jane use crushed ice. Whose ice has more exposed surface area?
+Answer: Jane
+Explanation: 
+
+QuestionID: 1502553126
+Question: Jane and Beth both decided to have a glass of ice tea. Beth put a large chunk of ice in her glass then poured the tea while Jane use crushed ice. Whose ice has less exposed surface area?
+Answer: Beth
+Explanation: 
+
+QuestionID: 2684559208
+Question: Jane and Beth both decided to have a glass of ice tea. Beth put a large chunk of ice in her glass then poured the tea while Jane use crushed ice. Whose ice will melt faster?
+Answer: Jane
+Explanation: 
+
+QuestionID: 2694324095
+Question: Jane and Beth both decided to have a glass of ice tea. Beth put a large chunk of ice in her glass then poured the tea while Jane use crushed ice. Whose ice will melt slower?
+Answer: Beth
+Explanation: 
+
+QuestionID: 1594109143
+Question: Jane and Beth both decided to have a glass of ice tea. Beth put a large chunk of ice in her glass then poured the tea while Jane use crushed ice. If Beth breaks up her chunk of ice will it melt slower or faster??
+Answer: slower
+Explanation: 
+
+QuestionID: 2515157685
+Question: Sue and Ann were both having a glass of ice tea. Sue has 2 cubes of sugar but Ann has the same amount of granulated sugar. They exchange the sugar to each other and put the sugar to their ice tea They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea was ready faster.
+Answer: Sue
+Explanation: 
+
+QuestionID: 279331317
+Question: Sue and Ann were both having a glass of ice tea. Sue has 2 cubes of sugar but Ann has the same amount of granulated sugar. They exchange the sugar to each other and put the sugar to their ice tea They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea was ready last?
+Answer: Ann
+Explanation: 
+
+QuestionID: 2305902260
+Question: Sue and Ann were both having a glass of ice tea. Sue has 2 cubes of sugar but Ann has the same amount of granulated sugar. They exchange the sugar to each other and put the sugar to their ice tea They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea needed to be stirred longer?
+Answer: Ann
+Explanation: 
+
+QuestionID: 1117210192
+Question: Sue and Ann were both having a glass of ice tea. Sue has 2 cubes of sugar but Ann has the same amount of granulated sugar. They exchange the sugar to each other and put the sugar to their ice tea They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea needed to be stirred lless?
+Answer: Sue
+Explanation: 
+
+QuestionID: 273841871
+Question: Beth, Jane and Ann were making chocolate eggs for their churches Easter sale. They decided to make three batches s of chocolate coating. They all started with a chunk of chocolate that needed to be melted in a double boiler.  Beth and Jane grated their chocolate first. Ann just threw the hole chunk into the double boiler. Beth stirred her chocolate while Jane and Ann let their melt on it's own. Will Jane or Ann's chocolate melt faster?
+Answer: Jane
+Explanation: 
+
+QuestionID: 2421325621
+Question: Beth, Jane and Ann were making chocolate eggs for their churches Easter sale. They decided to make three batches s of chocolate coating. They all started with a chunk of chocolate that needed to be melted in a double boiler.  Beth and Jane grated their chocolate first. Ann just threw the hole chunk into the double boiler. Beth stirred her chocolate while Jane and Ann let their melt on it's own. Will Jane or Beth's chocolate melt faster?
+Answer: Jane
+Explanation: 
+
+QuestionID: 283999956
+Question: Beth, Jane and Ann were making chocolate eggs for their churches Easter sale. They decided to make three batches s of chocolate coating. They all started with a chunk of chocolate that needed to be melted in a double boiler.  Beth and Jane grated their chocolate first. Ann just threw the hole chunk into the double boiler. Beth stirred her chocolate while Jane and Ann let their melt on it's own. Will Beth or Ann's chocolate melt faster?
+Answer: Beth
+Explanation: 
+
+QuestionID: 2559279785
+Question: Beth, Jane and Ann were making chocolate eggs for their churches Easter sale. They decided to make three batches s of chocolate coating. They all started with a chunk of chocolate that needed to be melted in a double boiler.  Beth and Jane grated their chocolate first. Ann just threw the hole chunk into the double boiler. Beth stirred her chocolate while Jane and Ann let their melt on it's own. Does Beth or Ann's chocolate have more surface area?
+Answer: Beth
+Explanation: 
+
+QuestionID: 2545517220
+Question: Beth, Jane and Ann were making chocolate eggs for their churches Easter sale. They decided to make three batches s of chocolate coating. They all started with a chunk of chocolate that needed to be melted in a double boiler.  Beth and Jane grated their chocolate first. Ann just threw the hole chunk into the double boiler. Beth stirred her chocolate while Jane and Ann let their melt on it's own. Does Jane or Ann's chocolate have more surface area?
+Answer: Jane
+Explanation: 
+
+QuestionID: 2515157685
+Question: Sue and Ann were both having a glass of ice tea. Sue has 2 cubes of sugar but Ann has the same amount of granulated sugar. They exchange the sugar to each other and put the sugar to their ice tea They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea was ready faster.
+Answer: Sue
+Explanation: 
+
+QuestionID: 279331317
+Question: Sue and Ann were both having a glass of ice tea. Sue has 2 cubes of sugar but Ann has the same amount of granulated sugar. They exchange the sugar to each other and put the sugar to their ice tea They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea was ready last?
+Answer: Ann
+Explanation: 
+
+QuestionID: 2305902260
+Question: Sue and Ann were both having a glass of ice tea. Sue has 2 cubes of sugar but Ann has the same amount of granulated sugar. They exchange the sugar to each other and put the sugar to their ice tea They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea needed to be stirred longer?
+Answer: Ann
+Explanation: 
+
+QuestionID: 1117210192
+Question: Sue and Ann were both having a glass of ice tea. Sue has 2 cubes of sugar but Ann has the same amount of granulated sugar. They exchange the sugar to each other and put the sugar to their ice tea They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea needed to be stirred lless?
+Answer: Sue
+Explanation: 
+
+QuestionID: 3673983802
+Question: Beth, Jane and Ann were making chocolate eggs for their churches Easter sale. They decided to make three batches s of chocolate coating. They all started with a chunk of chocolate that needed to be melted in a double boiler.  Beth and Jane grated their chocolate first. Ann just threw the hole chunk into the double boiler. Beth stirred her chocolate while Jane and Ann let theirs melt on it's own. Would chopping her chocolate make Ann's chocolate melt faster or slower?
+Answer: faster
+Explanation: 
+
+QuestionID: 644578986
+Question: Beth, Jane and Ann were making chocolate eggs for their churches Easter sale. They decided to make three batches s of chocolate coating. They all started with a chunk of chocolate that needed to be melted in a double boiler.  Beth and Jane grated their chocolate first. Ann just threw the hole chunk into the double boiler. Beth stirred her chocolate while Jane and Ann let theirs melt on it's own. Who's chocolate will melt the fastest?
+Answer: Beth
+Explanation: 
+
+QuestionID: 2515157685
+Question: Sue and Ann were both having a glass of ice tea. Sue has 2 cubes of sugar but Ann has the same amount of granulated sugar. They exchange the sugar to each other and put the sugar to their ice tea They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea was ready faster.
+Answer: Sue
+Explanation: 
+
+QuestionID: 279331317
+Question: Sue and Ann were both having a glass of ice tea. Sue has 2 cubes of sugar but Ann has the same amount of granulated sugar. They exchange the sugar to each other and put the sugar to their ice tea They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea was ready last?
+Answer: Ann
+Explanation: 
+
+QuestionID: 2305902260
+Question: Sue and Ann were both having a glass of ice tea. Sue has 2 cubes of sugar but Ann has the same amount of granulated sugar. They exchange the sugar to each other and put the sugar to their ice tea They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea needed to be stirred longer?
+Answer: Ann
+Explanation: 
+
+QuestionID: 1117210192
+Question: Sue and Ann were both having a glass of ice tea. Sue has 2 cubes of sugar but Ann has the same amount of granulated sugar. They exchange the sugar to each other and put the sugar to their ice tea They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea needed to be stirred lless?
+Answer: Sue
+Explanation: 
+
+--------------------------------------------------
+PassageID: 6
+Passage: Any unused energy in foodâ€”whether it comes from carbohydrates, proteins, or lipidsâ€”is stored in the body as fat. An extra 3,500 Calories of energy results in the storage of almost half a kilogram (1 pound) of stored body fat. People who consistently consume more food energy then they need may become obese. Obesity occurs when the body mass index is 30.0 kg/m 2 or greater. Body mass index (BMI) is an estimate of the fat content of the body. It is calculated by dividing a personâ€™s weight (in kilograms) by the square of the personâ€™s height (in meters). Obesity increases the risk of health problems such as type 2 diabetes and hypertension. 
+
+Questions:
+QuestionID: 2624668250
+Question: Jane had always had a physical job. Recently she got a desk job. Jane realized that even though she was not as active as she used to be she was eating the same amount of food and wondered how this would effect her. Will jane lose or gain weight?
+Answer: gain
+Explanation: 
+
+QuestionID: 2624668250
+Question: Jane used to have a desk job and recently switched to a more physically intensive job. Jane realized that even though she was more active than she was before she used to be she was eating the same amount of food and wondered how this would effect her. Will jane lose or gain weight?
+Answer: lose
+Explanation: 
+
+QuestionID: 2727757037
+Question: Jane used to have a desk job and recently switched to a more physically intensive job. Jane realized that even though she was more active than she was before she used to be she was eating the same amount of food and wondered how this would effect her. Is jane using more or less calories than she is eating?
+Answer: more
+Explanation: 
+
+QuestionID: 3925362016
+Question: Jane used to have a desk job and recently switched to a more physically intensive job. Jane realized that even though she was more active than she was before she used to be she was eating the same amount of food and wondered how this would effect her. Is jane easting more or less calories than she is using?
+Answer: less
+Explanation: 
+
+QuestionID: 3327278640
+Question: Jane used to have a desk job and recently switched to a more physically intensive job. Jane realized that even though she was more active than she was before she used to be she was eating the same amount of food and wondered how this would effect her. Is jane storing or burning body fat?
+Answer: burning
+Explanation: 
+
+QuestionID: 2727757037
+Question: Jane had always had a physical job. Recently she got a desk job. Jane realized that even though she was not as active as she used to be she was eating the same amount of food and had gained weight. Is jane using more or less calories than she is eating?
+Answer: less
+Explanation: 
+
+QuestionID: 3925362016
+Question: Jane had always had a physical job. Recently she got a desk job. Jane realized that even though she was not as active as she used to be she was eating the same amount of food and had gained weight. Is jane easting more or less calories than she is using?
+Answer: more
+Explanation: 
+
+QuestionID: 3327278640
+Question: Jane had always had a physical job. Recently she got a desk job. Jane realized that even though she was not as active as she used to be she was eating the same amount of food and had gained weight. Is jane storing or burning body fat?
+Answer: storing
+Explanation: 
+
+QuestionID: 2624668250
+Question: Jane used to have a desk job and recently switched to a more physically intensive job. Jane realized that even though she was more active than she was before she used to be she was eating the same amount of food and wondered how this would effect her. Will jane lose or gain weight?
+Answer: lose
+Explanation: 
+
+QuestionID: 2727757037
+Question: Jane used to have a desk job and recently switched to a more physically intensive job. Jane realized that even though she was more active than she was before she used to be she was eating the same amount of food and wondered how this would effect her. Is jane using more or less calories than she is eating?
+Answer: more
+Explanation: 
+
+QuestionID: 3925362016
+Question: Jane used to have a desk job and recently switched to a more physically intensive job. Jane realized that even though she was more active than she was before she used to be she was eating the same amount of food and wondered how this would effect her. Is jane easting more or less calories than she is using?
+Answer: less
+Explanation: 
+
+QuestionID: 3327278640
+Question: Jane used to have a desk job and recently switched to a more physically intensive job. Jane realized that even though she was more active than she was before she used to be she was eating the same amount of food and wondered how this would effect her. Is jane storing or burning body fat?
+Answer: burning
+Explanation: 
+
+--------------------------------------------------
+PassageID: 7
+Passage: As time passes, the number of HIV copies keeps increasing, while the number of helper T cells keeps decreasing. The graph in Figure below shows how the number of T cells typically declines over a period of many years following the initial HIV infection. As the number of T cells decreases, so does the ability of the immune system to defend the body. As a result, an HIV-infected person develops frequent infections. Medicines can slow down the virus but not get rid of it, so there is no cure at present for HIV infections or AIDS. There also is no vaccine to immunize people against HIV infection, but scientists are working to develop one. Jason and Elton have both been diagnosed with HIV.
+
+Questions:
+QuestionID: 3025951783
+Question: Jason was initially diagnosed 5 years ago. Elton was initially diagnosed 15 years ago. Both Jason and Elton recently had routine doctor appointments and had blood work done to assess the progression of the disease. Who will have more copies of HIV in their blood, Jason or Elton?
+Answer: Elton
+Explanation: 
+
+QuestionID: 326196365
+Question: Jason was initially diagnosed 5 years ago. Elton was initially diagnosed 15 years ago. Both Jason and Elton recently had routine doctor appointments and had blood work done to assess the progression of the disease. Who will have fewer copies of HIV in their blood, Jason or Elton?
+Answer: Jason
+Explanation: 
+
+QuestionID: 3218298162
+Question: Jason was initially diagnosed 5 years ago. Elton was initially diagnosed 15 years ago. Both Jason and Elton recently had routine doctor appointments and had blood work done to assess the progression of the disease. Who will have fewer T cells, Jason or Elton?
+Answer: Elton
+Explanation: 
+
+QuestionID: 1764447436
+Question: Jason was initially diagnosed 5 years ago. Elton was initially diagnosed 15 years ago. Both Jason and Elton recently had routine doctor appointments and had blood work done to assess the progression of the disease. Who will have more T cells, Jason or Elton?
+Answer: Jason
+Explanation: 
+
+QuestionID: 2488294941
+Question: Jason was initially diagnosed 5 years ago. Elton was initially diagnosed 15 years ago. Both Jason and Elton recently had routine doctor appointments and had blood work done to assess the progression of the disease. Who is more likely to develop frequent infections, Jason or Elton?
+Answer: Elton
+Explanation: 
+
+QuestionID: 2501533217
+Question: Jason was initially diagnosed 5 years ago. Elton was initially diagnosed 15 years ago. Both Jason and Elton recently had routine doctor appointments and had blood work done to assess the progression of the disease. Who is less likely to develop frequent infections, Jason or Elton?
+Answer: Jason
+Explanation: 
+
+QuestionID: 3025951783
+Question: Jason was initially diagnosed 20 years ago. Elton was initially diagnosed 2 years ago. Both Jason and Elton recently had routine doctor appointments and had blood work done to assess the progression of the disease. Who will have more copies of HIV in their blood, Jason or Elton?
+Answer: Jason
+Explanation: 
+
+QuestionID: 326196365
+Question: Jason was initially diagnosed 20 years ago. Elton was initially diagnosed 2 years ago. Both Jason and Elton recently had routine doctor appointments and had blood work done to assess the progression of the disease. Who will have fewer copies of HIV in their blood, Jason or Elton?
+Answer: Elton
+Explanation: 
+
+QuestionID: 3218298162
+Question: Jason was initially diagnosed 20 years ago. Elton was initially diagnosed 2 years ago. Both Jason and Elton recently had routine doctor appointments and had blood work done to assess the progression of the disease. Who will have fewer T cells, Jason or Elton?
+Answer: Jason
+Explanation: 
+
+QuestionID: 1764447436
+Question: Jason was initially diagnosed 20 years ago. Elton was initially diagnosed 2 years ago. Both Jason and Elton recently had routine doctor appointments and had blood work done to assess the progression of the disease. Who will have more T cells, Jason or Elton?
+Answer: Elton
+Explanation: 
+
+QuestionID: 2488294941
+Question: Jason was initially diagnosed 20 years ago. Elton was initially diagnosed 2 years ago. Both Jason and Elton recently had routine doctor appointments and had blood work done to assess the progression of the disease. Who is more likely to develop frequent infections, Jason or Elton?
+Answer: Jason
+Explanation: 
+
+QuestionID: 2501533217
+Question: Jason was initially diagnosed 20 years ago. Elton was initially diagnosed 2 years ago. Both Jason and Elton recently had routine doctor appointments and had blood work done to assess the progression of the disease. Who is less likely to develop frequent infections, Jason or Elton?
+Answer: Elton
+Explanation: 
+
+--------------------------------------------------
+PassageID: 8
+Passage: In deep water, particles of water just move in circles. They don’t actually move closer to shore with the energy of the waves. However, near the shore where the water is shallow, the waves behave differently. Look at the Figure below . You can see how the waves start to drag on the bottom in shallow water. This creates friction that slows down the bottoms of the waves, while the tops of the waves keep moving at the same speed. The difference in speed causes the waves to get steeper until they topple over and break. The crashing waves carry water onto the shore as surf. Bob had seen the ocean before but only from the shore. He had always associated the ocean with waves moving towards him. Now he was on a boat for the first time he was awed by how still the water appeared to be.
+
+Questions:
+QuestionID: 1979268300
+Question: His friend told him that the water moved in circles here. Was Bob in deep or shallow water?
+Answer: deep
+Explanation: 
+
+QuestionID: 224675748
+Question: His friend told him that the water moved in circles here. What will start to drag as they move basck towards the shore??
+Answer: waves
+Explanation: 
+
+QuestionID: 1767327166
+Question: His friend told him that the water moved in circles here. Do waves get steeper or morre shallow before they break?
+Answer: steeper
+Explanation: 
+
+QuestionID: 4255464939
+Question: His friend told him that the water moved in circles here. What do waves carry onto the shore?
+Answer: water
+Explanation: 
+
+QuestionID: 1979268300
+Question: His friend who is familiar with water movement in deep water told him that the water moved in circles here. Was Bob in deep or shallow water?
+Answer: deep
+Explanation: 
+
+QuestionID: 224675748
+Question: His friend who is familiar with water movement in deep water told him that the water moved in circles here. What will start to drag as they move basck towards the shore??
+Answer: waves
+Explanation: 
+
+QuestionID: 1767327166
+Question: His friend who is familiar with water movement in deep water told him that the water moved in circles here. Do waves get steeper or morre shallow before they break?
+Answer: steeper
+Explanation: 
+
+QuestionID: 4255464939
+Question: His friend who is familiar with water movement in deep water told him that the water moved in circles here. What do waves carry onto the shore?
+Answer: water
+Explanation: 
+
+--------------------------------------------------
+PassageID: 9
+Passage: A mutant recessive allele, such as the allele that causes sickle cell anemia (see Figure below and the link that follows), is not expressed in people who inherit just one copy of it. These people are called carriers . They do not have the disorder themselves, but they carry the mutant allele and can pass it to their offspring. Thus, the allele is likely to pass on to the next generation rather than die out. http://www.dnalc.org/resources/3d/17-sickle-cell.html Mike was packing to go to the hospital again. It seemed like he was always in the hospital.
+
+Questions:
+QuestionID: 4242406531
+Question: Neither Mikes mom or dad had cystic fibrosis but Mike had inherited it from both of them. was Mike's dad a carrier of cystic fibrosis or non carrier?
+Answer: carrier
+Explanation: 
+
+QuestionID: 50003108
+Question: Neither Mikes mom or dad had cystic fibrosis but Mike had inherited it from both of them. was Mike's mon a carrier of cystic fibrosis or non carrier?
+Answer: carrier
+Explanation: 
+
+QuestionID: 260570805
+Question: Neither Mikes mom or dad had cystic fibrosis but Mike had inherited it from both of them. Is the allele that causes cystic fibrosis recesive or dominate.
+Answer: recesive
+Explanation: 
+
+QuestionID: 34930636
+Question: Neither Mikes mom or dad had cystic fibrosis but Mike had inherited it from both of them. Is the allele for cystic fibrosis likely to be passed on or die out?
+Answer: passed on
+Explanation: 
+
+QuestionID: 4242406531
+Question: He has a disease, cystic fibrosis, that he knows to be recessive. His dad also needs to go the hospital often due for the same treatment while his mother does not was Mike's dad a carrier of cystic fibrosis or non carrier?
+Answer: non carrier
+Explanation: 
+
+QuestionID: 50003108
+Question: He has a disease, cystic fibrosis, that he knows to be recessive. His dad also needs to go the hospital often due for the same treatment while his mother does not was Mike's mon a carrier of cystic fibrosis or non carrier?
+Answer: carrier
+Explanation: 
+
+QuestionID: 260570805
+Question: He has a disease, cystic fibrosis, that he knows to be recessive. His dad also needs to go the hospital often due for the same treatment while his mother does not Is the allele that causes cystic fibrosis recesive or dominate.
+Answer: recessive
+Explanation: 
+
+QuestionID: 34930636
+Question: He has a disease, cystic fibrosis, that he knows to be recessive. His dad also needs to go the hospital often due for the same treatment while his mother does not Is the allele for cystic fibrosis likely to be passed on or die out?
+Answer: passed on
+Explanation: 
+
+--------------------------------------------------
+PassageID: 10
+Passage: Some mutations have a positive effect on the organism in which they occur. They are called beneficial mutations . They lead to new versions of proteins that help organisms adapt to changes in their environment. Beneficial mutations are essential for evolution to occur. They increase an organismâ€™s changes of surviving or reproducing, so they are likely to become more common over time. There are several well-known examples of beneficial mutations. Here are just two: Milk is good for us we all know that. While babies can digest milk there was a time when adults could not.
+
+Questions:
+QuestionID: 3428143751
+Question: But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. What mutation accord?
+Answer: the ability to digest lactose
+Explanation: 
+
+QuestionID: 2957272732
+Question: But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Where people more or less likely to thrive if they could not digest lactose?
+Answer: less
+Explanation: 
+
+QuestionID: 2972738755
+Question: But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Were people more or less likely to thrive if they could digest lactose?
+Answer: more
+Explanation: 
+
+QuestionID: 3852297722
+Question: But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Were people more or less likely to reproduce if they could digest lactose?
+Answer: more
+Explanation: 
+
+QuestionID: 3938805715
+Question: But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Where people more or less likely to reproduce if they could not digest lactose?
+Answer: less
+Explanation: 
+
+QuestionID: 1565875353
+Question: But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Has Lactose tolerance become more or less common?
+Answer: more
+Explanation: 
+
+QuestionID: 456351088
+Question: But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Has Lactose intolerance become more or less common?
+Answer: less
+Explanation: 
+
+QuestionID: 3593822500
+Question: But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. What developed as a result of domesticating cattle and goats?
+Answer: the ability to digest lactose
+Explanation: 
+
+QuestionID: 3428143751
+Question: In places where people lived without livestock, a subpopulation developed a mutation where they could not digest milk at all. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. What mutation occured in the population that did not domestic livestock?
+Answer: a mutation where they could not digest milk
+Explanation: 
+
+QuestionID: 2957272732
+Question: In places where people lived without livestock, a subpopulation developed a mutation where they could not digest milk at all. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. In the population that did not domestic livestock, were people more likely to thrive if they could not digest lactose or not more likely?
+Answer: not more likely
+Explanation: 
+
+QuestionID: 2972738755
+Question: In places where people lived without livestock, a subpopulation developed a mutation where they could not digest milk at all. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Were people more or less likely to thrive if they could digest lactose in the group that domesticated animals?
+Answer: more
+Explanation: 
+
+QuestionID: 3852297722
+Question: In places where people lived without livestock, a subpopulation developed a mutation where they could not digest milk at all. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. In the group that did not domestic animals, were people that could digest lactose able to reproduce the same or more?
+Answer: same
+Explanation: 
+
+QuestionID: 3938805715
+Question: In places where people lived without livestock, a subpopulation developed a mutation where they could not digest milk at all. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Where people more or less likely to reproduce if they could not digest lactose if they lived in an area with domesticated animals?
+Answer: less
+Explanation: 
+
+QuestionID: 1565875353
+Question: In places where people lived without livestock, a subpopulation developed a mutation where they could not digest milk at all. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Has Lactose tolerance become more or less common among people who lived in the places that domestic animals?
+Answer: more
+Explanation: 
+
+QuestionID: 456351088
+Question: In places where people lived without livestock, a subpopulation developed a mutation where they could not digest milk at all. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Has Lactose tolerance become more or less common among people who lived in the places that domestic animals?
+Answer: less
+Explanation: 
+
+QuestionID: 3593822500
+Question: In places where people lived without livestock, a subpopulation developed a mutation where they could not digest milk at all. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. what did the group that did not domesticate animals lack the ability to do?
+Answer: the ability to digest lactose
+Explanation: 
+
+--------------------------------------------------
+PassageID: 11
+Passage: New species develop naturally through the process of natural selection . Due to natural selection, organisms with traits that better enable them to adapt to their environment will tend to survive and reproduce in greater numbers. Natural selection causes beneficial heritable traits to become more common in a population and unfavorable heritable traits to become less common. For example, a giraffeâ€™s neck is beneficial because it allows the giraffe to reach leaves high in trees. Natural selection caused this beneficial trait to become more common than short necks. When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there.
+
+Questions:
+QuestionID: 1880577116
+Question: Each one seemed to have the size beak that was perfect for the seeds it ate. Were finches with a certain size beak more or less likely to survive??
+Answer: more
+Explanation: 
+
+QuestionID: 3257029746
+Question: Each one seemed to have the size beak that was perfect for the seeds it ate. Were finches with a certain size beak more or less likely to find food?
+Answer: more
+Explanation: 
+
+QuestionID: 3607123478
+Question: Each one seemed to have the size beak that was perfect for the seeds it ate. Were finches with optimal sized beaks more or less likely to pass on genes
+Answer: more
+Explanation: 
+
+QuestionID: 3926480750
+Question: Each one seemed to have the size beak that was perfect for the seeds it ate. Were finches without optimal sized beaks more or less likely to pass on genes
+Answer: less
+Explanation: 
+
+QuestionID: 3843642780
+Question: Each one seemed to have the size beak that was perfect for the seeds it ate. Were finches without optimal sized beaks more or less likely to survive
+Answer: less
+Explanation: 
+
+QuestionID: 2394314225
+Question: Each one seemed to have the size beak that was perfect for the seeds it ate. Were finches without optimal sized beaks more or less likely to find food
+Answer: less
+Explanation: 
+
+QuestionID: 2693156625
+Question: Each one seemed to have the size beak that was perfect for the seeds it ate. Are beak sizes random or a response to the environment?
+Answer: response to the environment
+Explanation: 
+
+QuestionID: 1191137591
+Question: Each one seemed to have the size beak that was perfect for the seeds it ate. Would finches from one island thrive or struggle on another?
+Answer: struggle
+Explanation: 
+
+QuestionID: 2990626181
+Question: Each one seemed to have the size beak that was perfect for the seeds it ate. Is each species of finch able to thrive only on their island or anywhere??
+Answer: on their island
+Explanation: 
+
+QuestionID: 1671058462
+Question: Each one seemed to have the size beak that was perfect for the seeds it ate. Will a change in available food cause finches to thrive or struggle???
+Answer: struggle
+Explanation: 
+
+QuestionID: 1880577116
+Question: The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Were the small-beaked finches more or less likely to survive on the side with fruits?
+Answer: less
+Explanation: 
+
+QuestionID: 3257029746
+Question: The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Were the large-beaked finches more or less likely to find food on the side of the island with fruits?
+Answer: more
+Explanation: 
+
+QuestionID: 3607123478
+Question: The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Were the small-beaked finches more likely to pass on their genes on the side with fruits or seeds?
+Answer: seeds
+Explanation: 
+
+QuestionID: 3926480750
+Question: The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Were the large-beaked finches more likely to pass on their genes on the side with fruits or seeds?
+Answer: fruits
+Explanation: 
+
+QuestionID: 3843642780
+Question: The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Were the finches with large beaks worse or better at eating fruit?
+Answer: better
+Explanation: 
+
+QuestionID: 2394314225
+Question: The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Were the finches with large beaks worse or better at picking up seeds?
+Answer: worse
+Explanation: 
+
+QuestionID: 2693156625
+Question: The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Are beak sizes random or a response to the environment?
+Answer: response to the environment
+Explanation: 
+
+QuestionID: 1191137591
+Question: The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Will the finches do better or worse if they switched places to live?
+Answer: worse
+Explanation: 
+
+QuestionID: 2990626181
+Question: The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Will the finches do worse if they stay in the current location or switch locations?
+Answer: switch locations
+Explanation: 
+
+QuestionID: 1671058462
+Question: The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Will the large beaked finches suffer or not suffer if there were no more seeds?
+Answer: not suffer
+Explanation: 
+
+--------------------------------------------------
+PassageID: 12
+Passage: In most species of birds and mammals, one or both parents care for their offspring. Caring for the young may include making a nest or other shelter. It may also include feeding the young and protecting them from predators. Caring for offspring increases their chances of surviving. Birds called killdeers have an interesting way of protecting their chicks. When a predator gets too close to her nest, a mother killdeer pretends to have a broken wing. The mother walks away from the nest holding her wing as though it were injured ( Figure below ). The predator thinks she is injured and will be easy prey. The mother leads the predator away from the nest and then flies away. 
+
+Questions:
+QuestionID: 716068698
+Question: Mark was pruning a tree in his yard when he heard the sound of young squirrels. He started to look for the nest but to his surprise he only saw the mother. She was in a nearby tree and the noise he heard was coming from that direction. Was Mark hearing the babies or the mother?
+Answer: the mother
+Explanation: 
+
+QuestionID: 2026591606
+Question: Mark was pruning a tree in his yard when he heard the sound of young squirrels. He started to look for the nest but to his surprise he only saw the mother. She was in a nearby tree and the noise he heard was coming from that direction. Was the nest near Mark or the mother?
+Answer: Mark
+Explanation: 
+
+QuestionID: 3425722990
+Question: Mark was pruning a tree in his yard when he heard the sound of young squirrels. He started to look for the nest but to his surprise he only saw the mother. She was in a nearby tree and the noise he heard was coming from that direction. Was the mother trying to draw marks attention to or away from her nest?
+Answer: away from
+Explanation: 
+
+QuestionID: 2114278243
+Question: Mark was pruning a tree in his yard when he heard the sound of young squirrels. He started to look for the nest but to his surprise he only saw the mother. She was in a nearby tree and the noise he heard was coming from that direction. Is the mother safe or in danger
+Answer: in danger
+Explanation: 
+
+QuestionID: 572292395
+Question: As the fox entered the clearing wild, turkey and bird noticed the predator. the hen run away, while birds did not run away. birds folded up her wing and hopped around as if she was injured. The fox changed directions and moved towards her. She continued to hope around making noise until the fox was close. She then flew onto the branch of a near by tree. Does the turkey see the fox as a threat or a bird?
+Answer: threat
+Explanation: 
+
+QuestionID: 454915711
+Question: As the fox entered the clearing wild, turkey and bird noticed the predator. the hen run away, while birds did not run away. birds folded up her wing and hopped around as if she was injured. The fox changed directions and moved towards her. She continued to hope around making noise until the fox was close. She then flew onto the branch of a near by tree. Is the turkey alone or with young?
+Answer: alone
+Explanation: 
+
+QuestionID: 809858499
+Question: As the fox entered the clearing wild, turkey and bird noticed the predator. the hen run away, while birds did not run away. birds folded up her wing and hopped around as if she was injured. The fox changed directions and moved towards her. She continued to hope around making noise until the fox was close. She then flew onto the branch of a near by tree. Is the turkey injured or not?
+Answer: not
+Explanation: 
+
+QuestionID: 3036312838
+Question: As the fox entered the clearing wild, turkey and bird noticed the predator. the hen run away, while birds did not run away. birds folded up her wing and hopped around as if she was injured. The fox changed directions and moved towards her. She continued to hope around making noise until the fox was close. She then flew onto the branch of a near by tree. Why did the fox follow the bird?
+Answer: she was injured
+Explanation: 
+
+QuestionID: 3212213148
+Question: As the fox entered the clearing wild, turkey and bird noticed the predator. the hen run away, while birds did not run away. birds folded up her wing and hopped around as if she was injured. The fox changed directions and moved towards her. She continued to hope around making noise until the fox was close. She then flew onto the branch of a near by tree. Do turkeys care for their young or abandon them?
+Answer: abandon
+Explanation: 
+
+QuestionID: 572292395
+Question: As the fox entered the clearing the wild turkey noticed the predator. The hen did not run, instead she folded up her wing and hopped around as if she was injured. The fox changed directions and moved towards her. She continued to hope around making noise until the fox was close. She then flew onto the branch of a near by tree. Does the turkey see the fox as a threat or harmless?
+Answer: threat
+Explanation: 
+
+QuestionID: 454915711
+Question: As the fox entered the clearing the wild turkey noticed the predator. The hen did not run, instead she folded up her wing and hopped around as if she was injured. The fox changed directions and moved towards her. She continued to hope around making noise until the fox was close. She then flew onto the branch of a near by tree. Is the turkey alone or with young?
+Answer: with young
+Explanation: 
+
+QuestionID: 809858499
+Question: As the fox entered the clearing the wild turkey noticed the predator. The hen did not run, instead she folded up her wing and hopped around as if she was injured. The fox changed directions and moved towards her. She continued to hope around making noise until the fox was close. She then flew onto the branch of a near by tree. Is the turkey injured or faking?
+Answer: faking
+Explanation: 
+
+QuestionID: 3036312838
+Question: As the fox entered the clearing the wild turkey noticed the predator. The hen did not run, instead she folded up her wing and hopped around as if she was injured. The fox changed directions and moved towards her. She continued to hope around making noise until the fox was close. She then flew onto the branch of a near by tree. Why did the fox follow the hen?
+Answer: she was injured
+Explanation: 
+
+QuestionID: 3212213148
+Question: As the fox entered the clearing the wild turkey noticed the predator. The hen did not run, instead she folded up her wing and hopped around as if she was injured. The fox changed directions and moved towards her. She continued to hope around making noise until the fox was close. She then flew onto the branch of a near by tree. Do turkeys care for their young or abandon them?
+Answer: care for their young
+Explanation: 
+
+QuestionID: 716068698
+Question: Mark was pruning a tree in his yard when he heard the sound of young squirrels. He started to look for the nest but to his surprise he only saw the mother. She was in a nearby tree and the noise he heard was coming from that direction. At the begining, was Mark thought he hearing the babies or the mother?
+Answer: the babies
+Explanation: 
+
+QuestionID: 2026591606
+Question: Mark was pruning a tree in his yard when he heard the sound of young squirrels. He started to look for the nest but to his surprise he only saw the mother. She was in a nearby tree and the noise he heard was coming from that direction. Was the nest far from Mark or the mother?
+Answer: the mother
+Explanation: 
+
+QuestionID: 3425722990
+Question: Mark was pruning a tree in his yard when he heard the sound of young squirrels. He started to look for the nest but to his surprise he only saw the mother. She was in a nearby tree and the noise he heard was coming from that direction. Was the mother trying to draw marks attention to or away from her location?
+Answer: attention to
+Explanation: 
+
+QuestionID: 2114278243
+Question: Mark was pruning a tree in his yard when he heard the sound of young squirrels. He started to look for the nest but to his surprise he only saw the mother. She was in a nearby tree and the noise he heard was coming from that direction. Is the mother safe or in danger if Mark is a birdlover
+Answer: safe
+Explanation: 
+
+--------------------------------------------------
+PassageID: 13
+Passage: Saturated hydrocarbons are given the general name of alkanes . The name of specific alkanes always ends in – ane . The first part of the name indicates how many carbon atoms each molecule of the alkane has. The smallest alkane is methane. It has just one carbon atom. The next largest is ethane with two carbon atoms. The chemical formulas and properties of methane, ethane, and other small alkanes are listed in the Table below . The boiling and melting points of alkanes are determined mainly by the number of carbon atoms they have. Alkanes with more carbon atoms generally boil and melt at higher temperatures. Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately.
+
+Questions:
+QuestionID: 1649643259
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius. Is Alkane A smaller or larger than Alkane B?
+Answer: smaller
+Explanation: 
+
+QuestionID: 1652002557
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius. Is Alkane B smaller or larger than Alkane C?
+Answer: smaller
+Explanation: 
+
+QuestionID: 1651740411
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius. Is Alkane B smaller or larger than Alkane A?
+Answer: larger
+Explanation: 
+
+QuestionID: 1653968636
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius. Is Alkane C smaller or larger than Alkane A?
+Answer: larger
+Explanation: 
+
+QuestionID: 1649774332
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius. Is Alkane A smaller or larger than Alkane C?
+Answer: smaller
+Explanation: 
+
+QuestionID: 4097545316
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius. Does Alkane A have more or less carbon atoms than Alkane B?
+Answer: less
+Explanation: 
+
+QuestionID: 4100756582
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius. Does Alkane B have more or less carbon atoms than Alkane C?
+Answer: less
+Explanation: 
+
+QuestionID: 4097676389
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius. Does Alkane A have more or less carbon atoms than Alkane C?
+Answer: less
+Explanation: 
+
+QuestionID: 4103574629
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius. Does Alkane C have more or less carbon atoms than Alkane A?
+Answer: more
+Explanation: 
+
+QuestionID: 4100494436
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius. Does Alkane B have more or less carbon atoms than Alkane A?
+Answer: more
+Explanation: 
+
+QuestionID: 1649643259
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Is Alkane A smaller or larger than Alkane B?
+Answer: smaller
+Explanation: 
+
+QuestionID: 1652002557
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Is Alkane B smaller or larger than Alkane C?
+Answer: smaller
+Explanation: 
+
+QuestionID: 1651740411
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Is Alkane B smaller or larger than Alkane A?
+Answer: larger
+Explanation: 
+
+QuestionID: 1653968636
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Is Alkane C smaller or larger than Alkane A?
+Answer: larger
+Explanation: 
+
+QuestionID: 1649774332
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Is Alkane A smaller or larger than Alkane C?
+Answer: smaller
+Explanation: 
+
+QuestionID: 4097545316
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Does Alkane A have more or less carbon atoms than Alkane B?
+Answer: less
+Explanation: 
+
+QuestionID: 4100756582
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Does Alkane B have more or less carbon atoms than Alkane C?
+Answer: less
+Explanation: 
+
+QuestionID: 4097676389
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Does Alkane A have more or less carbon atoms than Alkane C?
+Answer: less
+Explanation: 
+
+QuestionID: 4103574629
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Does Alkane C have more or less carbon atoms than Alkane A?
+Answer: more
+Explanation: 
+
+QuestionID: 4100494436
+Question: From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Does Alkane B have more or less carbon atoms than Alkane A?
+Answer: more
+Explanation: 
+
+--------------------------------------------------
+PassageID: 14
+Passage: Scientists think that the earliest flowers attracted insects and other animals, which spread pollen from flower to flower. This greatly increased the efficiency of fertilization over wind-spread pollen, which might or might not actually land on another flower. To take better advantage of this â€œanimal labor,â€ plants evolved traits such as brightly colored petals to attract pollinators. In exchange for pollination, flowers gave the pollinators nectar. 
+
+Questions:
+QuestionID: 2597583592
+Question: Ben wanted to encourage bees to visit his garden so he planted lots of blue, purple, and yellow flowers and plants to attract them. He also chose plants the bees would think smelled good. Do bees harm or benefit plants?
+Answer: benefit
+Explanation: 
+
+QuestionID: 2620652383
+Question: Ben wanted to encourage bees to visit his garden so he planted lots of blue, purple, and yellow flowers and plants to attract them. He also chose plants the bees would think smelled good. Do plants need or tolerate bees?
+Answer: need
+Explanation: 
+
+QuestionID: 2597583592
+Question: Ben wanted does not like insects flying around his garden so he planted lots of dark blue, purple, and yellow flowers and plants to avoid attacting them. He also chose plants that do not have strong smells; all his flowers lack very strong color and scent. Are the bees helping or not helping the pollination in Ben's garden?
+Answer: not helping
+Explanation: 
+
+QuestionID: 2620652383
+Question: Ben wanted does not like insects flying around his garden so he planted lots of dark blue, purple, and yellow flowers and plants to avoid attacting them. He also chose plants that do not have strong smells; all his flowers lack very strong color and scent. Would Ben's garden have more or less efficient pollination if it attracted bees?
+Answer: more
+Explanation: 
+
+QuestionID: 3732018407
+Question: Ben wanted to encourage bees to visit his garden. He new color and scent were important for attracting bees, so he planted lots of blue, purple, and yellow flowers and plants to attract them. He also chose plants the bees would think smelled good. What traits do plants use to attract bees?
+Answer: color and scent
+Explanation: 
+
+QuestionID: 2597583592
+Question: Ben wanted does not like insects flying around his garden so he planted lots of dark blue, purple, and yellow flowers and plants to avoid attacting them. He also chose plants that do not have strong smells; all his flowers lack very strong color and scent. Are the bees helping or not helping the pollination in Ben's garden?
+Answer: not helping
+Explanation: 
+
+QuestionID: 2620652383
+Question: Ben wanted does not like insects flying around his garden so he planted lots of dark blue, purple, and yellow flowers and plants to avoid attacting them. He also chose plants that do not have strong smells; all his flowers lack very strong color and scent. Would Ben's garden have more or less efficient pollination if it attracted bees?
+Answer: more
+Explanation: 
+
+--------------------------------------------------
+PassageID: 15
+Passage: The parts of the ears involved in balance are the semicircular canals. These are the curved structures above the cochlea in the inner ear in Figure above . Like the cochlea, the semicircular canals contain liquid and are lined with tiny hair cells. As the head changes position, the liquid moves. This causes the hair cells to bend. The bending of the hair cells triggers nerve impulses that travel to the cerebellum in the brain. The cerebellum uses the information to maintain balance. Some people think Rock Music is just loud noise but Sam loves it. Sam liked going to Rock concert when he was younger. In his opinion the louder the better.
+
+Questions:
+QuestionID: 3857850763
+Question: Unfortunately over the years Sam's hearing has declined and he has trouble hearing the music he loves so much. Is Sam's balance problem temerary or permanant?
+Answer: permanant
+Explanation: 
+
+QuestionID: 3427083083
+Question: Unfortunately over the years Sam's hearing has declined and he has trouble hearing the music he loves so much. Are the hair cells in Sam's cochlea normal or damaged?
+Answer: damaged
+Explanation: 
+
+QuestionID: 1076637532
+Question: Unfortunately over the years Sam's hearing has declined and he has trouble hearing the music he loves so much. Is Sam's cerrabellum able or unable to get nerve pulses from the hair cells in his ear?
+Answer: unable
+Explanation: 
+
+QuestionID: 3857850763
+Question: Unfortunately over the years Sam's hearing has declined and he has trouble hearing the music he loves so much but he still has as good balance as he has ever had. Are Sam's hearing problems due to a prolbem in the semicircula canals or a different ear part?
+Answer: different ear part
+Explanation: 
+
+QuestionID: 3427083083
+Question: Unfortunately over the years Sam's hearing has declined and he has trouble hearing the music he loves so much but he still has as good balance as he has ever had. Are the hair cells in Sam's cochlea normal or damaged?
+Answer: normal
+Explanation: 
+
+QuestionID: 1076637532
+Question: Unfortunately over the years Sam's hearing has declined and he has trouble hearing the music he loves so much but he still has as good balance as he has ever had. Is Sam's cerrabellum able or unable to get nerve pulses from the hair cells in his ear?
+Answer: able
+Explanation: 
+
+--------------------------------------------------
+PassageID: 16
+Passage: If a solid is irregularly shaped, we can determine its volume by measuring the volume of water displaced by the solid. For example, say you want to measure the volume of the toy dinosaur in Figure below . After placing the dinosaur in the water, the volume measured in the container increases by an amount that is equal to the total volume of the dinosaur. Note that this method only works for solids that do not dissolve in water. If you tried to measure the volume occupied by a pile of salt, the salt would dissolve in the water and this method would not work very well. Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank.
+
+Questions:
+QuestionID: 372609456
+Question: After the gravel had settled she started adding decorations. She She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and placed it to one side. She finished by adding some small plants and a tiny treasure chest. The water level was now at the top of the tank What happened to the water level when the gravel was added?
+Answer: rose
+Explanation: 
+
+QuestionID: 366645675
+Question: After the gravel had settled she started adding decorations. She She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and placed it to one side. She finished by adding some small plants and a tiny treasure chest. The water level was now at the top of the tank What happened to the water level when the castle was added?
+Answer: rose
+Explanation: 
+
+QuestionID: 2848756265
+Question: After the gravel had settled she started adding decorations. She She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and placed it to one side. She finished by adding some small plants and a tiny treasure chest. The water level was now at the top of the tank What happened to the water level when the plants were added?
+Answer: rose
+Explanation: 
+
+QuestionID: 2075694600
+Question: After the gravel had settled she started adding decorations. She She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and placed it to one side. She finished by adding some small plants and a tiny treasure chest. The water level was now at the top of the tank Was more water displaced when the castle or treasure chest were added?
+Answer: castle
+Explanation: 
+
+QuestionID: 3845625240
+Question: After the gravel had settled she started adding decorations. She She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and placed it to one side. She finished by adding some small plants and a tiny treasure chest. The water level was now at the top of the tank Was less water displaced when the castle or treasure ches were added?
+Answer: treasure chest
+Explanation: 
+
+QuestionID: 372609456
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. What happened to the water level when the gravel was added?
+Answer: rose
+Explanation: 
+
+QuestionID: 366645675
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. What happened to the water level when the castle was added?
+Answer: rose
+Explanation: 
+
+QuestionID: 2848756265
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. What happened to the water level when the plants were added?
+Answer: rose
+Explanation: 
+
+QuestionID: 2075694600
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. Was more water displaced when the castle or treasure chest were added?
+Answer: treasure chest
+Explanation: 
+
+QuestionID: 3845625240
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. Was less water displaced when the castle or treasure ches were added?
+Answer: castle
+Explanation: 
+
+QuestionID: 1391832842
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. The gravel had a higher volume than the castle, treasure chest or neither?
+Answer: neither
+Explanation: 
+
+QuestionID: 2774118076
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. The gravel had a lower volume than what?
+Answer: water
+Explanation: 
+
+QuestionID: 2222831566
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. The gravel displace more or less water than the treasure chest??
+Answer: less
+Explanation: 
+
+QuestionID: 1790686999
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. Did the water level go up or down when the castle was removed???
+Answer: down
+Explanation: 
+
+QuestionID: 254980036
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. What what decoration had the most volume??
+Answer: the treasure chest
+Explanation: 
+
+QuestionID: 1391832842
+Question: She noticed that the water level rose 2 inches. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and a tiny treasure chest. The gravel had a higher volume than what?
+Answer: castle
+Explanation: 
+
+QuestionID: 2774118076
+Question: She noticed that the water level rose 2 inches. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and a tiny treasure chest. The gravel had a lower volume than what?
+Answer: water
+Explanation: 
+
+QuestionID: 2222831566
+Question: She noticed that the water level rose 2 inches. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and a tiny treasure chest. The gravel displace more or less water than the treasure chest??
+Answer: more
+Explanation: 
+
+QuestionID: 1790686999
+Question: She noticed that the water level rose 2 inches. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and a tiny treasure chest. Did the water level go up or down when the castle was removed???
+Answer: down
+Explanation: 
+
+QuestionID: 254980036
+Question: She noticed that the water level rose 2 inches. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and a tiny treasure chest. What what decoration had the most volume??
+Answer: the castle
+Explanation: 
+
+QuestionID: 372609456
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. What happened to the water level when the gravel was added?
+Answer: rose
+Explanation: 
+
+QuestionID: 366645675
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. What happened to the water level when the castle was added?
+Answer: rose
+Explanation: 
+
+QuestionID: 2848756265
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. What happened to the water level when the plants were added?
+Answer: rose
+Explanation: 
+
+QuestionID: 2075694600
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. Was more water displaced when the castle or treasure chest were added?
+Answer: treasure chest
+Explanation: 
+
+QuestionID: 3845625240
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. Was less water displaced when the castle or treasure ches were added?
+Answer: castle
+Explanation: 
+
+QuestionID: 1391832842
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. The gravel had a higher volume than the castle, treasure chest or neither?
+Answer: neither
+Explanation: 
+
+QuestionID: 2774118076
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. The gravel had a lower volume than what?
+Answer: water
+Explanation: 
+
+QuestionID: 2222831566
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. The gravel displace more or less water than the treasure chest??
+Answer: less
+Explanation: 
+
+QuestionID: 1790686999
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. Did the water level go up or down when the castle was removed???
+Answer: down
+Explanation: 
+
+QuestionID: 254980036
+Question: She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. What what decoration had the most volume??
+Answer: the treasure chest
+Explanation: 
+
+--------------------------------------------------
+PassageID: 17
+Passage: In exercises such as weight lifting, skeletal muscle contracts against a resisting force (see Figure below ). Using skeletal muscle in this way increases its size and strength. In exercises such as running, the cardiac muscle contracts faster and the heart pumps more blood. Using cardiac muscle in this way increases its strength and efficiency. Continued exercise is necessary to maintain bigger, stronger muscles. If you donâ€™t use a muscle, it will get smaller and weakerâ€”so use it or lose it. Jane decided to get in shape for the summer.
+
+Questions:
+QuestionID: 3312583284
+Question: She went to the gym and started jogging on the treadmill everyday. She also lifted weights a couple days a week. are janes muscles getting more or less efficent?
+Answer: more
+Explanation: 
+
+QuestionID: 2956787804
+Question: She went to the gym and started jogging on the treadmill everyday. She also lifted weights a couple days a week. Is jane's heart getting stronger or weaker?
+Answer: stronger
+Explanation: 
+
+QuestionID: 2881487101
+Question: She went to the gym and started jogging on the treadmill everyday. She also lifted weights a couple days a week. Is janes body able to pump more or less blood?
+Answer: more
+Explanation: 
+
+QuestionID: 3312583284
+Question: Her plan was to go to the gym and started jogging on the treadmill everyday. She also lifted weights a couple days a week. However, she got busy with work and didn't folow through with the workouts. are janes muscles getting more or less efficent?
+Answer: less
+Explanation: 
+
+QuestionID: 2956787804
+Question: Her plan was to go to the gym and started jogging on the treadmill everyday. She also lifted weights a couple days a week. However, she got busy with work and didn't folow through with the workouts. Is jane's heart getting stronger or weaker?
+Answer: weaker
+Explanation: 
+
+QuestionID: 2881487101
+Question: Her plan was to go to the gym and started jogging on the treadmill everyday. She also lifted weights a couple days a week. However, she got busy with work and didn't folow through with the workouts. Is janes body able to pump more or less blood?
+Answer: less
+Explanation: 
+
+--------------------------------------------------
+PassageID: 18
+Passage: Mammals have a heart that is about 0.6% of the total body mass across the board from a small mouse to a large Blue Whale. It can be expressed as: Heart Weight = 0.006Mb1.0, where Mb is the body mass of the individual. Lung volume is also directly related to body mass in mammals (slope = 1.02). The lung has a volume of 63 ml for every kg of body mass. In addition, the tidal volume at rest in an individual is 1/10 the lung volume. Also respiration costs with respect to oxygen consumption is scaled in the order of Mb.75. This shows that mammals, regardless of size, have the same size respiratory and cardiovascular systems and it turn have the same amount of blood: About 5.5% of body mass. This means that for a similarly designed marine mammals, the larger the individual the more efficiently they can travel compared to a smaller individual. It takes the same effort to move one body length whether the individual is one meter or ten meters. This can explain why large whales can migrate far distance in the oceans and not stop for rest. It is metabolically less expensive to be larger in body size. This goes for terrestrial and flying animals as well. In fact, for an organism to move any distance, regardless of type from elephants to centipedes, smaller animals consume more oxygen per unit body mass than larger ones. This metabolic advantage that larger animals have makes it possible for larger marine mammals to dive for longer durations of time than their smaller counterparts. That the heart rate is lower means that larger animals can carry more blood, which carries more oxygen. Then in conjuncture with the fact that mammals reparation costs scales in the order of Mb.75 shows how an advantage can be had in having a larger body mass. More simply, a larger whale can hold more oxygen and at the same time demand less metabolically than a smaller whale. Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes.
+
+Questions:
+QuestionID: 3205963946
+Question: Animal A is extremely large, and Animal B is extremely small. Which animal will be able to travel a longer distance without resting, Animal A or Animal B?
+Answer: Animal A
+Explanation: 
+
+QuestionID: 4248313718
+Question: Animal A is extremely large, and Animal B is extremely small. Will Animal A or Animal B be able to travel a longer distance without stopping for rest?
+Answer: Animal A
+Explanation: 
+
+QuestionID: 2868781815
+Question: Animal A is extremely large, and Animal B is extremely small. Which animal will travel a shorter distance before needing to stop for rest, Animal A or Animal B?
+Answer: Animal B
+Explanation: 
+
+QuestionID: 1727734473
+Question: Animal A is extremely large, and Animal B is extremely small. Will Animal A be able to travel a longer or shorter distance before needing to rest than Animal B?
+Answer: longer
+Explanation: 
+
+QuestionID: 1733239497
+Question: Animal A is extremely large, and Animal B is extremely small. Will Animal B be able to travel a longer or shorter distance before needing to rest than Animal A?
+Answer: shorter
+Explanation: 
+
+QuestionID: 4267905981
+Question: Animal A is extremely large, and Animal B is extremely small. Which animal consumes more oxygen, Animal A or Animal B?
+Answer: Animal B
+Explanation: 
+
+QuestionID: 4274590657
+Question: Animal A is extremely large, and Animal B is extremely small. Which animal consumes less oxygen, Animal A or Animal B?
+Answer: Animal A
+Explanation: 
+
+QuestionID: 3949990854
+Question: Animal A is extremely large, and Animal B is extremely small. Does Animal A consume more or less oxygen than Animal B?
+Answer: less
+Explanation: 
+
+QuestionID: 3952743366
+Question: Animal A is extremely large, and Animal B is extremely small. Does Animal B consume more or less oxygen than Animal A?
+Answer: more
+Explanation: 
+
+QuestionID: 248386505
+Question: Animal A is extremely large, and Animal B is extremely small. Which animal has a lower heart rate, Animal A or Animal B?
+Answer: Animal A
+Explanation: 
+
+QuestionID: 566957079
+Question: Animal A is extremely large, and Animal B is extremely small. Which animal has a higher heart rate, Animal A or Animal B?
+Answer: Animal B
+Explanation: 
+
+QuestionID: 3205963946
+Question: Animal A is a thirdimes the body size of animal B. Which animal will be able to travel a longer distance without resting, Animal A or Animal B?
+Answer: Animal B
+Explanation: 
+
+QuestionID: 4248313718
+Question: Animal A is a thirdimes the body size of animal B. Will Animal A or Animal B be able to travel a longer distance without stopping for rest?
+Answer: Animal B
+Explanation: 
+
+QuestionID: 2868781815
+Question: Animal A is a thirdimes the body size of animal B. Which animal will travel a shorter distance before needing to stop for rest, Animal A or Animal B?
+Answer: Animal A
+Explanation: 
+
+QuestionID: 1727734473
+Question: Animal A is a thirdimes the body size of animal B. Will Animal A be able to travel a longer or shorter distance before needing to rest than Animal B?
+Answer: shorter
+Explanation: 
+
+QuestionID: 1733239497
+Question: Animal A is a thirdimes the body size of animal B. Will Animal B be able to travel a longer or shorter distance before needing to rest than Animal A?
+Answer: longer
+Explanation: 
+
+QuestionID: 4267905981
+Question: Animal A is a thirdimes the body size of animal B. Which animal consumes more oxygen, Animal A or Animal B?
+Answer: Animal A
+Explanation: 
+
+QuestionID: 4274590657
+Question: Animal A is a thirdimes the body size of animal B. Which animal consumes less oxygen, Animal A or Animal B?
+Answer: Animal B
+Explanation: 
+
+QuestionID: 3949990854
+Question: Animal A is a thirdimes the body size of animal B. Does Animal A consume more or less oxygen than Animal B?
+Answer: more
+Explanation: 
+
+QuestionID: 3952743366
+Question: Animal A is a thirdimes the body size of animal B. Does Animal B consume more or less oxygen than Animal A?
+Answer: less
+Explanation: 
+
+QuestionID: 248386505
+Question: Animal A is a thirdimes the body size of animal B. Which animal has a lower heart rate, Animal A or Animal B?
+Answer: Animal B
+Explanation: 
+
+QuestionID: 566957079
+Question: Animal A is a thirdimes the body size of animal B. Which animal has a higher heart rate, Animal A or Animal B?
+Answer: Animal A
+Explanation: 
+
+--------------------------------------------------
+PassageID: 19
+Passage: The earliest members of the human species evolved around 200,000 years ago in Africa. Early humans lived in small populations of nomadic hunters and gatherers. Human beings remained in Africa until about 40,000 years ago. After that, they spread throughout Europe, Asia, and Australia. By 10,000 years ago, the first human beings colonized the Americas. During this long period of time, the total number of human beings increased very slowly. Birth rates were fairly high but so were death rates, producing low rates of population growth. 
+
+Questions:
+QuestionID: 4099746540
+Question: Bob lived in an area that was known for its wildlife including deer. Once there had been larger predictors like wolves and mountain lions but they had been extinct in this area for decades. Now the other animals like deer had no natural predators. Is the deer populatin increasing or decreasing?
+Answer: increasing
+Explanation: 
+
+QuestionID: 1203716993
+Question: Bill lives in the country. Over the last few years he has noticed that there are way fewer feral cats running around than there used to be, and also there are fewer dogs. On the plus side he has noticed that there are a lot more mice getting into things in his barn or getting into his house, and also there are more ants. The cats and dogs are big animals while ants and mice are small animals Which population is experiencing growth?
+Answer: ants and mice
+Explanation: 
+
+QuestionID: 285623355
+Question: Bill lives in the country. Over the last few years he has noticed that there are way fewer feral cats running around than there used to be, and also there are fewer dogs. On the plus side he has noticed that there are a lot more mice getting into things in his barn or getting into his house, and also there are more ants. The cats and dogs are big animals while ants and mice are small animals Which population is experiencing a decline?
+Answer: cats and dogs
+Explanation: 
+
+QuestionID: 4179708329
+Question: Bill lives in the country. Over the last few years he has noticed that there are way fewer feral cats running around than there used to be, and also there are fewer dogs. On the plus side he has noticed that there are a lot more mice getting into things in his barn or getting into his house, and also there are more ants. The cats and dogs are big animals while ants and mice are small animals Which population is experiencing more births than deaths?
+Answer: ants and mice
+Explanation: 
+
+QuestionID: 4168829357
+Question: Bill lives in the country. Over the last few years he has noticed that there are way fewer feral cats running around than there used to be, and also there are fewer dogs. On the plus side he has noticed that there are a lot more mice getting into things in his barn or getting into his house, and also there are more ants. The cats and dogs are big animals while ants and mice are small animals Which population is experiencing less deaths than births?
+Answer: ants and mice
+Explanation: 
+
+QuestionID: 4164766121
+Question: Bill lives in the country. Over the last few years he has noticed that there are way fewer feral cats running around than there used to be, and also there are fewer dogs. On the plus side he has noticed that there are a lot more mice getting into things in his barn or getting into his house, and also there are more ants. The cats and dogs are big animals while ants and mice are small animals Which population is experiencing more deaths than births?
+Answer: cats and dogs
+Explanation: 
+
+QuestionID: 1014321449
+Question: Bill lives in the country. Over the last few years he has noticed that there are way fewer feral cats running around than there used to be, and also there are fewer dogs. On the plus side he has noticed that there are a lot more mice getting into things in his barn or getting into his house, and also there are more ants. The cats and dogs are big animals while ants and mice are small animals Will the mice population increase or decrease as the cat population increases?
+Answer: decrease
+Explanation: 
+
+QuestionID: 3915665574
+Question: Bill lives in the country. Over the last few years he has noticed that there are way fewer feral cats running around than there used to be, and also there are fewer dogs. On the plus side he has noticed that there are a lot more mice getting into things in his barn or getting into his house, and also there are more ants. The cats and dogs are big animals while ants and mice are small animals Will the mice population increase or decrease if the cat poulation decreases?
+Answer: increase
+Explanation: 
+
+QuestionID: 2320051646
+Question: Bob lived in an area that was known for its wildlife including deer. Once there had been larger predictors like wolves and mountain lions but they had been extinct in this area since the last century. Now the other animals like deer had no natural predators. Was the higher or lower in the last century?
+Answer: higher
+Explanation: 
+
+QuestionID: 3617533025
+Question: Bob lived in an area that was known for its wildlife including deer. Once there had been larger predictors like wolves and mountain lions but they had been extinct in this area since the last century. Now the other animals like deer had no natural predators. Was the higher or lower in this century?
+Answer: higher
+Explanation: 
+
+QuestionID: 3579128294
+Question: Bob lived in an area that was known for its wildlife including deer. Once there had been larger predictors like wolves and mountain lions but they had been extinct in this area since the last century. Now the other animals like deer had no natural predators. In what century did more deer die?
+Answer: last century
+Explanation: 
+
+QuestionID: 3406248759
+Question: Bob lived in an area that was known for its wildlife including deer. Once there had been larger predictors like wolves and mountain lions but they had been extinct in this area since the last century. Now the other animals like deer had no natural predators. In what century did the deer population increase this century or last century??
+Answer: this century 
+Explanation: 
+
+QuestionID: 1497053826
+Question: Bob lived in an area that was known for its wildlife including deer. Once there had been larger predictors like wolves and mountain lions but they had been extinct in this area since the last century. Now the other animals like deer had no natural predators. In what century was the deer population stable this century or last century??
+Answer: last century
+Explanation: 
+
+QuestionID: 1203716993
+Question: Bill lives in the country. Over the last few years he has noticed that there are way fewer feral cats running around than there used to be, and also there are fewer dogs. On the plus side he has noticed that there are a lot more mice getting into things in his barn or getting into his house, and also there are more ants. The cats and dogs are big animals while ants and mice are small animals Which population is experiencing growth?
+Answer: ants and mice
+Explanation: 
+
+QuestionID: 285623355
+Question: Bill lives in the country. Over the last few years he has noticed that there are way fewer feral cats running around than there used to be, and also there are fewer dogs. On the plus side he has noticed that there are a lot more mice getting into things in his barn or getting into his house, and also there are more ants. The cats and dogs are big animals while ants and mice are small animals Which population is experiencing a decline?
+Answer: cats and dogs
+Explanation: 
+
+QuestionID: 4179708329
+Question: Bill lives in the country. Over the last few years he has noticed that there are way fewer feral cats running around than there used to be, and also there are fewer dogs. On the plus side he has noticed that there are a lot more mice getting into things in his barn or getting into his house, and also there are more ants. The cats and dogs are big animals while ants and mice are small animals Which population is experiencing more births than deaths?
+Answer: ants and mice
+Explanation: 
+
+QuestionID: 4168829357
+Question: Bill lives in the country. Over the last few years he has noticed that there are way fewer feral cats running around than there used to be, and also there are fewer dogs. On the plus side he has noticed that there are a lot more mice getting into things in his barn or getting into his house, and also there are more ants. The cats and dogs are big animals while ants and mice are small animals Which population is experiencing less deaths than births?
+Answer: ants and mice
+Explanation: 
+
+QuestionID: 4164766121
+Question: Bill lives in the country. Over the last few years he has noticed that there are way fewer feral cats running around than there used to be, and also there are fewer dogs. On the plus side he has noticed that there are a lot more mice getting into things in his barn or getting into his house, and also there are more ants. The cats and dogs are big animals while ants and mice are small animals Which population is experiencing more deaths than births?
+Answer: cats and dogs
+Explanation: 
+
+QuestionID: 1014321449
+Question: Bill lives in the country. Over the last few years he has noticed that there are way fewer feral cats running around than there used to be, and also there are fewer dogs. On the plus side he has noticed that there are a lot more mice getting into things in his barn or getting into his house, and also there are more ants. The cats and dogs are big animals while ants and mice are small animals Will the mice population increase or decrease as the cat population increases?
+Answer: decrease
+Explanation: 
+
+QuestionID: 3915665574
+Question: Bill lives in the country. Over the last few years he has noticed that there are way fewer feral cats running around than there used to be, and also there are fewer dogs. On the plus side he has noticed that there are a lot more mice getting into things in his barn or getting into his house, and also there are more ants. The cats and dogs are big animals while ants and mice are small animals Will the mice population increase or decrease if the cat poulation decreases?
+Answer: increase
+Explanation: 
+
+--------------------------------------------------
+PassageID: 20
+Passage: Mechanical weathering increases the rate of chemical weathering. As rock breaks into smaller pieces, the surface area of the pieces increases. With more surfaces exposed, there are more places for chemical weathering to occur. Let’s say you wanted to make some hot chocolate on a cold day. It would be hard to get a big chunk of chocolate to dissolve in your milk or hot water. Maybe you could make hot chocolate from some smaller pieces like chocolate chips, but it is much easier to add a powder to your milk. This is because the smaller the pieces are, the more surface area they have. Smaller pieces dissolve more easily. Sue and Ann were both having a glass of ice tea.
+
+Questions:
+QuestionID: 2515157685
+Question: Sue put 2 cubes of sugar into her tea. Ann decided to use granulated sugar and added the same amount of sugar to her tea. They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea was ready faster.
+Answer: Ann
+Explanation: 
+
+QuestionID: 279331317
+Question: Sue put 2 cubes of sugar into her tea. Ann decided to use granulated sugar and added the same amount of sugar to her tea. They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea was ready last?
+Answer: Sue
+Explanation: 
+
+QuestionID: 2305902260
+Question: Sue put 2 cubes of sugar into her tea. Ann decided to use granulated sugar and added the same amount of sugar to her tea. They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea needed to be stirred longer?
+Answer: Sue
+Explanation: 
+
+QuestionID: 1117210192
+Question: Sue put 2 cubes of sugar into her tea. Ann decided to use granulated sugar and added the same amount of sugar to her tea. They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea needed to be stirred lless?
+Answer: Ann
+Explanation: 
+
+QuestionID: 2515157685
+Question: Sue has 2 cubes of sugar but Ann has the same amount of granulated sugar. They exchange the sugar to each other and put the sugar to their ice tea They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea was ready faster.
+Answer: Sue
+Explanation: 
+
+QuestionID: 279331317
+Question: Sue has 2 cubes of sugar but Ann has the same amount of granulated sugar. They exchange the sugar to each other and put the sugar to their ice tea They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea was ready last?
+Answer: Ann
+Explanation: 
+
+QuestionID: 2305902260
+Question: Sue has 2 cubes of sugar but Ann has the same amount of granulated sugar. They exchange the sugar to each other and put the sugar to their ice tea They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea needed to be stirred longer?
+Answer: Ann
+Explanation: 
+
+QuestionID: 1117210192
+Question: Sue has 2 cubes of sugar but Ann has the same amount of granulated sugar. They exchange the sugar to each other and put the sugar to their ice tea They both gave their tea a stir to dissolve the sugar before enjoying it. Who's tea needed to be stirred lless?
+Answer: Sue
+Explanation: 
+
+--------------------------------------------------
+PassageID: 21
+Passage: Huge amounts of chemicals, such as fertilizers and pesticides, are applied to farm fields (see Figure below ). Some of the chemicals are picked up by rainwater. Runoff then carries the chemicals to nearby rivers or lakes. Dissolved fertilizer causes too much growth of water plants and algae. This can lead to dead zones where nothing can live in lakes and at the mouths of rivers. Some of the chemicals can infiltrate into groundwater. The contaminated water comes up in water wells. If people drink the polluted water, they may get sick. Farm A and Farm B use different methods of controlling pests on their crops.
+
+Questions:
+QuestionID: 652354534
+Question: Farm A uses fertilizers and pesticides on their crops. Farm B is organic and does not use fertilizers or pesticides. Will Farm A experience more or less groundwater contamination than Farm B?
+Answer: more
+Explanation: 
+
+QuestionID: 656417766
+Question: Farm A uses fertilizers and pesticides on their crops. Farm B is organic and does not use fertilizers or pesticides. Will Farm B experience more or less groundwater contamination than Farm A?
+Answer: less
+Explanation: 
+
+QuestionID: 2494441667
+Question: Farm A uses fertilizers and pesticides on their crops. Farm B is organic and does not use fertilizers or pesticides. Will the lakes and rivers near Farm A have more or less water plants and algae than Farm B?
+Answer: more
+Explanation: 
+
+QuestionID: 2497915075
+Question: Farm A uses fertilizers and pesticides on their crops. Farm B is organic and does not use fertilizers or pesticides. Will the lakes and rivers near Farm B have more or less water plants and algae than Farm A?
+Answer: less
+Explanation: 
+
+QuestionID: 463156772
+Question: Farm A uses fertilizers and pesticides on their crops. Farm B is organic and does not use fertilizers or pesticides. Are the residents near Farm A more or less likely to experience illness due to polluted water than the residents near Farm B?
+Answer: more
+Explanation: 
+
+QuestionID: 469382692
+Question: Farm A uses fertilizers and pesticides on their crops. Farm B is organic and does not use fertilizers or pesticides. Are the residents near Farm B more or less likely to experience illness due to polluted water than the residents near Farm A?
+Answer: less
+Explanation: 
+
+QuestionID: 1916088903
+Question: Farm A uses fertilizers and pesticides on their crops. Farm B is organic and does not use fertilizers or pesticides. If Farm A stops using pesticides and fertilizers, will Farm A experience more or less groundwater contamination?
+Answer: less
+Explanation: 
+
+QuestionID: 2825401009
+Question: Farm A uses fertilizers and pesticides on their crops. Farm B is organic and does not use fertilizers or pesticides. If Farm B starts using pesticides and fertilizers, will Farm B experience more or less groundwater contamination?
+Answer: more
+Explanation: 
+
+QuestionID: 652354534
+Question: Farm A produces a lot of fertilizers and pesticides and sell all of them to Farm B. Will Farm A experience more or less groundwater contamination than Farm B?
+Answer: less
+Explanation: 
+
+QuestionID: 656417766
+Question: Farm A produces a lot of fertilizers and pesticides and sell all of them to Farm B. Will Farm B experience more or less groundwater contamination than Farm A?
+Answer: more
+Explanation: 
+
+QuestionID: 2494441667
+Question: Farm A produces a lot of fertilizers and pesticides and sell all of them to Farm B. Will the lakes and rivers near Farm A have more or less water plants and algae than Farm B?
+Answer: less
+Explanation: 
+
+QuestionID: 2497915075
+Question: Farm A produces a lot of fertilizers and pesticides and sell all of them to Farm B. Will the lakes and rivers near Farm B have more or less water plants and algae than Farm A?
+Answer: more
+Explanation: 
+
+QuestionID: 463156772
+Question: Farm A produces a lot of fertilizers and pesticides and sell all of them to Farm B. Are the residents near Farm A more or less likely to experience illness due to polluted water than the residents near Farm B?
+Answer: less
+Explanation: 
+
+QuestionID: 469382692
+Question: Farm A produces a lot of fertilizers and pesticides and sell all of them to Farm B. Are the residents near Farm B more or less likely to experience illness due to polluted water than the residents near Farm A?
+Answer: more
+Explanation: 
+
+QuestionID: 1916088903
+Question: Farm A produces a lot of fertilizers and pesticides and sell all of them to Farm B. If Farm A stops using pesticides and fertilizers, will Farm A experience more or less groundwater contamination?
+Answer: more
+Explanation: 
+
+QuestionID: 2825401009
+Question: Farm A produces a lot of fertilizers and pesticides and sell all of them to Farm B. If Farm B starts using pesticides and fertilizers, will Farm B experience more or less groundwater contamination?
+Answer: less
+Explanation: 
+
+--------------------------------------------------
+PassageID: 22
+Passage: An allergy is a disease in which the immune system makes an inflammatory response to a harmless antigen . Any antigen that causes an allergy is called an allergen. Allergens may be inhaled or ingested, or they may come into contact with the skin. Two common causes of allergies are shown in Figure below . Inhaling ragweed pollen may cause coughing and sneezing. Skin contact with oils in poison ivy may cause an itchy rash. Other common causes of allergies include dust mites, mold, animal dander, insect stings, latex, and certain food and medications. Symptoms of a common allergy such as pollen can include sneezing, a runny nose, nasal congestion and itchy, watery eyes. Mark and Jane were working in their yard planting a garden and mowing.
+
+Questions:
+QuestionID: 394809894
+Question: Jane was sneezing and coughing much of the day. Mark was fine until he pulled up some weeds and noticed that his arms were inch and had red bumps all over them. Who is allergic to poison ivy?
+Answer: Mark
+Explanation: 
+
+QuestionID: 3037221876
+Question: Jane was sneezing and coughing much of the day. Mark was fine until he pulled up some weeds and noticed that his arms were inch and had red bumps all over them. Who is having an allergic reaction?
+Answer: Mark and Jane
+Explanation: 
+
+QuestionID: 1649825047
+Question: Jane was sneezing and coughing much of the day. Mark was fine until he pulled up some weeds and noticed that his arms were inch and had red bumps all over them. Who's having an inflamitory response?
+Answer: Mark and Jane
+Explanation: 
+
+QuestionID: 843796473
+Question: Jane was sneezing and coughing much of the day. Mark was fine until he pulled up some weeds and noticed that his arms were inch and had red bumps all over them. Who touched an allergen?
+Answer: Mark
+Explanation: 
+
+QuestionID: 814764002
+Question: Jane was sneezing and coughing much of the day. Mark was fine until he pulled up some weeds and noticed that his arms were inch and had red bumps all over them. Who inhaled an allergen?
+Answer: Jane
+Explanation: 
+
+QuestionID: 147608930
+Question: Jane was sneezing and coughing much of the day. Mark was fine until he pulled up some weeds and noticed that his arms were inch and had red bumps all over them. Who is likely to also have watery eyes?
+Answer: Jane
+Explanation: 
+
+QuestionID: 1519473741
+Question: Jane was sneezing and coughing much of the day. Mark was fine until he pulled up some weeds and noticed that his arms were inch and had red bumps all over them. Who came in contact with a plant oil?
+Answer: Mark
+Explanation: 
+
+QuestionID: 394809894
+Question: Mark noticed that Jane was sneezing and coughing much of the day.  Later on, Jane pointed out to mark that she was getting a weird condition where her arms were inchy and had red bumps all over them. Who is allergic to poison ivy?
+Answer: Jane
+Explanation: 
+
+QuestionID: 3037221876
+Question: Mark noticed that Jane was sneezing and coughing much of the day.  Later on, Jane pointed out to mark that she was getting a weird condition where her arms were inchy and had red bumps all over them. Who is having an allergic reaction?
+Answer: Jane
+Explanation: 
+
+QuestionID: 1649825047
+Question: Mark noticed that Jane was sneezing and coughing much of the day.  Later on, Jane pointed out to mark that she was getting a weird condition where her arms were inchy and had red bumps all over them. Who's having an inflamitory response?
+Answer: Jane
+Explanation: 
+
+QuestionID: 843796473
+Question: Mark noticed that Jane was sneezing and coughing much of the day.  Later on, Jane pointed out to mark that she was getting a weird condition where her arms were inchy and had red bumps all over them. Who touched an allergen?
+Answer: Jane
+Explanation: 
+
+QuestionID: 814764002
+Question: Mark noticed that Jane was sneezing and coughing much of the day.  Later on, Jane pointed out to mark that she was getting a weird condition where her arms were inchy and had red bumps all over them. Who inhaled an allergen?
+Answer: Jane
+Explanation: 
+
+QuestionID: 147608930
+Question: Mark noticed that Jane was sneezing and coughing much of the day.  Later on, Jane pointed out to mark that she was getting a weird condition where her arms were inchy and had red bumps all over them. Who is likely to also have watery eyes?
+Answer: Jane
+Explanation: 
+
+QuestionID: 1519473741
+Question: Mark noticed that Jane was sneezing and coughing much of the day.  Later on, Jane pointed out to mark that she was getting a weird condition where her arms were inchy and had red bumps all over them. Who came in contact with a plant oil?
+Answer: Jane
+Explanation: 
+
+--------------------------------------------------
+PassageID: 23
+Passage: Newton was the first one to suggest that gravity is universal and affects all objects in the universe. That’s why his law of gravity is called the law of universal gravitation . Universal gravitation means that the force that causes an apple to fall from a tree to the ground is the same force that causes the moon to keep moving around Earth. Universal gravitation also means that while Earth exerts a pull on you, you exert a pull on Earth. In fact, there is gravity between you and every mass around you — your desk, your book, your pen. Even tiny molecules of gas are attracted to one another by the force of gravity. Joe was bored and really didn't want to do homework.
+
+Questions:
+QuestionID: 1552119297
+Question: He could not think of anything to write about gravity. Instead he kept leaning back on his chair and tossing his pencil in the air. He through the pencil up and every time it fell back towards him and he caught it.Once he leaned back to far and his chair went crashing to the floor. Startled he decided he should get to work. what was pulling on the chair?
+Answer: gravity
+Explanation: 
+
+QuestionID: 2142008392
+Question: He could not think of anything to write about gravity. Instead he kept leaning back on his chair and tossing his pencil in the air. He through the pencil up and every time it fell back towards him and he caught it.Once he leaned back to far and his chair went crashing to the floor. Startled he decided he should get to work. What made the pencil fall?
+Answer: gravity
+Explanation: 
+
+QuestionID: 3568468249
+Question: He could not think of anything to write about gravity. Instead he kept leaning back on his chair and tossing his pencil in the air. He through the pencil up and every time it fell back towards him and he caught it.Once he leaned back to far and his chair went crashing to the floor. Startled he decided he should get to work. Will the pencil always fall bsck to earth or only sometimes?
+Answer: always
+Explanation: 
+
+QuestionID: 1552119297
+Question: He could not think of anything to write about law of gravity By Newton. Instead he kept leaning back on his chair and tossing his pencil in the air. He through the pencil up and every time it fell back towards him and he caught it.Once he leaned back too far and his chair went crashing to the floor. Startled he decided he should get to work. who discovered the thing pulling on the chair?
+Answer: Newton
+Explanation: 
+
+QuestionID: 2142008392
+Question: He could not think of anything to write about law of gravity By Newton. Instead he kept leaning back on his chair and tossing his pencil in the air. He through the pencil up and every time it fell back towards him and he caught it.Once he leaned back too far and his chair went crashing to the floor. Startled he decided he should get to work. who discovered the thing that made the pencil fall?
+Answer: Newton
+Explanation: 
+
+--------------------------------------------------
+PassageID: 24
+Passage: In exercises such as weight lifting, skeletal muscle contracts against a resisting force (see Figure below ). Using skeletal muscle in this way increases its size and strength. In exercises such as running, the cardiac muscle contracts faster and the heart pumps more blood. Using cardiac muscle in this way increases its strength and efficiency. Continued exercise is necessary to maintain bigger, stronger muscles. If you donâ€™t use a muscle, it will get smaller and weakerâ€”so use it or lose it. 
+
+Questions:
+QuestionID: 3987872294
+Question: Ann loves running. She ran five miles every day until she broke her leg. After that she had to wear a cast for 2 months . When the cast was removed Ann tried to walk and realized that she could not. Where Ann's cardiac muscles getting weaker or stronger when she was running?
+Answer: stronger
+Explanation: 
+
+QuestionID: 3338738850
+Question: Ann loves running. She ran five miles every day until she broke her leg. After that she had to wear a cast for 2 months . When the cast was removed Ann tried to walk and realized that she could not. Where Ann's cardiac muscles getting weaker or stronger when she was not able to run?
+Answer: weaker
+Explanation: 
+
+QuestionID: 1760434223
+Question: Ann loves running. She ran five miles every day until she broke her leg. After that she had to wear a cast for 2 months . When the cast was removed Ann tried to walk and realized that she could not. Were Ann's leg muscles getting weaker or stronger when she was running?
+Answer: stronger
+Explanation: 
+
+QuestionID: 2719423575
+Question: Ann loves running. She ran five miles every day until she broke her leg. After that she had to wear a cast for 2 months . When the cast was removed Ann tried to walk and realized that she could not. Were Ann's leg muscles getting weaker or stronger when she was not able to running?
+Answer: weaker
+Explanation: 
+
+QuestionID: 3750893929
+Question: Ann loves running. She ran five miles every day until she broke her leg. After that she had to wear a cast for 2 months . When the cast was removed Ann tried to walk and realized that she could not. Where Ann's cardiac muscles more efficent before or after she broke her leg?
+Answer: before
+Explanation: 
+
+QuestionID: 3510506803
+Question: Ann loves running. She ran five miles every day until she broke her leg. After that she had to wear a cast for 2 months . When the cast was removed Ann tried to walk and realized that she could not. Where Ann's leg muscles bigger before or after she broke her leg?
+Answer: before
+Explanation: 
+
+QuestionID: 3969127859
+Question: Ann loves running. She ran five miles every day until she broke her leg. After that she had to wear a cast for 2 months . When the cast was removed Ann tried to walk and realized that she could not. Where Ann's leg muscles smaller before or after she broke her leg?
+Answer: after
+Explanation: 
+
+QuestionID: 3551073602
+Question: Ann loves running. She ran five miles every day until she broke her leg. After that she had to wear a cast for 2 months . When the cast was removed Ann tried to walk and realized that she could not. Where Ann's leg muscles weaker before or after she broke her leg?
+Answer: after
+Explanation: 
+
+QuestionID: 3768391153
+Question: Ann loves running. She ran five miles every day until she broke her leg. After that she had to wear a cast for 2 months . When the cast was removed Ann tried to walk and realized that she could not. If an walks everyday will her leg muscles gat stronger or weaker?
+Answer: stronger
+Explanation: 
+
+QuestionID: 2693731529
+Question: Ann loves running. She ran five miles every day until she broke her leg. After that she had to wear a cast for 2 months . When the cast was removed Ann tried to walk and realized that she could not. If an doesn't walk will her leg muscles gat stronger or weaker?
+Answer: weaker
+Explanation: 
+
+QuestionID: 3312583284
+Question: Jane decided to get in shape for the summer. Her plan was to go to the gym and started jogging on the treadmill everyday. She also lifted weights a couple days a week. However, she got busy with work and didn't folow through with the workouts. are janes muscles getting more or less efficent?
+Answer: less
+Explanation: 
+
+QuestionID: 2956787804
+Question: Jane decided to get in shape for the summer. Her plan was to go to the gym and started jogging on the treadmill everyday. She also lifted weights a couple days a week. However, she got busy with work and didn't folow through with the workouts. Is jane's heart getting stronger or weaker?
+Answer: weaker
+Explanation: 
+
+QuestionID: 2881487101
+Question: Jane decided to get in shape for the summer. Her plan was to go to the gym and started jogging on the treadmill everyday. She also lifted weights a couple days a week. However, she got busy with work and didn't folow through with the workouts. Is janes body able to pump more or less blood?
+Answer: less
+Explanation: 
+
+--------------------------------------------------

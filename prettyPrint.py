@@ -46,7 +46,11 @@ def prettyPrint(a, dataset):
         for i in range(len(a)):
             print(f"PassageID: {i}")
             p = a[i]
-            passage = p["paragraph"]
+            #Only present in contrastive set; train set calls it passage
+            if "paragraph" in p.keys():
+                passage = p["paragraph"]
+            else:
+                passage = p["passage"]
             print(f"Passage: {passage}",end="")
             print("\n")
             print("Questions:")
@@ -65,26 +69,30 @@ def prettyPrint(a, dataset):
             print(f"Explanation: {exp}",end="")
             print("\n")
 
-            for q in range(len(p["perturbed_questions"])):
-                print(f"QuestionID: {q+1}")
+            #Only present for contrastive set
+            if "perturbed_questions" in p.keys():
+                for q in range(len(p["perturbed_questions"])):
+                    print(f"QuestionID: 0")
 
-                que = p["perturbed_questions"][q]["perturbed_q"]  
-                print(f"Question: {que}")
+                    que = p["perturbed_questions"][q]["perturbed_q"]  
+                    print(f"Question: {que}")
 
-                ans = p["perturbed_questions"][q]["answer"]
-                print(f"Answer: {ans}")
+                    ans = p["perturbed_questions"][q]["answer"]
+                    print(f"Answer: {ans}")
 
-                exp = ""
-                if "explanation" in p["perturbed_questions"][q].keys():
-                    exp = p["perturbed_questions"][q]["explanation"]
-                print(f"Explanation: {exp}",end="")
-                print("\n")
+                    exp = ""
+                    if "explanation" in p["perturbed_questions"][q].keys():
+                        exp = p["perturbed_questions"][q]["explanation"]
+                    print(f"Explanation: {exp}",end="")
+                    print("\n")
             print("-"*50)
     elif dataset == "ropes":
         for i in range(len(a)):
             print(f"PassageID: {i}")
             p = a[i]
-            passage = "Background: " + p["background"] + " Situation: " + p["situation"]
+            passage = p["background"]
+            passage = passage.strip()
+            passage = passage.replace("\n", " ")
             print(f"Passage: {passage}",end="")
             print("\n")
             print("Questions:")
@@ -92,7 +100,8 @@ def prettyPrint(a, dataset):
                 qID = p["qas"][q]["id"]
                 print(f"QuestionID: {qID}")
 
-                que = p["qas"][q]["question"]  
+                # que = p["situation"].replace("\n", " ") + " " + p["qas"][q]["question"]  
+                que = p["qas"][q]["situation"].replace("\n", " ") + " " + p["qas"][q]["question"]  
                 print(f"Question: {que}")
 
                 ansList = []
@@ -177,11 +186,16 @@ def prettyPrint(a, dataset):
             print(f"PassageID: {i}")
             p = a[i]
             passage = p["context"]
+            passage = passage.replace("\n", " ")
             print(f"Passage: {passage}",end="")
             print("\n")
             print("Questions:")
             for q in range(len(p["qas"])):
-                print(f"QuestionID: {q}")
+                if "original_id" in p["qas"][q].keys():
+                    qID = p["qas"][q]["original_id"]
+                else: 
+                    qID = p["qas"][q]["id"]
+                print(f"QuestionID: {qID}")
 
                 que = p["qas"][q]["question"]  
                 print(f"Question: {que}")

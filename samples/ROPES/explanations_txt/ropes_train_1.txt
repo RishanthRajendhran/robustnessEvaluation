@@ -1,0 +1,93 @@
+PassageID: 0
+Passage: Evidence from seismology, heat flow at the surface, and mineral physics is combined with the Earth's mass and moment of inertia to infer models of the Earth's interior – its composition, density, temperature, pressure. For example, the Earth's mean specific gravity (5.515) is far higher than the typical specific gravity of rocks at the surface (2.7–3.3), implying that the deeper material is denser. This is also implied by its low moment of inertia ( 0.33 M R2, compared to  0.4 M R2 for a sphere of constant density). However, some of the density increase is compression under the enormous pressures inside the Earth. The effect of pressure can be calculated using the Adams–Williamson equation. The conclusion is that pressure alone cannot account for the increase in density. Instead, we know that the Earth's core is composed of an alloy of iron and other minerals.Reconstructions of seismic waves in the deep interior of the Earth show that there are no S-waves in the outer core. This indicates that the outer core is liquid, because liquids cannot support shear. The outer core is liquid, and the motion of this highly conductive fluid generates the Earth's field. Earth's inner core, however, is solid because of the enormous pressure.Reconstruction of seismic reflections in the deep interior indicate some major discontinuities in seismic velocities that demarcate the major zones of the Earth: inner core, outer core, mantle, lithosphere and crust. The mantle itself is divided into the upper mantle, transition zone, lower mantle and D′′ layer. Between the crust and the mantle is the Mohorovičić discontinuity.The seismic model of the Earth does not by itself determine the composition of the layers. For a complete model of the Earth, mineral physics is needed to interpret seismic velocities in terms of composition. The mineral properties are temperature-dependent, so the geotherm must also be determined. This requires physical theory for thermal conduction and convection and the heat contribution of radioactive elements. The main model for the radial structure of the interior of the Earth is the preliminary reference Earth model (PREM). Some parts of this model have been updated by recent findings in mineral physics (see post-perovskite) and supplemented by seismic tomography. The mantle is mainly composed of silicates, and the boundaries between layers of the mantle are consistent with phase transitions.The mantle acts as a solid for seismic waves, but under high pressures and temperatures it deforms so that over millions of years it acts like a liquid. This makes plate tectonics possible. John is a geologist. He was trying to figure out how the Earth's inner core is made. To that end, he compared earth's physical characteristics to available items. First he took a sample of surface rock, which he labeled as item B. Then he took a sphere of constant density, which he labeled as item C. Finally, he labeled the Earth as item A.
+
+Questions:
+QuestionID: 2228965943
+Question: Which would have higher specific gravity, item A or item B?
+Answer: item A
+Explanation: Earth has a lower specific gravity than a surface rock.
+
+--------------------------------------------------
+PassageID: 1
+Passage: A) In a straight-chain molecule, all the carbon atoms are lined up in a row like cars of a train. The carbon atoms form the “backbone” of the molecule. B) In a branched-chain molecule, at least one of the carbon atoms branches off from the backbone. C) In a cyclic molecule, the chain of carbon atoms is joined at the two ends to form a ring. Each ring usually contains just five or six carbon atoms, but rings can join together to form larger molecules. A cyclic molecule generally has higher boiling and melting points than straight-chain and branched-chain molecules. Mark works as a scientist for a molecular research institute. Today, he has three samples of molecule in front of him, sample A, sample B, and sample C. Sample A is a straight-chain molecule; sample B is a branched-chain molecule; and sample C is a cyclic molecule. Mark's job is to determine the characteristics of each sample.
+
+Questions:
+QuestionID: 2537447193
+Question: In which sample the chain of carbon atoms would form a ring, sample B or sample C?
+Answer: sample C
+Explanation: Cyclic molecules consist of a chain of atoms connected at the two ends to form a ring.
+
+--------------------------------------------------
+PassageID: 2
+Passage: The Mercator projection is best within 15 degrees north or south of the equator. Landmasses or countries outside that zone get stretched out of shape. The further the feature is from the equator, the more out of shape it is stretched. For example, if you look at Greenland on a globe, you see it is a relatively small country near the North Pole. Yet, on a Mercator projection, Greenland looks almost as big the United States. Because Greenland is closer to the pole, the continent's shape and size are greatly increased. The United States is closer to its true dimensions. Bob is looking at a map with Mercator projection to help him with his geography class. He noticed that Ecuador is within fifteen degrees north or south of the equator, but Norway is farther north of the equator. Bob starts to see how a country's location on a map affects how they look.
+
+Questions:
+QuestionID: 1302350789
+Question: Would Ecuador's shape and size increase or decrease on a map?
+Answer: decrease
+Explanation: Since Ecuador is within 15 degrees north or south of the equator, it is not stretched in a Mercator projection.
+
+--------------------------------------------------
+PassageID: 3
+Passage: One reason radiation is dangerous is that it can’t be detected with the senses. You normally can’t see it, smell it, hear it, or feel it. Fortunately, there are devices such as Geiger counters that can detect radiation. A Geiger counter, like the one in Figure below , has a tube that contains atoms of a gas. If radiation enters the tube, it turns gas atoms to ions that carry electric current. The current causes the Geiger counter to click. The faster the clicks occur, the higher the level of radiation. Johnny has two old drums that used to carry nuclear in his garage. He is curious to know about any radiation that the drums are giving off so he purchases a Geiger counter and returns home. Upon returning home, he puts each drum in the opposite corner of his garage and then runs the Geiger counter over the barrel. Drum A causes Johnny's Geiger counter to make a slow but steady noise. When Johnny walks over to Drum B, his Geiger counter starts making rapid sounds. Johnny thinks maybe he should not have invested in these barrels.
+
+Questions:
+QuestionID: 923505221
+Question: Which drum causes less atoms in the Geiger counter to turn into ions?
+Answer: Drum A
+Explanation: The slower the geiger counter moves, the lower is the level of radiation. The lower the level of radiation, the lower the number of atoms that turn into ions.
+
+--------------------------------------------------
+PassageID: 4
+Passage: A mycorrhiza (Greek for "fungus roots") is a symbiotic association between a fungus and the roots of a plant. In a mycorrhizal association, the fungus may colonize the roots of a host plant by either growing directly into the root cells, or by growing around the root cells. This association provides the fungus with relatively constant and direct access to glucose, which the plant produces by photosynthesis. The mycelia of the fungi increases the surface area of the plant’s root system. The larger surface area improves water and mineral nutrient absorption from the soil. Fox and Ken were two aspiring horticulturists. Ken studied more about plant pollination, while Fox studied about mycorrhizal fungi.
+
+Questions:
+QuestionID: 3681558789
+Question: Which friend read more about fungi growing directly into the root cells?
+Answer: Fox
+Explanation: Fox studied mycorrhizal fungi which grow directly into the root cells of their host plants.
+
+--------------------------------------------------
+PassageID: 5
+Passage: Besides anthropogenic productivity of the land, the biodiversity of degraded land also declines, as previously mentioned.[12] With less biodiversity, this ecosystem is less adaptable to when disasters strike it[11][8] It has a smaller available food supply, in terms of plants, for animals, who then may die out or more likely may relocate. Proof of this decline is that presently 15-20% of Tibetan Plateau species are now considered endangered; and now because of this animal and plant absence, the soil quality of these degraded lands is very poor.[1] It does not hold the necessary nutrients, such as water, nitrogen, and carbon, essential to either supporting life or inviting life back to that land.[6] As a result of such carbon and nitrogen loss in the Tibetan Plateau, $8,033/ha and $13,315/ha were respectively lost in economic terms. Soils are further weakened by dust storms whose frequency increases because of degradation.[11][4] Erosion of soil becomes a bigger problem, since no longer are there as many plants to anchor in the soil. In the northern Chinese province alone, 400 million are affected every year with an associated 54 billion yuan of annual economic loss due to grassland degradation. The Gorge saw some negative effects due to deforestation. The Valley has a more fertile soil, it's not overgrazed, and the trees and bushes are abundant, and the productivity has increased several fold over the past decade. Biodiversity in the Valley is varied, and the soils are nutritious and retain more water, nitrogen and carbon.
+
+Questions:
+QuestionID: 3199220847
+Question: Which area has fewer endangered species?
+Answer: The Valley
+Explanation: Since the valley has fertile soil and abundant vegetation, it should be the case that there are more thriving species in the valley.
+
+--------------------------------------------------
+PassageID: 6
+Passage: When rock units are placed under horizontal compression, they shorten and become thicker. Because rock units, other than muds, do not significantly change in volume, this is accomplished in two primary ways: through faulting and folding. In the shallow crust, where brittle deformation can occur, thrust faults form, which causes deeper rock to move on top of shallower rock. Because deeper rock is often older, as noted by the principle of superposition, this can result in older rocks moving on top of younger ones. Movement along faults can result in folding, either because the faults are not planar or because rock layers are dragged along, forming drag folds as slip occurs along the fault. Deeper in the Earth, rocks behave plastically and fold instead of faulting. These folds can either be those where the material in the center of the fold buckles upwards, creating "antiforms", or where it buckles downwards, creating "synforms". If the tops of the rock units within the folds remain pointing upwards, they are called anticlines and synclines, respectively. If some of the units in the fold are facing downward, the structure is called an overturned anticline or syncline, and if all of the rock units are overturned or the correct up-direction is unknown, they are simply called by the most general terms, antiforms and synforms. Martha is currently walking around the forest when she notices two rocks that catch her attention. She quickly picks them up, stows them in her backpack and runs to the local geologist. She shows them to Linda, the geologist, and asks what she can tell her about the rocks. Linda informs her that the yellow rock has been subject to horizontal compression, but the blue rock has not been horizontally compressed. She promises Martha she will look into the rocks in more detail to answer more questions for her.
+
+Questions:
+QuestionID: 666219732
+Question: Which color rock is more likely to be thicker?
+Answer: yellow
+Explanation: Rocks which undergo horizontal compression become thicker.
+
+--------------------------------------------------
+PassageID: 7
+Passage: Another example of negative feedback has to do with blood glucose levels. When glucose (sugar) levels in the blood are too high, the pancreas secretes insulin to stimulate the absorption of glucose and the conversion of glucose into glycogen, which is stored in the liver. As blood glucose levels decrease, less insulin is produced. When glucose levels are too low, another hormone called glucagon is produced, which causes the liver to convert glycogen back to glucose. A doctor named Phil is researching how sugar affects the body. He noted when his participants ate a lot of sugar their livers would produce a lot more insulin than usual. The insulin would convert the sugar into glycogen. When they had a normal amount of sugar the amount of insulin was stable. He then had a person not eat at all and he found another hormone called glucagon was being produced. This hormone was converting the glycogen back into glucose, also known as sugar.
+
+Questions:
+QuestionID: 2600892719
+Question: Will eating lots of sugary foods cause a person's insulin level to increase or decrease?
+Answer: increase
+Explanation: As the sugar level in blood increases, more insulin is produced.
+
+--------------------------------------------------
+PassageID: 8
+Passage: The Hawaiian Islands ( Figure above ) are in the central Pacific Ocean. The islands are volcanoes that increase in age from southeast to northwest. The youngest island is the Big Island of Hawaii at the southeast end of the chain. The volcanoes get older through Maui, Kahoolawe, Lanai, Molokai, Oahu, Kauai, and Niihau Islands through the northwest. The Kilauea volcano on Hawaii has been erupting almost continuously since 1983. There are also eruptions at an underwater volcano called Loih Pete lived in Alaska, but visited his friend Julia from Hawaii very often. They had many mutual interests, including geology and earthquakes.
+
+Questions:
+QuestionID: 1043526481
+Question: Which person lived farther from Oahu island?
+Answer: Pete
+Explanation: Oahu Island is in Hawaii while Alaska is not.
+
+--------------------------------------------------
+
+
+

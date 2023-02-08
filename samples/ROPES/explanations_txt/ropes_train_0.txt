@@ -1,0 +1,93 @@
+PassageID: 0
+Passage: Hemophilia is the name of a group of hereditary diseases that affect the body's ability to control blood clotting. Hemophilia is caused by a lack of clotting factors in the blood. Clotting factors are normally released by platelets. Since people with hemophilia cannot produce clots, any cut can put a person at risk of bleeding to death. The risk of internal bleeding is also increased in hemophilia, especially into muscles and joints. This disease affected the royal families of Europe. Greg and Bobby are coworkers who are currently eating lunch together on their break. They haven't known each other very long and are having a casual conversation when Bobby mentions that he is a hemophiliac. Greg, unsure of what exactly that means, looks confused and taken aback. Bobby, noticing the bewilderment on Greg's face, takes a moment to explain the details of his condition to Greg.
+
+Questions:
+QuestionID: 780095715
+Question: Does Greg or Bobby have a lower platelet count?
+Answer: Bobby
+Explanation: Bobby is hemophiliac which would mean that he lacks clotting factors normally released by platelets.
+
+--------------------------------------------------
+PassageID: 1
+Passage: There is a zone of the atmosphere in which ozone absorbs some 98% of non-ionizing but dangerous UV-C and UV-B. This so-called ozone layer starts at about 20 miles (32 km) and extends upward. Some of the ultraviolet spectrum that does reach the ground (the part that begins above energies of 3.1 eV, a wavelength less than 400 nm) is non-ionizing, but is still biologically hazardous due to the ability of single photons of this energy to cause electronic excitation in biological molecules, and thus damage them by means of unwanted reactions. An example is the formation of pyrimidine dimers in DNA, which begins at wavelengths below 365 nm (3.4 eV), which is well below ionization energy. This property gives the ultraviolet spectrum some of the dangers of ionizing radiation in biological systems without actual ionization occurring. In contrast, visible light and longer-wavelength electromagnetic radiation, such as infrared, microwaves, and radio waves, consists of photons with too little energy to cause damaging molecular excitation, and thus this radiation is far less hazardous per unit of energy. John was interested in the Sun's radiations that Earth receives. One of the radiations was in the ultraviolet spectrum. He categorized it as spec A. The other radiation was the visible light. He categorized it as spec B. He then searched online to find the pros and cons of each of them.
+
+Questions:
+QuestionID: 2971012663
+Question:  In which case photons would have less energy, spec A or spec B?
+Answer: spec B
+Explanation: Visible light has longer wavelength than radiations in the ultraviolet spectrum and hence they consist of lower energy photons. 
+
+--------------------------------------------------
+PassageID: 2
+Passage: The dangers of global warming are being increasingly studied by a wide global consortium of scientists. These scientists are increasingly concerned about the potential long-term effects of global warming on our natural environment and on the planet. Of particular concern is how climate change and global warming caused by anthropogenic, or human-made releases of greenhouse gases, most notably carbon dioxide, can act interactively, and have adverse effects upon the planet, its natural environment and humans' existence. It is clear the planet is warming, and warming rapidly. This is due to the greenhouse effect, which is caused by greenhouse gases, which trap heat inside the Earth's atmosphere because of their more complex molecular structure which allows them to vibrate and in turn trap heat and release it back towards the Earth. This warming is also responsible for the extinction of natural habitats, which in turn leads to a reduction in wildlife population.The most recent report from the Intergovernmental Panel on Climate Change (the group of the leading climate scientists in the world) concluded that the earth will warm anywhere from 2.7 to almost 11 degrees Fahrenheit (1.5 to 6 degrees Celsius) between 1990 and 2100. Rob was evaluating two research studies on climate change, study A and study B. Study A explained how increased greenhouse gases would affect the climate. On the other hand, study B showed how decreased greenhouse gases would affect the climate. Rob found the studies very interesting.
+
+Questions:
+QuestionID: 1541620314
+Question: Which study involved less complex molecules, study A or study B?
+Answer: study B
+Explanation: Study B was about the effect of decrease in greenhouse gases, known to be composed of complex molecules, while study A was about the effect of increase in greenhouse gases.
+
+--------------------------------------------------
+PassageID: 3
+Passage: Many different chemical substances cause cancer. Dozens of chemicals in tobacco smoke, including nicotine, have been shown to cause cancer ( Figure below ). In fact, tobacco smoke is one of the main sources of chemical carcinogens. Smoking tobacco increases the risk of cancer of the lung, mouth, throat, and bladder. Using smokeless tobacco can also cause cancer. Other chemicals that cause cancer include asbestos, formaldehyde, benzene, cadmium, and nickel. Jim and Robert are identical twins both getting their yearly physical check ups at the doctor's office.  They are trying to figure out if they are at risk for any future health problems. Both of them consume the same diet and exercise the same amount, and were both raised in the exact same environment. But, Jim has smoked tobacco frequently for several years and Robert has never smoked tobacco in his life.
+
+Questions:
+QuestionID: 1031163917
+Question: Who is at a lower risk for getting mouth cancer in the future?
+Answer: Robert
+Explanation: Robert has never smoked tobacco which is known to cause mouth cancer while Jim smokes frequently.
+
+--------------------------------------------------
+PassageID: 4
+Passage: Beginning in the late 1970’s, ozone depletion was recognized as a significant environmental issue. The most dramatic decrease in ozone occurs seasonally over the continent of Antarctica. The size and duration of the ozone hole steadily increased, with the largest hole recorded in 2006. Fortunately, most countries have recognized the danger of CFCs and dramatically curtailed their use in recent years. It is hoped that ozone depletion will slow and that the ozone layer may eventually be restored to its earlier levels. Ben and Harry were studying about the climatic history of Earth. Ben was more attracted to learning about early Ice Ages, while Harry was curious about the Earth atmosphere and read about ozone depletion and its consequences.
+
+Questions:
+QuestionID: 1293629618
+Question: Which person learned less about ozone depletion being recognized as a significant environmental issue?
+Answer: Ben
+Explanation: Ben learnt about the Ice Ages, way before ozone layer depletion was discovered.
+
+--------------------------------------------------
+PassageID: 5
+Passage: We discussed earlier some basic principles about the behavior of gases called the kinetic-molecular theory. Among other things, this theory suggests that gas molecules are in constant motion, and the average speed of the individual gas particles is dependent upon temperature – the higher the temperature, the faster the molecules move. It is not just gas particles that are in constant motion. The molecules and ions that make up liquids and solutions are also continually moving in nearly random directions. As a result, molecules and ions in a solution will collide with one another fairly frequently. As with gases, a temperature increase will produce an increase in the average particle speed. A new volcano is growing underwater. Every few days it has minor lava flow eruptions off the coast of Hawaii. People have actually enjoyed swimming in the water above this newly forming volcano because it is very soothing and relaxing.
+
+Questions:
+QuestionID: 1180145068
+Question: Given the lava is hot enough to cause some of the water to turn to steam, will the molecules near the lava have higher or lower speed than the molecules further away?
+Answer: higher
+Explanation: Hot lava would increase the temperature of the molecules around it thereby increasing their speed.
+
+--------------------------------------------------
+PassageID: 6
+Passage: Following the utilitarian principle of seeking the greatest good for the greatest number – economic inequality is problematic. A house that provides less utility to a millionaire as a summer home than it would to a homeless family of five, is an example of reduced "distributive efficiency" within society, that decreases marginal utility of wealth and thus the sum total of personal utility. An additional dollar spent by a poor person will go to things providing a great deal of utility to that person, such as basic necessities like food, water, and healthcare; while, an additional dollar spent by a much richer person will very likely go to luxury items providing relatively less utility to that person. Thus, the marginal utility of wealth per person ("the additional dollar") decreases as a person becomes richer. From this standpoint, for any given amount of wealth in society, a society with more equality will have higher aggregate utility. Some studies[2][32] have found evidence for this theory, noting that in societies where inequality is lower, population-wide satisfaction and happiness tend to be higher. Finland has one of the lowest economic inequality in the world. Finland's neighbor Russia has a different story. After the collapse of the Soviet Union, Russia's economic inequality soared to the point that it has now one of the highest economic inequality in the world. John and Keith are residents of Finland. While John is rich, Keith is not so fortunate - he is poor. Similarly, David and Greg are residents of Russia. While David is rich, Greg is in poverty.
+
+Questions:
+QuestionID: 2444975317
+Question: For an extra dollar, who would spend it on basic necessities, David or Greg?
+Answer: Greg
+Explanation: Since Greg is poor while David is rich, he’d likely spend an extra dollar for basic necessities.
+
+--------------------------------------------------
+PassageID: 7
+Passage: The epidermis also contains melanocytes , which are cells that produce melanin. Melanin is the brownish pigment that gives skin much of its color. Everyone has about the same number of melanocytes, but the melanocytes of people with darker skin produce more melanin. The amount of melanin produced is determined by heredity and exposure to UV light, which increases melanin output. Exposure to UV light also stimulates the skin to produce vitamin D . Because melanin blocks UV light from penetrating the skin, people with darker skin may be at greater risk of vitamin D deficiency. John is learning more about different cultures and people around the world. He noticed that people have different skin colors. To learn more about the science behind skin colors he categorized the skin colors into two broad groups, case D and case L. Case D is represented by darker skin and case L is represented by lighter skin.
+
+Questions:
+QuestionID: 284781106
+Question: People in which case would have greater risk of vitamin D deficiency, case D or case L?
+Answer: case D
+Explanation: Case D consists of people with darker skin who have higher melatonin content in their skin, a substance known to block UV light which provides vitamin D to the body.
+
+--------------------------------------------------
+PassageID: 8
+Passage: Antifreeze could also be called “antiboil” because it also raises the boiling point of the water in a car radiator. Hot weather combined with a hot engine can easily raise the temperature of the water in the radiator above 100 °C, which is the boiling point of pure water. If the water boils, it could cause the engine to overheat and become seriously damaged. However, if antifreeze has been added to the water, the boiling point is much higher. For example a 50 percent antifreeze solution has a boiling point of 129 °C. Unless the water gets hotter than this, it won’t boil and ruin the engine. Rob is an auto mechanic. He was checking the radiators of his car and truck. He put antifreeze into the car radiator, but didn't put any antifreeze into the truck radiator. He was wondering how the vehicles would fare in coming hot weather.
+
+Questions:
+QuestionID: 928729651
+Question: Which vehicle's engine would more likely be damaged, car or truck?
+Answer: truck
+Explanation: Since Rob added antifreeze, known to increase water’s boiling temperature, to the car but no the truck, the truck is more likely to suffer damage from water boiling in the heat.
+
+--------------------------------------------------
+
+
+
