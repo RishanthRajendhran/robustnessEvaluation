@@ -1,0 +1,137 @@
+[
+    {
+        "background": "Groundwater salinization compromises buffering properties. Vegetation clearance, along with irrigation, causes serious issues. Irrigation increases the water table and mobilizes salts, and vegetation clearance allows it to come in contact with water habitats and vegetation. This stresses species not adapted to high salinity. High levels of salinity reduces water uptake in plants, by causing stomatal closure, reducing photosynthesis. Forests undergo decline in areas of high salinity and shallow groundwater depths because these conditions make them more susceptible to droughts. Forests undergo decline in areas of high salinity and shallow groundwater depths making them more susceptible to droughts.",
+        "situation": "Roger has been wanting to make a difference in the world, and has decided he wants to start a forested area in the country side. He has some areas that he has mapped out, and is trying to decide where he would like to start his new growth. The Bilton Valley area has recently been cleared of vegetation and has some irrigation channels installed for a near by farm. The other area he is looking at in an uncleared pasture called Stevens Pasture. ",
+        "qas": [
+            {
+                "question": "Will Bilton Valley have a higher or lower salinity level in the soil than Stevens Pasture?",
+                "id": "3321612593",
+                "answers": [
+                    {
+                        "text": "higher"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Alberta's electrical demand varies throughout the day and across the seasons. When individuals are fixing supper and using home appliances, demand for power goes up, as it does during heat waves and cold snaps. It tapers off during spring and fall. Like other mechanical devices, generators fail from time to time. If they are wind-powered, their output varies with the wind.",
+        "situation": "Tony is in charge of a power station in Alberta. He has been tasked with turning on and off generators depending on the demand for power. He has been ordered to try and be efficient as possible, turning off generators in low demand times, and turning them on in high demand times to satisfy needs. On Monday and Tuesday, Alberta saw record high temperatures, and on Thursday and Friday,  things cooled off for a more moderate and comfortable temperature.",
+        "qas": [
+            {
+                "question": "Would Tony have been using more or less generators on Tuesday than Thursday?",
+                "id": "782059487",
+                "answers": [
+                    {
+                        "text": "more"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The example of someone having a positive experience with a drug is easy to see how drug dependence and the law of effect works. The tolerance for a drug goes up as one continues to use it after having a positive experience with a certain amount the first time.[38] It will take more and more to get that same feeling. This is when the controlled substance in an experiment would have to be modified and the experiment would really begin. The law of work for psychologist B. F. Skinner almost half a century later on the principles of operant conditioning, \"a learning process by which the effect, or consequence, of a response influences the future rate of production of that response.[39]",
+        "situation": "The Soap Squad met to discuss their experiences. They all said they always had a great experience using soap and used the same amount each time. They told how many times they used soap. Milo used it 22 times, Anibal used it 32 times, Olen used it 42 times, Zachariah used it 52 times, Dannie used it 62 times, Mauro used it 72 times, and Orval used it 82 times.",
+        "qas": [
+            {
+                "question": "Who has a higher tolerance for soap: Zachariah or Mauro?",
+                "id": "3730868791",
+                "answers": [
+                    {
+                        "text": "Mauro"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "A few insects, such as mayflies and some moths, never eat. That\u2019s because their lives are over in just a few hours or days. Once these insects become adults, they lay eggs, and then die. On the other hand, some insects are very healthy eaters. A silkworm eats enough leaves to increase its weight more than 4,000 times in just 56 days, as the silkworm increases in size about 10,000 times since birth. A locust eats its own weight in plants every day. Just imagine eating your own weight in food every day. You probably couldn't. You would most likely get very sick even if you tried.",
+        "situation": "Billy has decided to start collecting insects. He wants to build a vibrant collection, has a bunch of different bug boxes to store them in. So far he has captured some mayflies, and some locusts. He is trying to decide how to take care of them. ",
+        "qas": [
+            {
+                "question": "Will the locusts live longer or shorter lives than the mayflies?",
+                "id": "1562329124",
+                "answers": [
+                    {
+                        "text": "longer"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "To determine the concentration of an acid in an aqueous solution, an acid-base titration is commonly performed. A strong base solution with a known concentration, usually NaOH or KOH, is added to neutralize the acid solution according to the color change of the indicator with the amount of base added.[7] The titration curve of an acid titrated by a base has two axes, with the base volume on the x-axis and the solution's pH value on the y-axis. The pH of the solution always goes up as the base is added to the solution.",
+        "situation": "A chemist was trying to make a new solution to better get rid of stains on the carpet. Solution A stayed the same. Solution B had 1 ounce of base added. Solution C had 2 ounces of base added. Solution D had 3 ounces of base added. Solution E stayed the same. Solution F had 4 ounces of base added Solution D was proven as the best solution to get rid of carpet stains.",
+        "qas": [
+            {
+                "question": "Which solution had it's pH level go up: Solution A or Solution F?",
+                "id": "4107490082",
+                "answers": [
+                    {
+                        "text": "Solution F"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Flywheel energy storage (FES) works by accelerating a rotor (flywheel) to a very high speed, holding energy as rotational energy. When energy is extracted, the flywheel's rotational speed declines as a consequence of conservation of energy; adding energy correspondingly results in an increase in the speed of the flywheel.\n\nMost FES systems use electricity to accelerate and decelerate the flywheel, but devices that directly use mechanical energy are under consideration.",
+        "situation": "Ben works with a flywheel, and has been instructed at various times to change the speeds based on certain conditions. He operates a device that gives or limits the flywheels energy by turning a crank left to give more energy, or right to decrease energy. ",
+        "qas": [
+            {
+                "question": "Which way should Ben turn the crank to increase the flywheel speed?",
+                "id": "972563156",
+                "answers": [
+                    {
+                        "text": "left"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Friction between the atmosphere and the Earth's surface causes a 20% reduction in the wind at the surface of the Earth.[10] Surface roughness also leads to significant variation of wind speeds. Over land, winds maximize at hill or mountain crests, while sheltering leads to lower wind speeds in valleys and lee slopes.[11] Compared to over water, maximum sustained winds over land average 8% lower.[12] More specifically, over a city or rough terrain, the wind gradient effect could cause a reduction of 40% to 50% of the geostrophic wind speed aloft; while over open water or ice, the reduction is between 10% and 30%.[8][13][14]",
+        "situation": "Steve is taking his family on a couple of outings soon. He wants to fly kites one day, then go on a nice picnic in a nice and non windy area the next. His wife wants to go to Hinton Beach one of the days, and his daughter wants to see Till's Valley an another of the days.",
+        "qas": [
+            {
+                "question": "Will Till's Valley be better or worse for flying kites than Hinton Beach?",
+                "id": "896096483",
+                "answers": [
+                    {
+                        "text": "worse"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Alberta's electrical demand varies throughout the day and across the seasons. When individuals are fixing supper and using home appliances, demand for power goes up, as it does during heat waves and cold snaps. It tapers off during spring and fall. Like other mechanical devices, generators fail from time to time. If they are wind-powered, their output varies with the wind.",
+        "situation": "Steve is in charge of turning on and off power generators for Alberta's electrical service. He has been tasked to turn off generators when demand is low, and turn on more generators when demand is high. He has been told by supervisors to be aware of several different conditions which could effect demand. Some of them are, the temperature or weather conditions, time of day, or even the particular season could effect the demands. Steve has been tasked with being as efficient as possible, and to not run extra generators when not needed, and to be sure to turn on additional ones when demand warrants it.",
+        "qas": [
+            {
+                "question": "Will Steve be more likely to turn off more generators in the spring or the summer?",
+                "id": "1205043665",
+                "answers": [
+                    {
+                        "text": "spring"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Communication is any way that animals share information. Many animals live in social groups. For these animals, being able to communicate is essential. Communicating increases the ability of group members to cooperate and avoid conflict. Communication may help animals work together to find food and defend themselves from predators. It also helps them find mates and care for their offspring. In addition, communication helps adult animals teach the next generation learned behaviors. Therefore, communication generally improves the chances of animals surviving and reproducing.",
+        "situation": "There is an experiment being done on a group of animals. The animals in Group A are allowed to communicate with each other, while the animals in Group B have been sequestered and have no communication within their group.",
+        "qas": [
+            {
+                "question": "Does Group B have a higher or lower chance of survival than Group A?",
+                "id": "1197096504",
+                "answers": [
+                    {
+                        "text": "lower"
+                    }
+                ]
+            }
+        ]
+    }
+]

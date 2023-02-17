@@ -7,6 +7,13 @@ import transformers
 import os
 import glob
 import re
+import logging
+
+logging.basicConfig(filemode="w",level=logging.INFO)
+
+NUM_SEQUENCES = 10
+TEMPERATURE = 0.7
+MAX_LENGTH = 500
 
 parser = argparse.ArgumentParser()
 
@@ -200,23 +207,19 @@ def generateTestPrompt(data, promptType, bestPromptType=1):
 for trainFile in trainFiles:
     file_exists = exists(trainFile)
     if not file_exists:
-        print(f"{trainFile} is an invalid train file path!")
-        exit(0)
+        raise ValueError(f"{trainFile} is an invalid train file path!")
     path = Path(trainFile)
     if not path.is_file():
-        print(f"{trainFile} is not a (train) file!")
-        exit(0)
+        raise ValueError(f"{trainFile} is not a (train) file!")
 
 #Check if file exists
 for testFile in testFiles:
     file_exists = exists(testFile)
     if not file_exists:
-        print(f"{testFile} is an invalid test file path!")
-        exit(0)
+        raise ValueError(f"{testFile} is an invalid test file path!")
     path = Path(testFile)
     if not path.is_file():
-        print(f"{testFile} is not a (test) file!")
-        exit(0)
+        raise ValueError(f"{testFile} is not a (test) file!")
 
 #Checking if trainOuts and a directory for this dataset exist, if it doesnt, create them
 if not os.path.exists(f"./testOuts"):
@@ -226,68 +229,81 @@ if not os.path.exists(f"./testOuts/{dataset}"):
 
 #Only do inferencing
 with torch.no_grad():
-    if True:
-        if selfConsistency:
-            pipe_flan = transformers.pipeline("text2text-generation", model=f"google/flan-t5-{modelSize}", device="cuda:0", model_kwargs={"torch_dtype":torch.bfloat16, "num_return_sequences":5, "do_sample":True})
-        else:
-            pipe_flan = transformers.pipeline("text2text-generation", model=f"google/flan-t5-{modelSize}", device="cuda:0", model_kwargs={"torch_dtype":torch.bfloat16})
-        # pipe_flan = None
-        print(f"Model: FLANT5-{modelSize}")
-        for trainFile in trainFiles:
+    if torch.cuda.is_available():
+        device = torch.device("cuda")
+    else:
+        device = torch.device("cpu")
+    if selfConsistency:
+        pipe_flan = transformers.pipeline(
+            "text2text-generation", 
+            model=f"google/flan-t5-{modelSize}", 
+            device=device, 
+            model_kwargs= {
+                "torch_dtype":torch.bfloat16, 
+                "num_return_sequences":NUM_SEQUENCES, 
+                "do_sample":True,
+                "temperature": TEMPERATURE
+            }
+        )
+    else:
+        pipe_flan = transformers.pipeline(
+            "text2text-generation", 
+            model=f"google/flan-t5-{modelSize}", 
+            device=device, 
+            model_kwargs= {
+                "torch_dtype":torch.bfloat16
+            }
+        )
+    # pipe_flan = None
+    logging.info(f"Model: FLANT5-{modelSize}")
+    for trainFile in trainFiles:
+        #Contingency
+        #Remove after first successful run
+        logging.info(f"#{trainFile}")
+        #---------------------------------
+        if not zeroShot:
+            trainData = readJSON(trainFile, dataset)
+            trainPrompt = generateTrainPrompt(trainData, promptType, bestPromptType)
+        for testFile in testFiles:
             #Contingency
             #Remove after first successful run
-            print(f"#{trainFile}")
+            logging.info(f"##{testFile}")
             #---------------------------------
-            if not zeroShot:
-                trainData = readJSON(trainFile, dataset)
-                trainPrompt = generateTrainPrompt(trainData, promptType, bestPromptType)
-            for testFile in testFiles:
-                #Contingency
-                #Remove after first successful run
-                print(f"##{testFile}")
-                #---------------------------------
-                testData = readJSON(testFile, dataset)
-                testOuts = []
-                for testEx in testData:
-                    testPrompt = generateTestPrompt(testEx, promptType, bestPromptType)
-                    if not zeroShot:
-                        finalPrompt = ("".join(trainPrompt)) + testPrompt
-                    else:
-                        finalPrompt = testPrompt                           
+            testData = readJSON(testFile, dataset)
+            testOuts = []
+            for testEx in testData:
+                testPrompt = generateTestPrompt(testEx, promptType, bestPromptType)
+                if not zeroShot:
+                    finalPrompt = ("".join(trainPrompt)) + testPrompt
+                else:
+                    finalPrompt = testPrompt                           
 
+                if torch.cuda.is_available():
                     torch.cuda.empty_cache()
 
-                    if selfConsistency:
-                        output_flan = pipe_flan(finalPrompt, max_length=100)
+                if selfConsistency:
+                    output_flan = pipe_flan(finalPrompt, max_length=MAX_LENGTH)
 
-                        sampleID = f"{trainFile}_{testFile}_{testData.index(testEx)}"
+                    sampleID = f"{trainFile}_{testFile}_{testData.index(testEx)}"
 
-                        for out in output_flan: 
-                            newEx = testEx.copy()
-                            newEx["sampleID"] = sampleID
-                            newEx["output"] = out["generated_text"]
-                            testOuts.append(newEx)
-                    else:
-                        output_flan = pipe_flan(finalPrompt, max_length=100)[0]["generated_text"]
-                        
-                        testEx["output"] = output_flan
-                        testOuts.append(testEx)                           
-
-                    torch.cuda.empty_cache()
+                    for out in output_flan: 
+                        newEx = testEx.copy()
+                        newEx["SampleID"] = sampleID
+                        newEx["output"] = out["generated_text"]
+                        testOuts.append(newEx)
+                else:
+                    output_flan = pipe_flan(finalPrompt, max_length=MAX_LENGTH)[0]["generated_text"]
                     
-                    # del testPrompt
-                    # del finalPrompt
-                    # del testEx
-                    # del output_flan
-                    # gc.collect()
-                    # torch.cuda.empty_cache()
+                    testEx["output"] = output_flan
+                    testOuts.append(testEx)                           
 
-                    # #Contingency
-                    # #Remove after first successful run
-                    # print(testEx)
-                    #---------------------------------
-
-                with open(f'./testOuts/{dataset}/{trainFile.split("/")[-1].split(".")[0]}__{testFile.split("/")[-1].split(".")[0]}__{promptType}__{zeroShot}.json', 'w') as fout:
-                    json.dump(testOuts , fout)
-            print("*****")
-        print("-----")
+                if torch.cuda.is_available():
+                    torch.cuda.empty_cache()
+            if selfConsistency:
+                outFileName = f'./testOuts/selfConsistency/{dataset}/{trainFile.split("/")[-1].split(".")[0]}__{testFile.split("/")[-1].split(".")[0]}__{promptType}__{zeroShot}.json'
+            else:
+                outFileName = f'./testOuts/cosistency/{dataset}/{trainFile.split("/")[-1].split(".")[0]}__{testFile.split("/")[-1].split(".")[0]}__{promptType}__{zeroShot}.json'
+            with open(outFileName, 'w') as fout:
+                json.dump(testOuts , fout)
+        logging.info("*****")
+    logging.info("-----")

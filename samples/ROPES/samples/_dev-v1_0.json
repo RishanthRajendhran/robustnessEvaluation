@@ -1,0 +1,137 @@
+[
+    {
+        "background": "For example, your body has an internal thermostat. During a winter day, in your house a thermostat senses the temperature in a room and responds by turning on or off the heater. Your body acts in much the same way. When body temperature rises, receptors in the skin and the brain sense the temperature change. The temperature change triggers a command from the brain. This command can cause several responses. If you are too hot, the skin makes sweat and blood vessels near the skin surface dilate. This response helps decrease body temperature.",
+        "situation": "Recently, a man name Bob broke his leg, and has been commanded to stay inside and rest while it heals. His wife, Gretchen, has had to do most of the yard work, and it has been very hot outside. Bob has been watching his wife cut the grass and feels bad, noticing she looks tired, while he gets to sit inside in the air conditioning.",
+        "qas": [
+            {
+                "question": "Which of the two most likely does not have their blood and sweat vessels dilated?",
+                "id": "3021625610",
+                "answers": [
+                    {
+                        "text": "Bob"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Regions on the Earth's surface (or in its atmosphere) that are high above mean sea level are referred to as high altitude. High altitude is sometimes defined to begin at 2,400 meters (8,000 ft) above sea level.[5][6][7]\n\nAt high altitude, atmospheric pressure is lower than that at sea level. This is due to two competing physical effects: gravity, which causes the air to be as close as possible to the ground; and the heat content of the air, which causes the molecules to bounce off each other and expand.[8]",
+        "situation": "There was a competition for who can get the kite highest into the air. Team A got it 2,000 ft. Team B got it 3,000 ft. Team C go it 6,000 ft. Team D got it 9,000 ft. Team E got it 10,000 ft.  Team F got it 11,000 ft. Team G got it 12,000 ft. Team G won the contest and got a gold trophy as the prize.",
+        "qas": [
+            {
+                "question": "What team got their kite into high altitude: Team B or Team D?",
+                "id": "1541285444",
+                "answers": [
+                    {
+                        "text": "Team D"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The example of someone having a positive experience with a drug is easy to see how drug dependence and the law of effect works. The tolerance for a drug goes up as one continues to use it after having a positive experience with a certain amount the first time.[38] It will take more and more to get that same feeling. This is when the controlled substance in an experiment would have to be modified and the experiment would really begin. The law of work for psychologist B. F. Skinner almost half a century later on the principles of operant conditioning, \"a learning process by which the effect, or consequence, of a response influences the future rate of production of that response.[39]",
+        "situation": "The Special K Club met to discuss their experiences. They all said they always had a great experience using Special K and used the same amount each time. They told how many times they used Special K. Rico used it 72 times, Wilton used it 62 times, Brant used it 52 times, Josiah used it 42 times, Lyman used it 32 times, Alfonzo used it 22 times, and Christoper used it 12 times.",
+        "qas": [
+            {
+                "question": "Who has a higher tolerance for Special K: Josiah or Wilton?",
+                "id": "3860369692",
+                "answers": [
+                    {
+                        "text": "Wilton"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Regions on the Earth's surface (or in its atmosphere) that are high above mean sea level are referred to as high altitude. High altitude is sometimes defined to begin at 2,400 meters (8,000 ft) above sea level.[5][6][7]\n\nAt high altitude, atmospheric pressure is lower than that at sea level. This is due to two competing physical effects: gravity, which causes the air to be as close as possible to the ground; and the heat content of the air, which causes the molecules to bounce off each other and expand.[8]",
+        "situation": "There was a competition for who can get their red kite the highest into the air. Team O got it 3,555 ft. Team P got it 4,555 ft. Team Q go it 5,545 ft. Team R got it 6,535 ft. Team S got it 11,525 ft. Team T got it 14,575 ft. Team U got it 15,585 ft.",
+        "qas": [
+            {
+                "question": "What team got their kite into high altitude: Team O or Team U?",
+                "id": "3047757326",
+                "answers": [
+                    {
+                        "text": "Team U"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Sand mining is a direct cause of erosion, and impacts the local wildlife.[2] Various animals depend on sandy beaches for nesting clutches, and mining has led to the near extinction of gharials (a species of crocodile) in India. Disturbance of underwater and coastal sand causes turbidity in the water, which is harmful for organisms like coral that need sunlight. It can also destroy fisheries, financially harming their operators.\n\nRemoval of physical coastal barriers, such as dunes, sometimes leads to flooding of beachside communities, and the destruction of picturesque beaches causes tourism to dissipate. Sand mining is regulated by law in many places, but is often done illegally.[3] Globally, it is a $70 billion industry, with sand selling at up to $90 per cubic yard.[4]",
+        "situation": "Cory and his family are wanting to go fishing for their vacation. They have a set of options for their trip, Castle Beach and Armor Beach. Castle Beach has recently been the scene of controversy because of recent sand mining, but Armor Beach has seen no such development. ",
+        "qas": [
+            {
+                "question": "What beach should Cory and his family avoid if they want the best fishing area?",
+                "id": "784701452",
+                "answers": [
+                    {
+                        "text": "Castle Beach"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "The example of someone having a positive experience with a drug is easy to see how drug dependence and the law of effect works. The tolerance for a drug goes up as one continues to use it after having a positive experience with a certain amount the first time.[38] It will take more and more to get that same feeling. This is when the controlled substance in an experiment would have to be modified and the experiment would really begin. The law of work for psychologist B. F. Skinner almost half a century later on the principles of operant conditioning, \"a learning process by which the effect, or consequence, of a response influences the future rate of production of that response.[39]",
+        "situation": "The Ganja Gang met to discuss their experiences. They all said they always had a great experience using ganja and used the same amount each time. They told how many times they used ganja. Susan used it 3 times, Margaret used it 6 times, Dorothy used it 10 times, Lisa used it 15 times, Nancy used it 20 times, Karen used it 25 times, and Betty used it 35 times.",
+        "qas": [
+            {
+                "question": "Who has a higher tolerance for ganja: Nancy or Betty?",
+                "id": "1699776841",
+                "answers": [
+                    {
+                        "text": "Betty"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "About 10% of sedimentary rocks are limestones. The solubility of limestone in water and weak acid solutions leads to karst landscapes, in which water erodes the limestone over thousands to millions of years. Most cave systems are through limestone bedrock.",
+        "situation": "Greg has been on a rock finding kick. Lately, he has decided he wanted to explore areas with higher amounts of limestone. He only has time this year for one trip, and his options are limited. He can go to Mount St. Helens, or he can go to the Meremac Caverns.",
+        "qas": [
+            {
+                "question": "Will Mount St. Helens be more or less likely to have limestone deposits than Meremac Caverns?",
+                "id": "1348721373",
+                "answers": [
+                    {
+                        "text": "less"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Regions on the Earth's surface (or in its atmosphere) that are high above mean sea level are referred to as high altitude. High altitude is sometimes defined to begin at 2,400 meters (8,000 ft) above sea level.[5][6][7]\n\nAt high altitude, atmospheric pressure is lower than that at sea level. This is due to two competing physical effects: gravity, which causes the air to be as close as possible to the ground; and the heat content of the air, which causes the molecules to bounce off each other and expand.[8]",
+        "situation": "There was a competition for who can get their black drone the highest into the air. Team 10 got it 3,333 ft. Team 11 got it 4,444 ft. Team 12 go it 5,555 ft. Team 13 got it 6,666 ft. Team 14 got it 11,111 ft. Team 15 got it 12,222 ft. Team 16 got it 13,333 ft.",
+        "qas": [
+            {
+                "question": "What team got their drone into high altitude: Team 13 or Team 15?",
+                "id": "502798374",
+                "answers": [
+                    {
+                        "text": "Team 15"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "background": "Hepatitis B is a contagious virus that affects the liver, infection can last from a few weeks to a serious lifelong illness. Two different types of infection exist for this disease, \"acute\" and \"chronic.\" Acute Hepatitis B is a short term illness that occurs within 6 months of exposure, Chronic Hepatitis B is long term and happens when the virus remains in the body. The younger the child is, the greater their chance of developing a chronic infection and this risk goes down as the child gets older. Approximately 90% of infected infants will develop a chronic infection.[3]",
+        "situation": "A 3rd grade classroom photo was held today. They all gathered by age. Gil was the oldest, followed by Jules, and Burt was the youngest. They looked good that day.\n",
+        "qas": [
+            {
+                "question": "Who is most likely going to develop a chronic infection: Gil or Jules?",
+                "id": "2718245455",
+                "answers": [
+                    {
+                        "text": "Jules"
+                    }
+                ]
+            }
+        ]
+    }
+]

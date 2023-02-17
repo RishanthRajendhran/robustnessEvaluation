@@ -101,7 +101,10 @@ def prettyPrint(a, dataset):
                 print(f"QuestionID: {qID}")
 
                 # que = p["situation"].replace("\n", " ") + " " + p["qas"][q]["question"]  
-                que = p["qas"][q]["situation"].replace("\n", " ") + " " + p["qas"][q]["question"]  
+                if type(p["qas"][q]) is dict and "situation" in p["qas"][q].keys(): 
+                    que = p["qas"][q]["situation"].replace("\n", " ") + " " + p["qas"][q]["question"]  
+                else:
+                    que = p["situation"].replace("\n", " ") + " " + p["qas"][q]["question"]  
                 print(f"Question: {que}")
 
                 ansList = []
