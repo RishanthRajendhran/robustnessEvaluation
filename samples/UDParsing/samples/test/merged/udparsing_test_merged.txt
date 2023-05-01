@@ -1,0 +1,3000 @@
+PassageID: en_partut-ud-1068_14
+Passage: Sentence: Such companies bring technologically advanced imports and new management techniques that foster growth *in* domestic firms, while spurring industrial modernization.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: growth
+Explanation: 
+
+--------------------------------------------------
+PassageID: en_partut-ud-1068_14
+Passage: Sentence: Such companies bring technologically advanced imports and new management techniques that foster growth *in* unexpected ways, while spurring industrial modernization.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: foster
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_voyage_vavau-11_23
+Passage: Sentence: Neiafu is the official port of entry for yachts coming to Vava'u, which attracts over 500 yachts every winter sailing season *between* June and October.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *between* in the sentence?
+Answer: attracts
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_voyage_vavau-11_23
+Passage: Sentence: Neiafu is the official port of entry for yachts coming to Vava'u, which attracts over 500 yachts every winter sailing season *between* 12 and 30 meters long.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *between* in the sentence?
+Answer: long
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_news_expo-25_18
+Passage: Sentence: Volunteer organization Comic Corps of Canada collects donations of comics, to distribute to children and youth *in* the hospital.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: children
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_news_expo-25_18
+Passage: Sentence: Volunteer organization Comic Corps of Canada collects donations of comics, to distribute to children and youth *in* the next quarter.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: distribute
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent18_01-0009_21
+Passage: Sentence: The credit guys are currently assuming that there is no correlation and may consequently be double dipping the credit reserve *on* this basis too.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: dipping
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent18_01-0009_21
+Passage: Sentence: The credit guys are currently assuming that there is no correlation and may consequently be double dipping the credit reserve *on* hand.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: reserve
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_news_expo-15_17
+Passage: Sentence: The Northern Arena Esports Championship ran throughout the weekend, facing off teams of video gamers *in* a packed hall.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: facing
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_news_expo-15_17
+Passage: Sentence: The Northern Arena Esports Championship ran throughout the weekend, facing off teams of video gamers *in* neon uniforms.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: gamers
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3890_15
+Passage: Sentence: Cervantes describes how he discovered the manuscript by chance one day in the market *at* Toledo.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: market
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3890_15
+Passage: Sentence: Cervantes describes how he discovered the manuscript by chance one day in the market *at* dawn.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: discovered
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_whow_cupcakes-37_9
+Passage: Sentence: Alternatively, use a silicone cupcake baking sheet *with* molded holes.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: sheet
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_whow_cupcakes-37_9
+Passage: Sentence: Alternatively, use a silicone cupcake baking sheet *with* great caution.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: use
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent29_02-0011_7
+Passage: Sentence: I am sending you a version *with* comments.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: version
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent29_02-0011_7
+Passage: Sentence: I am sending you a version *with* this email.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: sending
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3841_34
+Passage: Sentence: The fact that there was now a purpose to his being Paul Auster– a purpose that was becoming more and more important to him– served as a kind of moral justification *for* the charade and absolved him of having to defend his lie.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: justification
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3841_34
+Passage: Sentence: The fact that there was now a purpose to his being Paul Auster– a purpose that was becoming more and more important to him– served as a kind of moral justification *for* many years and absolved him of having to defend his lie.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: served
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_whow_mice-30_3
+Passage: Sentence: Zap mice *with* ultrasonic sounds.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: Zap
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_whow_mice-30_3
+Passage: Sentence: Zap mice *with* cute whiskers.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: mice
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4180_11
+Passage: Sentence: At the same time it could result in job losses *in* the labour intensive repair services sector.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: losses
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4180_11
+Passage: Sentence: At the same time it could result in job losses *in* the next few months.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: result
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent32_02-0014_4
+Passage: Sentence: Please verify receipt *at* your earliest convenience.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: verify
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent32_02-0014_4
+Passage: Sentence: Please verify receipt *at* your residence.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: receipt
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_interview_hill-57_13
+Passage: Sentence: I believe it is our responsibility to pass on the same opportunities *to* future generations that were promised to us.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *to* in the sentence?
+Answer: pass
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_interview_hill-57_13
+Passage: Sentence: I believe it is our responsibility to pass on the same opportunities *to* succeed that were promised to us.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *to* in the sentence?
+Answer: opportunities
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-287360-0003_8
+Passage: Sentence: I wouldn't want any other company *in* my time of need.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: want
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-287360-0003_8
+Passage: Sentence: I wouldn't want any other company *in* my area.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: company
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-blogspot.com_marketview_20050224181500_ENG_20050224_181500-0003_30
+Passage: Sentence: ( You don't need to use their site, you can opt- out of sharing your information, you don't need to send stuff to anyone *with* a Gmail account, and if-- wonder of wonders-- you 're worried that you might send something to someone who would forward an excerpt to someone who would then store it on a Gmail account... you have far, far too much time on your hands).
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: anyone
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-blogspot.com_marketview_20050224181500_ENG_20050224_181500-0003_30
+Passage: Sentence: ( You don't need to use their site, you can opt- out of sharing your information, you don't need to send stuff to anyone *with* your own account, and if-- wonder of wonders-- you 're worried that you might send something to someone who would forward an excerpt to someone who would then store it on a Gmail account... you have far, far too much time on your hands).
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: send
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent18_02-0078_24
+Passage: Sentence: I thought that since Chonawee has an optimization background, he would be good to have him go to dinner with Dr. Lasdon *on* Thrusday as well.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: go
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent18_02-0078_24
+Passage: Sentence: I thought that since Chonawee has an optimization background, he would be good to have him go to dinner with Dr. Lasdon *on* the optimization team as well.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: Dr.
+Explanation: 
+
+--------------------------------------------------
+PassageID: en_partut-ud-785_14
+Passage: Sentence: ( 2) Everyone has the right of equal access to public service *in* his country.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: has
+Explanation: 
+
+--------------------------------------------------
+PassageID: en_partut-ud-785_14
+Passage: Sentence: ( 2) Everyone has the right of equal access to public service *in* time of need.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: access
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_fiction_teeth-38_26
+Passage: Sentence: The initiated then revelled in retelling the gross sensation of having this evil-smelling plastic slug invade your mouth, while the others waited their turn *with* mixed trepidation and excitement.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: waited
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_fiction_teeth-38_26
+Passage: Sentence: The initiated then revelled in retelling the gross sensation of having this evil-smelling plastic slug invade your mouth, while the others waited their turn *with* the slug excitedly.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: turn
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent32_01-0017_5
+Passage: Sentence: Send the revised report *by* e-mail.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *by* in the sentence?
+Answer: Send
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent32_01-0017_5
+Passage: Sentence: Send the revised report *by* the agency.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *by* in the sentence?
+Answer: Send
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent04_01-0034_22
+Passage: Sentence: you guys have any job opening for ex natural gas traders that made their now almost defunctc ompany over 40 million *in* the last two years?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: made
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent04_01-0034_22
+Passage: Sentence: you guys have any job opening for ex natural gas traders that made their now almost defunctc ompany over 40 million *in* inflation- adjusted dollars?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: million
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-211933-0002_12
+Passage: Sentence: Seth provides deep tissue massage which has significantly reduced the pain *in* my neck and shoulders and added flexibility and movement back to the area.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: pain
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-211933-0002_12
+Passage: Sentence: Seth provides deep tissue massage which has significantly reduced the pain *in* a matter of minutes and added flexibility and movement back to the area.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: reduced
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_n3td3v_e874a1e5eb995654_ENG_20060120_052200-0003_5
+Passage: Sentence: ** Google defies US *over* search data**
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *over* in the sentence?
+Answer: defies
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_n3td3v_e874a1e5eb995654_ENG_20060120_052200-0003_5
+Passage: Sentence: ** Google defies complaints *over* search data**
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *over* in the sentence?
+Answer: complaints
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3696_12
+Passage: Sentence: In the outer group level, the header section contains fields *from* the Orders table and the footer section contains a calculated total control named OrderValue.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *from* in the sentence?
+Answer: fields
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3696_12
+Passage: Sentence: In the outer group level, the header section contains fields *from* the very beginning and the footer section contains a calculated total control named OrderValue.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *from* in the sentence?
+Answer: contains
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111108104517AAw5v4L_ans-0005_16
+Passage: Sentence: I know saltwater is a possibility, can you give me a possible stocking option *for* that too?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: option
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111108104517AAw5v4L_ans-0005_16
+Passage: Sentence: I know saltwater is a possibility, can you give me a possible stocking option *for* an extra charge?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: give
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent23_04-0003_8
+Passage: Sentence: i need to now get a job *at* house of pies b/c that is the only way to pay the bills.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: job
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent23_04-0003_8
+Passage: Sentence: i need to now get a job *at* the earliest opportunity b/c that is the only way to pay the bills.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: get
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-028996-0003_11
+Passage: Sentence: I own a property management firm and need a contractor *with* the credentials that Farrell Electric has.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: contractor
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-028996-0003_11
+Passage: Sentence: I own a property management firm and need a contractor *with* no regard to the cost.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: need
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4380_6
+Passage: Sentence: They want you for drinks *on* Monday.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: want
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4380_6
+Passage: Sentence: They want you for drinks *on* a tray.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: drinks
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-363482-0002_8
+Passage: Sentence: How do you run a cafe, *with* no refills on coffee-?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: run
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-363482-0002_8
+Passage: Sentence: How do you run a cafe *with* no tables inside-?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: cafe
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20041018060600_ENG_20041018_060600-0004_22
+Passage: Sentence: One witness at the Moutasaddiq trial in Germany alleged that Zarqawi hadnot allowed Monotheism and Holy War to share resources *with* al- Qaeda in the early zeroes of the 21st century.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: share
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20041018060600_ENG_20041018_060600-0004_22
+Passage: Sentence: One witness at the Moutasaddiq trial in Germany alleged that Zarqawi hadnot allowed Monotheism and Holy War to share resources *with* any real value in the early zeroes of the 21st century.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: resources
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4233_8
+Passage: Sentence: That just goes to show the possibilities *in* our country!
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: possibilities
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4233_8
+Passage: Sentence: That just goes to show the possibilities *in* a convincing light!
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: show
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_GUHarryPotterReaders_75faa7d55aff9230_ENG_20050715_234000-0001_16
+Passage: Sentence: I just finish reading a really good book( it was actually a ebook) *from* some new series called the The Tale of Terra.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *from* in the sentence?
+Answer: book
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_GUHarryPotterReaders_75faa7d55aff9230_ENG_20050715_234000-0001_16
+Passage: Sentence: I just finish reading a really good book( it was actually a ebook) *from* beginning to end.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *from* in the sentence?
+Answer: reading
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-118668-0004_8
+Passage: Sentence: The setting feels like a Sushi bar *in* NYC; small, cozy, but with flair.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: bar
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-118668-0004_8
+Passage: Sentence: The setting feels like a Sushi bar *in* my opinion; small, cozy, but with flair.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: feels
+Explanation: 
+
+--------------------------------------------------
+PassageID: en_partut-ud-1939_18
+Passage: Sentence: Shakespeare collaborated on two further surviving plays, Henry VIII and The Two Noble Kinsmen, probably *with* John Fletcher.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: collaborated
+Explanation: 
+
+--------------------------------------------------
+PassageID: en_partut-ud-1939_18
+Passage: Sentence: Shakespeare collaborated on two further surviving plays, Henry VIII and The Two Noble Kinsmen, probably *with* greater lengths.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: plays
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4144_14
+Passage: Sentence: Once a white man in an unbuttoned uniform, camping on the path *with* an armed escort of lank Zanzibaris, very hospitable and festive– not to say drunk.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: camping
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4144_14
+Passage: Sentence: Once a white man in an unbuttoned uniform, camping on the path *with* the most grass on it, very hospitable and festive– not to say drunk.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: path
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000-0005_5
+Passage: Sentence: I read an Article *in* Time magazine accusing the Iranian Government of being willing to start a nuclear war and I sympathise with the Article.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: Article
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000-0005_5
+Passage: Sentence: I read an Article *in* 2002, accusing the Iranian Government of being willing to start a nuclear war and I sympathise with the Article.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: 2002
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_interview_hill-8_11
+Passage: Sentence: As President, I will serve ALL of the people *in* America, guided by the Constitution.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: people
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_interview_hill-8_11
+Passage: Sentence: As President, I will serve ALL of the people *in* the same way, guided by the Constitution.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: serve
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_hiddennook_e21e429b3ad58235_ENG_20050830_214700-0007_23
+Passage: Sentence: " NASA will initiate development of a Crew Launch Vehicle derived from space shuttle solid rocket boosters with a new upper stage *for* human spaceflight," said the letter, signed by NASA Administrator Mike Griffin and the Pentagon's top space official, ex-astronaut Ron Sega...
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: stage
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_hiddennook_e21e429b3ad58235_ENG_20050830_214700-0007_23
+Passage: Sentence: " NASA will initiate development of a Crew Launch Vehicle derived from space shuttle solid rocket boosters with a new upper stage *for* the first time," said the letter, signed by NASA Administrator Mike Griffin and the Pentagon's top space official, ex-astronaut Ron Sega...
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: initiate
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_voyage_thailand-49_28
+Passage: Sentence: Therefore, should you wish to donate to a monk, you should only offer food, and put your monetary donation in the appropriate donation box *at* the temple.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: box
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_voyage_thailand-49_28
+Passage: Sentence: Therefore, should you wish to donate to a monk, you should only offer food, and put your monetary donation in the appropriate donation box *at* the appropriate hour.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: put
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4439_13
+Passage: Sentence: I showed off by making a point of speaking to the servant *in* Gala.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: speaking
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4439_13
+Passage: Sentence: I showed off by making a point of speaking to the servant *in* the suit.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: servant
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4287_14
+Passage: Sentence: Unfortunately, at its last vote on the subject Parliament approved these subsidies *by* a majority.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *by* in the sentence?
+Answer: approved
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4287_14
+Passage: Sentence: Unfortunately, at its last vote on the subject Parliament approved these subsidies *by* the government.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *by* in the sentence?
+Answer: subsidies
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_n3td3v_e874a1e5eb995654_ENG_20060120_052200-0002_5
+Passage: Sentence: n3td3v saw this story *on* BBC News Online and thought you should see it.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: saw
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_n3td3v_e874a1e5eb995654_ENG_20060120_052200-0002_5
+Passage: Sentence: n3td3v saw this story *on* new robotics tech and thought you should see it.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: story
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3698_8
+Passage: Sentence: The following illustration shows the data outline *for* the Orders page.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: outline
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3698_8
+Passage: Sentence: The following illustration shows the data outline *for* clarity.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: shows
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent21_02-0048_17
+Passage: Sentence: While our established schedules of Tuesday and Friday DPR's would have us reporting tomorrow's activity *on* Monday, we will change that for month end.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: reporting
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent21_02-0048_17
+Passage: Sentence: While our established schedules of Tuesday and Friday DPR's would have us reporting tomorrow's activity *on* this project, we will change that for month end.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: activity
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_interview_libertarian-22_8
+Passage: Sentence: Of course, he showed ethical lapses *in* judgment.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: lapses
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_interview_libertarian-22_8
+Passage: Sentence: Of course, he showed ethical lapses *in* November.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: showed
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-blogspot.com_floppingaces_20041126180010_ENG_20041126_180010-0004_6
+Passage: Sentence: He makes some good observations *on* a few of the pic's.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: observations
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-blogspot.com_floppingaces_20041126180010_ENG_20041126_180010-0004_6
+Passage: Sentence: He makes some good observations *on* his own behalf.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: makes
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700-0011_10
+Passage: Sentence: But I wasnot pleased to read the description *in* the catalog:" No good in a bed, but fine against a wall."
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: description
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700-0011_10
+Passage: Sentence: But I wasnot pleased to read the description *in* the morning:" No good in a bed, but fine against a wall."
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: read
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3890_8
+Passage: Sentence: Cervantes describes how he discovered the manuscript *by* chance one day in the market at Toledo.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *by* in the sentence?
+Answer: discovered
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3890_8
+Passage: Sentence: Cervantes describes how he discovered the manuscript *by* the scholar one day in the market at Toledo.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *by* in the sentence?
+Answer: manuscript
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-216281-0003_3
+Passage: Sentence: Scheduled appointment *for* 8:30 Monday morning.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: appointment
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-216281-0003_3
+Passage: Sentence: Scheduled appointment *for* the first time.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: Scheduled
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4407_5
+Passage: Sentence: Bray greeted the servant *in* Gala with the respectful form of address for elders and the man dumped the impersonality of a servant as if it had been the tray in his hands and grinned warmly, showing some pigmentation abnormality in a pink inner lip spotted like a Dalmatian.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: greeted
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4407_5
+Passage: Sentence: Bray greeted the servant *in* red with the respectful form of address for elders and the man dumped the impersonality of a servant as if it had been the tray in his hands and grinned warmly, showing some pigmentation abnormality in a pink inner lip spotted like a Dalmatian.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: servant
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_whow_cupcakes-85_8
+Passage: Sentence: You can replace the plain soy milk *with* other flavors like chocolate or vanilla if you want to experiment with changing the flavor of the cupcakes.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: replace
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_whow_cupcakes-85_8
+Passage: Sentence: You can replace the plain soy milk *with* no flavors like chocolate or vanilla if you want to experiment with changing the flavor of the cupcakes.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: milk
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_jespersen-7_19
+Passage: Sentence: In 1881 he shifted his focus completely to languages, and in 1887 earned his master's degree *in* French, with English and Latin as his secondary languages.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: degree
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_jespersen-7_19
+Passage: Sentence: In 1881 he shifted his focus completely to languages, and in 1887 earned his master's degree *in* Copenhagen, with English and Latin as his secondary languages.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: earned
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-blogspot.com_floppingaces_20050313182621_ENG_20050313_182621-0014_10
+Passage: Sentence: This is the organization that bombed our Marine barracks *in* 1983, took Americans hostage throughout the 80's and now they should be considered a legitimate organization?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: bombed
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-blogspot.com_floppingaces_20050313182621_ENG_20050313_182621-0014_10
+Passage: Sentence: This is the organization that bombed our Marine barracks *in* Lebanon, took Americans hostage throughout the 80's and now they should be considered a legitimate organization?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: barracks
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3948_31
+Passage: Sentence: Mayor Teddy Kollek, irrepressible organizer of wonderful events( some of them too rich for my blood), takes us to dinner with one of the Armenian Archbishops *in* the Old City.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: takes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3948_31
+Passage: Sentence: Mayor Teddy Kollek, irrepressible organizer of wonderful events( some of them too rich for my blood), takes us to dinner with one of the Armenian Archbishops *in* that country 's Church.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: Archbishops
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3740_10
+Passage: Sentence: Similarly, when you delete the last custom group *for* a field, the custom group field is automatically deleted.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: group
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3740_10
+Passage: Sentence: Similarly, when you delete the last custom group *for* safety reasons, the custom group field is automatically deleted.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: delete
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_whow_cupcakes-6_13
+Passage: Sentence: Here 's a great vegan cupcake recipe to use as a base *for* whatever flavored icing you want to add to it.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: base
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_whow_cupcakes-6_13
+Passage: Sentence: Here 's a great vegan cupcake recipe to use as a base *for* a change.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: use
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_news_nasa-19_14
+Passage: Sentence: " We want to thank all of the locations that expressed an interest *in* one of these national treasures," said Bolden to the gathered crowd which contained many KSC employees.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: interest
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_news_nasa-19_14
+Passage: Sentence: " We want to thank all of the locations that expressed an interest *in* response to these national surveys," said Bolden to the gathered crowd which contained many KSC employees.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: expressed
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3682_6
+Passage: Sentence: You can also remove fields *from* the chart layout that you no longer want to see.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *from* in the sentence?
+Answer: remove
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3682_6
+Passage: Sentence: You can also remove fields *from* other users that you no longer want to see.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *from* in the sentence?
+Answer: that
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_interview_hill-26_12
+Passage: Sentence: I hope to lead the Republican party in a new direction *for* working class Americans.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: direction
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_interview_hill-26_12
+Passage: Sentence: I hope to lead the Republican party in a new direction *for* the benefit of the country.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: lead
+Explanation: 
+
+--------------------------------------------------
+PassageID: en_partut-ud-227_18
+Passage: Sentence: But I believe that we should do all we can to keep the transport of dangerous goods *to* a minimum, in all countries, whether they are transit countries or not.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *to* in the sentence?
+Answer: keep
+Explanation: 
+
+--------------------------------------------------
+PassageID: en_partut-ud-227_18
+Passage: Sentence: But I believe that we should do all we can to keep the transport of dangerous goods *to* a safe location in all countries, whether they are transit countries or not.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *to* in the sentence?
+Answer: transport
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4193_13
+Passage: Sentence: Good farming practice and animal welfare can not be considered in isolation *from* food legislation as a whole.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *from* in the sentence?
+Answer: isolation
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4193_13
+Passage: Sentence: Good farming practice and animal welfare can not be considered in isolation *from* this point on.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *from* in the sentence?
+Answer: considered
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4387_13
+Passage: Sentence: The consul and his wife had been swept into some back room *by* the presence of aides, secretaries, and the necessity to keep their cats out of the way of Lady Dorothy 's dog.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *by* in the sentence?
+Answer: swept
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4387_13
+Passage: Sentence: The consul and his wife had been swept into some back room *by* the kitchen.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *by* in the sentence?
+Answer: room
+Explanation: 
+
+--------------------------------------------------
+PassageID: en_partut-ud-1756_14
+Passage: Sentence: As he did with the people around him, Balzac studied these places *in* depth, traveling to remote locations and surveying notes that he had made on previous visits.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: studied
+Explanation: 
+
+--------------------------------------------------
+PassageID: en_partut-ud-1756_14
+Passage: Sentence: As he did with the people around him, Balzac studied these places *in* Europe, traveling to remote locations and surveying notes that he had made on previous visits.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: places
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4155_10
+Passage: Sentence: So, one evening, I made a speech *in* English with gestures, not one of which was lost to the sixty pairs of eyes before me, and the next morning I started the hammock off in front all right.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: speech
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4155_10
+Passage: Sentence: So, one evening, I made a speech *in* despair with gestures, not one of which was lost to the sixty pairs of eyes before me, and the next morning I started the hammock off in front all right.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: made
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_whow_mice-23_6
+Passage: Sentence: You can use the mint *in* cooking, as well as it serving a deterrent purpose.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: use
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_whow_mice-23_6
+Passage: Sentence: You can use the mint *in* the woods, as well as it serving a deterrent purpose.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: mint
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4184_16
+Passage: Sentence: The shopkeeper will need right of recourse which he can use to recover his costs *from* the manufacturer.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *from* in the sentence?
+Answer: recover
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4184_16
+Passage: Sentence: The shopkeeper will need right of recourse which he can use to recover his costs *from* the robbery.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *from* in the sentence?
+Answer: costs
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000-0010_9
+Passage: Sentence: I 'm more than happy to help people *with* the site or answer any questions about Action Network- just drop me a message.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: help
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000-0010_9
+Passage: Sentence: I 'm more than happy to help people *with* real needs or answer any questions about Action Network- just drop me a message.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: people
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4064_19
+Passage: Sentence: It appears the Company had received news that one of their captains had been killed in a scuffle *with* the natives.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: scuffle
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4064_19
+Passage: Sentence: It appears the Company had received news that one of their captains had been killed in a scuffle *with* a knife.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: killed
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_interview_libertarian-18_18
+Passage: Sentence: McDonnell did well early in his term pushing back against Senate Democrats who wanted huge tax increases *in* response to major revenue shortfalls during the recession.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: wanted
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_interview_libertarian-18_18
+Passage: Sentence: McDonnell did well early in his term pushing back against Senate Democrats who wanted huge tax increases *in* the highest tax bracket.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: increases
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3787_19
+Passage: Sentence: Pittsburgh gets men on second and third, one out, so the Mets go to the bullpen *for* Allen.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: go
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3787_19
+Passage: Sentence: Pittsburgh gets men on second and third, one out, so the Mets go to the bullpen *for* their team.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: bullpen
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20090730195539AAVSpaH_ans-0001_9
+Passage: Sentence: Do you prefer ham, bacon or sausages *with* your breakfast?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: prefer
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20090730195539AAVSpaH_ans-0001_9
+Passage: Sentence: Do you prefer ham, bacon or sausages *with* beef?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: sausages
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3982_4
+Passage: Sentence: Seeking common ground *with* my wife( a laudable desire), he tells her that he too is Rumanian by origin.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: Seeking
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3982_4
+Passage: Sentence: Seeking common ground *with* a strong foundation( a laudable desire), he tells her that he too is Rumanian by origin.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: ground
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4124_8
+Passage: Sentence: He stared at me for a moment *with* his mild, bulging eyes.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: stared
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4124_8
+Passage: Sentence: He stared at me for a moment *with* no end.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: moment
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0001_9
+Passage: Sentence: The September 11 Panel will issue its findings *on* Thursday.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: issue
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0001_9
+Passage: Sentence: The September 11 Panel will issue its findings *on* the subject.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: findings
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-130647-0003_9
+Passage: Sentence: The workers sped up and down the street *with* no mind to the small children playing.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: sped
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-130647-0003_9
+Passage: Sentence: The workers sped up and down the street *with* the roundabout and the small children playing.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: street
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent32_01-0011_12
+Passage: Sentence: Please use the form attached when preparing the top ten risks *for* your businesses.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: risks
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent32_01-0011_12
+Passage: Sentence: Please use the form attached when preparing the top ten risks *for* your convenience.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: use
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_interview_mcguire-29_7
+Passage: Sentence: Ed.: See the LibriVox catalog *for* a full index.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: See
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_interview_mcguire-29_7
+Passage: Sentence: Ed.: See the LibriVox catalog *for* free users.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: catalog
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20030914114200_ENG_20030914_114200-0005_5
+Passage: Sentence: The clerics demanded talks *with* local US commanders.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: talks
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20030914114200_ENG_20030914_114200-0005_5
+Passage: Sentence: The clerics demanded talks *with* great urgency.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: demanded
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_news_nasa-1_13
+Passage: Sentence: NASA celebrates 30th anniversary of first shuttle launch; announces new homes *for* retired shuttles
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: homes
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_news_nasa-1_13
+Passage: Sentence: NASA celebrates 30th anniversary of first shuttle launch; announces new homes *for* the first time
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: announces
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-211933-0001_7
+Passage: Sentence: Deep tissue massage helps with pain *in* neck and shoulders
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: pain
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-211933-0001_7
+Passage: Sentence: Deep tissue massage helps with pain *in* a significant manner
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: helps
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4154_12
+Passage: Sentence: They jibbed, ran away, sneaked off with their loads *in* the night– quite a mutiny.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: sneaked
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4154_12
+Passage: Sentence: They jibbed, ran away, sneaked off with their loads *in* sacks– quite a mutiny.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: loads
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4159_23
+Passage: Sentence: I remembered the old doctor,–' It would be interesting for science to watch the mental changes of individuals, *on* the spot.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: watch
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4159_23
+Passage: Sentence: I remembered the old doctor,–' It would be interesting for science to watch the mental changes of individuals *on* stressful journeys.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: individuals
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_dvorak-19_14
+Passage: Sentence: Visiting Russia in March 1890, he conducted concerts of his own music *in* Moscow and Saint Petersburg.[ 3]
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: conducted
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_dvorak-19_14
+Passage: Sentence: Visiting Russia in March 1890, he conducted concerts of his own music *in* Russian.[ 3]
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: music
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent23_07-0003_10
+Passage: Sentence: i want to hook up with that girl paige *in* the brown leather jacket.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: girl
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent23_07-0003_10
+Passage: Sentence: i want to hook up with that girl paige *in* the evening.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: hook
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-025894-0003_11
+Passage: Sentence: One time we even left after sitting at the table *for* 20 minutes andnot being greeted with a drink order.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: sitting
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-025894-0003_11
+Passage: Sentence: One time we even left after sitting at the table *for* two andnot being greeted with a drink order.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: table
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-107608-0002_14
+Passage: Sentence: I v just had my bmw z3 rear window replaced by the guys *at* kelvin trimmers.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: guys
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-107608-0002_14
+Passage: Sentence: I v just had my bmw z3 rear window replaced by the guys *at* a reasonable price.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: replaced
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111107082312AAPNaxb_ans-0004_23
+Passage: Sentence: It's' gimmick' was that you fill your bowl cafeteria- style from raw ingredients and leave it on the counter *with* a chopstick listing your table number on it.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: leave
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111107082312AAPNaxb_ans-0004_23
+Passage: Sentence: It's' gimmick' was that you fill your bowl cafeteria- style from raw ingredients and leave it on the counter *with* the sign saying your table number on it.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: counter
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_voyage_thailand-13_30
+Passage: Sentence: If somebody makes a wai to you, a slight bow alone is more than sufficient for ordinary occasions, and for business, most Thais will shake hands *with* foreigners instead of waiing anyway.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: shake
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_voyage_thailand-13_30
+Passage: Sentence: If somebody makes a wai to you, a slight bow alone is more than sufficient for ordinary occasions, and for business, most Thais will shake hands *with* rings on them instead of waiing anyway.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: hands
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_news_nasa-49_24
+Passage: Sentence: NASA is also offering shuttle heat shield tiles to schools and universities that want to share technology and a piece of space history *with* their students.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: share
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_news_nasa-49_24
+Passage: Sentence: NASA is also offering shuttle heat shield tiles to schools and universities that want to share technology and a piece of space history *with* cultural significance.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: piece
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent04_01-0031_50
+Passage: Sentence: I 've got some friends at Duke and Dynegy from B- school, the Gianoucous( spelling??) brothers( John and Dimitri? from elementary school) started their own outfit a while back, and my old man is at Schlumberger and has good contacts *in* general( if you aren't married to a trading environment).
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: has
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent04_01-0031_50
+Passage: Sentence: I 've got some friends at Duke and Dynegy from B- school, the Gianoucous( spelling??) brothers( John and Dimitri? from elementary school) started their own outfit a while back, and my old man is at Schlumberger and has good contacts *in* academia( if you aren't married to a trading environment).
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: contacts
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_news_expo-9_17
+Passage: Sentence: Atwood, a Booker Prize-winner, was there to launch her graphic novel Angel Catbird, *with* illustrator Johnnie Christmas.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: launch
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_news_expo-9_17
+Passage: Sentence: Atwood, a Booker Prize-winner, was there to launch her graphic novel Angel Catbird *with* illustrations by Johnnie Christmas.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: novel
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent04_01-0018_21
+Passage: Sentence: Our client is a small law firm that is looking for an individual to join their team handling toxic tort *with* some minor PI defense.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: handling
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent04_01-0018_21
+Passage: Sentence: Our client is a small law firm that is looking for an individual to join their team handling toxic tort *with* some minor complications.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: tort
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_voyage_vavau-10_31
+Passage: Sentence: Neiafu and surrounding villages are home to about a third of the Group’s overall population of around 20000, with the majority of the population living in small villages *on* the other islands.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: villages
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_voyage_vavau-10_31
+Passage: Sentence: Neiafu and surrounding villages are home to about a third of the Group’s overall population of around 20000, with the majority of the population living in small villages *on* meager earnings.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: living
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0017_6
+Passage: Sentence: Rumsfeld initially rejected an attack *on* al- Qaeda bases in Afghanistan, saying there were" no good targets" in Afghanistan.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: attack
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0017_6
+Passage: Sentence: Rumsfeld initially rejected an attack *on* practical grounds, saying there were" no good targets" in Afghanistan.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: rejected
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4135_23
+Passage: Sentence: Well, if a lot of mysterious niggers armed with all kinds of fearful weapons suddenly took to traveling on the road *between* Deal and Gravesend, catching the yokels right and left to carry heavy loads for them, I fancy every farm and cottage thereabouts would get empty very soon.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *between* in the sentence?
+Answer: road
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4135_23
+Passage: Sentence: Well, if a lot of mysterious niggers armed with all kinds of fearful weapons suddenly took to traveling on the road *between* Thanksgiving and Christmas, catching the yokels right and left to carry heavy loads for them, I fancy every farm and cottage thereabouts would get empty very soon.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *between* in the sentence?
+Answer: traveling
+Explanation: 
+
+--------------------------------------------------
+PassageID: en_partut-ud-1001_22
+Passage: Sentence: A national of each new Member State shall be appointed to the Court of Auditors as from the date of accession *for* a term of office of six years.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: appointed
+Explanation: 
+
+--------------------------------------------------
+PassageID: en_partut-ud-1001_22
+Passage: Sentence: A national of each new Member State shall be appointed to the Court of Auditors as from the date of accession *for* the acceding state.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: date
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-131965-0002_42
+Passage: Sentence: We at R&L Plumbing Services are pleased with your professionalism and the extra mile you went to get out computers working correctly, you will be our first call if anything happens again and we will refer you to other people *with* computer issues.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: people
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-131965-0002_42
+Passage: Sentence: We at R&L Plumbing Services are pleased with your professionalism and the extra mile you went to get out computers working correctly, you will be our first call if anything happens again and we will refer you to other people *with* great joy.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: refer
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-187163-0002_6
+Passage: Sentence: I would highly recommend Landscape *by* Hiro.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *by* in the sentence?
+Answer: Landscape
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-187163-0002_6
+Passage: Sentence: I would highly recommend Landscape *by* all means.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *by* in the sentence?
+Answer: recommend
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent29_02-0024_8
+Passage: Sentence: I want to go to the cafeteria *for* vegetables.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: go
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent29_02-0024_8
+Passage: Sentence: I want to go to the cafeteria *for* the univeristy.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: cafeteria
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_jespersen-35_19
+Passage: Sentence: In addition to continuing to write, he convened and chaired the first International Meeting on Linguistic Research *in* Geneva in 1930, and acted as president of the Fourth International Congress of Linguists in Copenhagen in 1936.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: convened
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_jespersen-35_19
+Passage: Sentence: In addition to continuing to write, he convened and chaired the first International Meeting on Linguistic Research *in* Social Science in 1930, and acted as president of the Fourth International Congress of Linguists in Copenhagen in 1936.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: Research
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_dvorak-26_12
+Passage: Sentence: All of Dvořák's nine operas but his first have librettos *in* Czech and were intended to convey Czech national spirit, as were some of his choral works.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: librettos
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_dvorak-26_12
+Passage: Sentence: All of Dvořák's nine operas but his first have librettos *in* them and were intended to convey Czech national spirit, as were some of his choral works.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: have
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_hiddennook_f50294175d32a8ac_ENG_20041120_152800-0006_17
+Passage: Sentence: U.S. President George W. Bush shakes hands with Chinese President Hu Jintao in a bilateral meeting *in* Santiago.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: meeting
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_hiddennook_f50294175d32a8ac_ENG_20041120_152800-0006_17
+Passage: Sentence: U.S. President George W. Bush shakes hands with Chinese President Hu Jintao in a bilateral meeting *in* a friendly manner.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: shakes
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111108083559AAp6Jfq_ans-0005_10
+Passage: Sentence: ** and i can upload my pictures and videos *on* the computer( facebook)
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: upload
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111108083559AAp6Jfq_ans-0005_10
+Passage: Sentence: ** and i can upload my pictures and videos *on* the topic( facebook)
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: pictures
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-048644-0001_6
+Passage: Sentence: Don't judge a book *by* its cover
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *by* in the sentence?
+Answer: judge
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-048644-0001_6
+Passage: Sentence: Don't judge a book *by* a genius
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *by* in the sentence?
+Answer: book
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3960_8
+Passage: Sentence: I can seldom get up much interest *in* such cases and objects.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: interest
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3960_8
+Passage: Sentence: I can seldom get up much interest *in* such circumstances.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: get
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_jespersen-24_17
+Passage: Sentence: In The Philosophy of Grammar( 1924) he challenged the accepted views of common concepts *in* Grammar and proposed corrections to the basic definitions of grammatical case, pronoun, object, voice etc., and developed further his notions of Rank and Nexus.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: concepts
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_jespersen-24_17
+Passage: Sentence: In The Philosophy of Grammar( 1924) he challenged the accepted views of common concepts *in* many ways and proposed corrections to the basic definitions of grammatical case, pronoun, object, voice etc., and developed further his notions of Rank and Nexus.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: challenged
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent18_02-0017_7
+Passage: Sentence: He looked like a great guy *for* your group.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: guy
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent18_02-0017_7
+Passage: Sentence: He looked like a great guy *for* a while.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: looked
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_news_nasa-37_18
+Passage: Sentence: As the home of modern day air travel and the 747, which has gracefully transported shuttles *for* the last 30 years, Seattle would have been a perfect fit.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: transported
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_news_nasa-37_18
+Passage: Sentence: As the home of modern day air travel and the 747, which has gracefully transported shuttles *for* space travel, Seattle would have been a perfect fit.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: shuttles
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3714_9
+Passage: Sentence: You can specify the start and end values *for* the grouping range.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: values
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3714_9
+Passage: Sentence: You can specify the start and end values *for* greater safety.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: specify
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent18_02-0021_10
+Passage: Sentence: We discussed a few days ago a consulting arrangement *with* Prof. Sheridan Titman from UT.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: arrangement
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent18_02-0021_10
+Passage: Sentence: We discussed a few days ago a consulting arrangement *with* much enthusiasm.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: discussed
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0010_14
+Passage: Sentence: Cheney was looking at maps of Iraq oil fields and muttering about opportunities *for* US companies there, already in January or February of 2001.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: opportunities
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0010_14
+Passage: Sentence: Cheney was looking at maps of Iraq oil fields and muttering about opportunities *for* hours on end, already in January or February of 2001.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: looking
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0027_12
+Passage: Sentence: As for the Clinton administration, let me say one thing *in* its defense.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: thing
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0027_12
+Passage: Sentence: As for the Clinton administration, let me say one thing *in* all honesty.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: say
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-165032-0002_16
+Passage: Sentence: We went through six photographers to find the right photographers that would represent our firm *in* the light we wished to and Michael and his team made that happen.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: represent
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-165032-0002_16
+Passage: Sentence: We went through six photographers to find the right photographers that would represent our firm *in* the city and Michael and his team made that happen.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: firm
+Explanation: 
+
+--------------------------------------------------
+PassageID: en_partut-ud-452_12
+Passage: Sentence: Mr President, I too would like to congratulate the rapporteur *on* her excellent work.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: congratulate
+Explanation: 
+
+--------------------------------------------------
+PassageID: en_partut-ud-452_12
+Passage: Sentence: Mr President, I too would like to congratulate the rapporteur *on* that diplomatic team.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: rapporteur
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0032_13
+Passage: Sentence: But in fall of 1999, Gen. Pervez Musharraf made a coup *against* Nawaz Sharif.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *against* in the sentence?
+Answer: coup
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0032_13
+Passage: Sentence: But in fall of 1999, Gen. Pervez Musharraf made a coup *against* all expectations.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *against* in the sentence?
+Answer: made
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent18_02-0062_10
+Passage: Sentence: I have called Mark Lay and left a message *on* his voice mail.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: left
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent18_02-0062_10
+Passage: Sentence: I have called Mark Lay and left a message *on* the topic.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: message
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_jespersen-10_20
+Passage: Sentence: Following the advice of his mentor Vilhelm Thomsen, he returned to Copenhagen in August 1888 and began work *on* his doctoral dissertation on the English case system.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: work
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_jespersen-10_20
+Passage: Sentence: Following the advice of his mentor Vilhelm Thomsen, he returned to Copenhagen in August 1888 and began work *on* the last day of the month.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: began
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3748_7
+Passage: Sentence: You can not move a field *with* custom groups to the detail area.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: field
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3748_7
+Passage: Sentence: You can not move a field *with* arrow keys to the detail area.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: move
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4068_34
+Passage: Sentence: Fresleven– that was the fellow 's name, a Dane– thought himself wronged somehow in the bargain, so he went ashore and started to hammer the chief of the village *with* a stick.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: hammer
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4068_34
+Passage: Sentence: Fresleven– that was the fellow 's name, a Dane– thought himself wronged somehow in the bargain, so he went ashore and started to hammer the chief of the village *with* the painted roofs.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: village
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4283_18
+Passage: Sentence: Mr President, ladies and gentlemen, Mr Needle has gone to great trouble with the hearing *in* committee.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: hearing
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4283_18
+Passage: Sentence: Mr President, ladies and gentlemen, Mr Needle has gone to great trouble with the hearing *in* the past.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: past
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent04_01-0026_25
+Passage: Sentence: I 've thought about you a few times in the last few months, didn't want to intrude upon an already bad situation *with* my bullshit questions.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: intrude
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent04_01-0026_25
+Passage: Sentence: I 've thought about you a few times in the last few months, didn't want to intrude upon an already bad situation *with* a complicated origin.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: situation
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4019_8
+Passage: Sentence: They have failed to extend their influence *in* Europe.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: influence
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4019_8
+Passage: Sentence: They have failed to extend their influence *in* this decade.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: failed
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_dvorak-9_20
+Passage: Sentence: Seeking recognition beyond the Prague area, he submitted a score of his First Symphony to a prize competition *in* Germany, but didnot win, and the unreturned manuscript was lost until rediscovered many decades later.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: competition
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_dvorak-9_20
+Passage: Sentence: Seeking recognition beyond the Prague area, he submitted a score of his First Symphony to a prize competition *in* hope of success, but didnot win, and the unreturned manuscript was lost until rediscovered many decades later.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: submitted
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_whow_cupcakes-47_7
+Passage: Sentence: Usually fill each paper cupcake holder *with* about 1/4 cup of batter.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: fill
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_whow_cupcakes-47_7
+Passage: Sentence: Usually fill each paper cupcake holder *with* a mark on it.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: holder
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_jespersen-23_19
+Passage: Sentence: Late in his life he published Analytic Syntax( 1937), in which he presents his views *on* syntactic structure using an idiosyncratic shorthand notation.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: views
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_jespersen-23_19
+Passage: Sentence: Late in his life he published Analytic Syntax( 1937), in which he presents his views *on* his own behalf using an idiosyncratic shorthand notation.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: presents
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4413_13
+Passage: Sentence: What 've you been doing all these years in your ivory tower *in* Wiltshire?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: tower
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4413_13
+Passage: Sentence: What 've you been doing all these years in your ivory tower *in* the mornings?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: doing
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-329807-0003_8
+Passage: Sentence: They have always done a great job *at* a reasonable price.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: job
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-329807-0003_8
+Passage: Sentence: They have always done a great job *at* my request.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: done
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_voyage_vavau-5_7
+Passage: Sentence: The area attracts many humpback whales *between* June and November and there are lots of companies organising tours to see them.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *between* in the sentence?
+Answer: attracts
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_voyage_vavau-5_7
+Passage: Sentence: The area attracts many humpback whales *between* 2 and 10 years old and there are lots of companies organising tours to see them.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *between* in the sentence?
+Answer: old
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_jespersen-5_12
+Passage: Sentence: He was inspired by the work of Danish philologist Rasmus Rask *as* a boy, and with the help of Rask's grammars taught himself some Icelandic, Italian, and Spanish.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *as* in the sentence?
+Answer: inspired
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_jespersen-5_12
+Passage: Sentence: He was inspired by the work of Danish philologist Rasmus Rask *as* a start, and with the help of Rask's grammars taught himself some Icelandic, Italian, and Spanish.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *as* in the sentence?
+Answer: work
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_news_expo-16_22
+Passage: Sentence: Even in early rounds, the event was well attended, with the stands full of gamers, watching the matches *with* live colour commentary.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: watching
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_news_expo-16_22
+Passage: Sentence: Even in early rounds, the event was well attended, with the stands full of gamers, watching the matches *with* the most popular teams.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: matches
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4409_26
+Passage: Sentence: The servant bowed confusedly at him, walking backwards, in the tribal way before rank, and then recovering himself and leaving the room *with* an anonymous lope.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: leaving
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4409_26
+Passage: Sentence: The servant bowed confusedly at him, walking backwards, in the tribal way before rank, and then recovering himself and leaving the room *with* the white walls.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: room
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111108073410AAlpgTl_ans-0003_15
+Passage: Sentence: As in the old days, varnish is often used as a protective film *against* years of dirt, grease, smoke, etc.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *against* in the sentence?
+Answer: film
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111108073410AAlpgTl_ans-0003_15
+Passage: Sentence: As in the old days, varnish is often used as a protective film *against* the recommendations on the package.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *against* in the sentence?
+Answer: used
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4131_10
+Passage: Sentence: Next day I left that station at last, *with* a caravan of sixty men, for a two-hundred-mile tramp.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: left
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4131_10
+Passage: Sentence: Next day I left that station at last, *with* its tower of twenty floors, for a two-hundred-mile tramp.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: station
+Explanation: 
+
+--------------------------------------------------
+PassageID: en_partut-ud-955_9
+Passage: Sentence: The text of the Treaty establishing a Constitution *for* Europe drawn up in the Bulgarian and Romanian languages shall be annexed to this Treaty.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: Constitution
+Explanation: 
+
+--------------------------------------------------
+PassageID: en_partut-ud-955_9
+Passage: Sentence: The text of the Treaty establishing a Constitution *for* the first time drawn up in the Bulgarian and Romanian languages shall be annexed to this Treaty.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: establishing
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent21_01-0005_10
+Passage: Sentence: Following up on your and Ken Lay's conversation *with* Gary Cohn, I would like to forward the following proposal, acting for each of Goldman Sachs Capital Markets and J. Aron.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: conversation
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent21_01-0005_10
+Passage: Sentence: Following up on your and Ken Lay's conversation *with* further suggestions, I would like to forward the following proposal, acting for each of Goldman Sachs Capital Markets and J. Aron.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: Following
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_dvorak-9_3
+Passage: Sentence: Seeking recognition *beyond* the Prague area, he submitted a score of his First Symphony to a prize competition in Germany, but didnot win, and the unreturned manuscript was lost until rediscovered many decades later.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *beyond* in the sentence?
+Answer: Seeking
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_dvorak-9_3
+Passage: Sentence: Seeking recognition *beyond* the ordinary amount, he submitted a score of his First Symphony to a prize competition in Germany, but didnot win, and the unreturned manuscript was lost until rediscovered many decades later.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *beyond* in the sentence?
+Answer: recognition
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111106130843AA7yj7U_ans-0002_26
+Passage: Sentence: Hi, i 'm looking to take myself and my best friend and his girl friend and this girl i really like out to dinner *for* my birthday.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: take
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111106130843AA7yj7U_ans-0002_26
+Passage: Sentence: Hi, i 'm looking to take myself and my best friend and his girl friend and this girl i really like out to dinner *for* four.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: dinner
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_academic_discrimination-41_4
+Passage: Sentence: To provide information *on* the analytical sample as a whole, two additional demographic variables are included.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: information
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_academic_discrimination-41_4
+Passage: Sentence: To provide information *on* a daily basis, two additional demographic variables are included.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: provide
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent18_02-0045_11
+Passage: Sentence: In case you are interested, I attach this paper *on* gas Storage value modeling.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: paper
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent18_02-0045_11
+Passage: Sentence: In case you are interested, I attach this paper *on* my own initiative.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: attach
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent32_01-0063_7
+Passage: Sentence: Do you have any current info *on* deal status?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: info
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent32_01-0063_7
+Passage: Sentence: Do you have any current info *on* your table?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: have
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111108100703AAo53QA_ans-0004_14
+Passage: Sentence: would I be able to go back to school after a year break *at* a university to get a Bachelors degree in business administration?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: break
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111108100703AAo53QA_ans-0004_14
+Passage: Sentence: would I be able to go back to school after a year break *at* this moment to get a Bachelors degree in business administration?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: go
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_APassionforRats_207517af35c166ef_ENG_20050526_150700-0002_14
+Passage: Sentence: And a portion of each package or memorial purchased goes to a charity *on* their database.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: charity
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_APassionforRats_207517af35c166ef_ENG_20050526_150700-0002_14
+Passage: Sentence: And a portion of each package or memorial purchased goes to a charity *on* a regular basis.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: goes
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_whow_mice-65_14
+Passage: Sentence: However, you might attract other types of owls or birds of prey *with* your nesting box.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: attract
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_whow_mice-65_14
+Passage: Sentence: However, you might attract other types of owls or birds of prey *with* talons.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: prey
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-034858-0001_7
+Passage: Sentence: Thank you for fixing the leak *on* my bathroom!
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: leak
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-034858-0001_7
+Passage: Sentence: Thank you for fixing the leak *on* my terms!
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: fixing
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3818_13
+Passage: Sentence: He pulled it out and examined it, gingerly fanning the pages *with* his thumb.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: fanning
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3818_13
+Passage: Sentence: He pulled it out and examined it, gingerly fanning the pages *with* her handwriting.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: pages
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111108074455AAiMwmn_ans-0012_24
+Passage: Sentence: It sounds like a firmware issue and the camera requires a re-boot just like what happens in a computer- needs a re-start *from* time to time but it shouldn't be happening in a camera.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *from* in the sentence?
+Answer: needs
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111108074455AAiMwmn_ans-0012_24
+Passage: Sentence: It sounds like a firmware issue and the camera requires a re-boot just like what happens in a computer- needs a re-start *from* the beginning, but it shouldn't be happening in a camera.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *from* in the sentence?
+Answer: re-start
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111103205154AAOod9K_ans-0003_17
+Passage: Sentence: I don't want to have to deal with those deal- a- day websites *like* Groupon.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *like* in the sentence?
+Answer: websites
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111103205154AAOod9K_ans-0003_17
+Passage: Sentence: I don't want to have to deal with those deal- a- day websites *like* my sister.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *like* in the sentence?
+Answer: deal
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_dvorak-20_9
+Passage: Sentence: In 1891 Dvořák was appointed as a professor *at* the Prague Conservatory.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: professor
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_bio_dvorak-20_9
+Passage: Sentence: In 1891 Dvořák was appointed as a professor *at* the age of 50.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: appointed
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4204_7
+Passage: Sentence: I have just another brief comment *on* the foreign trade aspect.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: comment
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4204_7
+Passage: Sentence: I have just another brief comment *on* my list.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: have
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_voyage_oakland-25_13
+Passage: Sentence: It has lots of local boutiques and a diverse range of food *at* all prices and styles.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: food
+Explanation: 
+
+--------------------------------------------------
+PassageID: GUM_voyage_oakland-25_13
+Passage: Sentence: It has lots of local boutiques and a diverse range of food *at* the entrance to the neighborhood.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: has
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20041109060653_ENG_20041109_060653-0009_15
+Passage: Sentence: The radical Shiite Sadr movement issued a statement forbidding the participation of Iraqi troops *in* the attack on Fallujah, as well.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: forbidding
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20041109060653_ENG_20041109_060653-0009_15
+Passage: Sentence: The radical Shiite Sadr movement issued a statement forbidding the participation of Iraqi troops *in* the area of Fallujah, as well.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: troops
+Explanation: 
+
+--------------------------------------------------

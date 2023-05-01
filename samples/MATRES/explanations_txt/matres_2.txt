@@ -1,138 +1,90 @@
 PassageID: 0
-Passage: 
+Passage: Slepian was  one of only three doctors who  ((performed))   abortions in the Buffalo, N.Y., area, and harassment and threats against him by anti-abortion groups had become  routine over  the past decade . He  [[persevered]]   through courage and a belief in the right of his patients to choose  whether to bear  a child.
 
 Questions:
 QuestionID: 0
-Question: Senator Kirsten E. Gillibrand , Democrat of New York , and Senator Susan Collins , Republican of Maine , led the repeal in the Senate of " do n't ask , do n't tell " in 2010 , allowing gay men and women to serve openly in the military . This year , all four of the female Senate Republicans  ((split)) with their party and  [[voted]] with Senate Democrats to reauthorize the Violence Against Women Act , which had lapsed during the last Congress . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
 Answer: before
-Explanation: They could not have voted against their party before splitting.
-
-QuestionID: 1
-Question: This year , all four of the female Senate Republicans will  ((split)) with their party and  [[vote]] with Senate Democrats to reauthorize the Violence Against Women Act , which had lapsed during the last Congress . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: before
-Explanation: They cannot vote against their party before splitting.
+Explanation: The doctor had been performing abortions even before the threats began, through which he persevered.
 
 --------------------------------------------------
 PassageID: 1
-Passage: 
+Passage: Elian has been at the center of an international tug-of-war since he was  ((rescued))   off the coast of Florida in late November . His mother was among 11 people who died  after they boat  [[sank]]   during the attempted crossing  from Cuba to the United States.
 
 Questions:
 QuestionID: 0
-Question: Raymond Roth , 48 , of Massapequa , New York , was first reported missing in the waters off Jones Beach late last July by his 22-year-old son , Jonathan Roth . Several days into an extensive search involving multiple agencies , New York State Park Police said , authorities learned the missing man was in South Carolina , where he had been  ((pulled)) over for  [[speeding]] . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
 Answer: after
-Explanation: The man would not have been pulled over for speeding if he wasn’t already speeding.
-
-QuestionID: 1
-Question: Several days into an extensive search involving multiple agencies , New York State Park Police said , authorities learned the missing man was in South Carolina , where he had been  ((pulled)) over before  [[speeding]]  again. When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: before
-Explanation: The man would not have sped again if he hadn’t been pulled over.
+Explanation: Elian was rescued after the boat sank.
 
 --------------------------------------------------
 PassageID: 2
-Passage: 
+Passage: On Monday , Spitzer  ((called))   for Vacco to revive  that unit immediately, vowing  that he would do  so on  his first day  in office if elected .Goldstein, who said  it was  ``thoroughly, thoroughly possible'' that the issue would surface  in Spitzer's advertisements, defended  the use of the issue by  [[noting]]   that the attorney general has  direct impact on the issue of clinic access.
 
 Questions:
 QuestionID: 0
-Question: The activists said the troops had opened fire as soon as they boarded the vessel , which was in international waters at the time . The incident provoked an international outcry and  ((led)) to a major deterioration in relations between Turkey and Israel . Before  [[departing]] for Jordan on Friday afternoon , Mr Obama revealed that Mr Netanyahu and Mr Erdogan had just spoken by telephone . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
 Answer: before
-Explanation: The international outcry led to straining the relationship between Turkey and Israel which prompted Obama to depart for Jordan.
-
-QuestionID: 1
-Question: The activists said the troops had opened fire as soon as they boarded the vessel , which was in international waters at the time . The incident provoked an international outcry and  ((led)) to a major deterioration in relations between Turkey and Israel . After  [[departing]] for Jordan on Friday afternoon , Mr Obama revealed that Mr Netanyahu and Mr Erdogan had just spoken by telephone . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: before
-Explanation: The international outcry led to straining the relationship between Turkey and Israel which prompted Obama to depart for Jordan.
+Explanation: The call was made before the observation was made.
 
 --------------------------------------------------
 PassageID: 3
-Passage: 
+Passage: Clark, the Erie district attorney,  ((said))   afterwards that investigators think  the doctor's killer buried  the rifle in  the days before  the shooting , unearthed  the weapon to fire  the fatal shots, then hurriedly reburied  it and fled .The 44-year-old Kopp, who in FBI photographs  [[appears]]   as gaunt and scruffily bearded and whose last known addresses were  in Vermont and New Jersey, emerged  as the focus of the investigation within two weeks  of the slaying.
 
 Questions:
 QuestionID: 0
-Question: " There was a great feeling of euphoria from everyone . It  ((had)) a multiplying effect . " We were  [[pleased]] that England and New Zealand knew about it , and we thought that 's where it would stop . ". When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: before
-Explanation: The euphoria had had a multiplying effect which led them to be pleased about England and New Zealand knowing about it.
-
-QuestionID: 1
-Question: " We were  ((pleased)) that England and New Zealand knew about it , and we thought that 's where it would stop . " It will  [[have]] a multiplying effect . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: before
-Explanation: It was expected that England and New Zealand knowing about it, something which pleased them, would have a multiplying effect going forward.
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Answer: after
+Explanation: The photographs were from before the investigation during which the statement was made began.
 
 --------------------------------------------------
 PassageID: 4
-Passage: 
+Passage: Clinton  ((said))   in his weekly  radio address."To  [[turn]]   our backs on those taking  risks for peace, to weaken  our opposition to terrorism -- that would give  terrorism a victory it must not and will not have," the president said.
 
 Questions:
 QuestionID: 0
-Question: Many consumers will be getting more generous plans because of new requirements in the law . The effects of the law will vary widely , and insurers and other analysts  ((agree)) that some consumers and small businesses will likely see premiums go down . Starting next year , the law will block insurers from refusing to sell coverage or setting premiums based on people 's health histories , and will  [[reduce]] their ability to set rates based on age . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: before
-Explanation: Analysts have come to this agreement even before the rollout of the law. Only after the rollout would there be a reduction in the insurers’ ability.
-
-QuestionID: 1
-Question: Starting next year , the law will block insurers from refusing to sell coverage or setting premiums based on people 's health histories , and will  ((reduce)) their ability to set rates based on age . The effects of the law will vary widely , and insurers and other analysts  [[agree]] that some consumers and small businesses will likely see premiums go down . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: after
-Explanation: Only after the rollout would there be a reduction in the insurers’ ability. Analysts have come to this agreement even before the rollout of the law.
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Answer: vague
+Explanation: The turning of backs is spoken of hypothetically. 
 
 --------------------------------------------------
 PassageID: 5
-Passage: 
+Passage: Scharping, ending  a two-day visit ,  ((said))   Poland was well prepared  to join  the alliance. Germany has  [[been]]   a strong advocate of Poland's access to NATO, saying  it will serve  European security and stability.
 
 Questions:
 QuestionID: 0
-Question: Senator Patty Murray , a Washington Democrat , is the first chairwoman of the Budget Committee and is charged with shaping the Democratic strategy in the fiscal battle dominating Capitol Hill . One of the biggest bills to  ((pass)) the Senate last year was farm legislation led by Senator Debbie Stabenow , a Michigan Democrat who  [[presides]] over the agriculture committee . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
 Answer: after
-Explanation: The passage of the law happened while Debbie had already been presiding over the committee. 
-
-QuestionID: 1
-Question: One of the biggest bills to  ((pass)) the Senate last year was farm legislation led by Senator Debbie Stabenow , a Michigan Democrat who  [[presides]] over the agriculture committee .  Senator Patty Murray , a Washington Democrat , is the first chairwoman of the Budget Committee and is charged with shaping the Democratic strategy in the fiscal battle dominating Capitol Hill . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: after
-Explanation: The passage of the law happened while Debbie had already been presiding over the committee. 
+Explanation: Germany has been offering support since long before it was decided that Poland could join NATO.
 
 --------------------------------------------------
 PassageID: 6
-Passage: 
+Passage: The Cypriot government Saturday  strongly condemned  two terrorist bomb attacks  in Kenya and Tanzania Friday ,  ((calling))   them an "atrocious crime."In a condolence telegram to U.S. President Bill Clinton, President Glafcos Clerides condemned  the terrorist acts  and  [[extended]]   his sympathy to the victims' families.
 
 Questions:
 QuestionID: 0
-Question: Senator Barbara Boxer , the California Democrat who is chairwoman of the Environment and Public Works Committee , shepherded the highway bill . " We are  ((growing)) in number , "  [[said]] Senator Amy Klobuchar , Democrat of Minnesota . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
 Answer: before
-Explanation: The Senator would not have said that they were growing if they hadn't already been growing when she said that.
-
-QuestionID: 1
-Question: " We will  ((grow)) in number , "  [[said]] Senator Amy Klobuchar , Democrat of Minnesota . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: after
-Explanation: The Senator said this hoping that they would grow in the future.
+Explanation: The offer of support was extended only after the condemnation of the terror attacks.
 
 --------------------------------------------------
 PassageID: 7
-Passage: 
+Passage: Suspected bombs  ((exploded))   outside the U.S. embassies in the Kenyan and Tanzanian capitals Friday , killing  dozens of people, witnesses said .The American ambassador to Kenya was among hundreds injured , a local TV  [[said]].
 
 Questions:
 QuestionID: 0
-Question: Roughly 100 children die in an average flu season . One exception was the swine flu pandemic of 2009-2010 , when 348 children  ((died)) . The CDC  [[recommends]] that all children ages 6 months and older be vaccinated against flu each season , though only about half get a flu shot or nasal spray . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: after
-Explanation: The CDC has been recommending vaccinations even before the swine flu pandemic.
-
-QuestionID: 1
-Question: One exception was the swine flu pandemic of 2009-2010 , when 348 children  ((died)) . The CDC then started to [[recommend]] that all children ages 6 months and older be vaccinated against flu each season , though only about half got a flu shot or nasal spray . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
 Answer: before
-Explanation: The CDC began recommending vaccinations only after the swine-flu pandemic.
+Explanation: The explosion happened before it was reported on TV.
 
 --------------------------------------------------
 PassageID: 8
-Passage: 
+Passage:  In the years  that followed , the guerrilla fighters waged  war on the troops of dictator Fulgencio Batista,  ((declaring))  victory on Jan. 1, 1959  when Batista  [[fled]]   the country.
 
 Questions:
 QuestionID: 0
-Question: The activists said the troops had opened fire as soon as they boarded the vessel , which was in international waters at the time . The incident  ((provoked)) an international outcry and led to a major deterioration in relations between Turkey and Israel . Before departing for Jordan on Friday afternoon , Mr Obama  [[revealed]] that Mr Netanyahu and Mr Erdogan had just spoken by telephone . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: before
-Explanation: The provocation of an international outcry is what prompted Obama to depart for Jordan and he had made this revelation only while departing for Jordan.
-
-QuestionID: 1
-Question: The activists said the troops had opened fire as soon as they boarded the vessel , which was in international waters at the time . Before departing for Jordan on Friday afternoon , Mr Obama  ((revealed)) that Mr Netanyahu and Mr Erdogan had just spoken by telephone .  The incident  [[provoked]] an international outcry and led to a major deterioration in relations between Turkey and Israel . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
 Answer: after
-Explanation: The provocation of an international outcry is what prompted Obama to depart for Jordan and he had made this revelation only while departing for Jordan.
+Explanation: The victory was declared as a result of Batista fleeing.
 
 --------------------------------------------------
-
-
-

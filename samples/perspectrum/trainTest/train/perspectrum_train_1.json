@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "1_0",
+        "sentence1": "Perspective: Artefacts are enriched by being viewed in their place of origin",
+        "QuestionID": "0",
+        "sentence2": "Claim: Cultural property residing in museums must be returned to its place of origin. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "supports",
+        "explanation": "Returning cultural artifacts to their places of origin would enrich them."
+    },
+    {
+        "PassageID": "1_1",
+        "sentence1": "Perspective: A resource treasure for humanity",
+        "QuestionID": "0",
+        "sentence2": "Claim: Antarctica Should Be Opened Up For Resource Exploitation. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "supports",
+        "explanation": "Antarctica could potentially contain treasure for humanity."
+    },
+    {
+        "PassageID": "1_2",
+        "sentence1": "Perspective: Same-sex couples should have access to the same benefits enjoyed by heterosexual married couples.",
+        "QuestionID": "0",
+        "sentence2": "Claim: Same sex relationships should have the same legal status as heterosexual relationships under EU law. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "supports",
+        "explanation": "Same legal status would ensure the same benefits."
+    },
+    {
+        "PassageID": "1_3",
+        "sentence1": "Perspective: \u201cUnder God\u201d is part of American tradition and history",
+        "QuestionID": "0",
+        "sentence2": "Claim: Remove the words \"under God\" from the American Pledge of Allegiance. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "undermines",
+        "explanation": "Removing the words \u201cunder God\u201d from the Pledge would be a distortion of American history."
+    },
+    {
+        "PassageID": "1_4",
+        "sentence1": "Perspective: Oil = Rentier economies = weak internal cohesion",
+        "QuestionID": "0",
+        "sentence2": "Claim: Resources have a negative influence on foreign policy in the Middle East. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "supports",
+        "explanation": "Resources can lead to weak internal cohesion."
+    },
+    {
+        "PassageID": "1_5",
+        "sentence1": "Perspective: Uses of free speech motivated by personal gain should still be protected.",
+        "QuestionID": "0",
+        "sentence2": "Claim: Limit the free speech rights of corporations that are granted legal personhood. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "undermines",
+        "explanation": "If free speech is to be protected, it cannot be limited."
+    },
+    {
+        "PassageID": "1_6",
+        "sentence1": "Perspective: Redistributing wealth to balance the inequality of income disparity",
+        "QuestionID": "0",
+        "sentence2": "Claim: Basic income tax should be abolished. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "undermines",
+        "explanation": "Income tax is one mechanism through which wealth is redistributed to bridge disparity."
+    },
+    {
+        "PassageID": "1_7",
+        "sentence1": "Perspective: Police body cameras decrease the safety of police officers and negatively affect their physical and mental health.",
+        "QuestionID": "0",
+        "sentence2": "Claim: Police body cameras should be allowed. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "undermines",
+        "explanation": "Allowing police body cameras could affect the police both physically and mentally."
+    },
+    {
+        "PassageID": "1_8",
+        "sentence1": "Perspective: Government was required to drive through major changes such as drives for equality within society, universal education, and preservation of the environment. Mostly in the teeth of big business",
+        "QuestionID": "0",
+        "sentence2": "Claim: Government must be Big and Beefy. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "supports",
+        "explanation": "Only if the government is big and beefy can it drive through major changes."
+    }
+]

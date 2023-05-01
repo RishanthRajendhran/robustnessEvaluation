@@ -1,0 +1,146 @@
+[
+    {
+        "cId": 661,
+        "claim": "The breeding of white tigers in captivity should be banned",
+        "perspectives": [
+            {
+                "cId": 661,
+                "claim": "The breeding of white tigers in captivity should be banned",
+                "perspective": {
+                    "pId": 5490,
+                    "text": "Interfering with a species for cosmetic reasons is poor practice",
+                    "source": "debatewise"
+                },
+                "stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "cId": 247,
+        "claim": "Abolish all collective bargaining rights claimed by trades unions",
+        "perspectives": [
+            {
+                "cId": 247,
+                "claim": "Abolish all collective bargaining rights claimed by trades unions",
+                "perspective": {
+                    "pId": 1826,
+                    "text": "Collective bargaining has been recognised as an enforcable right",
+                    "source": "idebate"
+                },
+                "stance_label": "neg"
+            }
+        ]
+    },
+    {
+        "cId": 861,
+        "claim": "Religion In Itself Is A Purely Positive Force In The World",
+        "perspectives": [
+            {
+                "cId": 861,
+                "claim": "Religion In Itself Is A Purely Positive Force In The World",
+                "perspective": {
+                    "pId": 7034,
+                    "text": "Religious Doctrine Preaches Altruism",
+                    "source": "debatewise"
+                },
+                "stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "cId": 79,
+        "claim": "South Ossetia should be independent",
+        "perspectives": [
+            {
+                "cId": 79,
+                "claim": "South Ossetia should be independent",
+                "perspective": {
+                    "pId": 582,
+                    "text": "South Ossetia has a right to self-determination ",
+                    "source": "idebate"
+                },
+                "stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "cId": 338,
+        "claim": "The best way to protect Scottish interests in the EU is to vote for independence",
+        "perspectives": [
+            {
+                "cId": 338,
+                "claim": "The best way to protect Scottish interests in the EU is to vote for independence",
+                "perspective": {
+                    "pId": 7260,
+                    "text": "Relations between Scots and English are deteriorating",
+                    "source": "debatewise"
+                },
+                "stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "cId": 566,
+        "claim": "Any vaccines should be required for children",
+        "perspectives": [
+            {
+                "cId": 566,
+                "claim": "Any vaccines should be required for children",
+                "perspective": {
+                    "pId": 4245,
+                    "text": "Vaccines eradicated smallpox and have nearly eradicated other diseases such as polio.",
+                    "source": "procon"
+                },
+                "stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "cId": 37,
+        "claim": "Music containing lyrics that glorify violent and criminal lifestyles should be banned",
+        "perspectives": [
+            {
+                "cId": 37,
+                "claim": "Music containing lyrics that glorify violent and criminal lifestyles should be banned",
+                "perspective": {
+                    "pId": 160,
+                    "text": "Music depicting violence to women causes and sustains the cycle of violence.",
+                    "source": "idebate"
+                },
+                "stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "cId": 116,
+        "claim": "Parents should be able to choose the sex of their children",
+        "perspectives": [
+            {
+                "cId": 116,
+                "claim": "Parents should be able to choose the sex of their children",
+                "perspective": {
+                    "pId": 861,
+                    "text": "The lottery of childbirth should not be interfered with",
+                    "source": "idebate"
+                },
+                "stance_label": "neg"
+            }
+        ]
+    },
+    {
+        "cId": 832,
+        "claim": "The United States is justified in using private military firms abroad to pursue its military objectives",
+        "perspectives": [
+            {
+                "cId": 832,
+                "claim": "The United States is justified in using private military firms abroad to pursue its military objectives",
+                "perspective": {
+                    "pId": 6704,
+                    "text": "PMCs are not held to the same standards and thus should not be hired by the US government.",
+                    "source": "debatewise"
+                },
+                "stance_label": "neg"
+            }
+        ]
+    }
+]

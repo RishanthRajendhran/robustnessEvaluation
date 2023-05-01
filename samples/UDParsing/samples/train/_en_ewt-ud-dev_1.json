@@ -1,0 +1,2388 @@
+[
+    {
+        "sent_id": "answers-20111106210027AAhMxfE_ans-0010",
+        "text": "Drop by my house, I can get you some real cheap.",
+        "tokens": [
+            {
+                "id": 1,
+                "form": "Drop",
+                "lemma": "drop",
+                "upos": "VERB",
+                "xpos": "VB",
+                "feats": {
+                    "Mood": "Imp",
+                    "VerbForm": "Fin"
+                },
+                "head": 0,
+                "deprel": "root",
+                "deps": [
+                    [
+                        "root",
+                        0
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 2,
+                "form": "by",
+                "lemma": "by",
+                "upos": "ADP",
+                "xpos": "IN",
+                "feats": null,
+                "head": 4,
+                "deprel": "case",
+                "deps": [
+                    [
+                        "case",
+                        4
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 3,
+                "form": "my",
+                "lemma": "my",
+                "upos": "PRON",
+                "xpos": "PRP$",
+                "feats": {
+                    "Case": "Gen",
+                    "Number": "Sing",
+                    "Person": "1",
+                    "Poss": "Yes",
+                    "PronType": "Prs"
+                },
+                "head": 4,
+                "deprel": "nmod:poss",
+                "deps": [
+                    [
+                        "nmod:poss",
+                        4
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 4,
+                "form": "house",
+                "lemma": "house",
+                "upos": "NOUN",
+                "xpos": "NN",
+                "feats": {
+                    "Number": "Sing"
+                },
+                "head": 1,
+                "deprel": "obl",
+                "deps": [
+                    [
+                        "obl:by",
+                        1
+                    ]
+                ],
+                "misc": {
+                    "SpaceAfter": "No"
+                }
+            },
+            {
+                "id": 5,
+                "form": ",",
+                "lemma": ",",
+                "upos": "PUNCT",
+                "xpos": ",",
+                "feats": null,
+                "head": 1,
+                "deprel": "punct",
+                "deps": [
+                    [
+                        "punct",
+                        1
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 6,
+                "form": "I",
+                "lemma": "I",
+                "upos": "PRON",
+                "xpos": "PRP",
+                "feats": {
+                    "Case": "Nom",
+                    "Number": "Sing",
+                    "Person": "1",
+                    "PronType": "Prs"
+                },
+                "head": 8,
+                "deprel": "nsubj",
+                "deps": [
+                    [
+                        "nsubj",
+                        8
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 7,
+                "form": "can",
+                "lemma": "can",
+                "upos": "AUX",
+                "xpos": "MD",
+                "feats": {
+                    "VerbForm": "Fin"
+                },
+                "head": 8,
+                "deprel": "aux",
+                "deps": [
+                    [
+                        "aux",
+                        8
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 8,
+                "form": "get",
+                "lemma": "get",
+                "upos": "VERB",
+                "xpos": "VB",
+                "feats": {
+                    "VerbForm": "Inf"
+                },
+                "head": 1,
+                "deprel": "parataxis",
+                "deps": [
+                    [
+                        "parataxis",
+                        1
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 9,
+                "form": "you",
+                "lemma": "you",
+                "upos": "PRON",
+                "xpos": "PRP",
+                "feats": {
+                    "Case": "Acc",
+                    "Person": "2",
+                    "PronType": "Prs"
+                },
+                "head": 8,
+                "deprel": "iobj",
+                "deps": [
+                    [
+                        "iobj",
+                        8
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 10,
+                "form": "some",
+                "lemma": "some",
+                "upos": "DET",
+                "xpos": "DT",
+                "feats": null,
+                "head": 8,
+                "deprel": "obj",
+                "deps": [
+                    [
+                        "obj",
+                        8
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 11,
+                "form": "real",
+                "lemma": "real",
+                "upos": "ADV",
+                "xpos": "RB",
+                "feats": null,
+                "head": 12,
+                "deprel": "advmod",
+                "deps": [
+                    [
+                        "advmod",
+                        12
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 12,
+                "form": "cheap",
+                "lemma": "cheap",
+                "upos": "ADV",
+                "xpos": "RB",
+                "feats": null,
+                "head": 8,
+                "deprel": "advmod",
+                "deps": [
+                    [
+                        "advmod",
+                        8
+                    ]
+                ],
+                "misc": {
+                    "SpaceAfter": "No"
+                }
+            },
+            {
+                "id": 13,
+                "form": ".",
+                "lemma": ".",
+                "upos": "PUNCT",
+                "xpos": ".",
+                "feats": null,
+                "head": 1,
+                "deprel": "punct",
+                "deps": [
+                    [
+                        "punct",
+                        1
+                    ]
+                ],
+                "misc": null
+            }
+        ]
+    },
+    {
+        "sent_id": "reviews-356361-0002",
+        "text": "A very well established service with a satisfying outcome.",
+        "tokens": [
+            {
+                "id": 1,
+                "form": "A",
+                "lemma": "a",
+                "upos": "DET",
+                "xpos": "DT",
+                "feats": {
+                    "Definite": "Ind",
+                    "PronType": "Art"
+                },
+                "head": 5,
+                "deprel": "det",
+                "deps": [
+                    [
+                        "det",
+                        5
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 2,
+                "form": "very",
+                "lemma": "very",
+                "upos": "ADV",
+                "xpos": "RB",
+                "feats": null,
+                "head": 3,
+                "deprel": "advmod",
+                "deps": [
+                    [
+                        "advmod",
+                        3
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 3,
+                "form": "well",
+                "lemma": "well",
+                "upos": "ADV",
+                "xpos": "RB",
+                "feats": {
+                    "Degree": "Pos"
+                },
+                "head": 4,
+                "deprel": "advmod",
+                "deps": [
+                    [
+                        "advmod",
+                        4
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 4,
+                "form": "established",
+                "lemma": "establish",
+                "upos": "VERB",
+                "xpos": "VBN",
+                "feats": {
+                    "Tense": "Past",
+                    "VerbForm": "Part"
+                },
+                "head": 5,
+                "deprel": "amod",
+                "deps": [
+                    [
+                        "amod",
+                        5
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 5,
+                "form": "service",
+                "lemma": "service",
+                "upos": "NOUN",
+                "xpos": "NN",
+                "feats": {
+                    "Number": "Sing"
+                },
+                "head": 0,
+                "deprel": "root",
+                "deps": [
+                    [
+                        "root",
+                        0
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 6,
+                "form": "with",
+                "lemma": "with",
+                "upos": "ADP",
+                "xpos": "IN",
+                "feats": null,
+                "head": 9,
+                "deprel": "case",
+                "deps": [
+                    [
+                        "case",
+                        9
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 7,
+                "form": "a",
+                "lemma": "a",
+                "upos": "DET",
+                "xpos": "DT",
+                "feats": {
+                    "Definite": "Ind",
+                    "PronType": "Art"
+                },
+                "head": 9,
+                "deprel": "det",
+                "deps": [
+                    [
+                        "det",
+                        9
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 8,
+                "form": "satisfying",
+                "lemma": "satisfying",
+                "upos": "ADJ",
+                "xpos": "JJ",
+                "feats": {
+                    "Degree": "Pos"
+                },
+                "head": 9,
+                "deprel": "amod",
+                "deps": [
+                    [
+                        "amod",
+                        9
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 9,
+                "form": "outcome",
+                "lemma": "outcome",
+                "upos": "NOUN",
+                "xpos": "NN",
+                "feats": {
+                    "Number": "Sing"
+                },
+                "head": 5,
+                "deprel": "nmod",
+                "deps": [
+                    [
+                        "nmod:with",
+                        5
+                    ]
+                ],
+                "misc": {
+                    "SpaceAfter": "No"
+                }
+            },
+            {
+                "id": 10,
+                "form": ".",
+                "lemma": ".",
+                "upos": "PUNCT",
+                "xpos": ".",
+                "feats": null,
+                "head": 5,
+                "deprel": "punct",
+                "deps": [
+                    [
+                        "punct",
+                        5
+                    ]
+                ],
+                "misc": null
+            }
+        ]
+    },
+    {
+        "sent_id": "answers-20111108024148AAO8oFI_ans-0008",
+        "text": "Yes storage for your luggages is still available at Gare Montparnasse.",
+        "tokens": [
+            {
+                "id": 1,
+                "form": "Yes",
+                "lemma": "yes",
+                "upos": "INTJ",
+                "xpos": "UH",
+                "feats": null,
+                "head": 8,
+                "deprel": "discourse",
+                "deps": [
+                    [
+                        "discourse",
+                        8
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 2,
+                "form": "storage",
+                "lemma": "storage",
+                "upos": "NOUN",
+                "xpos": "NN",
+                "feats": {
+                    "Number": "Sing"
+                },
+                "head": 8,
+                "deprel": "nsubj",
+                "deps": [
+                    [
+                        "nsubj",
+                        8
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 3,
+                "form": "for",
+                "lemma": "for",
+                "upos": "ADP",
+                "xpos": "IN",
+                "feats": null,
+                "head": 5,
+                "deprel": "case",
+                "deps": [
+                    [
+                        "case",
+                        5
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 4,
+                "form": "your",
+                "lemma": "your",
+                "upos": "PRON",
+                "xpos": "PRP$",
+                "feats": {
+                    "Case": "Gen",
+                    "Person": "2",
+                    "Poss": "Yes",
+                    "PronType": "Prs"
+                },
+                "head": 5,
+                "deprel": "nmod:poss",
+                "deps": [
+                    [
+                        "nmod:poss",
+                        5
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 5,
+                "form": "luggages",
+                "lemma": "luggage",
+                "upos": "NOUN",
+                "xpos": "NNS",
+                "feats": {
+                    "Number": "Plur"
+                },
+                "head": 2,
+                "deprel": "nmod",
+                "deps": [
+                    [
+                        "nmod:for",
+                        2
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 6,
+                "form": "is",
+                "lemma": "be",
+                "upos": "AUX",
+                "xpos": "VBZ",
+                "feats": {
+                    "Mood": "Ind",
+                    "Number": "Sing",
+                    "Person": "3",
+                    "Tense": "Pres",
+                    "VerbForm": "Fin"
+                },
+                "head": 8,
+                "deprel": "cop",
+                "deps": [
+                    [
+                        "cop",
+                        8
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 7,
+                "form": "still",
+                "lemma": "still",
+                "upos": "ADV",
+                "xpos": "RB",
+                "feats": null,
+                "head": 8,
+                "deprel": "advmod",
+                "deps": [
+                    [
+                        "advmod",
+                        8
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 8,
+                "form": "available",
+                "lemma": "available",
+                "upos": "ADJ",
+                "xpos": "JJ",
+                "feats": {
+                    "Degree": "Pos"
+                },
+                "head": 0,
+                "deprel": "root",
+                "deps": [
+                    [
+                        "root",
+                        0
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 9,
+                "form": "at",
+                "lemma": "at",
+                "upos": "ADP",
+                "xpos": "IN",
+                "feats": null,
+                "head": 11,
+                "deprel": "case",
+                "deps": [
+                    [
+                        "case",
+                        11
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 10,
+                "form": "Gare",
+                "lemma": "Gare",
+                "upos": "PROPN",
+                "xpos": "NNP",
+                "feats": {
+                    "Number": "Sing"
+                },
+                "head": 11,
+                "deprel": "compound",
+                "deps": [
+                    [
+                        "compound",
+                        11
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 11,
+                "form": "Montparnasse",
+                "lemma": "Montparnasse",
+                "upos": "PROPN",
+                "xpos": "NNP",
+                "feats": {
+                    "Number": "Sing"
+                },
+                "head": 8,
+                "deprel": "obl",
+                "deps": [
+                    [
+                        "obl:at",
+                        8
+                    ]
+                ],
+                "misc": {
+                    "SpaceAfter": "No"
+                }
+            },
+            {
+                "id": 12,
+                "form": ".",
+                "lemma": ".",
+                "upos": "PUNCT",
+                "xpos": ".",
+                "feats": null,
+                "head": 8,
+                "deprel": "punct",
+                "deps": [
+                    [
+                        "punct",
+                        8
+                    ]
+                ],
+                "misc": null
+            }
+        ]
+    },
+    {
+        "sent_id": "reviews-140302-0003",
+        "text": "The paint and wheels looked like glass and the interior looked new!",
+        "tokens": [
+            {
+                "id": 1,
+                "form": "The",
+                "lemma": "the",
+                "upos": "DET",
+                "xpos": "DT",
+                "feats": {
+                    "Definite": "Def",
+                    "PronType": "Art"
+                },
+                "head": 2,
+                "deprel": "det",
+                "deps": [
+                    [
+                        "det",
+                        2
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 2,
+                "form": "paint",
+                "lemma": "paint",
+                "upos": "NOUN",
+                "xpos": "NN",
+                "feats": {
+                    "Number": "Sing"
+                },
+                "head": 5,
+                "deprel": "nsubj",
+                "deps": [
+                    [
+                        "nsubj",
+                        5
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 3,
+                "form": "and",
+                "lemma": "and",
+                "upos": "CCONJ",
+                "xpos": "CC",
+                "feats": null,
+                "head": 4,
+                "deprel": "cc",
+                "deps": [
+                    [
+                        "cc",
+                        4
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 4,
+                "form": "wheels",
+                "lemma": "wheel",
+                "upos": "NOUN",
+                "xpos": "NNS",
+                "feats": {
+                    "Number": "Plur"
+                },
+                "head": 2,
+                "deprel": "conj",
+                "deps": [
+                    [
+                        "conj:and",
+                        2
+                    ],
+                    [
+                        "nsubj",
+                        5
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 5,
+                "form": "looked",
+                "lemma": "look",
+                "upos": "VERB",
+                "xpos": "VBD",
+                "feats": {
+                    "Mood": "Ind",
+                    "Number": "Sing",
+                    "Person": "3",
+                    "Tense": "Past",
+                    "VerbForm": "Fin"
+                },
+                "head": 0,
+                "deprel": "root",
+                "deps": [
+                    [
+                        "root",
+                        0
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 6,
+                "form": "like",
+                "lemma": "like",
+                "upos": "ADP",
+                "xpos": "IN",
+                "feats": null,
+                "head": 7,
+                "deprel": "case",
+                "deps": [
+                    [
+                        "case",
+                        7
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 7,
+                "form": "glass",
+                "lemma": "glass",
+                "upos": "NOUN",
+                "xpos": "NN",
+                "feats": {
+                    "Number": "Sing"
+                },
+                "head": 5,
+                "deprel": "obl",
+                "deps": [
+                    [
+                        "obl:like",
+                        5
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 8,
+                "form": "and",
+                "lemma": "and",
+                "upos": "CCONJ",
+                "xpos": "CC",
+                "feats": null,
+                "head": 11,
+                "deprel": "cc",
+                "deps": [
+                    [
+                        "cc",
+                        11
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 9,
+                "form": "the",
+                "lemma": "the",
+                "upos": "DET",
+                "xpos": "DT",
+                "feats": {
+                    "Definite": "Def",
+                    "PronType": "Art"
+                },
+                "head": 10,
+                "deprel": "det",
+                "deps": [
+                    [
+                        "det",
+                        10
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 10,
+                "form": "interior",
+                "lemma": "interior",
+                "upos": "NOUN",
+                "xpos": "NN",
+                "feats": {
+                    "Number": "Sing"
+                },
+                "head": 11,
+                "deprel": "nsubj",
+                "deps": [
+                    [
+                        "nsubj",
+                        11
+                    ],
+                    [
+                        "nsubj:xsubj",
+                        12
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 11,
+                "form": "looked",
+                "lemma": "look",
+                "upos": "VERB",
+                "xpos": "VBD",
+                "feats": {
+                    "Mood": "Ind",
+                    "Number": "Sing",
+                    "Person": "3",
+                    "Tense": "Past",
+                    "VerbForm": "Fin"
+                },
+                "head": 5,
+                "deprel": "conj",
+                "deps": [
+                    [
+                        "conj:and",
+                        5
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 12,
+                "form": "new",
+                "lemma": "new",
+                "upos": "ADJ",
+                "xpos": "JJ",
+                "feats": {
+                    "Degree": "Pos"
+                },
+                "head": 11,
+                "deprel": "xcomp",
+                "deps": [
+                    [
+                        "xcomp",
+                        11
+                    ]
+                ],
+                "misc": {
+                    "SpaceAfter": "No"
+                }
+            },
+            {
+                "id": 13,
+                "form": "!",
+                "lemma": "!",
+                "upos": "PUNCT",
+                "xpos": ".",
+                "feats": null,
+                "head": 5,
+                "deprel": "punct",
+                "deps": [
+                    [
+                        "punct",
+                        5
+                    ]
+                ],
+                "misc": null
+            }
+        ]
+    },
+    {
+        "sent_id": "newsgroup-groups.google.com_AlexandrianReligiousStudies_ebcd97e243c4440b_ENG_20051021_201800-0002",
+        "text": "So please update whatever you need to and go to",
+        "tokens": [
+            {
+                "id": 1,
+                "form": "So",
+                "lemma": "so",
+                "upos": "ADV",
+                "xpos": "RB",
+                "feats": null,
+                "head": 3,
+                "deprel": "advmod",
+                "deps": [
+                    [
+                        "advmod",
+                        3
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 2,
+                "form": "please",
+                "lemma": "please",
+                "upos": "INTJ",
+                "xpos": "UH",
+                "feats": null,
+                "head": 3,
+                "deprel": "discourse",
+                "deps": [
+                    [
+                        "discourse",
+                        3
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 3,
+                "form": "update",
+                "lemma": "update",
+                "upos": "VERB",
+                "xpos": "VB",
+                "feats": {
+                    "Mood": "Imp",
+                    "VerbForm": "Fin"
+                },
+                "head": 0,
+                "deprel": "root",
+                "deps": [
+                    [
+                        "root",
+                        0
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 4,
+                "form": "whatever",
+                "lemma": "whatever",
+                "upos": "PRON",
+                "xpos": "WP",
+                "feats": {
+                    "PronType": "Int"
+                },
+                "head": 3,
+                "deprel": "obj",
+                "deps": [
+                    [
+                        "obj",
+                        3
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 5,
+                "form": "you",
+                "lemma": "you",
+                "upos": "PRON",
+                "xpos": "PRP",
+                "feats": {
+                    "Case": "Nom",
+                    "Person": "2",
+                    "PronType": "Prs"
+                },
+                "head": 6,
+                "deprel": "nsubj",
+                "deps": [
+                    [
+                        "nsubj",
+                        6
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 6,
+                "form": "need",
+                "lemma": "need",
+                "upos": "VERB",
+                "xpos": "VBP",
+                "feats": {
+                    "Mood": "Ind",
+                    "Number": "Sing",
+                    "Person": "2",
+                    "Tense": "Pres",
+                    "VerbForm": "Fin"
+                },
+                "head": 4,
+                "deprel": "acl:relcl",
+                "deps": [
+                    [
+                        "acl:relcl",
+                        4
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 7,
+                "form": "to",
+                "lemma": "to",
+                "upos": "PART",
+                "xpos": "TO",
+                "feats": null,
+                "head": 6,
+                "deprel": "xcomp",
+                "deps": [
+                    [
+                        "xcomp",
+                        6
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 8,
+                "form": "and",
+                "lemma": "and",
+                "upos": "CCONJ",
+                "xpos": "CC",
+                "feats": null,
+                "head": 9,
+                "deprel": "cc",
+                "deps": [
+                    [
+                        "cc",
+                        9
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 9,
+                "form": "go",
+                "lemma": "go",
+                "upos": "VERB",
+                "xpos": "VB",
+                "feats": {
+                    "Mood": "Imp",
+                    "VerbForm": "Fin"
+                },
+                "head": 3,
+                "deprel": "conj",
+                "deps": [
+                    [
+                        "conj:and",
+                        3
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 10,
+                "form": "to",
+                "lemma": "to",
+                "upos": "ADP",
+                "xpos": "IN",
+                "feats": null,
+                "head": 9,
+                "deprel": "obl",
+                "deps": [
+                    [
+                        "obl",
+                        9
+                    ]
+                ],
+                "misc": null
+            }
+        ]
+    },
+    {
+        "sent_id": "reviews-369957-0001",
+        "text": "beware they will rip u off",
+        "tokens": [
+            {
+                "id": 1,
+                "form": "beware",
+                "lemma": "beware",
+                "upos": "VERB",
+                "xpos": "VB",
+                "feats": {
+                    "Mood": "Imp",
+                    "VerbForm": "Fin"
+                },
+                "head": 0,
+                "deprel": "root",
+                "deps": [
+                    [
+                        "root",
+                        0
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 2,
+                "form": "they",
+                "lemma": "they",
+                "upos": "PRON",
+                "xpos": "PRP",
+                "feats": {
+                    "Case": "Nom",
+                    "Number": "Plur",
+                    "Person": "3",
+                    "PronType": "Prs"
+                },
+                "head": 4,
+                "deprel": "nsubj",
+                "deps": [
+                    [
+                        "nsubj",
+                        4
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 3,
+                "form": "will",
+                "lemma": "will",
+                "upos": "AUX",
+                "xpos": "MD",
+                "feats": {
+                    "VerbForm": "Fin"
+                },
+                "head": 4,
+                "deprel": "aux",
+                "deps": [
+                    [
+                        "aux",
+                        4
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 4,
+                "form": "rip",
+                "lemma": "rip",
+                "upos": "VERB",
+                "xpos": "VB",
+                "feats": {
+                    "VerbForm": "Inf"
+                },
+                "head": 1,
+                "deprel": "parataxis",
+                "deps": [
+                    [
+                        "parataxis",
+                        1
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 5,
+                "form": "u",
+                "lemma": "you",
+                "upos": "PRON",
+                "xpos": "PRP",
+                "feats": {
+                    "Abbr": "Yes",
+                    "Case": "Acc",
+                    "Person": "2",
+                    "PronType": "Prs"
+                },
+                "head": 4,
+                "deprel": "obj",
+                "deps": [
+                    [
+                        "obj",
+                        4
+                    ]
+                ],
+                "misc": {
+                    "CorrectForm": "you"
+                }
+            },
+            {
+                "id": 6,
+                "form": "off",
+                "lemma": "off",
+                "upos": "ADP",
+                "xpos": "RP",
+                "feats": null,
+                "head": 4,
+                "deprel": "compound:prt",
+                "deps": [
+                    [
+                        "compound:prt",
+                        4
+                    ]
+                ],
+                "misc": null
+            }
+        ]
+    },
+    {
+        "sent_id": "answers-20101109081414AAZ3hSI_ans-0001",
+        "text": "What kind of Meal do peopel in Argentina have?",
+        "tokens": [
+            {
+                "id": 1,
+                "form": "What",
+                "lemma": "what",
+                "upos": "DET",
+                "xpos": "WDT",
+                "feats": {
+                    "PronType": "Int"
+                },
+                "head": 2,
+                "deprel": "det",
+                "deps": [
+                    [
+                        "det",
+                        2
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 2,
+                "form": "kind",
+                "lemma": "kind",
+                "upos": "NOUN",
+                "xpos": "NN",
+                "feats": {
+                    "Number": "Sing"
+                },
+                "head": 9,
+                "deprel": "obj",
+                "deps": [
+                    [
+                        "obj",
+                        9
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 3,
+                "form": "of",
+                "lemma": "of",
+                "upos": "ADP",
+                "xpos": "IN",
+                "feats": null,
+                "head": 4,
+                "deprel": "case",
+                "deps": [
+                    [
+                        "case",
+                        4
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 4,
+                "form": "Meal",
+                "lemma": "meal",
+                "upos": "NOUN",
+                "xpos": "NN",
+                "feats": {
+                    "Number": "Sing"
+                },
+                "head": 2,
+                "deprel": "nmod",
+                "deps": [
+                    [
+                        "nmod:of",
+                        2
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 5,
+                "form": "do",
+                "lemma": "do",
+                "upos": "AUX",
+                "xpos": "VBP",
+                "feats": {
+                    "Mood": "Ind",
+                    "Number": "Plur",
+                    "Person": "3",
+                    "Tense": "Pres",
+                    "VerbForm": "Fin"
+                },
+                "head": 9,
+                "deprel": "aux",
+                "deps": [
+                    [
+                        "aux",
+                        9
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 6,
+                "form": "peopel",
+                "lemma": "peopel",
+                "upos": "NOUN",
+                "xpos": "NNS",
+                "feats": {
+                    "Number": "Plur"
+                },
+                "head": 9,
+                "deprel": "nsubj",
+                "deps": [
+                    [
+                        "nsubj",
+                        9
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 7,
+                "form": "in",
+                "lemma": "in",
+                "upos": "ADP",
+                "xpos": "IN",
+                "feats": null,
+                "head": 8,
+                "deprel": "case",
+                "deps": [
+                    [
+                        "case",
+                        8
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 8,
+                "form": "Argentina",
+                "lemma": "Argentina",
+                "upos": "PROPN",
+                "xpos": "NNP",
+                "feats": {
+                    "Number": "Sing"
+                },
+                "head": 6,
+                "deprel": "nmod",
+                "deps": [
+                    [
+                        "nmod:in",
+                        6
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 9,
+                "form": "have",
+                "lemma": "have",
+                "upos": "VERB",
+                "xpos": "VB",
+                "feats": {
+                    "VerbForm": "Inf"
+                },
+                "head": 0,
+                "deprel": "root",
+                "deps": [
+                    [
+                        "root",
+                        0
+                    ]
+                ],
+                "misc": {
+                    "SpaceAfter": "No"
+                }
+            },
+            {
+                "id": 10,
+                "form": "?",
+                "lemma": "?",
+                "upos": "PUNCT",
+                "xpos": ".",
+                "feats": null,
+                "head": 9,
+                "deprel": "punct",
+                "deps": [
+                    [
+                        "punct",
+                        9
+                    ]
+                ],
+                "misc": null
+            }
+        ]
+    },
+    {
+        "sent_id": "reviews-308297-0003",
+        "text": "They offer a good portions at a great price, it's enough food to fill you up, but you don't ever feel like you ate too much.",
+        "tokens": [
+            {
+                "id": 1,
+                "form": "They",
+                "lemma": "they",
+                "upos": "PRON",
+                "xpos": "PRP",
+                "feats": {
+                    "Case": "Nom",
+                    "Number": "Plur",
+                    "Person": "3",
+                    "PronType": "Prs"
+                },
+                "head": 2,
+                "deprel": "nsubj",
+                "deps": [
+                    [
+                        "nsubj",
+                        2
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 2,
+                "form": "offer",
+                "lemma": "offer",
+                "upos": "VERB",
+                "xpos": "VBP",
+                "feats": {
+                    "Mood": "Ind",
+                    "Number": "Plur",
+                    "Person": "3",
+                    "Tense": "Pres",
+                    "VerbForm": "Fin"
+                },
+                "head": 0,
+                "deprel": "root",
+                "deps": [
+                    [
+                        "root",
+                        0
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 3,
+                "form": "a",
+                "lemma": "a",
+                "upos": "DET",
+                "xpos": "DT",
+                "feats": {
+                    "Definite": "Ind",
+                    "PronType": "Art"
+                },
+                "head": 5,
+                "deprel": "det",
+                "deps": [
+                    [
+                        "det",
+                        5
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 4,
+                "form": "good",
+                "lemma": "good",
+                "upos": "ADJ",
+                "xpos": "JJ",
+                "feats": {
+                    "Degree": "Pos"
+                },
+                "head": 5,
+                "deprel": "amod",
+                "deps": [
+                    [
+                        "amod",
+                        5
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 5,
+                "form": "portions",
+                "lemma": "portion",
+                "upos": "NOUN",
+                "xpos": "NNS",
+                "feats": {
+                    "Number": "Plur"
+                },
+                "head": 2,
+                "deprel": "obj",
+                "deps": [
+                    [
+                        "obj",
+                        2
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 6,
+                "form": "at",
+                "lemma": "at",
+                "upos": "ADP",
+                "xpos": "IN",
+                "feats": null,
+                "head": 9,
+                "deprel": "case",
+                "deps": [
+                    [
+                        "case",
+                        9
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 7,
+                "form": "a",
+                "lemma": "a",
+                "upos": "DET",
+                "xpos": "DT",
+                "feats": {
+                    "Definite": "Ind",
+                    "PronType": "Art"
+                },
+                "head": 9,
+                "deprel": "det",
+                "deps": [
+                    [
+                        "det",
+                        9
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 8,
+                "form": "great",
+                "lemma": "great",
+                "upos": "ADJ",
+                "xpos": "JJ",
+                "feats": {
+                    "Degree": "Pos"
+                },
+                "head": 9,
+                "deprel": "amod",
+                "deps": [
+                    [
+                        "amod",
+                        9
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 9,
+                "form": "price",
+                "lemma": "price",
+                "upos": "NOUN",
+                "xpos": "NN",
+                "feats": {
+                    "Number": "Sing"
+                },
+                "head": 2,
+                "deprel": "obl",
+                "deps": [
+                    [
+                        "obl:at",
+                        2
+                    ]
+                ],
+                "misc": {
+                    "SpaceAfter": "No"
+                }
+            },
+            {
+                "id": 10,
+                "form": ",",
+                "lemma": ",",
+                "upos": "PUNCT",
+                "xpos": ",",
+                "feats": null,
+                "head": 2,
+                "deprel": "punct",
+                "deps": [
+                    [
+                        "punct",
+                        2
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": [
+                    11,
+                    "-",
+                    12
+                ],
+                "form": "it's",
+                "lemma": "_",
+                "upos": "_",
+                "xpos": null,
+                "feats": null,
+                "head": null,
+                "deprel": "_",
+                "deps": null,
+                "misc": null
+            },
+            {
+                "id": 11,
+                "form": "it",
+                "lemma": "it",
+                "upos": "PRON",
+                "xpos": "PRP",
+                "feats": {
+                    "Case": "Nom",
+                    "Gender": "Neut",
+                    "Number": "Sing",
+                    "Person": "3",
+                    "PronType": "Prs"
+                },
+                "head": 14,
+                "deprel": "nsubj",
+                "deps": [
+                    [
+                        "nsubj",
+                        14
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 12,
+                "form": "'s",
+                "lemma": "be",
+                "upos": "AUX",
+                "xpos": "VBZ",
+                "feats": {
+                    "Mood": "Ind",
+                    "Number": "Sing",
+                    "Person": "3",
+                    "Tense": "Pres",
+                    "VerbForm": "Fin"
+                },
+                "head": 14,
+                "deprel": "cop",
+                "deps": [
+                    [
+                        "cop",
+                        14
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 13,
+                "form": "enough",
+                "lemma": "enough",
+                "upos": "ADJ",
+                "xpos": "JJ",
+                "feats": {
+                    "Degree": "Pos"
+                },
+                "head": 14,
+                "deprel": "amod",
+                "deps": [
+                    [
+                        "amod",
+                        14
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 14,
+                "form": "food",
+                "lemma": "food",
+                "upos": "NOUN",
+                "xpos": "NN",
+                "feats": {
+                    "Number": "Sing"
+                },
+                "head": 2,
+                "deprel": "parataxis",
+                "deps": [
+                    [
+                        "parataxis",
+                        2
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 15,
+                "form": "to",
+                "lemma": "to",
+                "upos": "PART",
+                "xpos": "TO",
+                "feats": null,
+                "head": 16,
+                "deprel": "mark",
+                "deps": [
+                    [
+                        "mark",
+                        16
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 16,
+                "form": "fill",
+                "lemma": "fill",
+                "upos": "VERB",
+                "xpos": "VB",
+                "feats": {
+                    "VerbForm": "Inf"
+                },
+                "head": 13,
+                "deprel": "advcl",
+                "deps": [
+                    [
+                        "advcl:to",
+                        13
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 17,
+                "form": "you",
+                "lemma": "you",
+                "upos": "PRON",
+                "xpos": "PRP",
+                "feats": {
+                    "Case": "Nom",
+                    "Person": "2",
+                    "PronType": "Prs"
+                },
+                "head": 16,
+                "deprel": "obj",
+                "deps": [
+                    [
+                        "obj",
+                        16
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 18,
+                "form": "up",
+                "lemma": "up",
+                "upos": "ADP",
+                "xpos": "RP",
+                "feats": null,
+                "head": 16,
+                "deprel": "compound:prt",
+                "deps": [
+                    [
+                        "compound:prt",
+                        16
+                    ]
+                ],
+                "misc": {
+                    "SpaceAfter": "No"
+                }
+            },
+            {
+                "id": 19,
+                "form": ",",
+                "lemma": ",",
+                "upos": "PUNCT",
+                "xpos": ",",
+                "feats": null,
+                "head": 25,
+                "deprel": "punct",
+                "deps": [
+                    [
+                        "punct",
+                        25
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 20,
+                "form": "but",
+                "lemma": "but",
+                "upos": "CCONJ",
+                "xpos": "CC",
+                "feats": null,
+                "head": 25,
+                "deprel": "cc",
+                "deps": [
+                    [
+                        "cc",
+                        25
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 21,
+                "form": "you",
+                "lemma": "you",
+                "upos": "PRON",
+                "xpos": "PRP",
+                "feats": {
+                    "Case": "Nom",
+                    "Person": "2",
+                    "PronType": "Prs"
+                },
+                "head": 25,
+                "deprel": "nsubj",
+                "deps": [
+                    [
+                        "nsubj",
+                        25
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": [
+                    22,
+                    "-",
+                    23
+                ],
+                "form": "don't",
+                "lemma": "_",
+                "upos": "_",
+                "xpos": null,
+                "feats": null,
+                "head": null,
+                "deprel": "_",
+                "deps": null,
+                "misc": null
+            },
+            {
+                "id": 22,
+                "form": "do",
+                "lemma": "do",
+                "upos": "AUX",
+                "xpos": "VBP",
+                "feats": {
+                    "Mood": "Ind",
+                    "Number": "Sing",
+                    "Person": "2",
+                    "Tense": "Pres",
+                    "VerbForm": "Fin"
+                },
+                "head": 25,
+                "deprel": "aux",
+                "deps": [
+                    [
+                        "aux",
+                        25
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 23,
+                "form": "n't",
+                "lemma": "not",
+                "upos": "PART",
+                "xpos": "RB",
+                "feats": null,
+                "head": 25,
+                "deprel": "advmod",
+                "deps": [
+                    [
+                        "advmod",
+                        25
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 24,
+                "form": "ever",
+                "lemma": "ever",
+                "upos": "ADV",
+                "xpos": "RB",
+                "feats": null,
+                "head": 25,
+                "deprel": "advmod",
+                "deps": [
+                    [
+                        "advmod",
+                        25
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 25,
+                "form": "feel",
+                "lemma": "feel",
+                "upos": "VERB",
+                "xpos": "VB",
+                "feats": {
+                    "VerbForm": "Inf"
+                },
+                "head": 2,
+                "deprel": "conj",
+                "deps": [
+                    [
+                        "conj:but",
+                        2
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 26,
+                "form": "like",
+                "lemma": "like",
+                "upos": "SCONJ",
+                "xpos": "IN",
+                "feats": null,
+                "head": 28,
+                "deprel": "mark",
+                "deps": [
+                    [
+                        "mark",
+                        28
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 27,
+                "form": "you",
+                "lemma": "you",
+                "upos": "PRON",
+                "xpos": "PRP",
+                "feats": {
+                    "Case": "Nom",
+                    "Person": "2",
+                    "PronType": "Prs"
+                },
+                "head": 28,
+                "deprel": "nsubj",
+                "deps": [
+                    [
+                        "nsubj",
+                        28
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 28,
+                "form": "ate",
+                "lemma": "eat",
+                "upos": "VERB",
+                "xpos": "VBD",
+                "feats": {
+                    "Mood": "Ind",
+                    "Number": "Sing",
+                    "Person": "2",
+                    "Tense": "Past",
+                    "VerbForm": "Fin"
+                },
+                "head": 25,
+                "deprel": "advcl",
+                "deps": [
+                    [
+                        "advcl:like",
+                        25
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 29,
+                "form": "too",
+                "lemma": "too",
+                "upos": "ADV",
+                "xpos": "RB",
+                "feats": null,
+                "head": 30,
+                "deprel": "advmod",
+                "deps": [
+                    [
+                        "advmod",
+                        30
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 30,
+                "form": "much",
+                "lemma": "much",
+                "upos": "ADJ",
+                "xpos": "JJ",
+                "feats": {
+                    "Degree": "Pos"
+                },
+                "head": 28,
+                "deprel": "obj",
+                "deps": [
+                    [
+                        "obj",
+                        28
+                    ]
+                ],
+                "misc": {
+                    "SpaceAfter": "No"
+                }
+            },
+            {
+                "id": 31,
+                "form": ".",
+                "lemma": ".",
+                "upos": "PUNCT",
+                "xpos": ".",
+                "feats": null,
+                "head": 2,
+                "deprel": "punct",
+                "deps": [
+                    [
+                        "punct",
+                        2
+                    ]
+                ],
+                "misc": null
+            }
+        ]
+    },
+    {
+        "sent_id": "newsgroup-groups.google.com_AlaskaTheLastFrontier_4709a6627e811b2a_ENG_20050530_201400-0001",
+        "text": "Dan I for one was very happy to hear about your quitting smoking.",
+        "tokens": [
+            {
+                "id": 1,
+                "form": "Dan",
+                "lemma": "Dan",
+                "upos": "PROPN",
+                "xpos": "NNP",
+                "feats": {
+                    "Number": "Sing"
+                },
+                "head": 7,
+                "deprel": "vocative",
+                "deps": [
+                    [
+                        "vocative",
+                        7
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 2,
+                "form": "I",
+                "lemma": "I",
+                "upos": "PRON",
+                "xpos": "PRP",
+                "feats": {
+                    "Case": "Nom",
+                    "Number": "Sing",
+                    "Person": "1",
+                    "PronType": "Prs"
+                },
+                "head": 7,
+                "deprel": "nsubj",
+                "deps": [
+                    [
+                        "nsubj",
+                        7
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 3,
+                "form": "for",
+                "lemma": "for",
+                "upos": "ADP",
+                "xpos": "IN",
+                "feats": null,
+                "head": 4,
+                "deprel": "case",
+                "deps": [
+                    [
+                        "case",
+                        4
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 4,
+                "form": "one",
+                "lemma": "one",
+                "upos": "NUM",
+                "xpos": "CD",
+                "feats": {
+                    "NumForm": "Word",
+                    "NumType": "Card"
+                },
+                "head": 7,
+                "deprel": "obl",
+                "deps": [
+                    [
+                        "obl:for",
+                        7
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 5,
+                "form": "was",
+                "lemma": "be",
+                "upos": "AUX",
+                "xpos": "VBD",
+                "feats": {
+                    "Mood": "Ind",
+                    "Number": "Sing",
+                    "Person": "3",
+                    "Tense": "Past",
+                    "VerbForm": "Fin"
+                },
+                "head": 7,
+                "deprel": "cop",
+                "deps": [
+                    [
+                        "cop",
+                        7
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 6,
+                "form": "very",
+                "lemma": "very",
+                "upos": "ADV",
+                "xpos": "RB",
+                "feats": null,
+                "head": 7,
+                "deprel": "advmod",
+                "deps": [
+                    [
+                        "advmod",
+                        7
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 7,
+                "form": "happy",
+                "lemma": "happy",
+                "upos": "ADJ",
+                "xpos": "JJ",
+                "feats": {
+                    "Degree": "Pos"
+                },
+                "head": 0,
+                "deprel": "root",
+                "deps": [
+                    [
+                        "root",
+                        0
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 8,
+                "form": "to",
+                "lemma": "to",
+                "upos": "PART",
+                "xpos": "TO",
+                "feats": null,
+                "head": 9,
+                "deprel": "mark",
+                "deps": [
+                    [
+                        "mark",
+                        9
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 9,
+                "form": "hear",
+                "lemma": "hear",
+                "upos": "VERB",
+                "xpos": "VB",
+                "feats": {
+                    "VerbForm": "Inf"
+                },
+                "head": 7,
+                "deprel": "advcl",
+                "deps": [
+                    [
+                        "advcl:to",
+                        7
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 10,
+                "form": "about",
+                "lemma": "about",
+                "upos": "SCONJ",
+                "xpos": "IN",
+                "feats": null,
+                "head": 12,
+                "deprel": "mark",
+                "deps": [
+                    [
+                        "mark",
+                        12
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 11,
+                "form": "your",
+                "lemma": "your",
+                "upos": "PRON",
+                "xpos": "PRP$",
+                "feats": {
+                    "Case": "Gen",
+                    "Person": "2",
+                    "Poss": "Yes",
+                    "PronType": "Prs"
+                },
+                "head": 12,
+                "deprel": "nsubj",
+                "deps": [
+                    [
+                        "nsubj",
+                        12
+                    ],
+                    [
+                        "nsubj:xsubj",
+                        13
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 12,
+                "form": "quitting",
+                "lemma": "quit",
+                "upos": "VERB",
+                "xpos": "VBG",
+                "feats": {
+                    "VerbForm": "Ger"
+                },
+                "head": 9,
+                "deprel": "advcl",
+                "deps": [
+                    [
+                        "advcl:about",
+                        9
+                    ]
+                ],
+                "misc": null
+            },
+            {
+                "id": 13,
+                "form": "smoking",
+                "lemma": "smoking",
+                "upos": "NOUN",
+                "xpos": "NN",
+                "feats": {
+                    "Number": "Sing"
+                },
+                "head": 12,
+                "deprel": "xcomp",
+                "deps": [
+                    [
+                        "xcomp",
+                        12
+                    ]
+                ],
+                "misc": {
+                    "SpaceAfter": "No"
+                }
+            },
+            {
+                "id": 14,
+                "form": ".",
+                "lemma": ".",
+                "upos": "PUNCT",
+                "xpos": ".",
+                "feats": null,
+                "head": 7,
+                "deprel": "punct",
+                "deps": [
+                    [
+                        "punct",
+                        7
+                    ]
+                ],
+                "misc": null
+            }
+        ]
+    }
+]

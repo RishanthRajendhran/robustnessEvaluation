@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "2_0",
+        "sentence1": "Perspective: All high schools accepting state funding should accept military recruiters once a year",
+        "QuestionID": "0",
+        "sentence2": "Claim: It should be allowed to have military recruitment in schools. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "supports",
+        "explanation": "State funded schools should be allowed to have military recruitment."
+    },
+    {
+        "PassageID": "2_1",
+        "sentence1": "Perspective: Development from within",
+        "QuestionID": "0",
+        "sentence2": "Claim: Nollywood could be an effective instrument to change perceptions of Africa. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "supports",
+        "explanation": "Nollywood can bring changes from within."
+    },
+    {
+        "PassageID": "2_2",
+        "sentence1": "Perspective: The loss of funding would destabilise and radicalise Palestine.",
+        "QuestionID": "0",
+        "sentence2": "Claim: The EU, USA and other western donors should not fund any Palestinian government in which terrorist organisations participate. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "undermines",
+        "explanation": "The western donors stopping funding could lead to destabilisation and radicalisation of Palestine."
+    },
+    {
+        "PassageID": "2_3",
+        "sentence1": "Perspective: It  sanctions and encourages 'Islamophobic' panics and promotes the excessive 'securitisation' of the globe",
+        "QuestionID": "0",
+        "sentence2": "Claim: Hosting the Olympic Games is beneficial. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "undermines",
+        "explanation": "Olympic Games encourage Islamophobia in the name of securitisation."
+    },
+    {
+        "PassageID": "2_4",
+        "sentence1": "Perspective: Terrorism is relative",
+        "QuestionID": "0",
+        "sentence2": "Claim: Terrorism can be justified. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "supports",
+        "explanation": "Anything that is relative can be justified by taking a different perspective."
+    },
+    {
+        "PassageID": "2_5",
+        "sentence1": "Perspective: The United Nations has a responsibility to prevent genocide and mass atrocities.",
+        "QuestionID": "0",
+        "sentence2": "Claim: The United Nations has a responsibility to protect. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "supports",
+        "explanation": "Preventing genocide and mass atrocities is a form of protection."
+    },
+    {
+        "PassageID": "2_6",
+        "sentence1": "Perspective: people have the right to smoke",
+        "QuestionID": "0",
+        "sentence2": "Claim: Smoking should be banned in public places. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "undermines",
+        "explanation": "Banning smoking in public places would violate people\u2019s right to smoke."
+    },
+    {
+        "PassageID": "2_7",
+        "sentence1": "Perspective: High Speed Rail is Better Than Air Travel",
+        "QuestionID": "0",
+        "sentence2": "Claim: Create a National High Speed Rail System in the U.S. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "supports",
+        "explanation": "High speed rail would benefit the US."
+    },
+    {
+        "PassageID": "2_8",
+        "sentence1": "Perspective: Freedom of speech",
+        "QuestionID": "0",
+        "sentence2": "Claim: Social disgust is legitimate grounds for restriction of artistic expression. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "undermines",
+        "explanation": "Social disgust is not a good enough reason to curtail freedom of speech."
+    }
+]

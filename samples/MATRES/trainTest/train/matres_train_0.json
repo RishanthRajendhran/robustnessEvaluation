@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "0_0",
+        "sentence1": "Dr. Barnett Slepian was  *killed*   in his kitchen by a sniper's bullet last fall . Investigators said Friday  they  *found*   a rifle buried  near his home in the Buffalo suburb of Amherst.",
+        "QuestionID": "0",
+        "sentence2": "When did the event *killed* happen in relation to the event *found*: before, after, simultaneously, or is it vague?",
+        "label": "before",
+        "explanation": "The investigation into the killing, during which the finding took place, was started only after the killing."
+    },
+    {
+        "PassageID": "0_1",
+        "sentence1": "Philippine President Joseph Estrada on Tuesday  *condemned*   the bombings  of the U.S. embassies in Kenya and Tanzania and offered  condolences to the victims and their families.``We extend  our heartfelt sympathies to the victims of these outrages  and to their families in Kenya, Tanzania and the United States,'' Estrada  *said*   in a statement. ``No cause is so great that it can justify wanton murder  and maiming  of the innocent.",
+        "QuestionID": "0",
+        "sentence2": "When did the event *condemned* happen in relation to the event *said*: before, after, simultaneously, or is it vague?",
+        "label": "before",
+        "explanation": "The condemnation was expressed before the reasoning behind the condemnation was elucidated."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "The ambassadors of Hungary, Poland and the Czech Republic issued  a joint statement Friday saying  the three countries' entry  into NATO will consolidate  Europe's security and help eliminate  threats to it.Five major political parties in the country  *issued*   statements supporting  the country's NATO membership .But some other parties and social organizations  *are*   against NATO's expansion, claiming  Hungary's accession  to NATO would be  detrimental to the country's independence and bring  about new problems and economic burdens to the country.",
+        "QuestionID": "0",
+        "sentence2": "When did the event *issued* happen in relation to the event *are*: before, after, simultaneously, or is it vague?",
+        "label": "vague",
+        "explanation": "It is not clear when the oppositions were expressed with respect to the statements issued in support by the political parties."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "Albright, echoing  the president, said  the United States would \" continue  to be present around the world, wherever we have interests to defend .\"\"We will  *do*   all we can to protect  our diplomatic and military peoples around the world,\" she said .Clinton met  with his top aides Wednesday  in the White House to assess  the situation following the twin bombings  at U.S. embassies in Kenya and Tanzania, which have killed  more than 250 people and  *injured*   over 5,000, most of them Kenyans and Tanzanians. Twelve Americans were killed  in the Kenya embassy bombing.",
+        "QuestionID": "0",
+        "sentence2": "When did the event *do* happen in relation to the event *injured*: before, after, simultaneously, or is it vague?",
+        "label": "after",
+        "explanation": "The promise of action was made only after the bombing which injured people."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "Terrorist bombings  at U.S. embassies in Kenya and Tanzania  *blew*   apart buildings and buses, trapping  people under slabs of concrete and twisted steel that rescuers cleared  with cranes, blow torches and bare hands.At least 82 were killed  and more than 1,700 injured , officials said  as dawn  *broke*  Saturday.",
+        "QuestionID": "0",
+        "sentence2": "When did the event *blew* happen in relation to the event *broke*: before, after, simultaneously, or is it vague?",
+        "label": "before",
+        "explanation": "The bombings had already blown up buildings before the dawn broke."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "In Cape Town, South Africa, police spokesman Capt. Rod Beer  *said*   the FBI  *arrested*   Mohamed at the city's airport in the early hours of Thursday morning  as he was about to be deported  for being in the country illegally.The Cape Argus newspaper in Cape Town reported  that a search  has been launched  for accomplices in the region.",
+        "QuestionID": "0",
+        "sentence2": "When did the event *said* happen in relation to the event *arrested*: before, after, simultaneously, or is it vague?",
+        "label": "after",
+        "explanation": "The announcement about the arrest was made only after the arrest was made."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "Clark  *said*   other evidence that prosecutors might present includes  a strand of human hair found  at the wooded firing site that has a ``high likelihood'' of matching  Kopp's hair and testimony from a jogger who spotted  Kopp's car near Slepian's house at 6 a.m. ten days before  the shooting . There also are videotapes of Kopp's car crossing  the Canadian border around  the days  _ in 1994 , 1995  and 1997  _ that three Canadian doctors who  *perform*   abortions were shot  at.",
+        "QuestionID": "0",
+        "sentence2": "When did the event *said* happen in relation to the event *perform*: before, after, simultaneously, or is it vague?",
+        "label": "after",
+        "explanation": "The doctors performed abortions while they were alive; when Clark said this, the doctors were long since dead."
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "The State Department, which does not want  to see  Kenya and Tanzania punished economically as a result of terrorist attacks  that were clearly  *targeted*   at the United States, has lifted  dire travel warnings issued  just the bombings  that  *urged*   Americans to stay away from the two countries.",
+        "QuestionID": "0",
+        "sentence2": "When did the event *targeted* happen in relation to the event *urged*: before, after, simultaneously, or is it vague?",
+        "label": "before",
+        "explanation": "The targets of the bombing was predetermined and only after the bombing were Americans urged to stay away from the two countries."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "The North Atlantic Treaty Organization (NATO) has  *decided*   to admit  Poland, Hungary and the Czech Republic in  early March , an official from the organization  *said*  on Wednesday.",
+        "QuestionID": "0",
+        "sentence2": "When did the event *decided* happen in relation to the event *said*: before, after, simultaneously, or is it vague?",
+        "label": "before",
+        "explanation": "The decision to admit was taken before it was communicated during the announcement."
+    }
+]

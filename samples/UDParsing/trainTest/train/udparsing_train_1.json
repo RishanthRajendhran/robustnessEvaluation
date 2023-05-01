@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "1_answers-20111106210027AAhMxfE_ans-0010",
+        "sentence1": "Sentence: Drop *by* my house, I can get you some real cheap.",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *by* in the sentence?",
+        "label": "Drop",
+        "explanation": ""
+    },
+    {
+        "PassageID": "1_reviews-356361-0002",
+        "sentence1": "Sentence: A very well established service *with* a satisfying outcome.",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *with* in the sentence?",
+        "label": "service",
+        "explanation": ""
+    },
+    {
+        "PassageID": "1_answers-20111108024148AAO8oFI_ans-0008",
+        "sentence1": "Sentence: Yes storage for your luggages is still available *at* Gare Montparnasse.",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *at* in the sentence?",
+        "label": "available",
+        "explanation": ""
+    },
+    {
+        "PassageID": "1_reviews-140302-0003",
+        "sentence1": "Sentence: The paint and wheels looked *like* glass and the interior looked new!",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *like* in the sentence?",
+        "label": "looked",
+        "explanation": ""
+    },
+    {
+        "PassageID": "1_newsgroup-groups.google.com_AlexandrianReligiousStudies_ebcd97e243c4440b_ENG_20051021_201800-0002",
+        "sentence1": "Sentence: So please update whatever you need to and go *to*",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *to* in the sentence?",
+        "label": "update",
+        "explanation": ""
+    },
+    {
+        "PassageID": "1_reviews-369957-0001",
+        "sentence1": "Sentence: beware they will rip u *off*",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *off* in the sentence?",
+        "label": "beware",
+        "explanation": ""
+    },
+    {
+        "PassageID": "1_answers-20101109081414AAZ3hSI_ans-0001",
+        "sentence1": "Sentence: What kind *of* Meal do peopel in Argentina have?",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *of* in the sentence?",
+        "label": "kind",
+        "explanation": ""
+    },
+    {
+        "PassageID": "1_reviews-308297-0003",
+        "sentence1": "Sentence: They offer a good portions *at* a great price, it 's enough food to fill you up, but you don't ever feel like you ate too much.",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *at* in the sentence?",
+        "label": "offer",
+        "explanation": ""
+    },
+    {
+        "PassageID": "1_newsgroup-groups.google.com_AlaskaTheLastFrontier_4709a6627e811b2a_ENG_20050530_201400-0001",
+        "sentence1": "Sentence: Dan I *for* one was very happy to hear about your quitting smoking.",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *for* in the sentence?",
+        "label": "happy",
+        "explanation": ""
+    }
+]

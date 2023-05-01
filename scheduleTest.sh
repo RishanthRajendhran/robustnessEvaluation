@@ -1,6 +1,6 @@
 #!/bin/bash
-#SBATCH --account marasovic-gpu-np
-#SBATCH --partition marasovic-gpu-np
+#SBATCH --account soc-gpu-np
+#SBATCH --partition soc-gpu-np
 #SBATCH --ntasks=32
 #SBATCH --nodes=1
 #SBATCH --gres=gpu:a100:1
@@ -8,14 +8,15 @@
 #SBATCH --mem=128GB
 #SBATCH -o outputs-%j
 
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:../miniconda3/lib
-
 ISTRAINDIR=false
 ISTESTDIR=false
 MODELSIZE="xxl"
 SELFCONSISTENCY=false
+TRAINPATT=".*/.*\\.json"
+TESTPATT=".*/.*\\.json"
+NOCOT=false
 
-while getopts 'a:b:c:d:efg:h:i' opt; do
+while getopts 'a:b:c:d:efg:h:ij:k:l' opt; do
   case "$opt" in
     a)   PROMPTTYPE="$OPTARG"   ;;
     b)    BESTPROMPTTYPE="$OPTARG"   ;;
@@ -26,6 +27,9 @@ while getopts 'a:b:c:d:efg:h:i' opt; do
     g)  DATASET="$OPTARG"   ;;
     h)  MODELSIZE="$OPTARG"   ;;
     i)   SELFCONSISTENCY=true     ;;
+    j)   TRAINPATT="$OPTARG"     ;;
+    k)   TESTPATT="$OPTARG"     ;;
+    l)   NOCOT=true     ;;
     *) echo "Unexpected option: $1 - this should not happen."
        usage ;;
   esac
@@ -64,38 +68,71 @@ fi
 # echo "isTestDir = $ISTESTDIR"
 # echo "Dataset = $DATASET"
 
+export PYTHONPATH=/scratch/general/vast/u1419542/miniconda3/envs/flant5Env/bin/python
 source /scratch/general/vast/u1419542/miniconda3/etc/profile.d/conda.sh
-conda activate /scratch/general/vast/u1419542/miniconda3/envs/flant5Env
+conda activate flant5Env
 
 # wandb disabled 
 # mkdir /scratch/general/vast/u1419542/huggingface_cache
 export TRANSFORMERS_CACHE="/scratch/general/vast/u1419542/huggingface_cache"
 if [ "$ISTRAINDIR" = true ] ; then 
     if [ "$ISTESTDIR" = true ] ; then
-        if [ "$SELFCONSISTENCY" = true ] ; then 
-            python3.9 test.py -selfConsistency -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir -isTestDir ;
+        if [ "$SELFCONSISTENCY" = true ] ; then
+            if [ "$NOCOT" = true ] ; then 
+                python3 test.py -noCoT -selfConsistency -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir -isTestDir -trainPattern $TRAINPATT -testPattern $TESTPATT;
+            else 
+                python3 test.py -selfConsistency -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir -isTestDir -trainPattern $TRAINPATT -testPattern $TESTPATT;
+            fi ;
         else 
-            python3.9 test.py -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir -isTestDir ;
+            if [ "$NOCOT" = true ] ; then
+                python3 test.py -noCoT -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir -isTestDir -trainPattern $TRAINPATT -testPattern $TESTPATT;
+            else 
+                python3 test.py -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir -isTestDir -trainPattern $TRAINPATT -testPattern $TESTPATT;
+            fi ;
         fi ;
     else 
         if [ "$SELFCONSISTENCY" = true ] ; then
-            python3.9 test.py -selfConsistency -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir ;
+            if [ "$NOCOT" = true ] ; then
+                python3 test.py -noCoT -selfConsistency -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir -trainPattern $TRAINPATT;
+            else 
+                python3 test.py -selfConsistency -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir -trainPattern $TRAINPATT;
+            fi ;
         else
-            python3.9 test.py -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir ;
+            if [ "$NOCOT" = true ] ; then
+                python3 test.py -noCoT -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir -trainPattern $TRAINPATT;
+            else 
+                python3 test.py -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTrainDir -trainPattern $TRAINPATT;
+            fi ;
         fi ;
     fi ;
 else 
     if [ "$ISTESTDIR" = true ] ; then 
         if [ "$SELFCONSISTENCY" = true ] ; then
-            python3.9 test.py -selfConsistency -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTestDir ;
+            if [ "$NOCOT" = true ] ; then
+                python3 test.py -noCoT -selfConsistency -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTestDir -testPattern $TESTPATT;
+            else 
+                python3 test.py -selfConsistency -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTestDir -testPattern $TESTPATT;
+            fi ;
         else
-            python3.9 test.py -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTestDir ;
+            if [ "$NOCOT" = true ] ; then
+                python3 test.py -noCoT -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTestDir -testPattern $TESTPATT;
+            else 
+                python3 test.py -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST -isTestDir -testPattern $TESTPATT;
+            fi ;
         fi ;
     else
         if [ "$SELFCONSISTENCY" = true ] ; then 
-            python3.9 test.py -selfConsistency -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST ;
+            if [ "$NOCOT" = true ] ; then
+                python3 test.py -noCoT -selfConsistency -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST ;
+            else 
+                python3 test.py -selfConsistency -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST ;
+            fi ;
         else 
-            python3.9 test.py -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST ;
+            if [ "$NOCOT" = true ] ; then
+                python3 test.py -noCoT -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST ;
+            else 
+                python3 test.py -modelSize $MODELSIZE -dataset $DATASET -promptType $PROMPTTYPE -bestPromptType $BESTPROMPTTYPE -train $TRAIN -test $TEST ;
+            fi ;
         fi ;
     fi ;
 fi

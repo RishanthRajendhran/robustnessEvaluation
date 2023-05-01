@@ -1,0 +1,90 @@
+PassageID: 0
+Passage: Perspective: All high schools accepting state funding should accept military recruiters once a year
+
+Questions:
+QuestionID: 0
+Question: Claim: It should be allowed to have military recruitment in schools. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: supports
+Explanation: 
+
+--------------------------------------------------
+PassageID: 1
+Passage: Perspective: Development from within
+
+Questions:
+QuestionID: 0
+Question: Claim: Nollywood could be an effective instrument to change perceptions of Africa. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: supports
+Explanation: 
+
+--------------------------------------------------
+PassageID: 2
+Passage: Perspective: The loss of funding would destabilise and radicalise Palestine.
+
+Questions:
+QuestionID: 0
+Question: Claim: The EU, USA and other western donors should not fund any Palestinian government in which terrorist organisations participate. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: undermines
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3
+Passage: Perspective: It  sanctions and encourages 'Islamophobic' panics and promotes the excessive 'securitisation' of the globe
+
+Questions:
+QuestionID: 0
+Question: Claim: Hosting the Olympic Games is beneficial. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: undermines
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4
+Passage: Perspective: Terrorism is relative
+
+Questions:
+QuestionID: 0
+Question: Claim: Terrorism can be justified. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: supports
+Explanation: 
+
+--------------------------------------------------
+PassageID: 5
+Passage: Perspective: The United Nations has a responsibility to prevent genocide and mass atrocities.
+
+Questions:
+QuestionID: 0
+Question: Claim: The United Nations has a responsibility to protect. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: supports
+Explanation: 
+
+--------------------------------------------------
+PassageID: 6
+Passage: Perspective: people have the right to smoke
+
+Questions:
+QuestionID: 0
+Question: Claim: Smoking should be banned in public places. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: undermines
+Explanation: 
+
+--------------------------------------------------
+PassageID: 7
+Passage: Perspective: High Speed Rail is Better Than Air Travel
+
+Questions:
+QuestionID: 0
+Question: Claim: Create a National High Speed Rail System in the U.S. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: supports
+Explanation: 
+
+--------------------------------------------------
+PassageID: 8
+Passage: Perspective: Freedom of speech
+
+Questions:
+QuestionID: 0
+Question: Claim: Social disgust is legitimate grounds for restriction of artistic expression. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: undermines
+Explanation: 
+
+--------------------------------------------------

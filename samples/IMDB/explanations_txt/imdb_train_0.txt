@@ -1,0 +1,90 @@
+PassageID: 0
+Passage: "Garde à Vue has to be seen a number of times in order to understand the sub-plots it contains. If you're not used to french wordy films, based upon conversation and battle of wits rather than on action, don't even try to watch it. You'll only obtain boredom to death, and reassured opinion that french movies are not for you.<br /><br />Garde à Vue is a wordy film, essentially based upon dialogs (written by Audiard by the way)and it cruelly cuts the veil of appearances.<br /><br />Why does Maître Martineau (Serrault) prefer to be unduly accused of being a child murderer rather than telling the truth ? Because at the time of the murder he was with a 18 years old girl with which he has a 8-years sexual relation. His wife knows it, she's jealous of it and he prefers to be executed (in 1980 in France, there was still death penalty)rather than unveiling the sole ""pure and innocent"" aspect of his pitiful life."
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Positive
+Explanation: The reviewer describes the movie to be complex, one where the audience need to pay close attention to the dialogues and not just visuals to understand the nuanced story.
+
+--------------------------------------------------
+PassageID: 1
+Passage: This movie is one of the sleepers of all time. I gave it a 10 rating. The story is of the famed 'Bushwhackers' out of Missouri that fought on the side of the South during the War Between the States. The clothing they wore were authentic, the history and why they fought is very accurate and well researched. There was actually one of the battles that did not take place as they depicted... but not bad for Hollywood. The actors were well cast and were either the most brilliant of actors or the director really know how to get the best from them. I suspect it was a combination of great directing, super casting to find the right people and excellent performing by the actors. Not just one or two... this movie really jelled! It has action, romance, suspense, good guys and bad guys (sometimes depending on your individual perspective) and history all rolled into one movie. Even has the future Spiderman and Jewel. And she's good!
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Positive
+Explanation: The reviewer found the movie wholesome. They also felt that the casting was perfect and the director did a very good job.
+
+--------------------------------------------------
+PassageID: 2
+Passage: "This, and Immoral Tales, both left a bad taste in my mouth. It seems to me that Borowczyk is disgusted by sex, and these two films are cautionary tales about what will happen if you do have sex. As a film, it's not very well done -- some of the acting is truly epically bad (such as the ""American"" woman with the French accent). The young woman's sudden flip-flop from being anxious about the marriage to being interested (when it seems like it should have been the other way around), and the aunt's sudden realization of the young man's secret don't make sense -- they're not explained at all. I also didn't like how the daughter's relationship with a black man was presented as a sign of her family's perversion or predilection for bestiality. The central idea, the idea that there's this ""sexy beast,"" if you will, that lives in the woods, could have been a foundation for a perverse but fun story, but instead is just used as a basis for a nasty, sex-negative, morality play."
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Negative
+Explanation: The reviewer found the movie distasteful and acting to be terrible.
+
+--------------------------------------------------
+PassageID: 3
+Passage: I bought this at tower records after seeing the info-mercial about fifteen hundred times on comedy central. I was actually really looking forward to watching this. My god where did i go wrong? Now before i give my review let me just say that i am a person who can pretty much find the good in all movies, hell i own over 1,500 dvd's! With that said, the underground comedy movie ranks up there with the worst film i have EVER seen. I tried to give it a chance, but not only was it not funny. It had no point, did not offend what-so-ever and was all around stupid. God who in their right mind thought these pieces of crap were funny? this is going right to the bottom of the bin...
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Negative
+Explanation: The reviewer ranks this movie to be the worst film they have ever seen as they found the plot to be pointless.
+
+--------------------------------------------------
+PassageID: 4
+Passage: One of the great classic comedies. Not a slapstick comedy, not a heavy drama. A fun, satirical film, a buyers beware guide to a new home.<br /><br />Filled with great characters all of whom, Cary Grant is convinced, are out to fleece him in the building of a dream home.<br /><br />A great look at life in the late 40's.<br /><br />
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Positive
+Explanation: The reviewer found the characters enjoyable and regarded it as a great classic comedy.
+
+--------------------------------------------------
+PassageID: 5
+Passage: I saw this in the summer of 1990. I'm still annoyed by how bad this movie is in 2001.<br /><br />Implausible plot. You'd have to be a child to think this could happen.<br /><br />I'm just really annoyed by it. Don't see this.
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Negative
+Explanation: The reviewer found the movie bad due to its implausible plot.
+
+--------------------------------------------------
+PassageID: 6
+Passage: "Well, what can you say about a Barbara Cartland adaptation?<br /><br />There are some amazing actors in this (Oliver Reed, Sarah Miles, Christopher Plummer) but they clearly are clocking up the money.<br /><br />Lysette Anthony and Marcus Gilbert have appeared in two other Cartland epics - Anthony with Hugh Grant (who looks suitably embarrassed) and Gilbert with Helena Bonham Carter.<br /><br />If you really want to see a ""watchable"" adaptation of Cartland, the Bonham Carter one is the one to go for (""A Hazard of Hearts"" - what a title!!). Gilbert is the weak link in that, but Bonham Carter is suitably beautiful and of course can actually act, and the rest of the cast play it to the hilt with tongues firmly in cheek (Edward Fox & Diana Rigg)"
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Negative
+Explanation: The reviewer was unimpressed with the acting and felt that this adaptation was not even watchable.
+
+--------------------------------------------------
+PassageID: 7
+Passage: What a GREAT movie! This is so reminiscent of the wonderful Disney classic family movies of the 60's and the 70's. I was so pleasantly surprised, after the past 20 years of absolute detritus Disney's live productions crews have churned out.<br /><br />This movie is an absolute joy. The child stars were just that; professional, quality actors. I am most impressed with the quality of this movie.<br /><br />Sigourney Weaver was a total sycophantic *insert hyperbole here* running a prison camp for wayward boys. Siobhan Fallon was wonderful as the star's mother.<br /><br />I won't recant the story here as there is little point in doing that yet again, but the story is wonderful, the direction was extraordinary and the acting quality was superb! This work reminds you what it's like to be a child, without going all sugary or being too grim. The deleted scenes featured on the DVD version were truly best left deleted. They were too harsh for this movie and would have taken so much from it. While the abuse was hinted in the finished product, it was not outright shown beyond a certain extent. It was best that way.<br /><br />This was an absolutely delightful movie to watch.<br /><br />It gets a 9/10 from...<br /><br />the Fiend :.
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Positive
+Explanation: The reviewer was thoroughly impressed with the movie and the actors. They call it an absolute delight to watch.
+
+--------------------------------------------------
+PassageID: 8
+Passage: Diana Muldaur appears on Star Trek for the second time, but this time as a different character. No one on board seems to notice--maybe it was the hair. Regardless, this time she is not the receptacle for a god (see the previous episode) but is a very famous lady with magical powers that enable her to communicate and see a Medusan without going crazy (the standard human response). Unfortunately, the man that is most in love with her is a few cards short of a full deck and he tries to kill the Medusan ambassador (who, oddly, lives in a small crate--this is a lousy way to travel). And, unfortunately, Muldayr isn't wound all that well herself. What happens next is kind of dumb and by the time the episode was over the first time I saw it, I was pretty relieved. Watching all the men on board go ga-ga over Muldaur was pretty silly and the acting of Spock when he briefly went crazy was pretty campy. Do yourself a favor--if you haven't seen the show before, pick a different episode.
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Negative
+Explanation: The reviewer found the screenplay dumb and suggested that the episode be given a miss.
+
+--------------------------------------------------

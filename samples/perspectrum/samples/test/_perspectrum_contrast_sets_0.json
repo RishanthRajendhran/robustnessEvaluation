@@ -1,0 +1,2688 @@
+[
+    {
+        "original_claim": "should cheaters be given a second chance",
+        "contrast_claim": "cheaters do not deserve a second chance",
+        "perspectives": [
+            {
+                "perspective": "I would just be so upset that that guy cheated and stole that moment away from me.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Given the science of anti-doping today, and the complexity of these cases, I'd argue that you simply cannot make this decision, and if your punishment option is to hand out a lifetime ban, I'd argue that you're far less likely to find dopers guilty when presented with this defence!",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "It's just too harsh \u2013 you would not find this kind of extreme requirement in any other profession.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "A second playoff for a lower-tier college football championship may be a slippery slope.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "There is no time to hold a second referendum",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The media should not be controlled by a celebrity",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It doesn't maybe mean that you are a horrible person and that you should be ostracised by your community, but it should mean that you are never allowed to compete again.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The corollary is that a negative doping test also does not mean you're not doping, but this is a mindset that I think many have yet to recognize!",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "And sadly, the science is, as of this moment, not able to provide those guarantees, and there is always some doubt if an athlete wants to contest the origin of a doping positive.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Marriage should be between a man and a woman",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Positive dope tests are not always the result of cheating, even if they're true",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "And thankfully I don't think I have competed against someone who has tested positive.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "This is basic economics \u2013 disincentivize doping through increased probability of being caught and harsher punishment when caught.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Pre-nuptial agreements constitutes a serious chance of abuse",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "I believe authoritarian regimes are better for minorities in the middle east. .",
+        "contrast_claim": "I believe authoritarian regimes hurt minorities in the middle east.",
+        "perspectives": [
+            {
+                "perspective": "It Harms Ethnic Minorities",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The remaining countries of the Middle East are categorized as authoritarian regimes, with the lowest scores held by Saudi Arabia and Yemen.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "I know it's bad for me.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Alternatives are better",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "There are a number of pro-democracy movements in the Middle East.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Does not provide guarantees for the protection of other Russian minorities",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The 'Middle Way' has international support",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "A prominent figure in this movement is Saad Eddin Ibrahim who advocates and campaigns for democracy in Egypt and the wider region, working with the Ibn Khaldun Centre for Development Studies[17] and serving on the Board of Advisors for the Project on Middle East Democracy.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Freedom House categorizes Israel and Tunisia as \"Free\".",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "score Freedom",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The 1957 Eisenhower Doctrine was the beginning of a policy of American democracy promotion in the Middle East and North Africa (MENA), leading, for example, to American intervention on behalf of the democratically elected government in the 1958 Lebanon crisis.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "liberties Regime",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It is better for them in the long run",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "in the long run children are better off with rules and restrictions",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "I believe that if you are in the military, you shouldn't be allowed to smoke or drink.",
+        "contrast_claim": "Smoking and drinking should be allowed in the military.",
+        "perspectives": [
+            {
+                "perspective": "You should be able to smoke in public.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "If I choose to go somewhere, I should be allowed to smoke there.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "A smoker should be allowed to smoke in any place that they have a choice to go to.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "If you ban it, you have to ban everything else",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "If you can fight for your country in Iraq, why can't you have a beer?",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "If you can die for your country, you should be trusted to drink.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "If you can drive a lethal weapon (moterized vehicle) why cant you drink?",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Disco night in Deanos Bar on the Falkland Islands.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Students will have more choices if military recruiters are able to be allowed in schools.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Falkland oil exploration.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Neither he nor I are asking the question you insist on answering.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "I am sure it would have been really hard and I wouldn\u2019t have done half of the things I have now.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "You may drink cold tea after you have been out in the sun, or sweating after exercise.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "In The Straw Giant: Triumph and Failure\u2014America's Armed Forces (1986) he defined this as \"the less-than-amicable separation of the military from the financial, business, political, and intellectual elites of this country, particularly from the last two.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should uniforms be worn at school",
+        "contrast_claim": "should uniforms be banned at school",
+        "perspectives": [
+            {
+                "perspective": "School uniforms prevent the display of gang colors and insignia.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Some people believe that a school uniform can improve learning by reducing distraction, sharpening focus on schoolwork and making the classroom a more serious environment, allowing students to perform better academically.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "School uniforms may deter crime and increase student safety.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Potential bullies have one less target for their insults; it\u2019s hard to make fun of what someone is wearing when you\u2019re dressed exactly the same.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Perhaps most importantly, a uniform means students don\u2019t have to worry about peer pressure when it comes to their clothes.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "A school uniform teaches students to dress smartly and take pride in their appearance.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Wearing uniforms enhances school pride, unity, and community spirit.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "School uniforms create a level playing field among students, reducing peer pressure and bullying.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "School uniforms may improve attendance and discipline.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Howlette says: \u201cUniforms help students to prepare for when they leave school and may have to dress smartly or wear a uniform.\u201d",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "School uniforms emphasize the socio-economic divisions they are supposed to eliminate.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "School uniforms promote conformity over individuality.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "School uniforms do not stop bullying and may increase violent attacks.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "School uniforms make getting ready for school easier, which can improve punctuality.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            }
+        ]
+    },
+    {
+        "original_claim": "It's not racist to say that you would never date a black / asian / white (etc) person because we're entitled to ANY sexual preference without prejudices.",
+        "contrast_claim": "It's racist to say that you would never date a black / asian / white (etc) person because we're entitled to ANY sexual preference without prejudices.",
+        "perspectives": [
+            {
+                "perspective": "Where will you get the chance to say what you really mean?",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "You won't get any.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It would never work",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "LGBT publications are guilty too.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "There are some things you simply never want to say at work.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "We're not free to report as we should anymore.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Shangela, an actor, tells me that racism from the LGBT community \u201churts more because it\u2019s coming from people that I\u2019m meant to share a kinship with\u201d.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The rainbow flag is whiter than it appears.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Indians are not my type.\u201d",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "As Rodriguez puts it, seeing dating app profiles rejecting entire ethnic groups causes \u201cinternalised racism, decreased self-esteem and psychological distress.\u201d",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "\u201cThe gay media is completely whitewashed.\u201d",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Because you can play golf without breaking a sweat, and drink and smoke while doing it,  it is not a sport.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "And then there\u2019s the other side of the equation: objectification.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Racism is a serious problem within the LGBT community and needs to be addressed.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "I believe Terrorists have a right to a fair trial",
+        "contrast_claim": "Terrorists do not deserve a fair trial",
+        "perspectives": [
+            {
+                "perspective": "Juries need to have all the information possible in order to reach a fair verdict.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "As a minimum the right to fair trial includes the following fair trial rights in civil and criminal proceedings:[2]",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "In the United States the right to a fair trial is sometimes illusory.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "All individuals, including politicians, have a basic right to privacy.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The right to a fair trial has been defined in numerous regional and international human rights instruments.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The European Court of Human Rights and the Inter-American Court of Human Rights have clarified that the right to a fair trial applies to all types of judicial proceedings, whether civil or criminal.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The right to equality before the law is sometimes regarded as part of the right to a fair trial.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The right to a fair trial is also enshrined in articles 5, 6 and 7 of the European Convention on Human Rights and articles 2 to 4 of the 7th Protocol to the Convention.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Trial by jury is a fundamental right and should never be abridged.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The right to a fair trial is enshrined in articles 3, 7 and 26 of the African Charter on Human and Peoples' Rights (ACHPR).",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Both the European Court of Human Rights and the Inter-American Court of Human Rights have clarified that the right to a fair trial applies not only to judicial proceedings, but also administrative proceedings.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Fair trial rights [ edit ]",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "In Europe special proceeding may also be subject to Article 6 of the European Convention on Human Rights.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The right to a fair trial is furthermore enshrined in articles 3, 8, 9 and 10 of the American Convention on Human Rights.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            }
+        ]
+    },
+    {
+        "original_claim": "There is no productive reason to have, \"Under God\" in the US Pledge of Allegiance and, \"In God We Trust\" on the dollar bill.",
+        "contrast_claim": "It is essential to have, \"Under God\" in the US Pledge of Allegiance and, \"In God We Trust\" on the dollar bill.",
+        "perspectives": [
+            {
+                "perspective": "\u201cUnder God\u201d is part of American tradition and history",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Removing under god would promote religious tolerance",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Keeping the word \"God\" in the please of allegiance discriminates against those who do not believe in God.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "There is evidence that god exists.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The Bible says God created the world",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "This is why we believe in God: -",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Science can support the existance of God",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The US had to take action in the circumstances under War Powers.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Life is ridiculous without a God.  Belief in God is the only sane thing we discuss.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "It's not a statement about orthodox religious dogma but it does imply a broadly shared moral worldview.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The introduction to the article claims \"support for Judeo-Christian values\".",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Children should not be forced to pledge allegiance until they understand all the ramifications of such a pledge.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "our lives belong to god",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "If there were a God there would be irrefutable evidence of His existence and people would feel compelled to belief by the fact of it:",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            }
+        ]
+    },
+    {
+        "original_claim": "should active euthanasia be legalized worldwide",
+        "contrast_claim": "Active euthanasia should be banned worldwide",
+        "perspectives": [
+            {
+                "perspective": "To deny this right is to prolong the suffering for individuals and families, something that I can simply not condone.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The goals of the medical profession should continue to remain one of saving lives but this should not be at the expense of compassion and a terminally ill individual's right to choose to end his or her life and die with dignity.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "To allow a terminally ill individual to end their life is the only humane, rational and compassionate choice.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Many people are opposed to legislation that would allow \"end of life\" choices.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The ability of the wealthy to travel to countries where it is lawful for the terminally ill to end their lives has the discriminatory impact of treating the haves and have-nots unequally.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "\u2022 The patient must be terminally ill.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Medical science allows us to control death, suicide and euthanasia are sensible corollaries to that.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "In conclusion, the only humane choice is to allow individuals who are suffering to choose to end their suffering.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Efforts to change government policies on euthanasia of humans in the 20th and 21st centuries have met limited success in Western countries.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "Men should sit down to urinate in any private restroom.",
+        "contrast_claim": "Men should be allowed to stand while peeing in private restrooms.",
+        "perspectives": [
+            {
+                "perspective": "The toilet seat functions as a comic standby for sight gags relating to toilet humor.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Advocates claim that they allow the toilet to be used as a more comfortable seat and provide another way of decorating a bathroom, while critics view them as a sanitation problem which creates unnecessary work.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Toilet seats often have a lid.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Some seats are made of various types of wooden materials, like oak or walnut, and others are made soft for added comfort.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The issue of men leaving the seat up or putting it back down after use (particularly for the benefit of women), is a perennial topic of discussion and light humor; with it often being argued that leaving the toilet seat up is more efficient for men, but putting it down is more considerate of women.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "A hinged unit consisting of a round open seat which is bolted onto the bowl of a toilet used in a sitting position",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The seat is generally lifted when a man stands to urinate, or while cleaning the toilet.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The purpose for this seat design is to prevent genitals contacting the seat.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Special hinges provide resistance, allowing the seat to lower slowly.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "A toilet seat consists of the seat itself, which may be contoured forum the user to sit on, and the lid, which covers the toilet when it is not in use \u2013 the lid may be absent in some cases, particularly in public restrooms.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Toilet seats are manufactured in a range of different styles and colors, and they may be furnished matching the style of the toilet itself.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The price of toilet seats varies quite considerably.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "A seatless toilet has no toilet seat.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "Cloth car seats are better than leather",
+        "contrast_claim": "Leather car seats are better than cloth.",
+        "perspectives": [
+            {
+                "perspective": "Better car and medical technology has saved lives, not cameras",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "There are better, more sustainable options available.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Iron from meat is often cited as better than vegetables.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Cameras don't save lives, better car and medical technology do,",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Under these conditions Presstoff tends to delaminate and lose cohesion.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "A fermentation method of making collagen, the main chemical in real leather, is under development.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It is better to save lives than stand idly by.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Patients will be better informed than under the status quo",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Clothing and fabric uses [ edit ]",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Other methods of justice work far better than rehabilitation",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "But some are worse than others.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "State resources could be better used in areas other than supporting free university education",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Despite sometimes numerous hardware issues, Macs continue are better than PCs for many reasons",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Many different methods for the manufacture of imitation leathers have been developed.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "Iran getting an atomic bomb would help stabilize the Middle East",
+        "contrast_claim": "Iran getting an atomic bomb would endanger the stability of the Middle East",
+        "perspectives": [
+            {
+                "perspective": "Iran's nuclear program was launched in the 1950s with the help of the United States as part of the Atoms for Peace program.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "A peaceful negotiation would have been a better option than setting off atomic bombs.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "These were lifted under the 2015 accord in return for Tehran curbing nuclear activity of potential use in developing an atomic bomb.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "the continuation of the war without the nuclear bomb would have been much costlier",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The nuclear program of Iran has included several research sites, two uranium mines, a research reactor, and uranium processing facilities that include three known uranium enrichment plants.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It is not required to bomb large cities.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The continuation of a conventional war would have been much costlier than an atomic attack",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "There are voices which assert that the bomb should never have been used at all.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "As of 2015, Iran's nuclear program has cost $100 billion in lost oil revenues and lost foreign direct investment because of international sanctions ($500 billion, when including other opportunity costs).",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Moral Authority needed to combat a nuclear Iran",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Iran's first nuclear power plant, the Bushehr I reactor, was completed with major assistance from the Russian government agency Rosatom and officially opened on 12 September 2011.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should happiness be the purpose of life",
+        "contrast_claim": "Happiness should not be the purpose of life.",
+        "perspectives": [
+            {
+                "perspective": "\u201cIt\u2019s all very well to think the meaning of life is happiness, but what happens when you\u2019re unhappy?",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "\u201c\u2018Happiness\u2019 is a pointless goal.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "This fits in with his claim that you must pursue proper meaning rather than happiness.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Not enough sources for life to be supported.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "We must not forget, says Peterson, that we are corrupt and pathetic , and capable of great malevolence.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Children should work because a job teaches valuable life skills.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Religion offers a life purpose to people.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Family life will be strengthened during a shared day of Sabbath",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Everyone should have the resources to live a healthy, productive life.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The outcome of the Palestinian elections should not be rewarded with aid.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Artefacts should be accessible to the largest amount of visitors possible",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "His YouTube videos have had 35m views.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It\u2019s just not going to do the job.\u201d",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "So if we are all monsters, how are we to be saved?",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "I think that \"bodily autonomy\", by itself, is a horrible reason to justify abortion. .",
+        "contrast_claim": "Bodily autonomy is a good justification to abortion.",
+        "perspectives": [
+            {
+                "perspective": "Abortion promotes a culture in which human life is disposable.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "They shouldn\u2019t have to justify wanting bodily autonomy.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Abortion could be a potential detriment to society.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "I think they should have these rights.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Abortion is justified as a means of population control.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The US Supreme Court has declared abortion to be a \"fundamental right\" guaranteed by the US Constitution.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "I hold that it is an excellent thing for a doctor to practise forecasting.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Provides autonomy for developing countries",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Mary Anne Warren, in her article arguing for the permissibility of abortion,[2] holds that moral opposition to abortion is based on the following argument:",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Participation Is Good In Itself",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Abortion is unconstitutional.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The view that abortion should in most or all circumstances be legal generally rests on the claims: (1) that women have a right to control what happens in and to their own bodies; (2) that abortion is a just exercise of this right; and (3) that the law should not criminalize just exercises of the right to control one's own body and its life-support functions.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "I think the right to receive publications is such a fundamental right.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Religion gives people a reason to live",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should there be an ethics to technology",
+        "contrast_claim": "should there be no ethics boundaries to technology",
+        "perspectives": [
+            {
+                "perspective": "In the latter case, the ethics of technology quickly break down into the ethics of various human endeavors as they are altered by new technologies.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Technoethics involves the ethical aspects of technology within a society that is shaped by technology.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Lastly,we should also remember that ethic's is a very broadly defined term which is incompetent to influence something as fast changing and ever improving field as technology.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Technoethical perspectives are constantly in transition as technology advances in areas unseen by creators, as users change the intended uses of new technologies.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Technoethics views technology and ethics as socially embedded enterprises and focuses on discovering the ethical use of technology, protecting against the misuse of technology[2], and devising common principles to guide new advances in technological development and application to benefit society.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "It is often held that technology itself is incapable of possessing moral or ethical qualities, since \"technology\" is merely tool making.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Whether merely a lifeless amoral 'tool' or a solidified embodiment of human values \"ethics of technology\" refers to two basic subdivisions:-",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The ethics involved in the development of new technology\u2014whether it is always, never, or contextually right or wrong to invent and implement a technological innovation.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The short term and longer term ethical considerations for technologies do not just engage the creator and producer but makes the user question their beliefs in correspondence with this technology and how governments must allow, react to, change, and/or deny technologies.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Using theories and methods from multiple domains, technoethics provides insights on ethical aspects of technological systems and practices, examines technology-related social policies and interventions, and provides guidelines for how to ethically use new advancements in technology.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Technoethics [ edit ]",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "There is no need for an AU force",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Technology is ready and available and proven to be robust",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Technology is available",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "I believe research into Artificial Intelligence should be banned much like Nuclear Weapon technology.",
+        "contrast_claim": "Unlike Nuclear Weapon technology, I believe research into Artificial Intelligence should be encouraged.",
+        "perspectives": [
+            {
+                "perspective": "Given these concerns about the effectiveness of blanket bans, I believe that AI researchers should instead be thinking of more proactive technical solutions to ameliorate potential misuses of AI technologies.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Doing so could mean that we are asking too much of technology",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Should one military power start developing systems capable of selecting targets and operating autonomously without direct human control, it would start an arms race similar to the one for the atom bomb, the authors argue.Unlike nuclear weapons, however, AI requires no specific hard-to-create materials and will be difficult to monitor.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The authors argue that AI can be used to make the battlefield a safer place for military personnel, but that offensive weapons that operate on their own would lower the threshold of going to battle and result in greater loss of human life.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Apart from the difficulty of pinning down exactly what the ban entails for states that want to follow it \u2013 is the ban against autonomy or intelligence?",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Misuses of it can thus be as hard to control by fiat and bans \u2013 as with cyber warfare, for example.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Smoking shouldnt be banned",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "This would render such bans at best a pyrrhic victory for the proponents of peace, and at worst entail the ironic and unintended effect of tying the hands of the \u201cgood actors\u201d behind their backs, while doing little to stop the bad ones.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Given these significantly lower barriers to entry, even if the UN and some constituent states agreed to a ban, it is far from clear that it would stop other rogue state and non-state actors from procuring and deploying such technology for malicious purposes.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "If I choose to go somewhere, I should be allowed to smoke there.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Countries need to design nuclear devices to adapt with changing defensive technology.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "I am gratified that my colleagues are volunteering their efforts to ensure beneficial uses of artificial intelligence (AI) technology.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Adverts create funding to enable research into better drugs.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Subbarao Kambhampati is a professor of computer science at Arizona State University, and the president of the Association for the Advancement of Artificial Intelligence.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should an employer be able to fire an employee if the latter is often ill",
+        "contrast_claim": "should an employer be banned from firing an employee if the latter is often ill",
+        "perspectives": [
+            {
+                "perspective": "[A]n employer may terminate its employees at will, for any or no reason ... the employer may act peremptorily, arbitrarily, or inconsistently, without providing specific protections such as prior warning, fair procedures, objective evaluation, or preferential reassignment ...",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "If the employer fires the employee in violation of an implied employment contract, the employer may be found liable for breach of contract.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "U.S. states (Blue) without a public policy exception",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The implied-contract theory to circumvent at-will employment must be treated with caution.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Some courts saw the rule as requiring the employee to prove an express contract for a definite term in order to maintain an action based on termination of the employment.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Unions shouldn't be able to strike, since it gives them too much power over their employer.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Teenagers and young adults won't be able to find employment, if minimum wage is increased.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "If made illegal, prostitution will move to an underground black market.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Under the public policy exception, an employer may not fire an employee, if the termination would violate the state's public policy doctrine or a state or federal statute.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "An aggressive move by Labour would be to the left.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "We should be able to protect our homes from intruders",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "In this diagram, the pink states have the 'exception', which protects the employee.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "gays should be able to use thier rights",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The fourteen states having no such exception are:",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should canada lower the voting age",
+        "contrast_claim": "should canada increase the voting age",
+        "perspectives": [
+            {
+                "perspective": "Lowering the voting age would reflect the youthful character of the continent.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "A lower voting age would result in an increase in participation.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "More citizens would participate if the voting age were lowered.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Arguments against lowering the voting age to sixteen include lack of political maturity.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Voting at a lower age would increase participation",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "People between the ages 18 and 70 are required to vote.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Others have argued that instead of lowering the voting age to 16, people under 18 generally don't, or shouldn't pay taxes, and a better solution is for those that don't pay income taxes also not have the right to vote.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The right to drink should have a higher age of initiation because of the dangers posed by drinking.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "An age group should not be the priority of the goverment.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The drinking age should be 21 years of age.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The government should not prioritise one age group over another",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The Justice of Compulsory Voting; 5.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Compulsory voting has been implemented successfully.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "When the right to vote was being established in democracies, the voting age was generally set at 21 or higher.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "original_claim": "A female president wouldn't run a nation as well as a man",
+        "contrast_claim": "A female president would be as good as male preseident.",
+        "perspectives": [
+            {
+                "perspective": "Having women in power makes a real difference.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "If women ruled the world, they would stop being fragile, they would stop being dependent, they would never be the victim, they would never be abused.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "We don\u2019t know what the world would look like if women ruled it, but something\u2019s not working at the moment.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "\u2018Historically, women in power out-men the men\u2019",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The first job of the woman in charge is to liberate the men.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Historically, what we\u2019ve seen is that when women achieve power in a man\u2019s world, they often out-men the men.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Given the challenges of being in charge, you\u2019d think they would be more than happy to hand over the headache and see what difference having women in charge makes.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "I\u2019m not a fan of biological determinism, even when it\u2019s working in women\u2019s favour \u2013 so I\u2019m not sure I subscribe to the idea that women are innately caring and collegiate and men thrusting and ambitious.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "As a tool for cultural integration",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "When women are free and happy, they will know how to rule the world.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "\u2018Women would never be the victim\u2019",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "\u2018Unseen female executives mobilise other women\u2019",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "\u2018Women are taking their rightful place as equals\u2019",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "as soon as a baby is conceived, it is a living being",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should women be allowed to fight on the front line",
+        "contrast_claim": "Should women be banned to fight on the front line",
+        "perspectives": [
+            {
+                "perspective": "The fight for women on the front lines has been a tricky one for feminists who want to support workplace equality for women but disagree with militarism.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Not allowing women on the front line, is discrimination.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "For most of human history, people serving in combat were overwhelmingly male.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "This decision, while opening up job opportunities for women and perhaps putting some of the more nefarious sexism around women in the military behind us, is not a cure-all.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "\u201c[A]s long as they qualify and meet the standards, women will now be able to contribute to our mission in ways they could not before.\u201d Considering women have long been serving and dying on the front lines despite a ban that kept them from career advancement, the move is long overdue.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "But the reasons that have kept women from combat positions for so long are so seeped in sexism it\u2019s near impossible not to throw your support behind women in uniform.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "After years of debate, all jobs in combat units are now open to women.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Perhaps the most misguided of all reasons not to let women serve in combat positions, though, is that they might get raped.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Women comprise nearly one-fifth of the military in France.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "But at the very least, this decision is recognition of the ways that women already serve our country and carves a pathway for them to continue to do so, but with legitimate recognition.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Women must accept the same risks as men if they want to be judged on an equal scale.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "In 2001, Germany opened all combat units to women.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The Australian military began a five-year plan to open combat roles to women in 2011.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The decision comes after a 2012 lawsuit the American Civil Liberties Union filed on behalf of four servicewomen and the Service Women\u2019s Action Network and a 2013 recommendation from former defense secretary Leon Panetta and the Joint Chiefs that lifted the 1994 ban on women in combat.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should scotland go independent",
+        "contrast_claim": "Scotland should not go independent",
+        "perspectives": [
+            {
+                "perspective": "If Scotland were independent then it would have more power in important areas.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Independence would give Scotland clout where it matters",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "An independent Scotland nation-state would give it more influence.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Scotland will be unable to survive economically without England",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "An independent Scotland has enormous economic potential to join other small European nations, especially as a leader in technology and renewable energy",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Scotland has different interests to rUK",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "We believe that the Scottish Parliament should have the right to hold another referendum if there is clear and sustained evidence that independence has become the preferred option of a majority of the Scottish people \u2013 or if there is a significant and material change in the circumstances that prevailed in 2014, such as Scotland being taken out of the EU against our will.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Scotland has a proud history and has demonstrated since devolution different political interests",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Scotland would not be able to survive independently without England.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The referendum on Scottish independence held on 18 September 2014 saw Scotland vote to remain part of the United Kingdom (UK), with 55% voting against the proposal for Scotland to become an independent country and 45% voting in favour.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Though the proposal for Scotland to become an independent country was voted down in 2014, the referendum resulted in the Scottish Parliament gaining additional powers through the Scotland Act 2016, which increased the devolved powers in areas such as taxation and some aspects of welfare provision.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "An independent trust fund discourages investment.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Independent bloggers lack the credibility of newspapers.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Republika Srpska  cannot survive economically as an independent state.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should they pay college athletes",
+        "contrast_claim": "should they ask college athletes to play for free?",
+        "perspectives": [
+            {
+                "perspective": "College sports should be for competition not money.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "This leaves the student without the ability to play or earn an education.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The tragedy at the heart of college sports is not that some college athletes are getting paid, but that more of them are not.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Celebrities, like athletes, enhance the nation\u2019s image and generate revenue",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "When you combine so much money with such high, almost tribal, stakes\u2014football boosters are famously rabid in their zeal to have their alma mater win\u2014corruption is likely to follow.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Educators are in thrall to their athletic departments because of these television riches and because they respect the political furies that can burst from a locker room.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "I\u2019ve been writing about this issue for several years now calling for college athletes to be paid the wages that they deserve and am sad to acknowledge that very little has changed since I was a college athlete at UCLA, so poor that I and most of my teammates could barely scrape by.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The NCAA, in its zealous defense of bogus principles, sometimes destroys the dreams of innocent young athletes.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Protecting young and vulnerable athletes",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Observers on all sides express jumbled emotions about youth and innocence, venting against professional mores or greedy amateurs.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Encouraging future female athletes",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The government shouldn't pay for financial assistance",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The list of scandals goes on.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "Fear over A.I., \"artificial intelligence\" and super-smart computers that could destroy mankind is dramatic hyperbole and fearmongering.",
+        "contrast_claim": "Fear over A.I., \"artificial intelligence\" and super-smart computers that could destroy mankind can be justified.",
+        "perspectives": [
+            {
+                "perspective": "Intelligence agencies use hyperbole when describing threats.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Intelligence is necessary for the safety of the public.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Such disturbance could lead to miscarriage, birth defects, and cancer.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Turkey's political and religious influences could result in backlash.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Multiculturalism means that everyone is the same, and then nobody is happy.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It is possible, however, that a country could be an illiberal democracy.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Intelligence agencies inflate threats.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Ensuring net neutrality represents excessive government regulation and control over business.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Fear of a Backlash Due to Turkey's Political and Religious Influences",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Her symptoms were light and there was no reason to fear for her life.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Books are more durable than computers.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "More vaccines together destroy the immune system",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Hydroelectric dams destroy communities",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Terrorists use our own media to terrify our people and create a climate of fear.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "Philosophy has no tangible value as an academic field of study.",
+        "contrast_claim": "Philosophy does have tangible values as an academic field of study.",
+        "perspectives": [
+            {
+                "perspective": "Philosophers have investigated the criteria by which a scientific theory can be said to have successfully explained a phenomenon, as well as what it means to say a scientific theory has explanatory power.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Philosophies of the particular sciences range from questions about the nature of time raised by Einstein's general relativity, to the implications of economics for public policy.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "In their view, whether theories are true or not is beside the point, because the purpose of science is to make predictions and enable effective technology.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The individual's voice has a much higher perceived value than it has in the past.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Academic work produced by means of public funds belongs to the public",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The idea of the general will is at the heart of Rousseau's philosophy.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "a good option for an un-academic child",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Veganism is a philosophy and way of life and a vegan diet is a part of it.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Philosophy of science is a sub-field of philosophy concerned with the foundations, methods, and implications of science.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Finally, a tradition in continental philosophy approaches science from the perspective of a rigorous analysis of human experience.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "There is no such thing as intellectual property, since you cannot own an idea:",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "This article is about the concept.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "No it has proved opposite.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "One approach is to acknowledge that induction cannot achieve certainty, but observing more instances of a general statement can at least make the general statement more probable.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "Circumcision should not be done to infants.",
+        "contrast_claim": "Circumcision should definitely be done to infants.",
+        "perspectives": [
+            {
+                "perspective": "Circumcision may be used to treat pathological phimosis, refractory balanoposthitis and chronic or recurrent urinary tract infections (UTIs).",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Circumcision is contraindicated in infants with certain genital structure abnormalities, such as a misplaced urethral opening (as in hypospadias and epispadias), curvature of the head of the penis (chordee), or ambiguous genitalia, because the foreskin may be needed for reconstructive surgery.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The circumcision procedure causes pain, and for neonates this pain may interfere with mother-infant interaction or cause other behavioral changes,[33] so the use of analgesia is advocated.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "There are plausible explanations based on human biology for how circumcision can decrease the likelihood of female-to-male HIV transmission.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The positions of the world's major medical organizations range from considering elective circumcision of babies and children as having no benefit and significant risks, to the procedure having a modest health benefit that outweighs small risks.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The finding that circumcision significantly reduces female-to-male HIV transmission has prompted medical organizations serving communities affected by endemic HIV/AIDS to promote circumcision as an additional method of controlling the spread of HIV.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The foreskin extends out from the base of the glans and covers the glans when the penis is flaccid.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "There is strong evidence that circumcision reduces the risk of men acquiring HIV infection in areas of the world with high rates of HIV.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "For infant circumcision, devices such as the Gomco clamp, Plastibell and Mogen clamp are commonly used in the USA.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Removal of the foreskin",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Removal of the foreskin from the human penis",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Male circumcision reduces the risk of HIV infection among heterosexual men in sub-Saharan Africa.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Neonatal circumcision is usually elected by the parents for non-medical reasons, such as religious beliefs or personal preferences, possibly driven by societal norms.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "An estimated one-third of males worldwide are circumcised.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "I think religion has a place in politics.",
+        "contrast_claim": "I think religion should not have a place in politics.",
+        "perspectives": [
+            {
+                "perspective": "People in power who think they've got a personal pipeline to the divine make me nervous.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "So, I don't like the role that religion \u2013 to be specific, Christianity \u2013 plays too often in American politics.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Religion gives people a reason to live",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Most Democrats don't understand that politics is more like religion than it is like shopping.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Practicing your religion is a right, not a priveledge.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "The \u201cgreat secular hope\u201d was that religion would fade out of the political landscape, Spencer writes.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Politics involved in this system put world safety in jeopardy.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Religion is unnecessary.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "It is a mockery of religion.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "There is not a place for religion in public schools.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Spirituality has no place in science.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Celebrities becoming involved in politics can be detrimental to democracy.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Politics should not include the head of the state as in a monarchy.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "No, we weren't created to be a Christian nation, even though the Founding Fathers had Christians in their ranks.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "original_claim": "should the us abolish the estate tax",
+        "contrast_claim": "should the us increase the estate tax",
+        "perspectives": [
+            {
+                "perspective": "The inheritance tax is too much as it is and should be reduced.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Of these deductions, the most important is the deduction for property passing to (or in certain kinds of trust, for) the surviving spouse, because it can eliminate any federal estate tax for a married decedent.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "In addition to the federal estate tax, many states have enacted similar taxes.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The estate tax in the United States is a tax on the transfer of the estate of a deceased person.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The federal estate tax is imposed \"on the transfer of the taxable estate of every decedent who is a citizen or resident of the United States.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Deductions include but are not limited to:",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "If an asset is left to a spouse or a federally recognized charity, the tax usually does not apply.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "[11] Certain deductions from the gross estate\" are allowed to arrive at the \"taxable estate.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Beginning in 2005, inheritance or estate taxes paid to states or the District of Columbia.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Earmarks aren't the best way to spend tax dollars.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The US did not have the right intentions",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The US' intentions were wrong.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It was illegal for the US to act.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Those able to pay more should pay more into the tax system",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "original_claim": "should school teach children how to cook",
+        "contrast_claim": "School should avoid teaching children how to cook",
+        "perspectives": [
+            {
+                "perspective": "A failure to teach children to cook at school is one of the reasons to blame for UK householders throwing away \u00a312bn of food each year, according to a former leading government adviser on food waste.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "\u201cThe most important thing is to teach children to cook at schools,\u201d she says.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Here are nine simple dishes they should be able to make",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "\u201cMy view is that not teaching children how to cook will undoubtedly contribute [to food waste].\u201d",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "\u201cThe only thing that\u2019s going to get through to them is a technological solution \u2013 they basically don\u2019t have a relationship with food, they eat food to do other things.\u201d",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "More school children would be a hardship on the government.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Why teach someone to do what they already know how to do?",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Children should not be designed to specifications",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The goverment can't afford to take on more school children",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It is wrong (and illiberal) to legislate how anyone should raise their child.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Children in school aren't old enough to make this decision for themselves.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "School is demanding and doesn't allow children time to work.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Children in school are to young to make such a life altering decision for themselves.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "How sustainable?",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should we raise the age of consent",
+        "contrast_claim": "should we lower the age of consent",
+        "perspectives": [
+            {
+                "perspective": "Lowering the age of consent will cause criminal dangers.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Lowering the age of consent will increase crimes and potential victims.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "If the consent age is lowered, more people will be in danger.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Parental consent would create two 'classes\u2019 of pupil.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Lowering the age of consent will open the door to more criminal problems",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "There will be more criminal danger if the age of consent is lowered",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "There have been many initiatives to raise the age of consent.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "In the late-19th century, a \"social purity movement\" composed of Christian feminist reform groups began advocating a raise in the age of consent to 16, with the goal of raising it ultimately to 18, and by 1920 almost all states had raised their age of consent to 16 or 18.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Initiatives to change the age of consent [ edit ]",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "In 1275, the age of consent in England was set at 12 (Westminster 1 statute), the first time an age of consent had been set in England.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Over the course of American history, the most commonly observed age of consent was 10 years.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "According to sociologist Matthew Waites, in the 1970s, a number of grassroots political actions took place in Britain in favor of lowering the age of consent, which he described as based on claims of children's rights, gay liberation, or as a way to avoid unwanted pregnancies or sexually transmitted infections.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The government should not prioritise one age group over another",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It is wrong (and illiberal) to legislate how anyone should raise their child.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "I believe homeschooling is bad for children and should be outlawed at a State level.",
+        "contrast_claim": "Homeschooling is good for children and should be encouraged.",
+        "perspectives": [
+            {
+                "perspective": "Many parents who opt to home-school their children say they are avoiding bullying, exam pressure and stress.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "For others it is not just an interlude; it\u2019s their lives.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The home-schooling movement emerged in the 1970s, when it was considered a fringe pursuit.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "He believed that if you give a child the freedom to follow their own interests, and a rich assortment of resources, they will do the actual learning themselves.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The economics of homeschooling is beneficial.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "There are families that dip into home-education for short periods \u2013 to get into competitive secondary schools, or retake A-levels, for example.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Some parents do the teaching; others subcontract it to experts \u2013 club leaders, online schools, tutors.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Children aren\u2019t the best judge of what to learn or what lifestyle to adopt.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Homeschooling Is Economically Beneficial",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Not with the way the classroom is structured, and the way the curriculum is followed.\u201d",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "\u201cIt used to be a philosophical ethos; now it\u2019s about children having some sort of difficulty at school,\u201d says Edwina Theunissen, former trustee of Education Otherwise, a home-education charity founded in 1977.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The cost can be up to \u00a334,000 a year, according to Stephen Spriggs, head of education at William Clarence, a tutoring company that offers a 30-hour-a-week home-education programme.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Yes, I believe it is possible to rehabilitate torture victims.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Should be tried at home",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should adolescents be allowed to make their own life and death decisions",
+        "contrast_claim": "Adolescents should not be allowed to make their own life and death decisions",
+        "perspectives": [
+            {
+                "perspective": "At sixteen the brain is not developed enough to make decisions.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Sixteen is too young to make decisions.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Young people should be able to think for themselves and make their own decisions.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Not everyone is able to make informed decisions",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Everyone is not equally equipped to make good decisions.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Parents have the right to make the decisions for their child",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "\u201cOn the contrary, all the professionals feel deep unease about it,\u201d the judge said.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "no cellphones should not be allowed in school",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "A child cannot make a will and the court had to decide where the girl\u2019s best interests lay.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Serbs are entitled to control their own future.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Young people should have the freedom to make their own choices.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "It is a terrible decision for anyone, of any age, to make, and unimaginably tough for their family to accept, but Hannah Jones hit the headlines because she is only 13 years old.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "People should be allowed to do whatever they want to their own bodies",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Extremist should not be allowed to use internet",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should we live in space",
+        "contrast_claim": "should we drop the ambition to live in space",
+        "perspectives": [
+            {
+                "perspective": "Diseases behave and develop differently in microgravity, which assists scientists in finding cures.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Humanity in many ways defines itself through exploration, and space is the next logical frontier",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "A lot, and until we properly understand how weightlessness affects humans, we won\u2019t be able to send this era\u2019s pioneers further afield to places such as Mars or wandering asteroids.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "That\u2019s where the vast array of communications and navigation satellites live, speeding at thousands of miles an hour to avoid plummeting back to earth.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Scientists have found living organisms in space",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "We explore space and create important new technologies to advance our economy.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "We imagine astronauts floating in free space or bouncing in moon craters, yet the majority of those lucky enough have instead spun around in low Earth\u2019s orbit \u2013 between 99 and a few hundred miles high.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Comparing their bodies throughout, scientists were able to assess how bones, muscles and other parts of the body deteriorate in space.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Even though we did not go back to deep space, humans have begun to live and work outside the Earth\u2019s atmosphere, often conducting experiments on themselves to determine the effects of weightlessness, or microgravity, on the human body.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "There are three up there at the moment, speeding around the globe once every 90 minutes.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The first space race was part of the chest-beating of the cold war, but since then human space exploration has been more about countries working together than against each other.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Space is already used for military purposes",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "we should still work in an office with our colleagues.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "We should not be encouraging interest in material things",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should we increase nasa funding",
+        "contrast_claim": "should we decrease nasa funding",
+        "perspectives": [
+            {
+                "perspective": "Economic impact of NASA funding [ edit ]",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Since its inception, the United States has spent $601.31 billion (in nominal dollars) on NASA.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "NASA's budget for fiscal year (FY) 2019 is $21.5 billion.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "NASA's budget peaked in 1964\u201366 when it consumed roughly 4% of all federal spending.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "NASA's spending peaked in 1966 during the Apollo program",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "NASA is very Hazardous",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Anti-terrorism legislation is not how we should fight terrorism",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "University's could use alternate funding.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "State funding should be used elsewhere",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "We should not be encouraging interest in material things",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Year NASA budget Nominal Dollars",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "352,000 (mostly skilled) jobs created or saved",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Museum charges can be offset by government funding",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The rich countries of the world should actively look for ways to increase.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            }
+        ]
+    },
+    {
+        "original_claim": "I believe religion, no matter which one, has always just been used to oppress people and has nothing good in it",
+        "contrast_claim": "I believe religion is benefitial to people, despite having been used to oppress people.",
+        "perspectives": [
+            {
+                "perspective": "No it has proved opposite.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "American society has always been deeply ambivalent about this question.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Spirituality has no place in science.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "It's not like no one has ever asked them before.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It has been proven that Vegetarians Live Longer",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Blood has been spilt",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "When groups feel threatened, they retreat into tribalism.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It has later been extremely well documented the the.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Despite attempts at aid it has only been detrimental to Africa.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "As a result, many on the left have turned against universalist rhetoric (for example, All Lives Matter), viewing it as an attempt to erase the specificity of the experience and oppression of historically marginalized minorities.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "When groups feel mistreated and disrespected, they close ranks and become more insular, more defensive, more punitive, more us-versus-them.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It's been too long and reparations no longer matter",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "For today\u2019s Left, blindness to group identity is the ultimate sin, because it masks the reality of group hierarchies and oppression in America.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Reality TV has always been the guidebook for this presidency.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "We need to keep working on A.I., even if this could mean the end of the human race",
+        "contrast_claim": "We should stop working on A.I. because A.I. could mean the end of the human race",
+        "perspectives": [
+            {
+                "perspective": "AGI would be capable of recursive self-improvement, leading to the rapid emergence of artificial superintelligence (ASI), the limits of which are unknown, shortly after technological singularity is achieved.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Public figures such as Stephen Hawking and Elon Musk have expressed concern that full artificial intelligence could result in human extinction.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "It is speculated that over many iterations, such an AI would far surpass human cognitive abilities.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "If a superhuman intelligence were to be invented\u2014either through the amplification of human intelligence or through artificial intelligence\u2014it would bring to bear greater problem-solving and inventive skills than current humans are capable of.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Good's scenario runs as follows: as computers increase in power, it becomes possible for people to build a machine that is more intelligent than humanity; this superhuman intelligence possesses greater problem-solving and inventive skills than current humans are capable of.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Intelligence explosion is a possible outcome of humanity building artificial general intelligence (AGI).",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "A number of futures studies scenarios combine elements from both of these possibilities, suggesting that humans are likely to interface with computers, or upload their minds to computers, in a way that enables substantial intelligence amplification.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Technology forecasters and researchers disagree about if or when human intelligence is likely to be surpassed.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Doing so could mean that we are asking too much of technology",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "We could spend the money elsewhere.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "There is no need to do this when the market has already limited working hours",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Most proposed methods for creating superhuman or transhuman minds fall into one of two categories: intelligence amplification of human brains and artificial intelligence.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Non-AI singularity [ edit ]",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Where will this then end...",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "should violent video games be censored",
+        "contrast_claim": "should violent video games be allowed",
+        "perspectives": [
+            {
+                "perspective": "Restricting violent video games will have no correlation to a reduction in societal crime.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Restricting violent games could reduce the violence and disturbing thoughts in society.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Playing violent video games does not cause kids to commit mass shootings.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Violent video games have been shown to have positive effect on kindness and cooperative behavior.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Studies have shown that violent video games can have a positive effect on kindness, civic engagement, and \"prosocial\u201d behaviors.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Violent games normalizes forms of violence.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "In order to maintan a well funcitoning society, the government has a right to restrict violent games which could hurt people.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "violent games make people agressive.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Playing violent video games leads to violent behaviors.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Violent video games lead to inappropriate social interactions.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Playing violent video games causes more aggression, bullying, and fighting.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "A common theory is that playing violent video games increases aggression in young people.",
+                "original_stance_label": "pos",
+                "contrast_stance_label": "neg"
+            },
+            {
+                "perspective": "Restricting video games only makes people more interested in them.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Violent video games can have real world impacts.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    },
+    {
+        "original_claim": "Soccer will never become a major sport in the US.",
+        "contrast_claim": "Soccer is already a major sport in the US.",
+        "perspectives": [
+            {
+                "perspective": "It undermines the reputation of a sport.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "There\u2019s the competition too.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Participation in sport promotes a healthy lifestyle",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It's another in a long list of changes that will make this sport better than it already is.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "Without the beacon of a pro league, soccer was relegated to leagues of dedicated immigrants who shrugged off the scorn of the neighbors who eagerly assimilated into \u201cAmerican\u201d sports like gridiron football, baseball and basketball.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It's a major part of the game.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "It\u2019s certainly close to thriving here in the States.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The internet will become better",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The use of animals in sport demeans humans",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "The use of animals in sport is demeaning to humans.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            },
+            {
+                "perspective": "And maybe a wave of talent can coincide with a run of good luck as it did in 2002, when the US men made it to the quarter-finals.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "The USA had a good foothold 90 years ago, with a promising young American Soccer League providing the backbone of the players who reached the 1930 World Cup semi-finals (although only 13 teams entered.)",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "They are entertaining and inspirational to young women all over the world.",
+                "original_stance_label": "neg",
+                "contrast_stance_label": "pos"
+            },
+            {
+                "perspective": "Using animals in sport demeans humans.",
+                "original_stance_label": "unk",
+                "contrast_stance_label": "unk"
+            }
+        ]
+    }
+]

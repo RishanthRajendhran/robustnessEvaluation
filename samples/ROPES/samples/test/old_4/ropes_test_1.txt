@@ -1,0 +1,1860 @@
+PassageID: 0
+Passage: In the U.S., the majority of electricity is produced by burning coal or other fossil fuels. This causes air pollution that harms the health of living things. The air pollution also causes acid rain and contributes to global warming. In addition, fossil fuels are nonrenewable resources, so if we keep using them, they will eventually run out. The main advantage of nuclear energy is that it doesn’t release air pollution or cause the other environmental problems associated with the burning of fossil fuels. On the other other hand, radioactive elements are nonrenewable like fossil fuels and could eventually be used up.
+
+Questions:
+QuestionID: 494697069
+Question: Valley City and Mountain City recently voted on whether to continue to use coal and fossil fuels for electricity or to change to nuclear energy. Valley City decided to continue using coal and fossil fuels to produce electricity. Mountain City decided to switch to nuclear energy to produce electricity.   After the change in power source, which city is more likely to experience a decrease in air pollution?
+Answer: Mountain City
+Explanation: 
+
+QuestionID: 2606791401
+Question: Valley City and Mountain City recently voted on whether to continue to use coal and fossil fuels for electricity or to change to nuclear energy. Valley City decided to continue using coal and fossil fuels to produce electricity. Mountain City decided to switch to nuclear energy to produce electricity.   After the change in power source, which city is more likely to experience an increase in air pollution?
+Answer: Valley City
+Explanation: 
+
+QuestionID: 2206104328
+Question: Valley City and Mountain City recently voted on whether to continue to use coal and fossil fuels for electricity or to change to nuclear energy. Valley City decided to continue using coal and fossil fuels to produce electricity. Mountain City decided to switch to nuclear energy to produce electricity.   After the change in power source, will Valley City likely have more or less acid rain than Mountain City?
+Answer: more
+Explanation: 
+
+QuestionID: 2337045256
+Question: Valley City and Mountain City recently voted on whether to continue to use coal and fossil fuels for electricity or to change to nuclear energy. Valley City decided to continue using coal and fossil fuels to produce electricity. Mountain City decided to switch to nuclear energy to produce electricity.   After the change in power source, will Mountain City likely have more or less acid rain than Valley City?
+Answer: less
+Explanation: 
+
+QuestionID: 2197782065
+Question: Valley City and Mountain City recently voted on whether to continue to use coal and fossil fuels for electricity or to change to nuclear energy. Valley City decided to continue using coal and fossil fuels to produce electricity. Mountain City decided to switch to nuclear energy to produce electricity.   After the change in power source, which city is more likely to experience a decrease in environmental problems?
+Answer: Mountain City
+Explanation: 
+
+QuestionID: 494697069
+Question: Valley City and Mountain City recently voted on whether to continue to use coal and fossil fuels for electricity or to change to nuclear energy. The mayors of Valley City and Mountain city decided to continue using coal and fossil fuels to produce electricity, but citizens votion of Mountain city make the same decision with the mayor. But citizens votion of Valley City doesn't After the change in power source, which city is more likely to experience a decrease in air pollution?
+Answer: Valley City
+Explanation: 
+
+QuestionID: 2606791401
+Question: Valley City and Mountain City recently voted on whether to continue to use coal and fossil fuels for electricity or to change to nuclear energy. The mayors of Valley City and Mountain city decided to continue using coal and fossil fuels to produce electricity, but citizens votion of Mountain city make the same decision with the mayor. But citizens votion of Valley City doesn't After the change in power source, which city is more likely to experience an increase in air pollution?
+Answer: Mountain City
+Explanation: 
+
+QuestionID: 2206104328
+Question: Valley City and Mountain City recently voted on whether to continue to use coal and fossil fuels for electricity or to change to nuclear energy. The mayors of Valley City and Mountain city decided to continue using coal and fossil fuels to produce electricity, but citizens votion of Mountain city make the same decision with the mayor. But citizens votion of Valley City doesn't After the change in power source, will Valley City likely have more or less acid rain than Mountain City?
+Answer: less
+Explanation: 
+
+QuestionID: 2337045256
+Question: Valley City and Mountain City recently voted on whether to continue to use coal and fossil fuels for electricity or to change to nuclear energy. The mayors of Valley City and Mountain city decided to continue using coal and fossil fuels to produce electricity, but citizens votion of Mountain city make the same decision with the mayor. But citizens votion of Valley City doesn't After the change in power source, will Mountain City likely have more or less acid rain than Valley City?
+Answer: more
+Explanation: 
+
+QuestionID: 2197782065
+Question: Valley City and Mountain City recently voted on whether to continue to use coal and fossil fuels for electricity or to change to nuclear energy. The mayors of Valley City and Mountain city decided to continue using coal and fossil fuels to produce electricity, but citizens votion of Mountain city make the same decision with the mayor. But citizens votion of Valley City doesn't After the change in power source, which city is more likely to experience a decrease in environmental problems?
+Answer: Valley City
+Explanation: 
+
+--------------------------------------------------
+PassageID: 1
+Passage: Some mutations have a positive effect on the organism in which they occur. They are called beneficial mutations . They lead to new versions of proteins that help organisms adapt to changes in their environment. Beneficial mutations are essential for evolution to occur. They increase an organismâ€™s changes of surviving or reproducing, so they are likely to become more common over time. There are several well-known examples of beneficial mutations. Here are just two:
+
+Questions:
+QuestionID: 3428143751
+Question: Milk is good for us we all know that. While babies can digest milk there was a time when adults could not. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. What mutation accord?
+Answer: the ability to digest lactose
+Explanation: 
+
+QuestionID: 2957272732
+Question: Milk is good for us we all know that. While babies can digest milk there was a time when adults could not. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Where people more or less likely to thrive if they could not digest lactose?
+Answer: less
+Explanation: 
+
+QuestionID: 2972738755
+Question: Milk is good for us we all know that. While babies can digest milk there was a time when adults could not. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Were people more or less likely to thrive if they could digest lactose?
+Answer: more
+Explanation: 
+
+QuestionID: 3852297722
+Question: Milk is good for us we all know that. While babies can digest milk there was a time when adults could not. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Were people more or less likely to reproduce if they could digest lactose?
+Answer: more
+Explanation: 
+
+QuestionID: 3938805715
+Question: Milk is good for us we all know that. While babies can digest milk there was a time when adults could not. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Where people more or less likely to reproduce if they could not digest lactose?
+Answer: less
+Explanation: 
+
+QuestionID: 1565875353
+Question: Milk is good for us we all know that. While babies can digest milk there was a time when adults could not. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Has Lactose tolerance become more or less common?
+Answer: more
+Explanation: 
+
+QuestionID: 456351088
+Question: Milk is good for us we all know that. While babies can digest milk there was a time when adults could not. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Has Lactose intolerance become more or less common?
+Answer: less
+Explanation: 
+
+QuestionID: 3593822500
+Question: Milk is good for us we all know that. While babies can digest milk there was a time when adults could not. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. What developed as a result of domesticating cattle and goats?
+Answer: the ability to digest lactose
+Explanation: 
+
+QuestionID: 3428143751
+Question: Milk is good for us we all know that. While babies can digest milk there was a time when adults could not. In places where people lived without livestock, a subpopulation developed a mutation where they could not digest milk at all. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. What mutation occured in the population that did not domestic livestock?
+Answer: a mutation where they could not digest milk
+Explanation: 
+
+QuestionID: 2957272732
+Question: Milk is good for us we all know that. While babies can digest milk there was a time when adults could not. In places where people lived without livestock, a subpopulation developed a mutation where they could not digest milk at all. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. In the population that did not domestic livestock, were people more likely to thrive if they could not digest lactose or not more likely?
+Answer: not more likely
+Explanation: 
+
+QuestionID: 2972738755
+Question: Milk is good for us we all know that. While babies can digest milk there was a time when adults could not. In places where people lived without livestock, a subpopulation developed a mutation where they could not digest milk at all. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Were people more or less likely to thrive if they could digest lactose in the group that domesticated animals?
+Answer: more
+Explanation: 
+
+QuestionID: 3852297722
+Question: Milk is good for us we all know that. While babies can digest milk there was a time when adults could not. In places where people lived without livestock, a subpopulation developed a mutation where they could not digest milk at all. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. In the group that did not domestic animals, were people that could digest lactose able to reproduce the same or more?
+Answer: same
+Explanation: 
+
+QuestionID: 3938805715
+Question: Milk is good for us we all know that. While babies can digest milk there was a time when adults could not. In places where people lived without livestock, a subpopulation developed a mutation where they could not digest milk at all. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Where people more or less likely to reproduce if they could not digest lactose if they lived in an area with domesticated animals?
+Answer: less
+Explanation: 
+
+QuestionID: 1565875353
+Question: Milk is good for us we all know that. While babies can digest milk there was a time when adults could not. In places where people lived without livestock, a subpopulation developed a mutation where they could not digest milk at all. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Has Lactose tolerance become more or less common among people who lived in the places that domestic animals?
+Answer: more
+Explanation: 
+
+QuestionID: 456351088
+Question: Milk is good for us we all know that. While babies can digest milk there was a time when adults could not. In places where people lived without livestock, a subpopulation developed a mutation where they could not digest milk at all. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. Has Lactose tolerance become more or less common among people who lived in the places that domestic animals?
+Answer: less
+Explanation: 
+
+QuestionID: 3593822500
+Question: Milk is good for us we all know that. While babies can digest milk there was a time when adults could not. In places where people lived without livestock, a subpopulation developed a mutation where they could not digest milk at all. But in areas where humans domesticated cattle and other animals that they could obtain milk from milk became an important part of their diet. This happened because a small population of people developed the ability to digest lactose and they passed it onto their children and now most people can digest milk even as adults. what did the group that did not domesticate animals lack the ability to do? 
+Answer: the ability to digest lactose
+Explanation: 
+
+--------------------------------------------------
+PassageID: 2
+Passage: Mammals have a heart that is about 0.6% of the total body mass across the board from a small mouse to a large Blue Whale. It can be expressed as: Heart Weight = 0.006Mb1.0, where Mb is the body mass of the individual. Lung volume is also directly related to body mass in mammals (slope = 1.02). The lung has a volume of 63 ml for every kg of body mass. In addition, the tidal volume at rest in an individual is 1/10 the lung volume. Also respiration costs with respect to oxygen consumption is scaled in the order of Mb.75. This shows that mammals, regardless of size, have the same size respiratory and cardiovascular systems and it turn have the same amount of blood: About 5.5% of body mass. This means that for a similarly designed marine mammals, the larger the individual the more efficiently they can travel compared to a smaller individual. It takes the same effort to move one body length whether the individual is one meter or ten meters. This can explain why large whales can migrate far distance in the oceans and not stop for rest. It is metabolically less expensive to be larger in body size. This goes for terrestrial and flying animals as well. In fact, for an organism to move any distance, regardless of type from elephants to centipedes, smaller animals consume more oxygen per unit body mass than larger ones. This metabolic advantage that larger animals have makes it possible for larger marine mammals to dive for longer durations of time than their smaller counterparts. That the heart rate is lower means that larger animals can carry more blood, which carries more oxygen. Then in conjuncture with the fact that mammals reparation costs scales in the order of Mb.75 shows how an advantage can be had in having a larger body mass. More simply, a larger whale can hold more oxygen and at the same time demand less metabolically than a smaller whale.
+
+Questions:
+QuestionID: 3205963946
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is extremely large, and Animal B is extremely small. Which animal will be able to travel a longer distance without resting, Animal A or Animal B?
+Answer: Animal A
+Explanation: 
+
+QuestionID: 4248313718
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is extremely large, and Animal B is extremely small. Will Animal A or Animal B be able to travel a longer distance without stopping for rest?
+Answer: Animal A
+Explanation: 
+
+QuestionID: 2868781815
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is extremely large, and Animal B is extremely small. Which animal will travel a shorter distance before needing to stop for rest, Animal A or Animal B?
+Answer: Animal B
+Explanation: 
+
+QuestionID: 1727734473
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is extremely large, and Animal B is extremely small. Will Animal A be able to travel a longer or shorter distance before needing to rest than Animal B?
+Answer: longer
+Explanation: 
+
+QuestionID: 1733239497
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is extremely large, and Animal B is extremely small. Will Animal B be able to travel a longer or shorter distance before needing to rest than Animal A?
+Answer: shorter
+Explanation: 
+
+QuestionID: 4267905981
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is extremely large, and Animal B is extremely small. Which animal consumes more oxygen, Animal A or Animal B?
+Answer: Animal B
+Explanation: 
+
+QuestionID: 4274590657
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is extremely large, and Animal B is extremely small. Which animal consumes less oxygen, Animal A or Animal B?
+Answer: Animal A
+Explanation: 
+
+QuestionID: 3949990854
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is extremely large, and Animal B is extremely small. Does Animal A consume more or less oxygen than Animal B?
+Answer: less
+Explanation: 
+
+QuestionID: 3952743366
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is extremely large, and Animal B is extremely small. Does Animal B consume more or less oxygen than Animal A?
+Answer: more
+Explanation: 
+
+QuestionID: 248386505
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is extremely large, and Animal B is extremely small. Which animal has a lower heart rate, Animal A or Animal B?
+Answer: Animal A
+Explanation: 
+
+QuestionID: 566957079
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is extremely large, and Animal B is extremely small. Which animal has a higher heart rate, Animal A or Animal B?
+Answer: Animal B
+Explanation: 
+
+QuestionID: 3205963946
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is a thirdimes the body size of animal B. Which animal will be able to travel a longer distance without resting, Animal A or Animal B?
+Answer: Animal B
+Explanation: 
+
+QuestionID: 4248313718
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is a thirdimes the body size of animal B. Will Animal A or Animal B be able to travel a longer distance without stopping for rest?
+Answer: Animal B
+Explanation: 
+
+QuestionID: 2868781815
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is a thirdimes the body size of animal B. Which animal will travel a shorter distance before needing to stop for rest, Animal A or Animal B?
+Answer: Animal A
+Explanation: 
+
+QuestionID: 1727734473
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is a thirdimes the body size of animal B. Will Animal A be able to travel a longer or shorter distance before needing to rest than Animal B?
+Answer: shorter
+Explanation: 
+
+QuestionID: 1733239497
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is a thirdimes the body size of animal B. Will Animal B be able to travel a longer or shorter distance before needing to rest than Animal A?
+Answer: longer
+Explanation: 
+
+QuestionID: 4267905981
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is a thirdimes the body size of animal B. Which animal consumes more oxygen, Animal A or Animal B?
+Answer: Animal A
+Explanation: 
+
+QuestionID: 4274590657
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is a thirdimes the body size of animal B. Which animal consumes less oxygen, Animal A or Animal B?
+Answer: Animal B
+Explanation: 
+
+QuestionID: 3949990854
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is a thirdimes the body size of animal B. Does Animal A consume more or less oxygen than Animal B?
+Answer: more
+Explanation: 
+
+QuestionID: 3952743366
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is a thirdimes the body size of animal B. Does Animal B consume more or less oxygen than Animal A?
+Answer: less
+Explanation: 
+
+QuestionID: 248386505
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is a thirdimes the body size of animal B. Which animal has a lower heart rate, Animal A or Animal B?
+Answer: Animal B
+Explanation: 
+
+QuestionID: 566957079
+Question: Shawn is curious as to how body mass affects animals of different sizes in regards to metabolism, oxygen consumption, and heart rate. To do this, he is studying two different animals of very different sizes. Animal A is a thirdimes the body size of animal B. Which animal has a higher heart rate, Animal A or Animal B?
+Answer: Animal A
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3
+Passage: A mutant recessive allele, such as the allele that causes sickle cell anemia (see Figure below and the link that follows), is not expressed in people who inherit just one copy of it. These people are called carriers . They do not have the disorder themselves, but they carry the mutant allele and can pass it to their offspring. Thus, the allele is likely to pass on to the next generation rather than die out. http://www.dnalc.org/resources/3d/17-sickle-cell.html
+
+Questions:
+QuestionID: 4242406531
+Question: Mike was packing to go to the hospital again. It seemed like he was always in the hospital. Neither Mikes mom or dad had cystic fibrosis but Mike had inherited it from both of them. was Mike's dad a carrier of cystic fibrosis or non carrier?
+Answer: carrier
+Explanation: 
+
+QuestionID: 50003108
+Question: Mike was packing to go to the hospital again. It seemed like he was always in the hospital. Neither Mikes mom or dad had cystic fibrosis but Mike had inherited it from both of them. was Mike's mon a carrier of cystic fibrosis or non carrier?
+Answer: carrier
+Explanation: 
+
+QuestionID: 260570805
+Question: Mike was packing to go to the hospital again. It seemed like he was always in the hospital. Neither Mikes mom or dad had cystic fibrosis but Mike had inherited it from both of them. Is the allele that causes cystic fibrosis recesive or dominate.
+Answer: recesive
+Explanation: 
+
+QuestionID: 34930636
+Question: Mike was packing to go to the hospital again. It seemed like he was always in the hospital. Neither Mikes mom or dad had cystic fibrosis but Mike had inherited it from both of them. Is the allele for cystic fibrosis likely to be passed on or die out?
+Answer: passed on
+Explanation: 
+
+QuestionID: 4242406531
+Question: Mike was packing to go to the hospital again. It seemed like he was always in the hospital. He has a disease, cystic fibrosis, that he knows to be recessive. His dad also needs to go the hospital often due for the same treatment while his mother does not was Mike's dad a carrier of cystic fibrosis or non carrier?
+Answer: non carrier
+Explanation: 
+
+QuestionID: 50003108
+Question: Mike was packing to go to the hospital again. It seemed like he was always in the hospital. He has a disease, cystic fibrosis, that he knows to be recessive. His dad also needs to go the hospital often due for the same treatment while his mother does not was Mike's mon a carrier of cystic fibrosis or non carrier?
+Answer: carrier
+Explanation: 
+
+QuestionID: 260570805
+Question: Mike was packing to go to the hospital again. It seemed like he was always in the hospital. He has a disease, cystic fibrosis, that he knows to be recessive. His dad also needs to go the hospital often due for the same treatment while his mother does not Is the allele that causes cystic fibrosis recesive or dominate.
+Answer: recessive
+Explanation: 
+
+QuestionID: 34930636
+Question: Mike was packing to go to the hospital again. It seemed like he was always in the hospital. He has a disease, cystic fibrosis, that he knows to be recessive. His dad also needs to go the hospital often due for the same treatment while his mother does not Is the allele for cystic fibrosis likely to be passed on or die out?
+Answer: passed on
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4
+Passage: A few insects, such as mayflies and some moths, never eat. That’s because their lives are over in just a few hours or days. Once these insects become adults, they lay eggs, and then die. On the other hand, some insects are very healthy eaters. A silkworm eats enough leaves to increase its weight more than 4,000 times in just 56 days, as the silkworm increases in size about 10,000 times since birth. A locust eats its own weight in plants every day. Just imagine eating your own weight in food every day. You probably couldn't. You would most likely get very sick even if you tried.
+
+Questions:
+QuestionID: 934572415
+Question: Ann was fascinated with insects and often kept butterflies or lady bugs in jars. She liked watching them and was always careful to make sure they had food.  She had been feeding a caterpillar for several days and was amazed at how much it ate. She caught a luna moth yesterday but it would not eat anything she gave it. Her mom said luna moths didn't eat but Ann couldn't believe that so she kept trying. Does the luna moth have a short or long life?
+Answer: short
+Explanation: 
+
+QuestionID: 1566339313
+Question: Ann was fascinated with insects and often kept butterflies or lady bugs in jars. She liked watching them and was always careful to make sure they had food.  She had been feeding a caterpillar for several days and was amazed at how much it ate. She caught a luna moth yesterday but it would not eat anything she gave it. Her mom said luna moths didn't eat but Ann couldn't believe that so she kept trying. Will the catipillar eat a litttle or a lot?
+Answer: a lot
+Explanation: 
+
+QuestionID: 2636016226
+Question: Ann was fascinated with insects and often kept butterflies or lady bugs in jars. She liked watching them and was always careful to make sure they had food.  She had been feeding a caterpillar for several days and was amazed at how much it ate. She caught a luna moth yesterday but it would not eat anything she gave it. Her mom said luna moths didn't eat but Ann couldn't believe that so she kept trying. Will the moth eat or not?
+Answer: not
+Explanation: 
+
+QuestionID: 934572415
+Question: Ann was fascinated with insects and often kept butterflies or lady bugs in jars. She liked watching them and was always careful to make sure they had food.  She had been feeding a caterpillar for several days and she also caught a luna moth yesterday. Does the luna moth have a short or long life?
+Answer: short
+Explanation: 
+
+QuestionID: 1566339313
+Question: Ann was fascinated with insects and often kept butterflies or lady bugs in jars. She liked watching them and was always careful to make sure they had food.  She had been feeding a caterpillar for several days and she also caught a luna moth yesterday. Will the catipillar eat a litttle or a lot?
+Answer: a lot
+Explanation: 
+
+QuestionID: 2636016226
+Question: Ann was fascinated with insects and often kept butterflies or lady bugs in jars. She liked watching them and was always careful to make sure they had food.  She had been feeding a caterpillar for several days and she also caught a luna moth yesterday. Will the moth eat or not?
+Answer: not
+Explanation: 
+
+--------------------------------------------------
+PassageID: 5
+Passage: Habitat destruction has played a key role in extinctions, especially in relation to tropical forest destruction. Factors contributing to habitat loss include: overconsumption, overpopulation, land use change, deforestation, pollution (air pollution, water pollution, soil contamination) and global warming or climate change.Habitat size and numbers of species are systematically related. Physically larger species and those living at lower latitudes or in forests or oceans are more sensitive to reduction in habitat area. Conversion to "trivial" standardized ecosystems (e.g., monoculture following deforestation) effectively destroys habitat for the more diverse species that preceded the conversion. Even the simplest forms of agriculture affect diversity – through clearing/draining land, discouraging weeds and "pests", and encouraging just a limited set of domesticated plant and animal species. In some countries lack of property rights or lax law/regulatory enforcement necessarily leads to biodiversity loss (degradation costs having to be supported by the community).A 2007 study conducted by the National Science Foundation found that biodiversity and genetic diversity are codependent—that diversity among species requires diversity within a species and vice versa. "If any one type is removed from the system, the cycle can break down and the community becomes dominated by a single species."
+
+Questions:
+QuestionID: 4260809924
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area.  In which tropical forest is the extinction of an animal species more likely?
+Answer: Tropical Forest B
+Explanation: 
+
+QuestionID: 4261727432
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area.  In which tropical forest is the extinction of an animal species less likely?
+Answer: Tropical Forest A
+Explanation: 
+
+QuestionID: 633915158
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area.  In which tropical forest will the number of species be lower?
+Answer: Tropical Forest B
+Explanation: 
+
+QuestionID: 3973629796
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area.  In which tropical forest will the number of species be higher?
+Answer: Tropical Forest A
+Explanation: 
+
+QuestionID: 3303791241
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area.  Will the number of species in Tropical Forest A be larger or smaller than the number of species in Tropical Forest B?
+Answer: larger
+Explanation: 
+
+QuestionID: 3308313225
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area.  Will the number of species in Tropical Forest B be larger or smaller than the number of species in Tropical Forest A?
+Answer: smaller
+Explanation: 
+
+QuestionID: 781045996
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area.  In which tropical forest will biodiversity and genetic diversity of species be higher?
+Answer: Tropical Forest A
+Explanation: 
+
+QuestionID: 1575407774
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area.  In which tropical forest will biodiversity and genetic diversity of species be lower?
+Answer: Tropical Forest B
+Explanation: 
+
+QuestionID: 2148981914
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area.  Will the biodiversity and genetic diversity of species in Tropical Forest A be higher or lower than in Tropical Forest B?
+Answer: higher
+Explanation: 
+
+QuestionID: 2151931034
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A is a natural habitat that has been largely untouched by humans. Tropical Forest B is an area that used to be a large natural habitat but has recently been greatly reduced in size due to an increase of humans settling in and developing the area.  Will the biodiversity and genetic diversity of species in Tropical Forest B be higher or lower than in Tropical Forest A?
+Answer: lower
+Explanation: 
+
+QuestionID: 4260809924
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area.  In which tropical forest is the extinction of an animal species more likely?
+Answer: Tropical Forest A
+Explanation: 
+
+QuestionID: 4261727432
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area.  In which tropical forest is the extinction of an animal species less likely?
+Answer: Tropical Forest B
+Explanation: 
+
+QuestionID: 633915158
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area.  In which tropical forest will the number of species be lower?
+Answer: Tropical Forest A
+Explanation: 
+
+QuestionID: 3973629796
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area.  In which tropical forest will the number of species be higher?
+Answer: Tropical Forest B
+Explanation: 
+
+QuestionID: 3303791241
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area.  Will the number of species in Tropical Forest A be larger or smaller than the number of species in Tropical Forest B?
+Answer: smaller
+Explanation: 
+
+QuestionID: 3308313225
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area.  Will the number of species in Tropical Forest B be larger or smaller than the number of species in Tropical Forest A?
+Answer: larger
+Explanation: 
+
+QuestionID: 781045996
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area.  In which tropical forest will biodiversity and genetic diversity of species be higher?
+Answer: Tropical Forest B
+Explanation: 
+
+QuestionID: 1575407774
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area.  In which tropical forest will biodiversity and genetic diversity of species be lower?
+Answer: Tropical Forest A
+Explanation: 
+
+QuestionID: 2148981914
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area.  Will the biodiversity and genetic diversity of species in Tropical Forest A be higher or lower than in Tropical Forest B?
+Answer: lower
+Explanation: 
+
+QuestionID: 2151931034
+Question: Sam is curious about the effects of human population on natural animal habitats in tropical forests. In order to study this, he has taken observations from two tropical forest regions. Tropical Forest A and Forest B were both natural habitat that has been largely untouched by humans long time ago. A lot of human want to move to tropical Forest B but they are forced by natural to immigrate to Forest A. They settle down and develop this area.  Will the biodiversity and genetic diversity of species in Tropical Forest B be higher or lower than in Tropical Forest A?
+Answer: higher
+Explanation: 
+
+--------------------------------------------------
+PassageID: 6
+Passage: Generally, there is an increase in biodiversity from the poles to the tropics. Thus localities at lower latitudes have more species than localities at higher latitudes. This is often referred to as the latitudinal gradient in species diversity. Several ecological factors may contribute to the gradient, but the ultimate factor behind many of them is the greater mean temperature at the equator compared to that of the poles.Even though terrestrial biodiversity declines from the equator to the poles, some studies claim that this characteristic is unverified in aquatic ecosystems, especially in marine ecosystems. The latitudinal distribution of parasites does not appear to follow this rule.In 2016, an alternative hypothesis ("the fractal biodiversity") was proposed to explain the biodiversity latitudinal gradient. In this study, the species pool size and the fractal nature of ecosystems were combined to clarify some general patterns of this gradient. This hypothesis considers temperature, moisture, and net primary production (NPP) as the main variables of an ecosystem niche and as the axis of the ecological hypervolume. In this way, it is possible to build fractal hypervolumes, whose fractal dimension rises up to three moving towards the equator.
+
+Questions:
+QuestionID: 509290873
+Question: Sasha is studying the biodiversity of two ecosystems located in different regions of the world. Ecosystem A is located in North America, and Ecosystem B is located in South America. Will Ecosystem A be more or less diverse than Ecosystem B?
+Answer: less
+Explanation: 
+
+QuestionID: 511977849
+Question: Sasha is studying the biodiversity of two ecosystems located in different regions of the world. Ecosystem A is located in North America, and Ecosystem B is located in South America. Will Ecosystem B be more or less diverse than Ecosystem A?
+Answer: more
+Explanation: 
+
+QuestionID: 1637166130
+Question: Sasha is studying the biodiversity of two ecosystems located in different regions of the world. Ecosystem A is located in North America, and Ecosystem B is located in South America. Which ecosystem will be more diverse, Ecosystem A or Ecosystem B?
+Answer: Ecosystem B
+Explanation: 
+
+QuestionID: 1645685814
+Question: Sasha is studying the biodiversity of two ecosystems located in different regions of the world. Ecosystem A is located in North America, and Ecosystem B is located in South America. Which ecosystem will be less diverse, Ecosystem A or Ecosystem B?
+Answer: Ecosystem A
+Explanation: 
+
+QuestionID: 1420766801
+Question: Sasha is studying the biodiversity of two ecosystems located in different regions of the world. Ecosystem A is located in North America, and Ecosystem B is located in South America. Which ecosystem will contain more species, Ecosystem A or Ecosystem B?
+Answer: Ecosystem B
+Explanation: 
+
+QuestionID: 2231447223
+Question: Sasha is studying the biodiversity of two ecosystems located in different regions of the world. Ecosystem A is located in North America, and Ecosystem B is located in South America. Which ecosystem will contain fewer species, Ecosystem A or Ecosystem B?
+Answer: Ecosystem A
+Explanation: 
+
+QuestionID: 509290873
+Question: Sasha is studying the biodiversity of two ecosystems located in different regions of the world. Ecosystem B is located in a county in Canada and Ecosystem A is located far south of that, just south of the equater. Will Ecosystem A be more or less diverse than Ecosystem B?
+Answer: more
+Explanation: 
+
+QuestionID: 511977849
+Question: Sasha is studying the biodiversity of two ecosystems located in different regions of the world. Ecosystem B is located in a county in Canada and Ecosystem A is located far south of that, just south of the equater. Will Ecosystem B be more or less diverse than Ecosystem A?
+Answer: less
+Explanation: 
+
+QuestionID: 1637166130
+Question: Sasha is studying the biodiversity of two ecosystems located in different regions of the world. Ecosystem B is located in a county in Canada and Ecosystem A is located far south of that, just south of the equater. Which ecosystem will be more diverse, Ecosystem A or Ecosystem B?
+Answer: ecosystem A
+Explanation: 
+
+QuestionID: 1645685814
+Question: Sasha is studying the biodiversity of two ecosystems located in different regions of the world. Ecosystem B is located in a county in Canada and Ecosystem A is located far south of that, just south of the equater. Which ecosystem will be less diverse, Ecosystem A or Ecosystem B?
+Answer: ecosystem B
+Explanation: 
+
+QuestionID: 1420766801
+Question: Sasha is studying the biodiversity of two ecosystems located in different regions of the world. Ecosystem B is located in a county in Canada and Ecosystem A is located far south of that, just south of the equater. Which ecosystem will contain more species, Ecosystem A or Ecosystem B?
+Answer: ecosystem A
+Explanation: 
+
+QuestionID: 2231447223
+Question: Sasha is studying the biodiversity of two ecosystems located in different regions of the world. Ecosystem B is located in a county in Canada and Ecosystem A is located far south of that, just south of the equater. Which ecosystem will contain fewer species, Ecosystem A or Ecosystem B?
+Answer: ecosystem B
+Explanation: 
+
+--------------------------------------------------
+PassageID: 7
+Passage: The parts of the ears involved in balance are the semicircular canals . Above, the semicircular canals are colored purple ( Figure above ). The canals contain liquid and are like the bottle of water pictured below ( Figure below ). When the bottle tips, the water surface moves up and down the sides of the bottle. When the body tips, the liquid in the semicircular canals moves up and down the sides of the canals. Tiny hair cells line the semicircular canals. Movement of the liquid inside the canals causes the hair cells to send nerve impulses. The nerve impulses travel to the cerebellum in the brain along the vestibular nerve. In response, the cerebellum sends commands to muscles to contract or relax so that the body stays balanced.
+
+Questions:
+QuestionID: 2671152586
+Question: Terri and Brian have appointments with an ENT to discuss some symptoms they have been having. During the exam, Terri's doctor tells her that the structures in her ear appear to be fine. Brian's doctor tells him that it appears as though he has suffered some damage to his semicircular canals. Who is more likely to have problems staying balanced, Terri or Brian?
+Answer: Brian
+Explanation: 
+
+QuestionID: 2685177294
+Question: Terri and Brian have appointments with an ENT to discuss some symptoms they have been having. During the exam, Terri's doctor tells her that the structures in her ear appear to be fine. Brian's doctor tells him that it appears as though he has suffered some damage to his semicircular canals. Who is less likely to have problems staying balanced, Terri or Brian?
+Answer: Terri
+Explanation: 
+
+QuestionID: 3443101547
+Question: Terri and Brian have appointments with an ENT to discuss some symptoms they have been having. During the exam, Terri's doctor tells her that the structures in her ear appear to be fine. Brian's doctor tells him that it appears as though he has suffered some damage to his semicircular canals. Is Terri more or less likely than Brian to have trouble staying balanced?
+Answer: less
+Explanation: 
+
+QuestionID: 3390279531
+Question: Terri and Brian have appointments with an ENT to discuss some symptoms they have been having. During the exam, Terri's doctor tells her that the structures in her ear appear to be fine. Brian's doctor tells him that it appears as though he has suffered some damage to his semicircular canals. Is Brian more or less likely than Terri to have trouble staying balanced?
+Answer: more
+Explanation: 
+
+QuestionID: 2671152586
+Question: Terri and Brian have appointments with an ENT to discuss some symptoms they have been having. During the exam, Terri's doctor tells her that the structures in Brian's ear appear to be fine. Brian's doctor tells him that it appears as though Terri has suffered some damage to his semicircular canals. Who is more likely to have problems staying balanced, Terri or Brian?
+Answer: Terri
+Explanation: 
+
+QuestionID: 2685177294
+Question: Terri and Brian have appointments with an ENT to discuss some symptoms they have been having. During the exam, Terri's doctor tells her that the structures in Brian's ear appear to be fine. Brian's doctor tells him that it appears as though Terri has suffered some damage to his semicircular canals. Who is less likely to have problems staying balanced, Terri or Brian?
+Answer: Brian
+Explanation: 
+
+QuestionID: 3443101547
+Question: Terri and Brian have appointments with an ENT to discuss some symptoms they have been having. During the exam, Terri's doctor tells her that the structures in Brian's ear appear to be fine. Brian's doctor tells him that it appears as though Terri has suffered some damage to his semicircular canals. Is Terri more or less likely than Brian to have trouble staying balanced?
+Answer: more
+Explanation: 
+
+QuestionID: 3390279531
+Question: Terri and Brian have appointments with an ENT to discuss some symptoms they have been having. During the exam, Terri's doctor tells her that the structures in Brian's ear appear to be fine. Brian's doctor tells him that it appears as though Terri has suffered some damage to his semicircular canals. Is Brian more or less likely than Terri to have trouble staying balanced?
+Answer: less
+Explanation: 
+
+--------------------------------------------------
+PassageID: 8
+Passage: Aggressive resemblance is used by predators or parasites. In special aggressive resemblance, the animal looks like something else, luring the prey or host to approach, for example when a flower mantis resembles a particular kind of flower, such as an orchid. In general aggressive resemblance, the predator or parasite blends in with the background, for example when a leopard is hard to see in long grass.For adventitious protection, an animal uses materials such as twigs, sand, or pieces of shell to conceal its outline, for example when a caddis fly larva builds a decorated case, or when a decorator crab decorates its back with seaweed, sponges and stones.In variable protective resemblance, an animal such as a chameleon, flatfish, squid or octopus changes its skin pattern and color using special chromatophore cells to resemble whatever background it is currently resting on (as well as for signalling).The main mechanisms to create the resemblances described by Poulton â€“ whether in nature or in military applications â€“ are crypsis, blending into the background so as to become hard to see (this covers both special and general resemblance); disruptive patterning, using color and pattern to break up the animal's outline, which relates mainly to general resemblance; mimesis, resembling other objects of no special interest to the observer, which relates to special resemblance; countershading, using graded color to create the illusion of flatness, which relates mainly to general resemblance; and counterillumination, producing light to match the background, notably in some species of squid.Countershading was first described by the American artist Abbott Handerson Thayer, a pioneer in the theory of animal coloration. Thayer observed that whereas a painter takes a flat canvas and uses colored paint to create the illusion of solidity by painting in shadows, animals such as deer are often darkest on their backs, becoming lighter towards the belly, creating (as zoologist Hugh Cott observed) the illusion of flatness, and against a matching background, of invisibility. Thayer's observation "Animals are painted by Nature, darkest on those parts which tend to be most lighted by the sky's light, and vice versa" is called Thayer's Law.
+
+Questions:
+QuestionID: 3938805755
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species A blends into the background of its surroundings to disguise itself; Species B uses color to break up the outline of its body to disguise itself; Species C is able to resemble a flower that its prey is not interested in to disguise itself; Species D is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species E is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using crypsis to disguise itself?
+Answer: Species A
+Explanation: 
+
+QuestionID: 3431755161
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species A blends into the background of its surroundings to disguise itself; Species B uses color to break up the outline of its body to disguise itself; Species C is able to resemble a flower that its prey is not interested in to disguise itself; Species D is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species E is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using disruptive patterning to disguise itself?
+Answer: Species B
+Explanation: 
+
+QuestionID: 3904202725
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species A blends into the background of its surroundings to disguise itself; Species B uses color to break up the outline of its body to disguise itself; Species C is able to resemble a flower that its prey is not interested in to disguise itself; Species D is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species E is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using mimesis to disguise itself?
+Answer: Species C
+Explanation: 
+
+QuestionID: 3528616652
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species A blends into the background of its surroundings to disguise itself; Species B uses color to break up the outline of its body to disguise itself; Species C is able to resemble a flower that its prey is not interested in to disguise itself; Species D is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species E is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using countershading to disguise itself?
+Answer: Species D
+Explanation: 
+
+QuestionID: 4141378819
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species A blends into the background of its surroundings to disguise itself; Species B uses color to break up the outline of its body to disguise itself; Species C is able to resemble a flower that its prey is not interested in to disguise itself; Species D is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species E is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using counterillumination to disguise itself?
+Answer: Species E
+Explanation: 
+
+QuestionID: 2852483253
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species A blends into the background of its surroundings to disguise itself; Species B uses color to break up the outline of its body to disguise itself; Species C is able to resemble a flower that its prey is not interested in to disguise itself; Species D is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species E is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using general resemblance mechanisms to disguise itself?
+Answer: Species B
+Explanation: 
+
+QuestionID: 935817577
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species A blends into the background of its surroundings to disguise itself; Species B uses color to break up the outline of its body to disguise itself; Species C is able to resemble a flower that its prey is not interested in to disguise itself; Species D is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species E is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using a special resemblance mechanism, Species B or Species C?
+Answer: Species C
+Explanation: 
+
+QuestionID: 936931691
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species A blends into the background of its surroundings to disguise itself; Species B uses color to break up the outline of its body to disguise itself; Species C is able to resemble a flower that its prey is not interested in to disguise itself; Species D is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species E is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using a special resemblance mechanism, Species C or Species D?
+Answer: Species C
+Explanation: 
+
+QuestionID: 923103592
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species A blends into the background of its surroundings to disguise itself; Species B uses color to break up the outline of its body to disguise itself; Species C is able to resemble a flower that its prey is not interested in to disguise itself; Species D is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species E is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using a general resemblance mechanism, Species C or Species D?
+Answer: Species D
+Explanation: 
+
+QuestionID: 88043085
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species A blends into the background of its surroundings to disguise itself; Species B uses color to break up the outline of its body to disguise itself; Species C is able to resemble a flower that its prey is not interested in to disguise itself; Species D is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species E is able to produce light that helps it match the background of its surroundings to disguise itself. Which species uses both general and special resemblance mechanisms?
+Answer: Species A
+Explanation: 
+
+QuestionID: 3938805755
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species B blends into the background of its surroundings to disguise itself; Species A uses color to break up the outline of its body to disguise itself; Species D is able to resemble a flower that its prey is not interested in to disguise itself; Species C is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species G is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using crypsis to disguise itself?
+Answer: Species B
+Explanation: 
+
+QuestionID: 3431755161
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species B blends into the background of its surroundings to disguise itself; Species A uses color to break up the outline of its body to disguise itself; Species D is able to resemble a flower that its prey is not interested in to disguise itself; Species C is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species G is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using disruptive patterning to disguise itself?
+Answer: Species A
+Explanation: 
+
+QuestionID: 3904202725
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species B blends into the background of its surroundings to disguise itself; Species A uses color to break up the outline of its body to disguise itself; Species D is able to resemble a flower that its prey is not interested in to disguise itself; Species C is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species G is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using mimesis to disguise itself?
+Answer: Species D
+Explanation: 
+
+QuestionID: 3528616652
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species B blends into the background of its surroundings to disguise itself; Species A uses color to break up the outline of its body to disguise itself; Species D is able to resemble a flower that its prey is not interested in to disguise itself; Species C is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species G is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using countershading to disguise itself?
+Answer: Species C
+Explanation: 
+
+QuestionID: 4141378819
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species B blends into the background of its surroundings to disguise itself; Species A uses color to break up the outline of its body to disguise itself; Species D is able to resemble a flower that its prey is not interested in to disguise itself; Species C is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species G is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using counterillumination to disguise itself?
+Answer: Species G
+Explanation: 
+
+QuestionID: 2852483253
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species B blends into the background of its surroundings to disguise itself; Species A uses color to break up the outline of its body to disguise itself; Species D is able to resemble a flower that its prey is not interested in to disguise itself; Species C is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species G is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using general resemblance mechanisms to disguise itself?
+Answer: Species A
+Explanation: 
+
+QuestionID: 935817577
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species B blends into the background of its surroundings to disguise itself; Species A uses color to break up the outline of its body to disguise itself; Species D is able to resemble a flower that its prey is not interested in to disguise itself; Species C is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species G is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using a special resemblance mechanism, Species B or Species C?
+Answer: Species D
+Explanation: 
+
+QuestionID: 936931691
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species B blends into the background of its surroundings to disguise itself; Species A uses color to break up the outline of its body to disguise itself; Species D is able to resemble a flower that its prey is not interested in to disguise itself; Species C is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species G is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using a special resemblance mechanism, Species C or Species D?
+Answer: Species D
+Explanation: 
+
+QuestionID: 923103592
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species B blends into the background of its surroundings to disguise itself; Species A uses color to break up the outline of its body to disguise itself; Species D is able to resemble a flower that its prey is not interested in to disguise itself; Species C is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species G is able to produce light that helps it match the background of its surroundings to disguise itself. Which species is using a general resemblance mechanism, Species C or Species D?
+Answer: Species C
+Explanation: 
+
+QuestionID: 88043085
+Question: Dwight is studying a new region of a rainforest that has been previously unexplored. He is observing the different species of the area and is determining the different mechanisms by which these species disguise themselves in order to hide from prey in order to correctly classify them. Dwight observes that Species B blends into the background of its surroundings to disguise itself; Species A uses color to break up the outline of its body to disguise itself; Species D is able to resemble a flower that its prey is not interested in to disguise itself; Species C is able to adjust its color to appear flat and blend in to the ground to disguise itself; and Species G is able to produce light that helps it match the background of its surroundings to disguise itself. Which species uses both general and special resemblance mechanisms?
+Answer: Species B
+Explanation: 
+
+--------------------------------------------------
+PassageID: 9
+Passage: Before dealing with the specifics of the rules for determining the significant figures in a calculated result, we need to be able to round numbers correctly. To round a number, first decide how many significant figures the number should have. Once you know that, round to that many digits, starting from the left. If the number immediately to the right of the last significant digit is less than 5, it is dropped and the value of the last significant digit remains the same. If the number immediately to the right of the last significant digit is greater than or equal to 5, the last significant digit is increased by 1.
+
+Questions:
+QuestionID: 3591913191
+Question: Matt was trying to stick to a budget at the grocery store so he estimated what he was spending as he went along. He grabbed some milk for $3.45 and $3.50 to his total. When picked up cookies for $2.03 he added $2 to his total. What was the signifigant number in the milk price?
+Answer: 3.4
+Explanation: 
+
+QuestionID: 453197661
+Question: Matt was trying to stick to a budget at the grocery store so he estimated what he was spending as he went along. He grabbed some milk for $3.45 and $3.50 to his total. When picked up cookies for $2.03 he added $2 to his total. How many signifigant number were in the milk price?
+Answer: 2
+Explanation: 
+
+QuestionID: 898056373
+Question: Matt was trying to stick to a budget at the grocery store so he estimated what he was spending as he went along. He grabbed some milk for $3.45 and $3.50 to his total. When picked up cookies for $2.03 he added $2.00 to his total. What was the signifigant numbers in the cookie price?
+Answer: 2
+Explanation: 
+
+QuestionID: 3591913191
+Question: Matt was trying to stick to a budget at the grocery store so he estimated what he was spending as he went along. He grabbed some milk for $3.63 and $4 to his total. When picked up cookies for $2.21 he added $2.2 to his total. What was the signifigant number in the milk price?
+Answer: 3.6
+Explanation: 
+
+QuestionID: 453197661
+Question: Matt was trying to stick to a budget at the grocery store so he estimated what he was spending as he went along. He grabbed some milk for $3.63 and $3.6 to his total. When picked up cookies for $2.21 he added $2.2 to his total. How many signifigant number were in the milk price?
+Answer: 1
+Explanation: 
+
+QuestionID: 898056373
+Question: Matt was trying to stick to a budget at the grocery store so he estimated what he was spending as he went along. He grabbed some milk for $3.63 and $3.6 to his total. When picked up cookies for $2.21 he added $2 to his total. What was the signifigant numbers in the cookie price?
+Answer: 1
+Explanation: 
+
+--------------------------------------------------
+PassageID: 10
+Passage: Human beings invented agriculture about 10,000 years ago. This provided a bigger, more dependable food supply. It also allowed people to settle down in villages and cities for the first time. Birth rates went up because there was more food and settled life had other advantages. Death rates also rose because of crowded living conditions and diseases that spread from domestic animals. Because the higher birth rates were matched by higher death rates, the human population continued to grow very slowly.
+
+Questions:
+QuestionID: 3641393713
+Question: As people moved into the area and developed it. The rodents in the area found that human agriculture and waste from urban areas greatly increased the amount of food available to them. On the other hand humans brought a new predator with them in the form of house cats who quickly added the rodents to their menu. Will an increase in food increase or decrease the rodent population?
+Answer: increase
+Explanation: 
+
+QuestionID: 3841868320
+Question: As people moved into the area and developed it. The rodents in the area found that human agriculture and waste from urban areas greatly increased the amount of food available to them. On the other hand humans brought a new predator with them in the form of house cats who quickly added the rodents to their menu. With more food will birth rates increase or decrease among rodents??
+Answer: increase
+Explanation: 
+
+QuestionID: 3439477931
+Question: As people moved into the area and developed it. The rodents in the area found that human agriculture and waste from urban areas greatly increased the amount of food available to them. On the other hand humans brought a new predator with them in the form of house cats who quickly added the rodents to their menu. With more predatorscause the death rate to increase or decrease? the roden?
+Answer: increase
+Explanation: 
+
+QuestionID: 3577300473
+Question: As people moved into the area and developed it. The rodents in the area found that human agriculture and waste from urban areas greatly increased the amount of food available to them. On the other hand humans brought a new predator with them in the form of house cats who quickly added the rodents to their menu. Will new predators cause an increase or decrease in the population?? the roden?
+Answer: decrease
+Explanation: 
+
+QuestionID: 494489396
+Question: As people moved into the area and developed it. The rodents in the area found that human agriculture and waste from urban areas greatly increased the amount of food available to them. On the other hand humans brought a new predator with them in the form of house cats who quickly added the rodents to their menu. Will the over all population increase, decrease or stay the same with both more food and more predators?
+Answer: stay the same
+Explanation: 
+
+QuestionID: 481376656
+Question: As people moved into the area and developed it. The rodents in the area found that human agriculture and waste from urban areas greatly increased the amount of food available to them. On the other hand humans brought a new predator with them in the form of house cats who quickly added the rodents to their menu. Is the rodent population stable or unstable?
+Answer: stable
+Explanation: 
+
+QuestionID: 3641393713
+Question: As people moved into the area and developed it. The rodents in the area found that human agriculture and waste from urban areas greatly increased the amount of food available to them. Similar to humans, the rodents are affected by the death rates spread by crowded living conditions. The proportion of birth and death rates are similar to humans. Will an increase in food increase or decrease the rodent population?
+Answer: increase
+Explanation: 
+
+QuestionID: 3841868320
+Question: As people moved into the area and developed it. The rodents in the area found that human agriculture and waste from urban areas greatly increased the amount of food available to them. Similar to humans, the rodents are affected by the death rates spread by crowded living conditions. The proportion of birth and death rates are similar to humans. With more food will birth rates increase or decrease among rodents??
+Answer: increase
+Explanation: 
+
+QuestionID: 3439477931
+Question: As people moved into the area and developed it. The rodents in the area found that human agriculture and waste from urban areas greatly increased the amount of food available to them. Similar to humans, the rodents are affected by the death rates spread by crowded living conditions. The proportion of birth and death rates are similar to humans. With more predatorscause the death rate to increase or decrease? the roden?
+Answer: increase
+Explanation: 
+
+QuestionID: 3577300473
+Question: As people moved into the area and developed it. The rodents in the area found that human agriculture and waste from urban areas greatly increased the amount of food available to them. Similar to humans, the rodents are affected by the death rates spread by crowded living conditions. The proportion of birth and death rates are similar to humans. Will new crowding cause an increase or decrease in the death rate?
+Answer: increase
+Explanation: 
+
+QuestionID: 494489396
+Question: As people moved into the area and developed it. The rodents in the area found that human agriculture and waste from urban areas greatly increased the amount of food available to them. Similar to humans, the rodents are affected by the death rates spread by crowded living conditions. The proportion of birth and death rates are similar to humans. Will the over all population increase, decrease or stay the same with both more food and more predators?
+Answer: increase
+Explanation: 
+
+QuestionID: 481376656
+Question: As people moved into the area and developed it. The rodents in the area found that human agriculture and waste from urban areas greatly increased the amount of food available to them. Similar to humans, the rodents are affected by the death rates spread by crowded living conditions. The proportion of birth and death rates are similar to humans. Is the rodent population stable or unstable?
+Answer: stable
+Explanation: 
+
+--------------------------------------------------
+PassageID: 11
+Passage: You don’t have to suffer through an infection to gain immunity to some diseases. Immunity can also come about by vaccination. Vaccination is the process of exposing a person to pathogens on purpose so the person will develop immunity to them. In vaccination, the pathogens are usually injected under the skin. Only part of the pathogens are injected, or else weakened or dead pathogens are used. This causes an immune response without causing the disease. Diseases you are likely to have been vaccinated against include measles, mumps, and chicken pox.
+
+Questions:
+QuestionID: 3095595343
+Question: Jane took her young son Ethan to the doctors for a check-up. While they were there her son got vaccines for measles and mumps.  Is Ethan more or less likely to get measles?
+Answer: less
+Explanation: 
+
+QuestionID: 2543781817
+Question: Jane took her young son Ethan to the doctors for a check-up. While they were there her son got vaccines for measles and mumps.  Will Ethan be immune or not to measles?
+Answer: immune
+Explanation: 
+
+QuestionID: 3095595343
+Question: Jane took her young sons Ethan and Ethen to the doctors for a check-up. While they were there Ethen got vaccines for measles and mumps.  Is Ethen more or less likely to get measles?
+Answer: more
+Explanation: 
+
+QuestionID: 2543781817
+Question: Jane took her young son Ethan to the doctors for a check-up. While they were there her son got vaccines for measles and mumps.  Will Ethan be immune or not to chicken pox?
+Answer: not
+Explanation: 
+
+--------------------------------------------------
+PassageID: 12
+Passage: Rain dissolves fertilizer in the soil. Runoff carries it away. The fertilizer ends up in bodies of water, from ponds to oceans. The nitrogen is a fertilizer in the water bodies. Since there is a lot of nitrogen it causes algae to grow out of control. Figure below shows a pond covered with algae. Algae may use up so much oxygen in the water that nothing else can grow. Soon, even the algae die out. Decomposers break down the dead tissue and use up all the oxygen in the water. This creates a dead zone. A dead zone is an area in a body of water where nothing grows because there is too little oxygen. There is a large dead zone in the Gulf of Mexico. You can see it Figure below .
+
+Questions:
+QuestionID: 730169441
+Question: Mark's grandparents owned some land in the country and he remembered fishing there when he was young. Mark decided to go visit the place and do some fishing. He was disappointed when he got there and saw the pond covered in algae. Since he had come all this way he decided to try fishing anyway but didn't catch any fish all day. what caused the algae to grow too much nitrogen or too much oxygen?
+Answer: algae
+Explanation: 
+
+QuestionID: 1383168928
+Question: Mark's grandparents owned some land in the country and he remembered fishing there when he was young. Mark decided to go visit the place and do some fishing. He was disappointed when he got there and saw the pond covered in algae and there were very few fish. Since he had come all this way he decided to try fishing anyway but didn't catch any fish all day. What was killing the fish?
+Answer: algae
+Explanation: 
+
+QuestionID: 2264696651
+Question: Mark's grandparents owned some land in the country and he remembered fishing there when he was young. Mark decided to go visit the place and do some fishing. He was disappointed when he got there and saw the pond covered in algae and there were very few fish. Since he had come all this way he decided to try fishing anyway but didn't catch any fish all day. Is there too much nitrogen or to much oxygen in the water?
+Answer: oxygen
+Explanation: 
+
+QuestionID: 1209041693
+Question: Mark's grandparents owned some land in the country and he remembered fishing there when he was young. Mark decided to go visit the place and do some fishing. He was disappointed when he got there and saw the pond covered in algae and there were very few fish. Since he had come all this way he decided to try fishing anyway but didn't catch any fish all day. Will the algea keep growing or eventually die?
+Answer: die
+Explanation: 
+
+QuestionID: 3024443367
+Question: As mark walked along the field he saw a small pond and walked over to it.  As Mark looked around at the wide open farm land he wondered why none fished there. Once he was closer noticed that the pond was completely covered with algae. Is there too much oxygen or nitrogen in the water?
+Answer: nitrogen
+Explanation: 
+
+QuestionID: 211638425
+Question: As mark walked along the field he saw a small pond and walked over to it.  As Mark looked around at the wide open farm land he wondered why none fished there. Once he was closer noticed that the pond was completely covered with algae. Is the algea consuming the oxygen or carbondioxide?
+Answer: carbondioxide
+Explanation: 
+
+QuestionID: 2077972829
+Question: As mark walked along the field he saw a small pond and walked over to it.  As Mark looked around at the wide open farm land he wondered why none fished there. Once he was closer noticed that the pond was completely covered with algae. will decomposser use up the oxygen or carbondioxide?
+Answer: oxygen
+Explanation: 
+
+QuestionID: 2571850738
+Question: As mark walked along the field he saw a small pond and walked over to it.  As Mark looked around at the wide open farm land he wondered why none fished there. Once he was closer noticed that the pond was completely covered with algae. Does a lot of algea benefit or harm fish?
+Answer: harm
+Explanation: 
+
+QuestionID: 1422742635
+Question: As mark walked along the field he saw a small pond and walked over to it.  As Mark looked around at the wide open farm land he wondered why none fished there. Once he was closer noticed that the pond was completely covered with algae. Is the water habitable or uninhabitable?
+Answer: uninhabitable
+Explanation: 
+
+QuestionID: 3256773569
+Question: Mark had been fishing all morning and only caught one fish. He was disappointed because he remembers catching a lot of fish here as a child. There was a lot more algae than back then but other wise the area looked pretty much the same, dotted with lots of small farms. Was there more or less nitrogen in the water than when Mark was a child.
+Answer: more
+Explanation: 
+
+QuestionID: 3871894261
+Question: Mark had been fishing all morning and only caught one fish. He was disappointed because he remembers catching a lot of fish here as a child. There was a lot more algae than back then but other wise the area looked pretty much the same, dotted with lots of small farms. Was there more or less oxygen in the water than when Mark was a child.
+Answer: less
+Explanation: 
+
+QuestionID: 4152649885
+Question: Mark had been fishing all morning and only caught one fish. He was disappointed because he remembers catching a lot of fish here as a child. There was a lot more algae than back then but other wise the area looked pretty much the same, dotted with lots of small farms. Is the pond able to support more or less fish than in the past?
+Answer: less
+Explanation: 
+
+QuestionID: 617572396
+Question: Mark had been fishing all morning and only caught one fish. He was disappointed because he remembers catching a lot of fish here as a child. There was a lot more algae than back then but other wise the area looked pretty much the same, dotted with lots of small farms. If the algea dies will the oxygen level increase or decrease?
+Answer: decrease
+Explanation: 
+
+QuestionID: 1606183149
+Question: Mark had been fishing all morning and only caught one fish. He was disappointed because he remembers catching a lot of fish here as a child. There was a lot more algae than back then but other wise the area looked pretty much the same, dotted with lots of small farms. Is the pond able to support more or less algae than in the past?
+Answer: more
+Explanation: 
+
+QuestionID: 3256773569
+Question: Mark had been fishing all morning and only caught one fish. He was disappointed because he remembers catching a lot of fish here as a child. There was a lot more algae than back then but other wise the area looked pretty much the same, dotted with lots of small farms. Was there more or less nitrogen in the water than when Mark was 30 years old?
+Answer: less
+Explanation: 
+
+QuestionID: 3871894261
+Question: Mark had been fishing all morning and only caught one fish. He was disappointed because he remembers catching a lot of fish here as a child. There was a lot more algae than back then but other wise the area looked pretty much the same, dotted with lots of small farms. Was there more or less oxygen in the water than when Mark was 30 years old?
+Answer: more
+Explanation: 
+
+QuestionID: 4152649885
+Question: Mark had been fishing all morning and only caught one fish. He was disappointed because he remembers catching a lot of fish here as a child. There was a lot more algae than back then but other wise the area looked pretty much the same, dotted with lots of small farms. Are fishes in the pond easier to die or live than in the past?
+Answer: die
+Explanation: 
+
+QuestionID: 617572396
+Question: Mark had been fishing all morning and only caught one fish. He was disappointed because he remembers catching a lot of fish here as a child. There was a lot more algae than back then but other wise the area looked pretty much the same, dotted with lots of small farms. If the algea dies and the dead algea is cleaned by human, will the oxygen level increase or decrease?
+Answer: increase
+Explanation: 
+
+QuestionID: 1606183149
+Question: Mark had been fishing all morning and only caught one fish. He was disappointed because he remembers catching a lot of fish here as a child. There was a lot more algae than back then but other wise the area looked pretty much the same, dotted with lots of small farms. Is the pond able to support more or less algae in the past?
+Answer: less
+Explanation: 
+
+--------------------------------------------------
+PassageID: 13
+Passage: The epidermis also contains melanocytes, which are cells that produce melanin. Melanin is the brownish pigment that gives skin much of its color. Everyone has about the same number of melanocytes, but the melanocytes of people with darker skin produce more melanin. The amount of melanin produced is determined by heredity and exposure to UV light, which increases melanin output. Exposure to UV light also stimulates the skin to produce vitamin D. Because melanin blocks UV light from penetrating the skin, people with darker skin may be at greater risk of vitamin D deficiency.
+
+Questions:
+QuestionID: 1674973276
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much lighter skin than Ivy, who is fairly dark complected. Whose skin produces more melanin, Lily or Ivy?
+Answer: Ivy
+Explanation: 
+
+QuestionID: 1679560800
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much lighter skin than Ivy, who is fairly dark complected. Whose skin produces less melanin, Lily or Ivy?
+Answer: Lily
+Explanation: 
+
+QuestionID: 218631822
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much lighter skin than Ivy, who is fairly dark complected. Does Lily or Ivy's skin have more melanin?
+Answer: Ivy
+Explanation: 
+
+QuestionID: 219811474
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much lighter skin than Ivy, who is fairly dark complected. Does Lily or Ivy's skin have less melanin?
+Answer: Lily
+Explanation: 
+
+QuestionID: 1628642509
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much lighter skin than Ivy, who is fairly dark complected. If the sisters go to a tanning bed, will their skin produce more or less melanin?
+Answer: more
+Explanation: 
+
+QuestionID: 3720353610
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much lighter skin than Ivy, who is fairly dark complected. Is Lily more or less likely to have vitamin D deficiency than Ivy?
+Answer: less
+Explanation: 
+
+QuestionID: 3698988874
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much lighter skin than Ivy, who is fairly dark complected. Is Ivy more or less likely to have vitamin D deficiency than Lily?
+Answer: more
+Explanation: 
+
+QuestionID: 3088586502
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much lighter skin than Ivy, who is fairly dark complected. Which sister is more likely to experience vitamin D deficiency?
+Answer: Ivy
+Explanation: 
+
+QuestionID: 3098679050
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much lighter skin than Ivy, who is fairly dark complected. Which sister is less likely to experience vitamin D deficiency?
+Answer: Lily
+Explanation: 
+
+QuestionID: 4026671556
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much lighter skin than Ivy, who is fairly dark complected. If Lily sunbathes and her skin gets darker, will her melanin production increase or decrease?
+Answer: increase
+Explanation: 
+
+QuestionID: 1674973276
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much darker skin than Ivy, who is fairly light complected. Whose skin produces more melanin, Lily or Ivy?
+Answer: Lily
+Explanation: 
+
+QuestionID: 1679560800
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much darker skin than Ivy, who is fairly light complected. Whose skin produces less melanin, Lily or Ivy?
+Answer: Ivy
+Explanation: 
+
+QuestionID: 218631822
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much darker skin than Ivy, who is fairly light complected. Does Lily or Ivy's skin have more melanin?
+Answer: Lily
+Explanation: 
+
+QuestionID: 219811474
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much darker skin than Ivy, who is fairly light complected. Does Lily or Ivy's skin have less melanin?
+Answer: Ivy
+Explanation: 
+
+QuestionID: 1628642509
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much darker skin than Ivy, who is fairly light complected. If the sisters go to a tanning bed, will their skin produce more or less melanin?
+Answer: more
+Explanation: 
+
+QuestionID: 3720353610
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much darker skin than Ivy, who is fairly light complected. Is Lily more or less likely to have vitamin D deficiency than Ivy?
+Answer: more
+Explanation: 
+
+QuestionID: 3698988874
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much darker skin than Ivy, who is fairly light complected. Is Ivy more or less likely to have vitamin D deficiency than Lily?
+Answer: less
+Explanation: 
+
+QuestionID: 3088586502
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much darker skin than Ivy, who is fairly light complected. Which sister is more likely to experience vitamin D deficiency?
+Answer: Lily
+Explanation: 
+
+QuestionID: 3098679050
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much darker skin than Ivy, who is fairly light complected. Which sister is less likely to experience vitamin D deficiency?
+Answer: Ivy
+Explanation: 
+
+QuestionID: 4026671556
+Question: Lily and Ivy are biological sisters. Due to genetics, Lily has much darker skin than Ivy, who is fairly light complected. If Lily sunbathes and her skin gets darker, will her melanin production increase or decrease?
+Answer: increase
+Explanation: 
+
+--------------------------------------------------
+PassageID: 14
+Passage: Depleted soils can be protected from soil erosion by groundcover plants such as naturally growing grasses in agroforestry systems. These help to stabilise the soil as they increase cover compared to short-cycle cropping systems. Soil cover is a crucial factor in preventing erosion. Cleaner water through reduced nutrient and soil surface runoff can be a further advantage of agroforestry. The runoff can be reduced by decreasing its velocity and increasing infiltration into the soil. Compared to row-cropped fields nutrient uptake can be higher and reduce nutrient loss into streams.Further advantages concerning plant growth:
+
+Questions:
+QuestionID: 4027940065
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and there are no groundcover plants in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of groundcover plants in the soil. She is curious about how the different styles of growing these crops will affect soil erosion. Which field will experience more soil erosion?
+Answer: Field C
+Explanation: 
+
+QuestionID: 4030430437
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and there are no groundcover plants in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of groundcover plants in the soil. She is curious about how the different styles of growing these crops will affect soil erosion. Which field will experience less soil erosion?
+Answer: Field B
+Explanation: 
+
+QuestionID: 1425375738
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and there are no groundcover plants in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of groundcover plants in the soil. She is curious about how the different styles of growing these crops will affect soil erosion. Will Field C experience more or less soil erosion than Field B?
+Answer: more
+Explanation: 
+
+QuestionID: 1422098938
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and there are no groundcover plants in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of groundcover plants in the soil. She is curious about how the different styles of growing these crops will affect soil erosion. Will Field B experience more or less soil erosion than Field C?
+Answer: less
+Explanation: 
+
+QuestionID: 3507325891
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and there are no groundcover plants in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of groundcover plants in the soil. She is curious about how the different styles of growing these crops will affect soil erosion. Which planting system will result in cleaner water due to less runoff, Field B or Field C?
+Answer: Field B
+Explanation: 
+
+QuestionID: 116690224
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and there are no groundcover plants in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of groundcover plants in the soil. She is curious about how the different styles of growing these crops will affect soil erosion. Which planting system will not result in cleaner water due to more runoff, Field B or Field C?
+Answer: Field C
+Explanation: 
+
+QuestionID: 1850114699
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and there are no groundcover plants in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of groundcover plants in the soil. She is curious about how the different styles of growing these crops will affect soil erosion. Which crops will have higher nutrient uptake, Field B or Field C?
+Answer: Field B
+Explanation: 
+
+QuestionID: 1727168971
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and there are no groundcover plants in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of groundcover plants in the soil. She is curious about how the different styles of growing these crops will affect soil erosion. Which crops will have less nutrient uptake, Field B or Field C?
+Answer: Field C
+Explanation: 
+
+QuestionID: 1406893923
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and there are no groundcover plants in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of groundcover plants in the soil. She is curious about how the different styles of growing these crops will affect soil erosion. Which field will produce less runoff, Field B or Field C?
+Answer: Field B
+Explanation: 
+
+QuestionID: 1400733535
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and there are no groundcover plants in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of groundcover plants in the soil. She is curious about how the different styles of growing these crops will affect soil erosion. Which field will produce more runoff, Field B or Field C?
+Answer: Field C
+Explanation: 
+
+QuestionID: 4027940065
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and has alfalfa around it in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of thin grass in the soil. Alfalfa is a ground cover plant and the thin grass is not a ground cover plant. She is curious about how the different styles of growing these crops will affect soil erosion. Which field will experience more soil erosion?
+Answer: Field B
+Explanation: 
+
+QuestionID: 4030430437
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and has alfalfa around it in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of thin grass in the soil. Alfalfa is a ground cover plant and the thin grass is not a ground cover plant. She is curious about how the different styles of growing these crops will affect soil erosion. Which field will experience less soil erosion?
+Answer: Field C
+Explanation: 
+
+QuestionID: 1425375738
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and has alfalfa around it in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of thin grass in the soil. Alfalfa is a ground cover plant and the thin grass is not a ground cover plant. She is curious about how the different styles of growing these crops will affect soil erosion. Will Field C experience more or less soil erosion than Field B?
+Answer: less
+Explanation: 
+
+QuestionID: 1422098938
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and has alfalfa around it in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of thin grass in the soil. Alfalfa is a ground cover plant and the thin grass is not a ground cover plant. She is curious about how the different styles of growing these crops will affect soil erosion. Will Field B experience more or less soil erosion than Field C?
+Answer: more
+Explanation: 
+
+QuestionID: 3507325891
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and has alfalfa around it in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of thin grass in the soil. Alfalfa is a ground cover plant and the thin grass is not a ground cover plant. She is curious about how the different styles of growing these crops will affect soil erosion. Which planting system will result in cleaner water due to less runoff, Field B or Field C?
+Answer: Field C
+Explanation: 
+
+QuestionID: 116690224
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and has alfalfa around it in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of thin grass in the soil. Alfalfa is a ground cover plant and the thin grass is not a ground cover plant. She is curious about how the different styles of growing these crops will affect soil erosion. Which planting system will not result in cleaner water due to more runoff, Field B or Field C?
+Answer: Field B
+Explanation: 
+
+QuestionID: 1850114699
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and has alfalfa around it in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of thin grass in the soil. Alfalfa is a ground cover plant and the thin grass is not a ground cover plant. She is curious about how the different styles of growing these crops will affect soil erosion. Which crops will have higher nutrient uptake, Field B or Field C?
+Answer: Field C
+Explanation: 
+
+QuestionID: 1727168971
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and has alfalfa around it in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of thin grass in the soil. Alfalfa is a ground cover plant and the thin grass is not a ground cover plant. She is curious about how the different styles of growing these crops will affect soil erosion. Which crops will have less nutrient uptake, Field B or Field C?
+Answer: Field B
+Explanation: 
+
+QuestionID: 1406893923
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and has alfalfa around it in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of thin grass in the soil. Alfalfa is a ground cover plant and the thin grass is not a ground cover plant. She is curious about how the different styles of growing these crops will affect soil erosion. Which field will produce less runoff, Field B or Field C?
+Answer: Field C
+Explanation: 
+
+QuestionID: 1400733535
+Question: Jill owns a very large farm where she grows two types of crops. In Field C she grows corn in rows and has alfalfa around it in the soil. In Field B she grows beans; the beans are not planted in rows and there is a layer of thin grass in the soil. Alfalfa is a ground cover plant and the thin grass is not a ground cover plant. She is curious about how the different styles of growing these crops will affect soil erosion. Which field will produce more runoff, Field B or Field C?
+Answer: Field B
+Explanation: 
+
+--------------------------------------------------
+PassageID: 15
+Passage: On Earth, the solar radiation varies with the angle of the Sun above the horizon, with longer sunlight duration at high latitudes during summer, varying to no sunlight at all in winter near the pertinent pole. When the direct radiation is not blocked by clouds, it is experienced as sunshine. The warming of the ground (and other objects) depends on the absorption of the electromagnetic radiation in the form of heat.
+
+Questions:
+QuestionID: 3175700129
+Question: William was traveling in a boat on the Pacific Ocean in the Northern Hemisphere during the summer and got lost at sea when his boat malfunctioned. None of his navigational equipment works and William isn't quite sure where he is or in what direction he is heading. William is trying to determine whether he is moving north or south based on the length of sunlight duration. On Day 1, William recorded 13 hours of sunlight and on Day 45, William recorded 9 hours of sunlight. Is it more or less likely that William is moving north?
+Answer: less
+Explanation: 
+
+QuestionID: 3178452649
+Question: William was traveling in a boat on the Pacific Ocean in the Northern Hemisphere during the summer and got lost at sea when his boat malfunctioned. None of his navigational equipment works and William isn't quite sure where he is or in what direction he is heading. William is trying to determine whether he is moving north or south based on the length of sunlight duration. On Day 1, William recorded 13 hours of sunlight and on Day 45, William recorded 9 hours of sunlight. Is it more or less likely that William is moving south?
+Answer: more
+Explanation: 
+
+QuestionID: 3688588958
+Question: William was traveling in a boat on the Pacific Ocean in the Northern Hemisphere during the summer and got lost at sea when his boat malfunctioned. None of his navigational equipment works and William isn't quite sure where he is or in what direction he is heading. William is trying to determine whether he is moving north or south based on the length of sunlight duration. On Day 1, William recorded 13 hours of sunlight and on Day 45, William recorded 9 hours of sunlight. If William continues to move in the same direction, will he recorded more or less sunlight on Day 60?
+Answer: less
+Explanation: 
+
+QuestionID: 429479709
+Question: William was traveling in a boat on the Pacific Ocean in the Northern Hemisphere during the summer and got lost at sea when his boat malfunctioned. None of his navigational equipment works and William isn't quite sure where he is or in what direction he is heading. William is trying to determine whether he is moving north or south based on the length of sunlight duration. On Day 1, William recorded 13 hours of sunlight and on Day 45, William recorded 9 hours of sunlight. Is it more likely that William is moving north or south?
+Answer: south
+Explanation: 
+
+QuestionID: 1917212547
+Question: William was traveling in a boat on the Pacific Ocean in the Northern Hemisphere during the summer and got lost at sea when his boat malfunctioned. None of his navigational equipment works and William isn't quite sure where he is or in what direction he is heading. William is trying to determine whether he is moving north or south based on the length of sunlight duration. On Day 1, William recorded 13 hours of sunlight and on Day 45, William recorded 9 hours of sunlight. Is it least likely that William is moving north or south?
+Answer: North
+Explanation: 
+
+QuestionID: 3175700129
+Question: William was traveling in a boat on the Pacific Ocean in the Northern Hemisphere during the summer and got lost at sea when his boat malfunctioned. None of his navigational equipment works and William isn't quite sure where he is or in what direction he is heading. William is trying to determine whether he is moving north or south based on the length of sunlight duration. On Day 1, William recorded 13 hours of sunlight and on Day 45, William recorded 9 hours of sunlight. Is it more or less likely that William is moving north?
+Answer: more
+Explanation: 
+
+QuestionID: 3178452649
+Question: William was traveling in a boat on the Pacific Ocean in the Northern Hemisphere during the summer and got lost at sea when his boat malfunctioned. None of his navigational equipment works and William isn't quite sure where he is or in what direction he is heading. William is trying to determine whether he is moving north or south based on the length of sunlight duration. On Day 1, William recorded 13 hours of sunlight and on Day 45, William recorded 9 hours of sunlight. Is it more or less likely that William is moving south?
+Answer: less
+Explanation: 
+
+QuestionID: 3688588958
+Question: William was traveling in a boat on the Pacific Ocean in the Northern Hemisphere during the summer and got lost at sea when his boat malfunctioned. None of his navigational equipment works and William isn't quite sure where he is or in what direction he is heading. William is trying to determine whether he is moving north or south based on the length of sunlight duration. On Day 1, William recorded 13 hours of sunlight and on Day 45, William recorded 9 hours of sunlight. If William continues to move in the same direction, will he recorded more or less sunlight on Day 60?
+Answer: more
+Explanation: 
+
+QuestionID: 429479709
+Question: William was traveling in a boat on the Pacific Ocean in the Northern Hemisphere during the summer and got lost at sea when his boat malfunctioned. None of his navigational equipment works and William isn't quite sure where he is or in what direction he is heading. William is trying to determine whether he is moving north or south based on the length of sunlight duration. On Day 1, William recorded 13 hours of sunlight and on Day 45, William recorded 9 hours of sunlight. Is it more likely that William is moving north or south?
+Answer: north
+Explanation: 
+
+QuestionID: 1917212547
+Question: William was traveling in a boat on the Pacific Ocean in the Northern Hemisphere during the winter and got lost at sea when his boat malfunctioned. None of his navigational equipment works and William isn't quite sure where he is or in what direction he is heading. William is trying to determine whether he is moving north or south based on the length of sunlight duration. On Day 1, William recorded 13 hours of sunlight and on Day 45, William recorded 9 hours of sunlight. Is it least likely that William is moving north or south?
+Answer: south
+Explanation: 
+
+--------------------------------------------------
+PassageID: 16
+Passage: New species develop naturally through the process of natural selection . Due to natural selection, organisms with traits that better enable them to adapt to their environment will tend to survive and reproduce in greater numbers. Natural selection causes beneficial heritable traits to become more common in a population and unfavorable heritable traits to become less common. For example, a giraffeâ€™s neck is beneficial because it allows the giraffe to reach leaves high in trees. Natural selection caused this beneficial trait to become more common than short necks.
+
+Questions:
+QuestionID: 1880577116
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. Each one seemed to have the size beak that was perfect for the seeds it ate. Were finches with a certain size beak more or less likely to survive??
+Answer: more
+Explanation: 
+
+QuestionID: 3257029746
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. Each one seemed to have the size beak that was perfect for the seeds it ate. Were finches with a certain size beak more or less likely to find food?
+Answer: more
+Explanation: 
+
+QuestionID: 3607123478
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. Each one seemed to have the size beak that was perfect for the seeds it ate. Were finches with optimal sized beaks more or less likely to pass on genes
+Answer: more
+Explanation: 
+
+QuestionID: 3926480750
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. Each one seemed to have the size beak that was perfect for the seeds it ate. Were finches without optimal sized beaks more or less likely to pass on genes
+Answer: less
+Explanation: 
+
+QuestionID: 3843642780
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. Each one seemed to have the size beak that was perfect for the seeds it ate. Were finches without optimal sized beaks more or less likely to survive
+Answer: less
+Explanation: 
+
+QuestionID: 2394314225
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. Each one seemed to have the size beak that was perfect for the seeds it ate. Were finches without optimal sized beaks more or less likely to find food
+Answer: less
+Explanation: 
+
+QuestionID: 2693156625
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. Each one seemed to have the size beak that was perfect for the seeds it ate. Are beak sizes random or a response to the environment?
+Answer: response to the environment
+Explanation: 
+
+QuestionID: 1191137591
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. Each one seemed to have the size beak that was perfect for the seeds it ate. Would finches from one island thrive or struggle on another?
+Answer: struggle
+Explanation: 
+
+QuestionID: 2990626181
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. Each one seemed to have the size beak that was perfect for the seeds it ate. Is each species of finch able to thrive only on their island or anywhere??
+Answer: on their island
+Explanation: 
+
+QuestionID: 1671058462
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. Each one seemed to have the size beak that was perfect for the seeds it ate. Will a change in available food cause finches to thrive or struggle???
+Answer: struggle
+Explanation: 
+
+QuestionID: 1880577116
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Were the small-beaked finches more or less likely to survive on the side with fruits?
+Answer: less
+Explanation: 
+
+QuestionID: 3257029746
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Were the large-beaked finches more or less likely to find food on the side of the island with fruits?
+Answer: more
+Explanation: 
+
+QuestionID: 3607123478
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Were the small-beaked finches more likely to pass on their genes on the side with fruits or seeds?
+Answer: seeds
+Explanation: 
+
+QuestionID: 3926480750
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Were the large-beaked finches more likely to pass on their genes on the side with fruits or seeds?
+Answer: fruits
+Explanation: 
+
+QuestionID: 3843642780
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Were the finches with large beaks worse or better at eating fruit?
+Answer: better
+Explanation: 
+
+QuestionID: 2394314225
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Were the finches with large beaks worse or better at picking up seeds?
+Answer: worse
+Explanation: 
+
+QuestionID: 2693156625
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Are beak sizes random or a response to the environment?
+Answer: response to the environment
+Explanation: 
+
+QuestionID: 1191137591
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Will the finches do better or worse if they switched places to live?
+Answer: worse
+Explanation: 
+
+QuestionID: 2990626181
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Will the finches do worse if they stay in the current location or switch locations?
+Answer: switch locations
+Explanation: 
+
+QuestionID: 1671058462
+Question: When visiting the Galapagos islands Beth was fascinated by the many species of finches. Each had different sides beaks and had carved out its on habitat on the island eating the seeds that were available there. The large-beaked finches lived on the one side of the island with a lot of fruits that required a sizeable beak to crack open, the small-beaked finches were on the side where there was a lot of small seeds that require small beaks to pick up. Will the large beaked finches suffer or not suffer if there were no more seeds?
+Answer: not suffer
+Explanation: 
+
+--------------------------------------------------
+PassageID: 17
+Passage: Air pollution can also indirectly cause other health issues and even deaths. Air pollutants can cause an increase in cancer including lung cancer, eye problems, and other conditions. For example, using certain chemicals on farms, such as the insecticide DDT (dichlorodiphenyltrichloroethane) and toxic PCBs (polychlorinated biphenyl), can cause cancer. Indoors, pollutants such as radon or asbestos can also increase your cancer risk. Lastly, air pollution can lead to heart disease, including heart attack and stroke.
+
+Questions:
+QuestionID: 21700577
+Question: Mark moved from the country to a large city. Since moving to the city he noticed that he was exposed to a lot more smog and other air pollution. When he turned 60 he found out he had lung cancer even though he had never smoked. Is Mark's cancer risk higher or lower in the city?
+Answer: higher
+Explanation: 
+
+QuestionID: 1682055484
+Question: Mark moved from the country to a large city. Since moving to the city he noticed that he was exposed to a lot more smog and other air pollution. When he turned 60 he found out he had lung cancer even though he had never smoked. Is Mark's cancer risk higher or lower in the country?
+Answer: lower
+Explanation: 
+
+QuestionID: 1283994168
+Question: Mark moved from the country were he worked in a retail store to a large city were he worked in a factory. Since moving to the city he noticed that he was exposed to a lot more smog and other air pollution. When he turned 60 he found out he had lung cancer even though he had never smoked. What contributed to Mark's lung cancer?
+Answer: air pollution
+Explanation: 
+
+QuestionID: 393820695
+Question: Mark moved from the country were he worked in a retail store to a large city were he worked in a factory. Since moving to the city he noticed that he was exposed to a lot more smog and other air pollution. When he turned 60 he found out he had lung cancer even though he had never smoked. Is Mark at higher or lower risk for heart disease in the city?
+Answer: higher
+Explanation: 
+
+QuestionID: 3373415282
+Question: Mark moved from the country were he worked in a retail store to a large city were he worked in a factory. Since moving to the city he noticed that he was exposed to a lot more smog and other air pollution. When he turned 60 he found out he had lung cancer even though he had never smoked. Is Mark at higher or lower risk for heart disease in the country?
+Answer: lower
+Explanation: 
+
+QuestionID: 2133986227
+Question: The cities smog [problem had been growing worse for years. It seemed like there was more traffic everyday. Mark was thinking about moving out of the city. Is Mark at higher risk for lung cancer in the city or country?
+Answer: city
+Explanation: 
+
+QuestionID: 1987251045
+Question: The cities smog [problem had been growing worse for years. It seemed like there was more traffic everyday. Mark was thinking about moving out of the city. Is Mark at lower risk for lung cancer in the city or country?
+Answer: country
+Explanation: 
+
+QuestionID: 4115795700
+Question: The cities smog [problem had been growing worse for years. It seemed like there was more traffic everyday. Mark was thinking about moving out of the city. Is Mark at lower risk for repository diseases in the city or country?
+Answer: country
+Explanation: 
+
+QuestionID: 9441090
+Question: The cities smog [problem had been growing worse for years. It seemed like there was more traffic everyday. Mark was thinking about moving out of the city. Is Mark at higher risk for repository diseases in the city or country?
+Answer: city
+Explanation: 
+
+QuestionID: 1143695762
+Question: Air pollution has been a major topic of discussion in two countries on opposite sides of the world, Country A and Country B. Country A has decided to make changes to current policies in an effort to reduce the amount of air pollution they produce. Country B has decided that air pollution isn't so bad, so they don't make any changes to their policies regarding air pollution. Are the citizens of Country A more or less likely to develop cancer than the citizens of Country B?
+Answer: less
+Explanation: 
+
+QuestionID: 1148217746
+Question: Air pollution has been a major topic of discussion in two countries on opposite sides of the world, Country A and Country B. Country A has decided to make changes to current policies in an effort to reduce the amount of air pollution they produce. Country B has decided that air pollution isn't so bad, so they don't make any changes to their policies regarding air pollution. Are the citizens of Country B more or less likely to develop cancer than the citizens of Country A?
+Answer: more
+Explanation: 
+
+QuestionID: 917204024
+Question: Air pollution has been a major topic of discussion in two countries on opposite sides of the world, Country A and Country B. Country A has decided to make changes to current policies in an effort to reduce the amount of air pollution they produce. Country B has decided that air pollution isn't so bad, so they don't make any changes to their policies regarding air pollution. Are the citizens of Country B more or less likely to develop heart disease than the citizens of Country A?
+Answer: more
+Explanation: 
+
+QuestionID: 912223288
+Question: Air pollution has been a major topic of discussion in two countries on opposite sides of the world, Country A and Country B. Country A has decided to make changes to current policies in an effort to reduce the amount of air pollution they produce. Country B has decided that air pollution isn't so bad, so they don't make any changes to their policies regarding air pollution. Are the citizens of Country A more or less likely to develop heart disease than the citizens of Country B?
+Answer: less
+Explanation: 
+
+QuestionID: 861234509
+Question: Air pollution has been a major topic of discussion in two countries on opposite sides of the world, Country A and Country B. Country A has decided to make changes to current policies in an effort to reduce the amount of air pollution they produce. Country B has decided that air pollution isn't so bad, so they don't make any changes to their policies regarding air pollution. Which country will likely have more diagnosed cancer patients, Country A or Country B?
+Answer: Country B
+Explanation: 
+
+QuestionID: 2599511475
+Question: Air pollution has been a major topic of discussion in two countries on opposite sides of the world, Country A and Country B. Country A has decided to make changes to current policies in an effort to reduce the amount of air pollution they produce. Country B has decided that air pollution isn't so bad, so they don't make any changes to their policies regarding air pollution. Which country will likely have fewer diagnosed cancer patients, Country A or Country B?
+Answer: Country A
+Explanation: 
+
+QuestionID: 1143695762
+Question: Air pollution has been a major topic of discussion in two countries on opposite sides of the world, Country P and Country R. Country P has decided to keep the current policies in an effort to reduce the amount of air pollution they produce. Country R has decided that air pollution isn't so bad, so they want to roll back the policies that were aimed at addressing air pollution. Are the citizens of Country P more or less likely to develop cancer than the citizens of Country R?
+Answer: more
+Explanation: 
+
+QuestionID: 1148217746
+Question: Air pollution has been a major topic of discussion in two countries on opposite sides of the world, Country P and Country R. Country P has decided to keep the current policies in an effort to reduce the amount of air pollution they produce. Country R has decided that air pollution isn't so bad, so they want to roll back the policies that were aimed at addressing air pollution. Are the citizens of Country P more or less likely to develop cancer than the citizens of Country R?
+Answer: less
+Explanation: 
+
+QuestionID: 917204024
+Question: Air pollution has been a major topic of discussion in two countries on opposite sides of the world, Country P and Country R. Country P has decided to keep the current policies in an effort to reduce the amount of air pollution they produce. Country R has decided that air pollution isn't so bad, so they want to roll back the policies that were aimed at addressing air pollution. Are the citizens of Country P more or less likely to develop heart disease than the citizens of Country R?
+Answer: less
+Explanation: 
+
+QuestionID: 912223288
+Question: Air pollution has been a major topic of discussion in two countries on opposite sides of the world, Country P and Country R. Country P has decided to keep the current policies in an effort to reduce the amount of air pollution they produce. Country R has decided that air pollution isn't so bad, so they want to roll back the policies that were aimed at addressing air pollution. Are the citizens of Country P more or less likely to develop heart disease than the citizens of Country R?
+Answer: more
+Explanation: 
+
+QuestionID: 861234509
+Question: Air pollution has been a major topic of discussion in two countries on opposite sides of the world, Country P and Country R. Country P has decided to keep the current policies in an effort to reduce the amount of air pollution they produce. Country R has decided that air pollution isn't so bad, so they want to roll back the policies that were aimed at addressing air pollution. Which country will likely have more diagnosed cancer patients, Country P or Country R?
+Answer: country P
+Explanation: 
+
+QuestionID: 2599511475
+Question: Air pollution has been a major topic of discussion in two countries on opposite sides of the world, Country P and Country R. Country P has decided to keep the current policies in an effort to reduce the amount of air pollution they produce. Country R has decided that air pollution isn't so bad, so they want to roll back the policies that were aimed at addressing air pollution. Which country will likely have fewer diagnosed cancer patients, Country P or Country R?
+Answer: country R
+Explanation: 
+
+--------------------------------------------------
+PassageID: 18
+Passage: Raising the temperature of a chemical reaction usually results in a higher rate of reaction. When the reactant particles are heated, they move faster and faster. This results in a greater frequency of collisions. A more important effect of the temperature increase is that the collisions occur with a greater force and are thus more likely to surmount the activation energy barrier and go on to form products. Increasing the temperature of a reaction increases the number of effective collisions between reacting particles, so the reaction rate increases.
+
+Questions:
+QuestionID: 4032205996
+Question: Janet is baking cookies for her daughter's birthday party. She has so many cookies to bake that she decides to bake two batches at once using separate ovens. Janet asks her neighbor if she can use her oven for one batch, and uses her own oven for the other batch. Janet sets the oven temperature on both stoves to 375 degrees and begins baking the cookies. However, after she leaves her neighbors house, the oven temperature is accidentally increased to 475. Which cookies will bake faster, the cookies in Janet's oven or the cookies in the neighbor's oven?
+Answer: the cookies in the neighbor's oven
+Explanation: 
+
+QuestionID: 919114718
+Question: Janet is baking cookies for her daughter's birthday party. She has so many cookies to bake that she decides to bake two batches at once using separate ovens. Janet asks her neighbor if she can use her oven for one batch, and uses her own oven for the other batch. Janet sets the oven temperature on both stoves to 375 degrees and begins baking the cookies. However, after she leaves her neighbors house, the oven temperature is accidentally increased to 475. Will the cookies in Janet's oven cook faster or slower than the cookies in her neighbor's oven?
+Answer: slower
+Explanation: 
+
+QuestionID: 1114936288
+Question: Janet is baking cookies for her daughter's birthday party. She has so many cookies to bake that she decides to bake two batches at once using separate ovens. Janet asks her neighbor if she can use her oven for one batch, and uses her own oven for the other batch. Janet sets the oven temperature on both stoves to 375 degrees and begins baking the cookies. However, after she leaves her neighbors house, the oven temperature is accidentally increased to 475. Will the cookies in the neighbor's oven cook faster or slower than the cookies in Janet's oven?
+Answer: faster
+Explanation: 
+
+QuestionID: 4032205996
+Question: Janet is baking cookies for her daughter's birthday party. She has so many cookies to bake that she decides to bake two batches at once using separate ovens. Janet asks her neighbor if she can use her oven for one batch, and uses her own oven for the other batch. Janet sets the oven temperature on both stoves to 375 degrees and begins baking the cookies. However, after she leaves her neighbors house, the oven temperature is accidentally decreased to 200. Which cookies will bake faster, the cookies in Janet's oven or the cookies in the neighbor's oven?
+Answer: the cookies in Janet's oven
+Explanation: 
+
+QuestionID: 919114718
+Question: Janet is baking cookies for her daughter's birthday party. She has so many cookies to bake that she decides to bake two batches at once using separate ovens. Janet asks her neighbor if she can use her oven for one batch, and uses her own oven for the other batch. Janet sets the oven temperature on both stoves to 375 degrees and begins baking the cookies. However, after she leaves her neighbors house, the oven temperature is accidentally decreased to 200. Will the cookies in Janet's oven cook faster or slower than the cookies in her neighbor's oven?
+Answer: faster
+Explanation: 
+
+QuestionID: 1114936288
+Question: Janet is baking cookies for her daughter's birthday party. She has so many cookies to bake that she decides to bake two batches at once using separate ovens. Janet asks her neighbor if she can use her oven for one batch, and uses her own oven for the other batch. Janet sets the oven temperature on both stoves to 375 degrees and begins baking the cookies. However, after she leaves her neighbors house, the oven temperature is accidentally decreased to 200. Will the cookies in the neighbor's oven cook faster or slower than the cookies in Janet's oven?
+Answer: slower
+Explanation: 
+
+--------------------------------------------------
+PassageID: 19
+Passage: A ramp like the one in the Figure below is another example of an inclined plane. Inclined planes make it easier to move objects to a higher elevation. The sloping surface of the inclined plane supports part of the weight of the object as it moves up the slope. As a result, it takes less force to move the object uphill. The trade-off is that the object must be moved over a greater distance than if it were moved straight up to the higher elevation. You can see several other examples of inclined planes at this URL
+
+Questions:
+QuestionID: 4045491618
+Question: Mark liked working in the warehouse. His favorite job was unloading the trucks. Mark could loaded boxes from the truck onto a dolly then push that up a ramp and onto the dock which was several feet above the ground.One of his coworkers Jim was a show off and insisted it was faster just to carry the boxes to the dock without the ramp and lift them up to the dock. Who is carrying the boxes a shorter distance?
+Answer: Jim
+Explanation: 
+
+QuestionID: 2716618018
+Question: Mark liked working in the warehouse. His favorite job was unloading the trucks. Mark could loaded boxes from the truck onto a dolly then push that up a ramp and onto the dock which was several feet above the ground.One of his coworkers Jim was a show off and insisted it was faster just to carry the boxes to the dock without the ramp and lift them up to the dock. Who is carrying the boxes a longer distance?
+Answer: Mark
+Explanation: 
+
+QuestionID: 2673102054
+Question: Mark liked working in the warehouse. His favorite job was unloading the trucks. Mark could loaded boxes from the truck onto a dolly then push that up a ramp and onto the dock which was several feet above the ground.One of his coworkers Jim was a show off and insisted it was faster just to carry the boxes to the dock without the ramp and lift them up to the dock. Who is carrying all the weight of the boxes?
+Answer: Jim
+Explanation: 
+
+QuestionID: 1742295096
+Question: Mark liked working in the warehouse. His favorite job was unloading the trucks. Mark could loaded boxes from the truck onto a dolly then push that up a ramp and onto the dock which was several feet above the ground.One of his coworkers Jim was a show off and insisted it was faster just to carry the boxes to the dock without the ramp and lift them up to the dock. Who is carrying only some of the weight of the boxes?
+Answer: Mark
+Explanation: 
+
+QuestionID: 1475036453
+Question: Mark liked working in the warehouse. His favorite job was unloading the trucks. Mark could loaded boxes from the truck onto a dolly then push that up a ramp and onto the dock which was several feet above the ground.One of his coworkers Jim was a show off and insisted it was faster just to carry the boxes to the dock without the ramp and lift them up to the dock. Who is working harder?
+Answer: Jim
+Explanation: 
+
+QuestionID: 315049193
+Question: Mark liked working in the warehouse. His favorite job was unloading the trucks. Mark could loaded boxes from the truck onto a dolly then push that up a ramp and onto the dock which was several feet above the ground.One of his coworkers Jim was a show off and insisted it was faster just to carry the boxes to the dock without the ramp and lift them up to the dock. Who is working easier
+Answer: Mark
+Explanation: 
+
+QuestionID: 3888124834
+Question: Bob pulled the moving truck up in front of his new home. The truck was filled with everything he owned. He lowered the loading ramp and began carrying boxes down the ramp and into the house. Did the ramp increase or decrese the distance to the ground?
+Answer: increase
+Explanation: 
+
+QuestionID: 1419646302
+Question: Bob pulled the moving truck up in front of his new home. The truck was filled with everything he owned. He lowered the loading ramp and began carrying boxes down the ramp and into the house. Did the incline plane support some or all of weight of the boxes?
+Answer: some
+Explanation: 
+
+QuestionID: 3563064719
+Question: Bob pulled the moving truck up in front of his new home. The truck was filled with everything he owned. He lowered the loading ramp and began carrying boxes down the ramp and into the house. Did the ramp make the work easier or harder?
+Answer: easier
+Explanation: 
+
+QuestionID: 338696345
+Question: Bob pulled the moving truck up in front of his new home. The truck was filled with everything he owned. He lowered the loading ramp and began carrying boxes down the ramp and into the house. would the distance to the ground be closer or further without the ramp??
+Answer: closer
+Explanation: 
+
+QuestionID: 1757548838
+Question: Bob pulled the moving truck up in front of his new home. The truck was filled with everything he owned. He lowered the loading ramp and began carrying boxes down the ramp and into the house. would the work be harder or easier without the ramp?
+Answer: harder
+Explanation: 
+
+QuestionID: 160768568
+Question: Mark was putting a ramp in for his parents. His mother had recently started using a cane and sometime a wheelchair. She had a lot of difficulty climbing the stairs. Mark hoped the wheelchair would make her life a little easier. Is the distance to the door longer or shorter without the ramp?
+Answer: shorter
+Explanation: 
+
+QuestionID: 4045491618
+Question: Mark liked working in the warehouse. His favorite job was unloading the trucks. His cowworker Jim would load boxes from the truck onto a dolly then push that up a ramp and onto the dock which was several feet above the ground. Mark would instead and insis it was faster just to carry the boxes to the dock without the ramp and lift them up to the dock. Who is carrying the boxes a shorter distance?
+Answer: Mark
+Explanation: 
+
+QuestionID: 2716618018
+Question: Mark liked working in the warehouse. His favorite job was unloading the trucks. His cowworker Jim would load boxes from the truck onto a dolly then push that up a ramp and onto the dock which was several feet above the ground. Mark would instead and insis it was faster just to carry the boxes to the dock without the ramp and lift them up to the dock. Who is carrying the boxes a longer distance?
+Answer: Jim
+Explanation: 
+
+QuestionID: 2673102054
+Question: Mark liked working in the warehouse. His favorite job was unloading the trucks. His cowworker Jim would load boxes from the truck onto a dolly then push that up a ramp and onto the dock which was several feet above the ground. Mark would instead and insis it was faster just to carry the boxes to the dock without the ramp and lift them up to the dock. Who is carrying all the weight of the boxes?
+Answer: Mark
+Explanation: 
+
+QuestionID: 1742295096
+Question: Mark liked working in the warehouse. His favorite job was unloading the trucks. His cowworker Jim would load boxes from the truck onto a dolly then push that up a ramp and onto the dock which was several feet above the ground. Mark would instead and insis it was faster just to carry the boxes to the dock without the ramp and lift them up to the dock. Who is carrying only some of the weight of the boxes?
+Answer: Jim
+Explanation: 
+
+QuestionID: 1475036453
+Question: Mark liked working in the warehouse. His favorite job was unloading the trucks. His cowworker Jim would load boxes from the truck onto a dolly then push that up a ramp and onto the dock which was several feet above the ground. Mark would instead and insis it was faster just to carry the boxes to the dock without the ramp and lift them up to the dock. Who is working harder?
+Answer: Mark
+Explanation: 
+
+QuestionID: 315049193
+Question: Mark liked working in the warehouse. His favorite job was unloading the trucks. His cowworker Jim would load boxes from the truck onto a dolly then push that up a ramp and onto the dock which was several feet above the ground. Mark would instead and insis it was faster just to carry the boxes to the dock without the ramp and lift them up to the dock. Who is working easier
+Answer: Jim
+Explanation: 
+
+QuestionID: 3888124834
+Question: Bob pulled the moving truck up in front of his new home. The truck was filled with everything he owned. He forgot to lower the loading ramp and began carrying boxes  into the house. Did not having the ramp increase or decrease the distance to the ground?
+Answer: decrease
+Explanation: 
+
+QuestionID: 1419646302
+Question: Bob pulled the moving truck up in front of his new home. The truck was filled with everything he owned. He forgot to lower the loading ramp and began carrying boxes  into the house. Did the ramp usually support some or all of weight of the boxes?
+Answer: some
+Explanation: 
+
+QuestionID: 3563064719
+Question: Bob pulled the moving truck up in front of his new home. The truck was filled with everything he owned. He forgot to lower the loading ramp and began carrying boxes  into the house. Did not having the ramp make the work easier or harder?
+Answer: harder
+Explanation: 
+
+QuestionID: 338696345
+Question: Bob pulled the moving truck up in front of his new home. The truck was filled with everything he owned. He forgot to lower the loading ramp and began carrying boxes  into the house. would the distance to the ground usually be closer or farther??
+Answer: farther
+Explanation: 
+
+QuestionID: 1757548838
+Question: Bob pulled the moving truck up in front of his new home. The truck was filled with everything he owned. He forgot to lower the loading ramp and began carrying boxes  into the house. would the work usually be easier or harder?
+Answer: easier
+Explanation: 
+
+QuestionID: 160768568
+Question: Bob pulled the moving truck up in front of his new home. The truck was filled with everything he owned. He forgot to lower the loading ramp and began carrying boxes  into the house. Is the distance to the door longer or shorter usually?
+Answer: longer
+Explanation: 
+
+--------------------------------------------------
+PassageID: 20
+Passage: Anemophilous pollen grains are light and non-sticky, so that they can be transported by air currents. They are typically 20–60 micrometres (0.0008–0.0024 in) in diameter, although the pollen grains of Pinus species can be much larger and much less dense. Anemophilous plants possess well-exposed stamens so that the pollens are exposed to wind currents and also have large and feathery stigma to easily trap airborne pollen grains. Pollen from anemophilous plants tends to be smaller and lighter than pollen from entomophilous ones, with very low nutritional value to insects. However, insects sometimes gather pollen from staminate anemophilous flowers at times when higher-protein pollens from entomophilous flowers are scarce. Anemophilous pollens may also be inadvertently captured by bees' electrostatic field. This may explain why, though bees are not observed to visit ragweed flowers, its pollen is often found in honey made during the ragweed floral bloom. Other flowers that are generally anemophilous are observed to be actively worked by bees, with solitary bees often visiting grass flowers, and the larger honeybees and bumblebees frequently gathering pollen from corn tassels and other grains.
+
+Questions:
+QuestionID: 2696888055
+Question: Henry is a botanist and has recently discovered two new flowers in a region previously unexplored by humans. He is studying the properties of each plant in order to correctly classify them. So far, he has observed that the pollen from Flower A is smaller and lower in protein than the pollen from Flower B.  Which flower is an anemophilous plant?
+Answer: Flower A
+Explanation: 
+
+QuestionID: 3793043321
+Question: Henry is a botanist and has recently discovered two new flowers in a region previously unexplored by humans. He is studying the properties of each plant in order to correctly classify them. So far, he has observed that the pollen from Flower A is smaller and lower in protein than the pollen from Flower B.  Which flower is an entomophilous plant?
+Answer: Flower B
+Explanation: 
+
+QuestionID: 3977397212
+Question: Henry is a botanist and has recently discovered two new flowers in a region previously unexplored by humans. He is studying the properties of each plant in order to correctly classify them. So far, he has observed that the pollen from Flower A is smaller and lower in protein than the pollen from Flower B.  Is flower A an entomophilous or anemophilous plant?
+Answer: anemophilous 
+Explanation: 
+
+QuestionID: 3980084189
+Question: Henry is a botanist and has recently discovered two new flowers in a region previously unexplored by humans. He is studying the properties of each plant in order to correctly classify them. So far, he has observed that the pollen from Flower A is smaller and lower in protein than the pollen from Flower B.  Is flower B an entomophilous or anemophilous plant?
+Answer: entomophilous
+Explanation: 
+
+QuestionID: 4152247384
+Question: Henry is a botanist and has recently discovered two new flowers in a region previously unexplored by humans. He is studying the properties of each plant in order to correctly classify them. So far, he has observed that the pollen from Flower A is smaller and lower in protein than the pollen from Flower B.  Are bees more likely to pollinate flower A or flower B?
+Answer: Flower B
+Explanation: 
+
+QuestionID: 4162077788
+Question: Henry is a botanist and has recently discovered two new flowers in a region previously unexplored by humans. He is studying the properties of each plant in order to correctly classify them. So far, he has observed that the pollen from Flower A is smaller and lower in protein than the pollen from Flower B.  Are bees less likely to pollinate flower A or flower B?
+Answer: Flower A
+Explanation: 
+
+QuestionID: 3061991418
+Question: Henry is a botanist and has recently discovered two new flowers in a region previously unexplored by humans. He is studying the properties of each plant in order to correctly classify them. So far, he has observed that the pollen from Flower A is smaller and lower in protein than the pollen from Flower B.  Are bees more or less likely to pollinate flower A than flower B?
+Answer: less
+Explanation: 
+
+QuestionID: 3062908922
+Question: Henry is a botanist and has recently discovered two new flowers in a region previously unexplored by humans. He is studying the properties of each plant in order to correctly classify them. So far, he has observed that the pollen from Flower A is smaller and lower in protein than the pollen from Flower B.  Are bees more or less likely to pollinate flower B than flower A?
+Answer: more
+Explanation: 
+
+QuestionID: 2696888055
+Question: Henry is a botanist and has recently discovered two new flowers in a region previously unexplored by humans. He is studying the properties of each plant in order to correctly classify them. So far, he has observed that the pollen from Flower A is harder to find than the pollen from Flower B, which has lower protein.  Which flower is an anemophilous plant?
+Answer: Flower B
+Explanation: 
+
+QuestionID: 3793043321
+Question: Henry is a botanist and has recently discovered two new flowers in a region previously unexplored by humans. He is studying the properties of each plant in order to correctly classify them. So far, he has observed that the pollen from Flower A is harder to find than the pollen from Flower B, which has lower protein.  Which flower is an entomophilous plant?
+Answer: Flower A
+Explanation: 
+
+QuestionID: 3977397212
+Question: Henry is a botanist and has recently discovered two new flowers in a region previously unexplored by humans. He is studying the properties of each plant in order to correctly classify them. So far, he has observed that the pollen from Flower A is harder to find than the pollen from Flower B, which has lower protein.  Is flower A an entomophilous or anemophilous plant?
+Answer: entomophilous
+Explanation: 
+
+QuestionID: 3980084189
+Question: Henry is a botanist and has recently discovered two new flowers in a region previously unexplored by humans. He is studying the properties of each plant in order to correctly classify them. So far, he has observed that the pollen from Flower A is harder to find than the pollen from Flower B, which has lower protein.  Is flower B an entomophilous or anemophilous plant?
+Answer: anemophilous
+Explanation: 
+
+QuestionID: 4152247384
+Question: Henry is a botanist and has recently discovered two new flowers in a region previously unexplored by humans. He is studying the properties of each plant in order to correctly classify them. So far, he has observed that the pollen from Flower A is harder to find than the pollen from Flower B, which has lower protein.  Are bees more likely to pollinate flower A or flower B?
+Answer: Flower A
+Explanation: 
+
+QuestionID: 4162077788
+Question: Henry is a botanist and has recently discovered two new flowers in a region previously unexplored by humans. He is studying the properties of each plant in order to correctly classify them. So far, he has observed that the pollen from Flower A is harder to find than the pollen from Flower B, which has lower protein.  Are bees less likely to pollinate flower A or flower B?
+Answer: Flower B
+Explanation: 
+
+QuestionID: 3061991418
+Question: Henry is a botanist and has recently discovered two new flowers in a region previously unexplored by humans. He is studying the properties of each plant in order to correctly classify them. So far, he has observed that the pollen from Flower A is harder to find than the pollen from Flower B, which has lower protein.  Are bees more or less likely to pollinate flower A than flower B?
+Answer: more
+Explanation: 
+
+QuestionID: 3062908922
+Question: Henry is a botanist and has recently discovered two new flowers in a region previously unexplored by humans. He is studying the properties of each plant in order to correctly classify them. So far, he has observed that the pollen from Flower A is harder to find than the pollen from Flower B, which has lower protein.  Are bees more or less likely to pollinate flower B than flower A?
+Answer: less
+Explanation: 
+
+--------------------------------------------------
+PassageID: 21
+Passage: Generally, nearsightedness first occurs in school-age children. There is some evidence that myopia is inherited. If one or both of your parents need glasses, there is an increased chance that you will too. Individuals who spend a lot of time reading, working or playing at a computer, or doing other close visual work may also be more likely to develop nearsightedness. Because the eye continues to grow during childhood, myopia typically progresses until about age 20. However, nearsightedness may also develop in adults due to visual stress or health conditions such as diabetes. A common sign of nearsightedness is difficulty seeing distant objects like a movie screen or the TV, or the whiteboard or chalkboard in school.
+
+Questions:
+QuestionID: 8175204
+Question: Beth loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Sue had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Beth decided it was time to make appointments for them at the eye doctors. Is Beth nearsighted or farsighted?
+Answer: nearsighted
+Explanation: 
+
+QuestionID: 1131068942
+Question: Beth loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Sue had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Beth decided it was time to make appointments for them at the eye doctors. Is Sue nearsighted or farsighted?
+Answer: nearsighted
+Explanation: 
+
+QuestionID: 3425484073
+Question: Beth loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Sue had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Beth decided it was time to make appointments for them at the eye doctors. What was stressing Beth's eyes?
+Answer: needle point
+Explanation: 
+
+QuestionID: 2103230829
+Question: Beth loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Sue had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Beth decided it was time to make appointments for them at the eye doctors. Where Sue's eyes better or worse a year ago?
+Answer: better
+Explanation: 
+
+QuestionID: 3170943573
+Question: Beth loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Sue had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Beth decided it was time to make appointments for them at the eye doctors. Are Sue's eyes better or worse than a year ago?
+Answer: worse
+Explanation: 
+
+QuestionID: 4251828172
+Question: Beth loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Sue had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Beth decided it was time to make appointments for them at the eye doctors. Are Sues eyes getting better or worse?
+Answer: worse
+Explanation: 
+
+QuestionID: 2049622128
+Question: Beth loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Sue had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Beth decided it was time to make appointments for them at the eye doctors. Is Sue's myopia getting better or worse?
+Answer: worse
+Explanation: 
+
+QuestionID: 2122956511
+Question: Beth loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Sue had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Beth decided it was time to make appointments for them at the eye doctors. Is Beth developing myopia yes or no?
+Answer: yes
+Explanation: 
+
+QuestionID: 302891796
+Question: Beth loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Sue had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Beth decided it was time to make appointments for them at the eye doctors. Who is developing myopia due to visual stress?
+Answer: Beth
+Explanation: 
+
+QuestionID: 193641706
+Question: Beth loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Sue had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Beth decided it was time to make appointments for them at the eye doctors. Who's myopia is getting worse?
+Answer: Sue
+Explanation: 
+
+QuestionID: 8175204
+Question: Sue loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Beth had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Sue decided it was time to make appointments for them at the eye doctors. Is Beth nearsighted or farsighted?
+Answer: nearsighted
+Explanation: 
+
+QuestionID: 1131068942
+Question: Sue loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Beth had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Sue decided it was time to make appointments for them at the eye doctors. Is Sue nearsighted or farsighted?
+Answer: nearsighted
+Explanation: 
+
+QuestionID: 3425484073
+Question: Sue loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Beth had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Sue decided it was time to make appointments for them at the eye doctors. Is Beth more or less likely to develop nearsighed compared to her peers?
+Answer: more
+Explanation: 
+
+QuestionID: 2103230829
+Question: Sue loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Beth had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Sue decided it was time to make appointments for them at the eye doctors. Where Sue's eyes better or worse a year ago?
+Answer: better
+Explanation: 
+
+QuestionID: 3170943573
+Question: Sue loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Beth had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Sue decided it was time to make appointments for them at the eye doctors. Are Sue's eyes better or worse than a year ago?
+Answer: worse
+Explanation: 
+
+QuestionID: 4251828172
+Question: Sue loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Beth had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Sue decided it was time to make appointments for them at the eye doctors. Are Sues eyes getting better or worse?
+Answer: worse
+Explanation: 
+
+QuestionID: 2049622128
+Question: Sue loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Beth had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Sue decided it was time to make appointments for them at the eye doctors. Is Sue's myopia getting better or worse?
+Answer: worse
+Explanation: 
+
+QuestionID: 2122956511
+Question: Sue loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Beth had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Sue decided it was time to make appointments for them at the eye doctors. Is Beth developing myopia yes or no?
+Answer: yes
+Explanation: 
+
+QuestionID: 302891796
+Question: Sue loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Beth had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Sue decided it was time to make appointments for them at the eye doctors. Who is developing myopia due to visual stress?
+Answer: Sue
+Explanation: 
+
+QuestionID: 193641706
+Question: Sue loved to do needle point in her spare time. Her mother had daughter when she was a child and she found it very relaxing. Lately though she was having trouble seeing some of the smaller work and found she had to hold it much closer than usual. Her daughter Beth had been complaining that she could not see the board at school from the back of the room despite getting new glasses last year. Sue decided it was time to make appointments for them at the eye doctors. Who's myopia is getting worse?
+Answer: Beth
+Explanation: 
+
+--------------------------------------------------
+PassageID: 22
+Passage: Many different chemical substances cause cancer. Dozens of chemicals in tobacco smoke, including nicotine, have been shown to cause cancer ( Figure below ). In fact, tobacco smoke is one of the main sources of chemical carcinogens. Smoking tobacco increases the risk of cancer of the lung, mouth, throat, and bladder. Using smokeless tobacco can also cause cancer. Other chemicals that cause cancer include asbestos, formaldehyde, benzene, cadmium, and nickel.
+
+Questions:
+QuestionID: 2279478990
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark has never smoked and doesn't see what people see in it. John and Same both smoke about the same each day but John likes traditional cigarettes. Sam on the other hand chooses to use smokeless tobacco products. Who is at risk for lung cancer?
+Answer: John and Sam
+Explanation: 
+
+QuestionID: 452598039
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark has never smoked and doesn't see what people see in it. John and Same both smoke about the same each day but John likes traditional cigarettes. Sam on the other hand chooses to use smokeless tobacco products. Who is at lower risk for lung cancer?
+Answer: Mark
+Explanation: 
+
+QuestionID: 4154858617
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark has never smoked and doesn't see what people see in it. John and Same both smoke about the same each day but John likes traditional cigarettes. Sam on the other hand chooses to use smokeless tobacco products. Who is being exposed to chemical carcinogens?
+Answer: John and Sam
+Explanation: 
+
+QuestionID: 1793596906
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark has never smoked and doesn't see what people see in it. John and Same both smoke about the same each day but John likes traditional cigarettes. Sam on the other hand chooses to use smokeless tobacco products. Who is not being exposed to chemical carcinogens?
+Answer: Mark
+Explanation: 
+
+QuestionID: 1302665692
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark has never smoked and doesn't see what people see in it. John and Same both smoke about the same each day but John likes traditional cigarettes. Sam on the other hand chooses to use smokeless tobacco products. Who is at higher risk for mouth cancer?
+Answer: John and Sam
+Explanation: 
+
+QuestionID: 1747982913
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark has never smoked and doesn't see what people see in it. John and Same both smoke about the same each day but John likes traditional cigarettes. Sam on the other hand chooses to use smokeless tobacco products. Who is at higher risk for throat cancer?
+Answer: John and Sam
+Explanation: 
+
+QuestionID: 2164005501
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark has never smoked and doesn't see what people see in it. John and Same both smoke about the same each day but John likes traditional cigarettes. Sam on the other hand chooses to use smokeless tobacco products. Who is at higher risk for bladder cancer?
+Answer: John and Sam
+Explanation: 
+
+QuestionID: 1748834863
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark has never smoked and doesn't see what people see in it. John and Same both smoke about the same each day but John likes traditional cigarettes. Sam on the other hand chooses to use smokeless tobacco products. Who is at lower risk for bladder cancer?
+Answer: Mark
+Explanation: 
+
+QuestionID: 1337924083
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark has never smoked and doesn't see what people see in it. John and Same both smoke about the same each day but John likes traditional cigarettes. Sam on the other hand chooses to use smokeless tobacco products. Who is at lower risk for throat cancer?
+Answer: Mark
+Explanation: 
+
+QuestionID: 897718670
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark has never smoked and doesn't see what people see in it. John and Same both smoke about the same each day but John likes traditional cigarettes. Sam on the other hand chooses to use smokeless tobacco products. Who is at lower risk for mouth cancer?
+Answer: Mark
+Explanation: 
+
+QuestionID: 2279478990
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark and Sam both have never smoked and don't really see what others see in it. Same prefers to use smokeless tobacco products rather than smoking while Mark does not. John and ikes traditional cigarettes. Who is at risk for lung cancer?
+Answer: John and Sam
+Explanation: 
+
+QuestionID: 452598039
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark and Sam both have never smoked and don't really see what others see in it. Same prefers to use smokeless tobacco products rather than smoking while Mark does not. John and ikes traditional cigarettes. Who is at lower risk for lung cancer?
+Answer: Mark
+Explanation: 
+
+QuestionID: 4154858617
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark and Sam both have never smoked and don't really see what others see in it. Same prefers to use smokeless tobacco products rather than smoking while Mark does not. John and ikes traditional cigarettes. Who is being exposed to chemical carcinogens?
+Answer: John and Sam
+Explanation: 
+
+QuestionID: 1793596906
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark and Sam both have never smoked and don't really see what others see in it. Same prefers to use smokeless tobacco products rather than smoking while Mark does not. John and ikes traditional cigarettes. Who is not being exposed to chemical carcinogens?
+Answer: Mark
+Explanation: 
+
+QuestionID: 1302665692
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark and Sam both have never smoked and don't really see what others see in it. Same prefers to use smokeless tobacco products rather than smoking while Mark does not. John and ikes traditional cigarettes. Who is at higher risk for mouth cancer?
+Answer: John and Sam
+Explanation: 
+
+QuestionID: 1747982913
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark and Sam both have never smoked and don't really see what others see in it. Same prefers to use smokeless tobacco products rather than smoking while Mark does not. John and ikes traditional cigarettes. Who is at higher risk for throat cancer?
+Answer: John and Sam
+Explanation: 
+
+QuestionID: 2164005501
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark and Sam both have never smoked and don't really see what others see in it. Same prefers to use smokeless tobacco products rather than smoking while Mark does not. John and ikes traditional cigarettes. Who is at higher risk for bladder cancer?
+Answer: John and Sam
+Explanation: 
+
+QuestionID: 1748834863
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark and Sam both have never smoked and don't really see what others see in it. Same prefers to use smokeless tobacco products rather than smoking while Mark does not. John and ikes traditional cigarettes. Who is at lower risk for bladder cancer?
+Answer: Mark
+Explanation: 
+
+QuestionID: 1337924083
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark and Sam both have never smoked and don't really see what others see in it. Same prefers to use smokeless tobacco products rather than smoking while Mark does not. John and ikes traditional cigarettes. Who is at lower risk for throat cancer?
+Answer: Mark
+Explanation: 
+
+QuestionID: 897718670
+Question: Three friends Mark, John and Sam have very different views on smoking. Mark and Sam both have never smoked and don't really see what others see in it. Same prefers to use smokeless tobacco products rather than smoking while Mark does not. John and ikes traditional cigarettes. Who is at lower risk for mouth cancer?
+Answer: Mark
+Explanation: 
+
+--------------------------------------------------
+PassageID: 23
+Passage: Millions of people in the world jog for exercise. For the most part, jogging can be a healthy way to stay fit. However, problems can also develop for those who jog in the heat. Excessive sweating can lead to electrolyte loss that could be life-threatening. Early symptoms of electrolyte deficiency can include nausea, fatugue, and dizziness. If not treated, individuals can experience muscle weakness and increased heart rate (which could lead to a heart attack). Many sports drinks can be consumed to restore electrolytes quickly in the body.
+
+Questions:
+QuestionID: 85287502
+Question: Dave was training cycling race that was in only a few weeks. Since the marathon was coming up soon Dave decided to go for a run despite the heat wave. After about 45 minutes Dave was soaked in sweat and was feeling nauseous and dizzy. He decided to stop for a break and have some of the sports drink he had brought along.  After a little while he was feeling better and headed home. Which would have helped Dave more water or a sports drink.
+Answer: sports drink
+Explanation: 
+
+QuestionID: 229334286
+Question: Dave was training cycling race that was in only a few weeks. Since the marathon was coming up soon Dave decided to go for a run despite the heat wave. After about 45 minutes Dave was sweating a lot and was feeling nauseous and dizzy. He decided to stop for a break and have some of the sports drink he had brought along.  After a little while he was feeling better and headed home. what was causing Dave to lose electrolytes?
+Answer: sweating
+Explanation: 
+
+QuestionID: 3639040453
+Question: Dave was training cycling race that was in only a few weeks. Since the marathon was coming up soon Dave decided to go for a run despite the heat wave. After about 45 minutes Dave was sweating a lot and was feeling nauseous and dizzy. He decided to stop for a break and have some of the sports drink he had brought along.  After a little while he was feeling better and headed home. What restored Dave's electrolytes?
+Answer: sports drink
+Explanation: 
+
+QuestionID: 2976800698
+Question: Dave was training cycling race that was in only a few weeks. Since the marathon was coming up soon Dave decided to go for a run despite the heat wave. After about 45 minutes Dave was sweating a lot and was feeling nauseous and dizzy. He decided to stop for a break and have some of the sports drink he had brought along.  After a little while he was feeling better and headed home. What symptoms of electrolyte loss was Dave having?
+Answer: feeling nauseous and dizzy
+Explanation: 
+
+QuestionID: 85287502
+Question: Dave was training cycling race that was in only a few weeks. Since the marathon was coming up soon Dave decided to go for a run despite the heat wave. After about 45 minutes Dave was soaked in sweat and was feeling nauseous and dizzy. Which would have helped Dave more water or a sports drink.
+Answer: sports drink
+Explanation: 
+
+QuestionID: 229334286
+Question: Dave was training cycling race that was in only a few weeks. Since the marathon was coming up soon Dave decided to go for a run despite the heat wave. After about 45 minutes Dave was soaked in sweat and was feeling nauseous and dizzy. what was causing Dave to lose electrolytes?
+Answer: sweating
+Explanation: 
+
+QuestionID: 3639040453
+Question: Dave was training cycling race that was in only a few weeks. Since the marathon was coming up soon Dave decided to go for a run despite the heat wave. After about 45 minutes Dave was soaked in sweat and was feeling nauseous and dizzy. Does drinking water can help Dave, not or yes?
+Answer: not
+Explanation: 
+
+QuestionID: 2976800698
+Question: Dave was training cycling race that was in only a few weeks. Since the marathon was coming up soon Dave decided to go for a run despite the heat wave. After about 45 minutes Dave was soaked in sweat and was feeling nauseous and dizzy. What symptoms of electrolyte loss was Dave having?
+Answer: feeling nauseous and dizzy
+Explanation: 
+
+--------------------------------------------------

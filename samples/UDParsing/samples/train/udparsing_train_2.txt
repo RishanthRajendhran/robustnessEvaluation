@@ -1,0 +1,90 @@
+PassageID: answers-20110909115731AAl3uzs_ans-0001
+Passage: Sentence: How much is a big mac *in* your country?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: much
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_homeopathyclinic_46a87f7e5ce279d5_ENG_20051107_133800-0007
+Passage: Sentence: I think a test *like* this one is much needed.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *like* in the sentence?
+Answer: test
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-162702-0002
+Passage: Sentence: I was soooo lucky to have used Marlon's photography services.... such a creative and talented photographer and a pleasure to work *with*.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: pleasure
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-016861-0001
+Passage: Sentence: Stayed *in* the Seaview room here in December 2009!
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: Stayed
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent00_02-0047
+Passage: Sentence: I faxed you the promotional on 10300 Heritage Office Building *with* the Nimitz post office.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: Building
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111108111203AA6gfnr_ans-0001
+Passage: Sentence: information *on* the Eurostar train?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: information
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent05_01-0006
+Passage: Sentence: *In* other words the table is set.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *In* in the sentence?
+Answer: set
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-057644-0002
+Passage: Sentence: Run *down*.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *down* in the sentence?
+Answer: Run
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent26_02-0004
+Passage: Sentence: Please send it directly *to* kent.shoemaker@ae.ge.com, copy to me.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *to* in the sentence?
+Answer: send
+Explanation: 
+
+--------------------------------------------------

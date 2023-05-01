@@ -65,7 +65,7 @@ def parse(a):
             i += 1
         #Skip --------------------------------------------------
         i += 1
-    print(len(examples))
+    print(f"Extracted {len(examples)} examples")
     return examples
 #------------------------------------
 def main():

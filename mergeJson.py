@@ -37,12 +37,28 @@ parser.add_argument(
     help="Print information about files being merged"
 )
 
+parser.add_argument(
+    "-dataset",
+    choices = ["condaqa", 
+                "boolq", 
+                "drop", 
+                "ropes", 
+                "mctaco", 
+                "quoref", 
+                "imdb", 
+                "matres", 
+                "perspectrum"
+            ],
+    required=True
+)
+
 args = parser.parse_args()
 inputFiles = args.input
 outputFile = None
 isDir = False 
 pattern = None
 printInfo = args.printInfo
+dataset = args.dataset
 if args.output:
     outputFile = args.output
 if args.isDir:
@@ -71,10 +87,22 @@ def main():
         raise Exception("-output argmument invalid!")
     examples = []
     for f in inputFiles:
-        with open(f,"r", encoding='utf-8-sig') as rf:
-            examples.extend(json.load(rf))
-    with open(outputFile,"w") as of:
-        json.dump(examples, of, indent=4)
+        if dataset == "condaqa":
+            data = []
+            for  line in open(f, "r"):
+                data.append(json.loads(line))
+            examples.extend(data)
+        else:
+            with open(f,"r", encoding='utf-8-sig') as rf:
+                examples.extend(json.load(rf))
+    if dataset == "condaqa":
+        with open(outputFile,"w") as of:
+            for ex in examples:
+                json.dump(ex, of)
+                of.write("\n")
+    else:
+        with open(outputFile,"w") as of:
+            json.dump(examples, of, indent=4)
     if printInfo:
         print(f"Merged the following files:")
         for i in inputFiles:

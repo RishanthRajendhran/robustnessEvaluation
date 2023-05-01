@@ -1,0 +1,90 @@
+PassageID: 0
+Passage: Švitrigaila was losing his influence in the Slavic principalities and could no longer resist Poland and Sigismund. On 4 September 1437 he attempted to reconcile with Poland: he would rule the lands that still backed him , and after his death these territories would pass to the King of Poland. However, under strong protest from Sigismund, the Polish Senate declined to ratify the treaty . In 1438 Švitrigaila withdrew to Moldavia. The reign of Sigismund Kęstutaitis was brief — he was assassinated in 1440. Švitrigaila returned from exile in 1442 and ruled Lutsk until his death a decade later. Jogaila's son Casimir IV Jagiellon, born in 1426, received approval as a hereditary hospodar from Lithuania's ruling families in 1440. This event is seen by the historians Jerzy Lukowski and Hubert Zawadzki as marking the end of the succession dispute.
+
+Questions:
+QuestionID: 0
+Question: Who was ruler first, Sigismund of Casimir IV Jagiellon?
+Answer: Sigismund Kęstutaitis
+Explanation: 
+
+--------------------------------------------------
+PassageID: 1
+Passage:  Dressed up in their 1960s throwback jerseys, the Bills played their Week 3 home-opener against their last divisional rival, the New York Jets. Buffalo started off with J. P. Losman throwing a 51-yard pass to Roscoe Parrish for the only score in the first quarter. In the second quarter, the Jets tied the game up with a3-yard run by Kevan Barlow. The Bills managed to get a 36-yard FG by Rian Lindell, but the Jets managed to take the lead, as Chad Pennington completed a 1-yard TD pass to Chris Baker within the closing seconds of the half. In the second half, the Bills fell behind as Victor Hobson returned a Buffalo fumble 32 yards for a touchdown, which would be the only score of the third quarter. In the fourth quarter, the Bills tried to close the gap, as Lindell kicked a 28-yard field goal. However, the Jets increased their lead with Cedric Houston getting a 5-yard run. The Bills would get another score, though&#8212;a 12-yard Losman run. Even though the Bills recovered their onside kick, they went three-and-out to end any more scoring threats, dropping to 1-2.
+
+Questions:
+QuestionID: 0
+Question: How many touchdowns were scored in the first half?
+Answer: 3
+Explanation: 
+
+--------------------------------------------------
+PassageID: 2
+Passage: Data from the 2000 census indicates the median income for a household in the city is $41,809, and the median income for a family is $49,570. Males have a median income of $35,296 versus $27,418 for females. The per capita income for the city is $20,943. 10.0% of the population and 6.9% of families are below the poverty line. Out of the total population, 13.7% of those under the age of 18 and 5.8% of those 65 and older are living below the poverty line.
+
+Questions:
+QuestionID: 0
+Question: How many percent of the population was not living below the poverty line?
+Answer: 90
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3
+Passage: More than 5,000 US troops of General John J. Pershing's forces, including elements of the 7th Cavalry and the African-American U.S. 10th Cavalry Regiment, entered Mexico in hot pursuit of Villa. The campaign consisted primarily of dozens of minor skirmishes with small bands of insurgents. Gen. Pershing failed to catch up to Villa. On 21 June 1916, two troops of the 10th, totaling 92 troopers, attacked Mexican Federal Army troops in an engagement in the Battle of Carrizal, Chihuahua. 12 US troops were killed and 23 taken prisoner; 45 Federales were casualties, including the Mexican general Gomez. The engagement nearly precipitated open war with the Mexican government , but both governments immediately moved to lessen tensions and open negotiations for US withdrawal, preventing war. The prisoners were repatriated at El Paso, Texas by the Carrancista government.
+
+Questions:
+QuestionID: 0
+Question: Which side suffered more casualties, the Federales or the Americans?
+Answer: the Federales
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4
+Passage: Like most other European countries, Hungary is experiencing sub-replacement fertility; its estimated total fertility rate of 1.43 is well below the replacement rate of 2.1, albeit higher than its nadir of 1.28 in 1999. As a result, its population has gradually declining and rapidly aging. In 2011, the conservative government began a program to increase the birth rate with a focus on ethnic Magyars by reinstating 3 year maternity leave as well as boosting part-time jobs. The birth rate has gradually increased from 1.27 children born/woman in 2011. The natural decrease in the first 10 months of 2016 was only 25,828 which was 8,162 less than the corresponding period in 2015. In 2015, 47.9% of births were to unmarried women. Life expectancy was 71.96 years for men and 79.62 years for women in 2015, growing continuously since the End of Communism in Hungary (1989).
+
+Questions:
+QuestionID: 0
+Question: Which had a lower life expectancy as of 2015, men or women?
+Answer: men
+Explanation: 
+
+--------------------------------------------------
+PassageID: 5
+Passage: He was born in 1912 in Salzburg, then part of Austria-Hungary, as son of the artist Carl Anton Reichel and Hilde Constance Dolmatoff. Oriented in the classics (Latin and Greek) he did most of his high school at the Benedictine school of Kremsmunster in Austria. From 1926 until 1935, was a member of the Sturmabteilung, the NSDAP and SS (1926-1935). During the 54th International Congress of Americanists held in Vienna in July 2012, the Colombian and US archaeologist and associate professor Augusto Oyuela-Caycedo (University of Florida) presented a conference with German anthropologist Manuela Fischer and others, where they alleged having information of Reichels youth and Oyuela has been since claiming that Reichel-Dolmatoff at age 14 in 1926 formed part of the Hitler Youth and later was SS between 1932-1935 and says he was also NSDAP member in Austria, and as a SS Sergeant in Dachau (1934-1935). Oyuela-Caycedo says he has documental support from the SS file and NSDAP file of his activities, and documents from the Federal Archive in Berlin and the National Archive in Washington D.C. In the newspaper "The Third Front", published by Otto Strasser who had been a leader of the NSDAP, allegeldy notes taking from an alleged "diary" of Reichel were published in 1936. Strasser became opposed to Hitlers branch of the Nazi party after the killing of his brother Gregor Strasser in 1934.  According to the conference paper presented by Oyuela-Caycedo and article published in December 2012 and also in further newspaper interviews and some publications Oyuela-Caycedo continues to reiterate this about Reichels past.  Oyuela-Caycedo also says Reichel by 1936 was expelled from the SS and following a mental crisis Reichel-Dolmatoff abandoned the Nationalsocialist party and SS and left Germany and Austria, and is in 1937 later living and studying in Paris. He attended classes at the Faculté des Lettres of the Sorbonne  and in the École du Louvre from late 1937 to 1938. Gerardo emigrated to Colombia in 1939, where he became a Colombian citizen in 1942. Reichel became member and was the Secretary to the France Libre/Free (1942-1943) France Movement with the help of  his colleague and friend the French ethnologist Paul Rivet who was the Delegate of the Resistance of France Libre and living in Colombia. General Charles De Gaulle later awarded Reichel-Dolmatoff with the medal of the Ordre du Mérite. The rest of his life Reichel-Dolmatoff spent in research in the fields of anthropology, archaeology, ethnoecology, ethnohistory, ethnoastronomy, material culture, art, vernacular architecture, among others.
+
+Questions:
+QuestionID: 0
+Question: For how many years was Reichel a member of the SS?
+Answer: 9
+Explanation: 
+
+--------------------------------------------------
+PassageID: 6
+Passage: On 19 June 1911 the National Constitutional Assembly proclaimed A Portuguesa as the national anthem, replacing the old anthem Hymno da Carta in use since May 1834, and its status as national symbol was included in the new constitution. A Portuguesa was composed in 1890, with music by Alfredo Keil and lyrics by Henrique Lopes de Mendonça, in response to the 1890 British Ultimatum. Because of its patriotic character, it had been used, with slight modifications, by the rebels of the 1891 uprising in a failed attempt at a coup d'état to establish a republic in Portugal, an event which caused the anthem to be forbidden by the monarchic authorities.
+
+Questions:
+QuestionID: 0
+Question: How many years after A Portuguesa was composed did it become the national anthem?
+Answer: 21
+Explanation: 
+
+--------------------------------------------------
+PassageID: 7
+Passage: The popular uprising included large areas of Lower Bavaria, the Innviertel and eastern Bavaria. The lands adjoining towns and strongholds were captured by the rebels and the peasant uprising spread to the Bavarian Forest, parts of the Upper Palatinate and Kelheim on the Danube. A Braunau Parliament meeting was held in December 1705 in the then-Bavarian Braunau. Long before the French Revolution and early German parliamentarianism the meeting was held on 21 December 1705 in an inn belonging to the Baron von Paumgarten; representatives met of the four estates in Bavaria: aristocracy, clergy, burghers and peasants. The Braunau Parliament  is the name of the congress on the defence of the state of Bavaria held at Braunau am Inn convened on 21 December 1705. Following the initial uprising in November 1705, there was little response from the Austrians for nearly two months. However, that changed following an attempt by the rebels to capture the Bavarian capital, Munich. Following their unsuccessful attack, the night of 25 December 1705 saw an Austrian column encounter the peasant army near Sendling outside of Munich.  The battle was known as Sendling's Night of Murder  or the Sendling Christmas Day Massacre. The insurgents from the Bavarian Oberland were defeated and completely routed by Emperor Joseph I's troops. The number of deaths on the Bavarian side in this battle is estimated at around 1,100 men, but the Austrians lost only about 40. Some of the insurgents were killed after they had already surrendered.  About two weeks later, on 8 January 1706, the Battle of Aidenbach ended with the utter defeat of the insurgents and about 4,000 casualties on the Bavarian side. That led to the collapse of the uprising against Austria.
+
+Questions:
+QuestionID: 0
+Question: How many more deaths occurred on the Bavarian side than on the Austrian side?
+Answer: 1060
+Explanation: 
+
+--------------------------------------------------
+PassageID: 8
+Passage:  During the eighth week of the season, the Bears went to the Mercedes-Benz Superdome to play the New Orleans Saints, who trailed the series 15-14 but had won every meeting since 2011. Jeff Joniak wrote a goal of the Bears offense would be to get into scoring position; since Mitchell Trubisky became the starter, the offense had entered the red zone only twice in three games, with both trips ending in field goals. Upon reaching the 20-yard line, using the running game would be ideal; Jordan Howard ranked fifth in the league in rushing, second in yards after contact, and led the offense rushing first downs with 32. In contrast, the Saints defense ranked 30th in rushing yards allowed per carry. Joniak also emphasized the need for Trubisky to tune out the loud Superdome crowd and lead the offense without making errors. For the defense, it faced Drew Brees, who, according to Joniak, was to be pressured quickly if the Bears were to succeed - while being blitzed, Brees was intercepted three times and sacked twice. Otherwise, Brees was successful in quickly passing the ball for gains of six yards in a fast-paced offense. Turnovers were also priority; in the last two games, the Bears had forced six and scored on three, and while Brees had recorded turnovers in his last two games, the Saints still had the fifth-best turnover difference. On the Saints' opening possession, Will Lutz was lining up for a 32-yard field goal attempt when Kyle Fuller was penalized for jumping offsides. This set up Alvin Kamara's eight-yard touchdown run to put New Orleans up by seven points. After the next two drives resulted in punts, Connor Barth made a 27-yard field goal in the second quarter, though Mark Ingram Jr. scored on a one-yard touchdown run. Barth missed a 48-yard field goal wide left late in the first half as the Bears entered halftime with an 11-point deficit. In the third quarter, Trubisky threw a 25-yard touchdown pass to Zach Miller, who landed on his knee and dislocated it in the process. The touchdown was eventually nullified when referee Carl Cheffers determined Miller had let go of the ball in pain while on the ground. The Bears were forced to settle for Barth's 44-yard field goal. In the fourth quarter, Lutz kicked a 45-yard field goal to increase the lead to 17-6. With 7:32 remaining in the game, Jonathan Bullard stripped Ingram and Christian Jones recovered the fumble. Aided by Trubisky's 46-yard run, Tarik Cohen dove into the end zone from the Saints' one-yard line to score the offense's first touchdown in 25 series (dating back to the Baltimore game). The Bears failed to score on the two-point conversion but were just five points down. Chicago forced another takeaway when Adrian Amos stripped and recovered the ball from Ingram with 2:12 left. Although the Bears turned the ball over on downs, they had another chance after Lutz's 49-yard field goal put them behind by eight points. However, Trubisky's pass for Tre McBride was intercepted by Marshon Lattimore to seal the loss. Miller was taken to the University Medical Center New Orleans for treatment. In addition to a dislocated knee, Miller was revealed to have torn the popliteal artery in his region, an injury that is common in car accidents and raised the possibility of amputation. Vascular surgery was successfully completed the day after the game. The overturning of Miller's catch was controversial. Cheffers defended the call, stating when Miller was falling to the turf, he "has to survive the ground. He went to the ground, he temporarily lost control of the ball. The ball hit the ground; therefore it's incomplete." The NFL's Vice President of Officiating Alberto Riveron also maintained Miller had not completed the catch, but predecessors Mike Pereira and Dean Blandino argued otherwise. "At some point the process of the catch ends, and it ends when he rolls over on the ground with control. It was ruled a catch on the field. I didn't see anything definitive to overturn it and quite frankly, if it had been ruled incomplete on the field, if it had been me in the command center, I would have reversed it to a catch," Blandino said. On Monday, John Fox announced he would send video of the play to the NFL.
+
+Questions:
+QuestionID: 0
+Question: Which player had a controvertial touchdown catch overturned?
+Answer: Zach Miller
+Explanation: 
+
+--------------------------------------------------

@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "0_0",
+        "sentence1": "Perspective: Interfering with a species for cosmetic reasons is poor practice",
+        "QuestionID": "0",
+        "sentence2": "Claim: The breeding of white tigers in captivity should be banned. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "supports",
+        "explanation": "Breeding tigers in captivity is interfering with the species."
+    },
+    {
+        "PassageID": "0_1",
+        "sentence1": "Perspective: Collective bargaining has been recognised as an enforcable right",
+        "QuestionID": "0",
+        "sentence2": "Claim: Abolish all collective bargaining rights claimed by trades unions. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "undermines",
+        "explanation": "An enforceable right cannot be abolished."
+    },
+    {
+        "PassageID": "0_2",
+        "sentence1": "Perspective: Religious Doctrine Preaches Altruism",
+        "QuestionID": "0",
+        "sentence2": "Claim: Religion In Itself Is A Purely Positive Force In The World. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "supports",
+        "explanation": "Religion promotes positive virtues such as altruism."
+    },
+    {
+        "PassageID": "0_3",
+        "sentence1": "Perspective: South Ossetia has a right to self-determination",
+        "QuestionID": "0",
+        "sentence2": "Claim: South Ossetia should be independent. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "supports",
+        "explanation": "Gaining independence would ensure that South Ossetia\u2019s right to self-determination is upheld."
+    },
+    {
+        "PassageID": "0_4",
+        "sentence1": "Perspective: Relations between Scots and English are deteriorating",
+        "QuestionID": "0",
+        "sentence2": "Claim: The best way to protect Scottish interests in the EU is to vote for independence. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "supports",
+        "explanation": "Since relations with the English are deteriorating, they may not respect Scottish interests."
+    },
+    {
+        "PassageID": "0_5",
+        "sentence1": "Perspective: Vaccines eradicated smallpox and have nearly eradicated other diseases such as polio.",
+        "QuestionID": "0",
+        "sentence2": "Claim: Any vaccines should be required for children. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "supports",
+        "explanation": "Vaccines can protect children from diseases."
+    },
+    {
+        "PassageID": "0_6",
+        "sentence1": "Perspective: Music depicting violence to women causes and sustains the cycle of violence.",
+        "QuestionID": "0",
+        "sentence2": "Claim: Music containing lyrics that glorify violent and criminal lifestyles should be banned. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "supports",
+        "explanation": "Banning music depicting violence can help break the cycle of violence against women."
+    },
+    {
+        "PassageID": "0_7",
+        "sentence1": "Perspective: The lottery of childbirth should not be interfered with",
+        "QuestionID": "0",
+        "sentence2": "Claim: Parents should be able to choose the sex of their children. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "undermines",
+        "explanation": "Choosing sex of the child is interfering with childbirth."
+    },
+    {
+        "PassageID": "0_8",
+        "sentence1": "Perspective: PMCs are not held to the same standards and thus should not be hired by the US government.",
+        "QuestionID": "0",
+        "sentence2": "Claim: The United States is justified in using private military firms abroad to pursue its military objectives. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.",
+        "label": "undermines",
+        "explanation": "Since PMCs cannot be held to the same standards, the US government is not justified in using them."
+    }
+]

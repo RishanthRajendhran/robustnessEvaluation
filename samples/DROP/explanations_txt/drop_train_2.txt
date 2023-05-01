@@ -1,0 +1,90 @@
+PassageID: 0
+Passage:  With a divisional road loss to the Vikings behind them, the Bears went home for a Week 14 interconference duel with the Jacksonville Jaguars.  Chicago got off to a fast start in the first quarter as QB Kyle Orton completed a 2-yard TD pass to TE Desmond Clark.  The Jaguars would respond with kicker Josh Scobee getting a 46-yard field goal, yet kicker Robbie Gould replied by giving the Bears a 22-yard field goal.  Chicago would greatly increase their lead in the second quarter as Gould got a 36-yard field goal, along with Orton completing a 22-yard TD pass to TE Greg Olsen.  After a scoreless third quarter, Jacksonville tried to come back in the fourth quarter, as QB David Garrard completed a 4-yard TD pass to RB Maurice Jones-Drew.  Afterwards, after Gould nailed a 35-yard field goal, the Bears defense stiffened for the rest of the game. Rookie RB Matt Fort&#233; (21 carries for 69 yards and 5 catches for 37 yards) would surpass Gale Sayers for the most rookie scrimmage yards in franchise history with 1,476 yards.
+
+Questions:
+QuestionID: 0
+Question: What are the top two longest field goals made?
+Answer: 46-yard, 36-yard
+Explanation: The longest field goal was the 46-yard field goal by Josh Scobee and the second longest was the 36-yard field goal by Gould.
+
+--------------------------------------------------
+PassageID: 1
+Passage: There were 58,110 households, of which 25.8% had children under the age of 18 living with them, 40.6% were married couples living together, 9.7% had a female householder with no husband present, and 46.1% were non-families. 31.7% of all households were made up of individuals and 9.4% had someone living alone who was 65 years of age or older. The average household size was 2.27 and the average family size was 2.87. In the city, the population was 20.3% under the age of 18, 17.3% from 18 to 24, 28.5% from 25 to 44, 21.8% from 45 to 64, and 12.1% who were 65 years of age or older. The median age was 33 years. For every 100 females, there were 96.0 males. For every 100 females age 18 and over, there were 94.0 males. The median income for a household in the city was $35,850, and the median income for a family was $48,527. Males had a median income of $35,549 versus $26,721 for females. The per capita income for the city was $21,315. About 8.7% of families and 17.1% of the population were below the poverty line, including 14.8% of those under age 18 and 7.1% of those age 65 or over.
+
+Questions:
+QuestionID: 0
+Question: How many percent are not female householder with no husband present?
+Answer: 90.3
+Explanation: 9.7% had a female householder with no husband present; the remaining 90.3% did not.
+
+--------------------------------------------------
+PassageID: 2
+Passage:  Hoping to rebound from their tough road loss to the Patriots, the Chiefs hosted their AFC West rival, the Oakland Raiders.  In the first quarter, Kansas City trailed early as Raiders kicker Sebastian Janikowski got a 56-yard and a 25-yard field goal. Chiefs quarterback Damon Huard suffered a neck injury in the first quarter and Tyler Thigpen substituted as quarterback for the remainder of the game. Huard was in for Kansas City's first two series, but didn't return after throwing an interception late in the second quarter. Marques Hagans, who was listed on the Chiefs' roster as a wide receiver, checked in as quarterback for several draw plays. The Chiefs announced at the end of the third quarter that Huard sustained "mild head trauma," a move deemed controversial as Huard never sought medical attention in the following days. Under Thigpen, the Chiefs' offense struggled to move the ball down the field. In using three quarterbacks, the Chiefs had only 65 net yards at halftime. Raiders RB Darren McFadden got a 19-yard TD run in the third quarter. Oakland increased its lead with Janikowski nailing a 40-yard field goal in the fourth quarter. The Chiefs would respond with rookie QB Tyler Thigpen completing a 2-yard TD pass to TE Tony Gonzalez, Kansas City executed a two-point conversion pass to rookie FB Mike Cox to make them within 8 points with just over five minutes remaining. The Chiefs' two-point conversion was the team's first in two years. Kansas City lost its opportunity to tie the game as the Raiders pulled away with RB Michael Bush getting a 32-yard TD run. The Chiefs' defense allowed the third-highest total yards on offense in franchise history. JaMarcus Russell completed only 6 of 17 passes for 55&#160;yards and led the Raiders to a 15-point victory. Following the game, Chiefs RB Larry Johnson voiced his displeasure with the Chiefs' offense and his role with the team. With the loss, the Chiefs fell to an 0-2 record for the third consecutive year. Kansas City's 11-game losing streak (2007-2008) is the longest in franchise history. The Chiefs also lost their second consecutive game to the Raiders for the first time since 2001.
+
+Questions:
+QuestionID: 0
+Question: How many yards was the second longest field goal?
+Answer: 40
+Explanation: Janikowski completed a 40-yard field goal in the fourth quarter, the second longest only behind the 56-yard field goal in the first quarter.
+
+--------------------------------------------------
+PassageID: 3
+Passage:  Hoping to snap a two-game losing streak, the Falcons went home for a Week 9 duel with the Washington Redskins.  Atlanta would take flight in the first quarter as quarterback Matt Ryan completed a 2-yard touchdown pass to tight end Tony Gonzalez, followed by cornerback Tye Hill returning an interception 62 yards for a touchdown.  The Redskins would answer in the second quarter as kicker Shaun Suisham nailed a 48-yard field goal, yet the Falcons kept their attack on as running back Michael Turner got a 30-yard touchdown run, followed by kicker Jason Elam booting a 33-yard field goal. Washington began to rally in the third quarter with a 1-yard touchdown run from running back Ladell Betts.  The Redskins would come closer in the fourth quarter as quarterback Jason Campbell hooked up with tight end Todd Yoder on a 3-yard touchdown pass, yet Atlanta closed out the game with Turner's 58-yard touchdown run.
+
+Questions:
+QuestionID: 0
+Question: Which team lost?
+Answer: Redskins
+Explanation: Redskins lost the game after Turner’s 58-yard touchdown run in the last quarter.
+
+--------------------------------------------------
+PassageID: 4
+Passage: With the end of the "crack epidemic" in the mid-1990s and with the initiation of aggressive policing under mayors David Dinkins and subsequently  Rudolph Giuliani, crime in Harlem plummeted. In 1981, 6,500 robberies were reported in Harlem; robberies dropped to 4,800 in 1990 during David Dinkins mayoralty. By 2000, only 1,700 robberies were reported, and by 2010, only 1,100 were reported. There have been similar changes in all categories of crimes tracked by the New York City Police Department. In the 32nd Precinct, which services Central Harlem above 127th Street, for example, between 1990 and 2013, the murder rate dropped 89.4%, the rape rate dropped 67.5%, the robbery rate dropped 74.2%, burglary dropped 93.4%, and the total number of crime complaints dropped 77.6%.
+
+Questions:
+QuestionID: 0
+Question: How many fewer robberies were there in 2010 than in 2000?
+Answer: 600
+Explanation: There were 1100 robberies in 2010, 600 more than in 2000.
+
+--------------------------------------------------
+PassageID: 5
+Passage: Through the Dutch East India Company and its workers, the Dutch Reformed Church was established in Ceylon in 1642. The Dutch Reformed Church of Ceylon officially changed its name in 2007 to the Christian Reformed Church of Sri Lanka to reflect its Christian identity in the nation, rather than on its Dutch colonial heritage.  As of 2007, its membership stands around 5,000, comprising both communicant and baptised members in 29 congregations, preaching stations, and mission outposts. Christianity in Indonesia is strongly influenced under the Dutch reformed church, the first known church established in the country is "De Oude kerk" in Batavia in 1640. Christianity in Indonesia, like Sri Lanka, has been nationalised into different branches of Protestantism while retaining many of the reformed church elements.
+
+Questions:
+QuestionID: 0
+Question: How many years before the Dutch Reformed Church was established was the first known church of in Indonesia established in Batavia?
+Answer: 2
+Explanation: The first known church was established in 1640, 2 years before the Dutch Reformed Church was established. 
+
+--------------------------------------------------
+PassageID: 6
+Passage:  Coming off their impressive road win over the Buccaneers, the Steelers went home for an AFC North duel with the Baltimore Ravens.  Pittsburgh would deliver the opening punch in the first quarter with a 1-yard touchdown run from running back Rashard Mendenhall.  The Ravens would take the lead in the second quarter as running back Willis McGahee got a 9-yard touchdown run, followed by kicker Billy Cundiff getting a 33-yard field goal.  After a scoreless third quarter, the Steelers would regain the lead as Mendenhall picked up a 7-yard touchdown run.  However, Baltimore would get the last laugh as quarterback Joe Flacco completed an 18-yard touchdown pass to wide receiver T. J. Houshmandzadeh with 33&#160;seconds remaining. The Steelers would get the ball back with 20&#160;seconds remaining but quarterback Charlie Batch threw a pass that was picked off by linebacker Ray Lewis, effectively ending the game. With the loss, Pittsburgh went into their bye week at 3-1.
+
+Questions:
+QuestionID: 0
+Question: Who caught the Ravens touchdown pass?
+Answer: T. J. Houshmandzadeh
+Explanation: T. J. Houshmandzadeh caught the Ravens touchdown pass from Joe Flacco.
+
+--------------------------------------------------
+PassageID: 7
+Passage: As the first part of a 10-year Road Sector Development Program, between 1997 and 2002 the Ethiopian government began a sustained effort to improve its infrastructure of roads. As a result, as of 2002 Ethiopia has a total (federal and regional) 33,297 km of roads, both paved and gravel. The share of federally managed roads in good quality improved from 14% in 1995 to 31% in 2002 as a result of this program, and to 89% in 2009 the road density increased from 21 km per 1000 km2 (in 1995) to 889 km; per 1000 km2 (in 2009) however, this is much greater than the average of 50 km per 1000 km2 for Africa.
+
+Questions:
+QuestionID: 0
+Question: How many percent did road quality increase by from 2002 to 2009 as a result of the Road Sector Development Program?
+Answer: 58
+Explanation: The road quality was 89% in 2009, 58% more than in 2002.
+
+--------------------------------------------------
+PassageID: 8
+Passage: In the city, the population was spread out with 12.0% under the age of 18, 55.2% from 18 to 24, 15.3% from 25 to 44, 10.3% from 45 to 64, and 7.1% who were 65 years of age or older.  The median age was 22 years. For every 100 females, there were 160.7 males.  For every 100 females age 18 and over, there were 173.2 males.
+
+Questions:
+QuestionID: 0
+Question: How many percent more under 18 than 65 year old?
+Answer: 4.9
+Explanation: 12% were under the age of 18, 4.9% more than people 65 years or older.
+
+--------------------------------------------------

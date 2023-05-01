@@ -1,0 +1,93 @@
+PassageID: 0
+Passage: Perspective: Interfering with a species for cosmetic reasons is poor practice
+
+Questions:
+QuestionID: 0
+Question: Claim: The breeding of white tigers in captivity should be banned. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: supports
+Explanation: Breeding tigers in captivity is interfering with the species.
+
+--------------------------------------------------
+PassageID: 1
+Passage: Perspective: Collective bargaining has been recognised as an enforcable right
+
+Questions:
+QuestionID: 0
+Question: Claim: Abolish all collective bargaining rights claimed by trades unions. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: undermines
+Explanation: An enforceable right cannot be abolished.
+
+--------------------------------------------------
+PassageID: 2
+Passage: Perspective: Religious Doctrine Preaches Altruism
+
+Questions:
+QuestionID: 0
+Question: Claim: Religion In Itself Is A Purely Positive Force In The World. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: supports
+Explanation: Religion promotes positive virtues such as altruism.
+
+--------------------------------------------------
+PassageID: 3
+Passage: Perspective: South Ossetia has a right to self-determination
+
+Questions:
+QuestionID: 0
+Question: Claim: South Ossetia should be independent. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: supports
+Explanation: Gaining independence would ensure that South Ossetia’s right to self-determination is upheld.
+
+--------------------------------------------------
+PassageID: 4
+Passage: Perspective: Relations between Scots and English are deteriorating
+
+Questions:
+QuestionID: 0
+Question: Claim: The best way to protect Scottish interests in the EU is to vote for independence. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: supports
+Explanation: Since relations with the English are deteriorating, they may not respect Scottish interests.
+
+--------------------------------------------------
+PassageID: 5
+Passage: Perspective: Vaccines eradicated smallpox and have nearly eradicated other diseases such as polio.
+
+Questions:
+QuestionID: 0
+Question: Claim: Any vaccines should be required for children. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: supports
+Explanation: Vaccines can protect children from diseases.
+
+--------------------------------------------------
+PassageID: 6
+Passage: Perspective: Music depicting violence to women causes and sustains the cycle of violence.
+
+Questions:
+QuestionID: 0
+Question: Claim: Music containing lyrics that glorify violent and criminal lifestyles should be banned. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: supports
+Explanation: Banning music depicting violence can help break the cycle of violence against women.
+
+--------------------------------------------------
+PassageID: 7
+Passage: Perspective: The lottery of childbirth should not be interfered with
+
+Questions:
+QuestionID: 0
+Question: Claim: Parents should be able to choose the sex of their children. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: undermines
+Explanation: Choosing sex of the child is interfering with childbirth.
+
+--------------------------------------------------
+PassageID: 8
+Passage: Perspective: PMCs are not held to the same standards and thus should not be hired by the US government.
+
+Questions:
+QuestionID: 0
+Question: Claim: The United States is justified in using private military firms abroad to pursue its military objectives. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: undermines
+Explanation: Since PMCs cannot be held to the same standards, the US government is not justified in using them.
+
+--------------------------------------------------
+
+
+

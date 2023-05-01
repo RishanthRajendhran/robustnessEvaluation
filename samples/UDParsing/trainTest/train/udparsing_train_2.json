@@ -1,0 +1,74 @@
+[
+    {
+        "PassageID": "2_answers-20110909115731AAl3uzs_ans-0001",
+        "sentence1": "Sentence: How much is a big mac *in* your country?",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *in* in the sentence?",
+        "label": "much",
+        "explanation": ""
+    },
+    {
+        "PassageID": "2_newsgroup-groups.google.com_homeopathyclinic_46a87f7e5ce279d5_ENG_20051107_133800-0007",
+        "sentence1": "Sentence: I think a test *like* this one is much needed.",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *like* in the sentence?",
+        "label": "test",
+        "explanation": ""
+    },
+    {
+        "PassageID": "2_reviews-162702-0002",
+        "sentence1": "Sentence: I was soooo lucky to have used Marlon's photography services.... such a creative and talented photographer and a pleasure to work *with*.",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *with* in the sentence?",
+        "label": "pleasure",
+        "explanation": ""
+    },
+    {
+        "PassageID": "2_reviews-016861-0001",
+        "sentence1": "Sentence: Stayed *in* the Seaview room here in December 2009!",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *in* in the sentence?",
+        "label": "Stayed",
+        "explanation": ""
+    },
+    {
+        "PassageID": "2_email-enronsent00_02-0047",
+        "sentence1": "Sentence: I faxed you the promotional on 10300 Heritage Office Building *with* the Nimitz post office.",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *with* in the sentence?",
+        "label": "Building",
+        "explanation": ""
+    },
+    {
+        "PassageID": "2_answers-20111108111203AA6gfnr_ans-0001",
+        "sentence1": "Sentence: information *on* the Eurostar train?",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *on* in the sentence?",
+        "label": "information",
+        "explanation": ""
+    },
+    {
+        "PassageID": "2_email-enronsent05_01-0006",
+        "sentence1": "Sentence: *In* other words the table is set.",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *In* in the sentence?",
+        "label": "set",
+        "explanation": ""
+    },
+    {
+        "PassageID": "2_reviews-057644-0002",
+        "sentence1": "Sentence: Run *down*.",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *down* in the sentence?",
+        "label": "Run",
+        "explanation": ""
+    },
+    {
+        "PassageID": "2_email-enronsent26_02-0004",
+        "sentence1": "Sentence: Please send it directly *to* kent.shoemaker@ae.ge.com, copy to me.",
+        "QuestionID": "0",
+        "sentence2": "What is the parent word of the parent of the preposition *to* in the sentence?",
+        "label": "send",
+        "explanation": ""
+    }
+]

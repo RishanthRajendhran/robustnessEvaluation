@@ -1,0 +1,90 @@
+PassageID: 0
+Passage: Perspective: Artefacts are enriched by being viewed in their place of origin
+
+Questions:
+QuestionID: 0
+Question: Claim: Cultural property residing in museums must be returned to its place of origin. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: supports
+Explanation: 
+
+--------------------------------------------------
+PassageID: 1
+Passage: Perspective: A resource treasure for humanity
+
+Questions:
+QuestionID: 0
+Question: Claim: Antarctica Should Be Opened Up For Resource Exploitation. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: supports
+Explanation: 
+
+--------------------------------------------------
+PassageID: 2
+Passage: Perspective: Same-sex couples should have access to the same benefits enjoyed by heterosexual married couples.
+
+Questions:
+QuestionID: 0
+Question: Claim: Same sex relationships should have the same legal status as heterosexual relationships under EU law. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: supports
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3
+Passage: Perspective: “Under God” is part of American tradition and history
+
+Questions:
+QuestionID: 0
+Question: Claim: Remove the words "under God" from the American Pledge of Allegiance. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: undermines
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4
+Passage: Perspective: Oil = Rentier economies = weak internal cohesion
+
+Questions:
+QuestionID: 0
+Question: Claim: Resources have a negative influence on foreign policy in the Middle East. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: supports
+Explanation: 
+
+--------------------------------------------------
+PassageID: 5
+Passage: Perspective: Uses of free speech motivated by personal gain should still be protected.
+
+Questions:
+QuestionID: 0
+Question: Claim: Limit the free speech rights of corporations that are granted legal personhood. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: undermines
+Explanation: 
+
+--------------------------------------------------
+PassageID: 6
+Passage: Perspective: Redistributing wealth to balance the inequality of income disparity
+
+Questions:
+QuestionID: 0
+Question: Claim: Basic income tax should be abolished. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: undermines
+Explanation: 
+
+--------------------------------------------------
+PassageID: 7
+Passage: Perspective: Police body cameras decrease the safety of police officers and negatively affect their physical and mental health.
+
+Questions:
+QuestionID: 0
+Question: Claim: Police body cameras should be allowed. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: undermines
+Explanation: 
+
+--------------------------------------------------
+PassageID: 8
+Passage: Perspective: Government was required to drive through major changes such as drives for equality within society, universal education, and preservation of the environment. Mostly in the teeth of big business
+
+Questions:
+QuestionID: 0
+Question: Claim: Government must be Big and Beefy. Does the perspective support or undermine the claim? Answer with: supports, undermines or not a valid perspective.
+Answer: supports
+Explanation: 
+
+--------------------------------------------------

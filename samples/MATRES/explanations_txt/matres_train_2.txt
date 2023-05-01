@@ -1,0 +1,92 @@
+PassageID: 0
+Passage: Slepian was  one of only three doctors who  *performed*   abortions in the Buffalo, N.Y., area, and harassment and threats against him by anti-abortion groups had become  routine over  the past decade . He  *persevered*   through courage and a belief in the right of his patients to choose  whether to bear  a child.
+
+Questions:
+QuestionID: 0
+Question: When did the event *performed* happen in relation to the event *persevered*: before, after, simultaneously, or is it vague?
+Answer: before
+Explanation: The doctor had been performing abortions even before the threats began, through which he persevered.
+
+--------------------------------------------------
+PassageID: 1
+Passage: Elian has been at the center of an international tug-of-war since he was  *rescued*   off the coast of Florida in late November . His mother was among 11 people who died  after they boat  *sank*   during the attempted crossing  from Cuba to the United States.
+
+Questions:
+QuestionID: 0
+Question: When did the event *rescued* happen in relation to the event *sank*: before, after, simultaneously, or is it vague?
+Answer: after
+Explanation: Elian was rescued after the boat sank.
+
+--------------------------------------------------
+PassageID: 2
+Passage: On Monday , Spitzer  *called*   for Vacco to revive  that unit immediately, vowing  that he would do  so on  his first day  in office if elected .Goldstein, who said  it was  ``thoroughly, thoroughly possible'' that the issue would surface  in Spitzer's advertisements, defended  the use of the issue by  *noting*   that the attorney general has  direct impact on the issue of clinic access.
+
+Questions:
+QuestionID: 0
+Question: When did the event *called* happen in relation to the event *noting*: before, after, simultaneously, or is it vague?
+Answer: before
+Explanation: The call was made before the observation was made.
+
+--------------------------------------------------
+PassageID: 3
+Passage: Clark, the Erie district attorney,  *said*   afterwards that investigators think  the doctor's killer buried  the rifle in  the days before  the shooting , unearthed  the weapon to fire  the fatal shots, then hurriedly reburied  it and fled .The 44-year-old Kopp, who in FBI photographs  *appears*   as gaunt and scruffily bearded and whose last known addresses were  in Vermont and New Jersey, emerged  as the focus of the investigation within two weeks  of the slaying.
+
+Questions:
+QuestionID: 0
+Question: When did the event *said* happen in relation to the event *appears*: before, after, simultaneously, or is it vague?
+Answer: after
+Explanation: The photographs were from before the investigation during which the statement was made began.
+
+--------------------------------------------------
+PassageID: 4
+Passage: Clinton  *said*   in his weekly  radio address."To  *turn*   our backs on those taking  risks for peace, to weaken  our opposition to terrorism -- that would give  terrorism a victory it must not and will not have," the president said.
+
+Questions:
+QuestionID: 0
+Question: When did the event *said* happen in relation to the event *turn*: before, after, simultaneously, or is it vague?
+Answer: vague
+Explanation: The turning of backs is spoken of hypothetically. 
+
+--------------------------------------------------
+PassageID: 5
+Passage: Scharping, ending  a two-day visit ,  *said*   Poland was well prepared  to join  the alliance. Germany has  *been*   a strong advocate of Poland's access to NATO, saying  it will serve  European security and stability.
+
+Questions:
+QuestionID: 0
+Question: When did the event *said* happen in relation to the event *been*: before, after, simultaneously, or is it vague?
+Answer: after
+Explanation: Germany has been offering support since long before it was decided that Poland could join NATO.
+
+--------------------------------------------------
+PassageID: 6
+Passage: The Cypriot government Saturday  strongly condemned  two terrorist bomb attacks  in Kenya and Tanzania Friday ,  *calling*   them an "atrocious crime."In a condolence telegram to U.S. President Bill Clinton, President Glafcos Clerides condemned  the terrorist acts  and  *extended*   his sympathy to the victims' families.
+
+Questions:
+QuestionID: 0
+Question: When did the event *calling* happen in relation to the event *extended*: before, after, simultaneously, or is it vague?
+Answer: before
+Explanation: The offer of support was extended only after the condemnation of the terror attacks.
+
+--------------------------------------------------
+PassageID: 7
+Passage: Suspected bombs  *exploded*   outside the U.S. embassies in the Kenyan and Tanzanian capitals Friday , killing  dozens of people, witnesses said .The American ambassador to Kenya was among hundreds injured , a local TV  *said*.
+
+Questions:
+QuestionID: 0
+Question: When did the event *exploded* happen in relation to the event *said*: before, after, simultaneously, or is it vague?
+Answer: before
+Explanation: The explosion happened before it was reported on TV.
+
+--------------------------------------------------
+PassageID: 8
+Passage:  In the years  that followed , the guerrilla fighters waged  war on the troops of dictator Fulgencio Batista,  *declaring*  victory on Jan. 1, 1959  when Batista  *fled*   the country.
+
+Questions:
+QuestionID: 0
+Question: When did the event *declaring* happen in relation to the event *fled*: before, after, simultaneously, or is it vague?
+Answer: after
+Explanation: The victory was declared as a result of Batista fleeing.
+
+--------------------------------------------------
+
+

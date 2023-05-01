@@ -1,0 +1,90 @@
+PassageID: 0
+Passage: The ratification process  of NATO enlargement concluded on Wednesday after  the Netherlands gave  its go-ahead.Poland, Hungary and the Czech Republic have been accepted  as members of the Western military alliance after  the upper house of the Dutch parliament  *voted*   in favor of their inclusion.All the political parties in the upper house, with the exception of the Greens,  *agreed*   on the enlargement process , according to reports reaching  here.
+
+Questions:
+QuestionID: 0
+Question: When did the event *voted* happen in relation to the event *agreed*: before, after, simultaneously, or is it vague?
+Answer: simultaneous
+Explanation: The agreement was expressed during the voting process.
+
+--------------------------------------------------
+PassageID: 1
+Passage: Kenyan Trade Minister Joseph Kamotho and American ambassador to Kenya Prudence Bushnell were injured  in the blast .Also on Friday morning , at least four people were  *killed*   in an explosion  that  *took*   place near the American embassy in Dar es Salaam, the capital of Tanzania.It was not immediately known who were responsible for the explosions.
+
+Questions:
+QuestionID: 0
+Question: When did the event *killed* happen in relation to the event *took*: before, after, simultaneously, or is it vague?
+Answer: after
+Explanation: The killings happened only after the explosion took place.
+
+--------------------------------------------------
+PassageID: 2
+Passage: 'As pressure built  in this city, the home of a large number of Cuban exiles, officials of the Immigration and Naturalization Service  *said*   they did not plan  to remove  Elian on Thursday morning  even if his Miami relatives continued  to defy  them. But an INS spokeswoman said  the agency would revoke  Elian's permission to stay  in the United States,  *clearing*   the way for his return  to Cuba.
+
+Questions:
+QuestionID: 0
+Question: When did the event *said* happen in relation to the event *clearing*: before, after, simultaneously, or is it vague?
+Answer: before
+Explanation: Elian’s permission to stay had not yet been revoked thereby clearing the way for his return when the statement by the officials of the Immigration and Naturalization Service was made.
+
+--------------------------------------------------
+PassageID: 3
+Passage: The Miami kin has been  *battling*   to keep  him in the United States,  *saying*   it can give  him a better life off the communist island.
+
+Questions:
+QuestionID: 0
+Question: When did the event *battling* happen in relation to the event *saying*: before, after, simultaneously, or is it vague?
+Answer: before
+Explanation: Their battle to keep him in the US had begun before they made that statement.
+
+--------------------------------------------------
+PassageID: 4
+Passage: In a town where expressing  even the slightest approval for Cuban President Fidel Castro can prompt  threats of physical harm, Manuel Gonzalez  *filed*   a motion in federal court  *asking*   for custody of Elian so that he could help reunite  the boy with his father in Cuba.
+
+Questions:
+QuestionID: 0
+Question: When did the event *filed* happen in relation to the event *asking*: before, after, simultaneously, or is it vague?
+Answer: before
+Explanation: The request for custody is considered after the motion is filed.
+
+--------------------------------------------------
+PassageID: 5
+Passage: Elian was found Thanksgiving Day  *clinging*   to an inner tube at sea after  his mother, stepfather and eight other people drowned  while trying  to reach  Florida by boat.The boy was  *placed*   with his great-uncle and great-aunt in Miami, but the Immigration and Naturalization Service ruled Wednesday  that he must be returned  to his father in Cuba by Jan. 14.
+
+Questions:
+QuestionID: 0
+Question: When did the event *clinging* happen in relation to the event *placed*: before, after, simultaneously, or is it vague?
+Answer: before
+Explanation: The boy was placed in care of his relatives only after he was found clinging to the pipes.
+
+--------------------------------------------------
+PassageID: 6
+Passage: Rescued on Nov. 25  by fishermen off the Florida coast, Elian has  *become*   the subject of an international custody battle .His mother died  in a boating accident  *trying*   to get  Elian and herself to the United States.
+
+Questions:
+QuestionID: 0
+Question: When did the event *become* happen in relation to the event *trying*: before, after, simultaneously, or is it vague?
+Answer: after
+Explanation: Elian’s custody came into question only after his mother died trying to get herself and Elian to the United States.
+
+--------------------------------------------------
+PassageID: 7
+Passage: The Immigration and Naturalization Service has ruled  in favor of the father's request  that the boy be returned  to him in Cuba, but that decision  was  *put*   on hold while the Miami relatives battle  in federal court to keep  him in this country.Holder said  that INS  *acted*   appropriately but `` now  that we have this new information, we'll have to look  at it, and see , like I said , what steps if any are appropriate.
+
+Questions:
+QuestionID: 0
+Question: When did the event *put* happen in relation to the event *acted*: before, after, simultaneously, or is it vague?
+Answer: vague
+Explanation: The hold put on the decision was only a part of the action taken by INS in this matter. 
+
+--------------------------------------------------
+PassageID: 8
+Passage: Found  clinging to an inner tube off the coast of Florida in late November , Elian has been the subject of an international custody battle .His mother died  *trying*   to  *get*   Elian and herself to the United States.
+
+Questions:
+QuestionID: 0
+Question: When did the event *trying* happen in relation to the event *get*: before, after, simultaneously, or is it vague?
+Answer: vague
+Explanation: Getting to the United States was only a part of the mother’s attempts.
+
+--------------------------------------------------

@@ -1,0 +1,90 @@
+PassageID: newsgroup-groups.google.com_AlaskaTheLastFrontier_4709a6627e811b2a_ENG_20050530_201400-0003
+Passage: Sentence: Good luck *w/* it & will pray for you to have the willpower to be smoke- free :)
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *w/* in the sentence?
+Answer: luck
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0007
+Passage: Sentence: The interim Governing Council issued a communique saying," It is a proof *of* the emptiness of the Israeli authority and a destruction of the peace endeavors in the region...
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *of* in the sentence?
+Answer: proof
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-blogspot.com_alaindewitt_20060827093500_ENG_20060827_093500-0008
+Passage: Sentence: In other words, those Americans were there by their own choice, mired *in* a situation that was totally predictable.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *in* in the sentence?
+Answer: mired
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111107203006AA9ojw8_ans-0004
+Passage: Sentence: 1) what islad *of* Fiji is a good island that isnot TOO far from the main airpart in Fiji.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *of* in the sentence?
+Answer: islad
+Explanation: 
+
+--------------------------------------------------
+PassageID: weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0002
+Passage: Sentence: The US lost yet another helicopter *to* hostile fire near Habbaniyah in the Sunni heartland, but this time the crew was safe.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *to* in the sentence?
+Answer: lost
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-306740-0002
+Passage: Sentence: My son was able to advance a full two grades *within* 9 months!
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *within* in the sentence?
+Answer: advance
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent00_02-0033
+Passage: Sentence: I would like to see the quotes and a description *of* the work to be done.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *of* in the sentence?
+Answer: description
+Explanation: 
+
+--------------------------------------------------
+PassageID: email-enronsent30_02-0009
+Passage: Sentence: You are a clear thinker and all you demand from life, in a relationship, is a partner whom you can trust and with whom you can, together, develop a foundation of trust based *on* understanding.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *on* in the sentence?
+Answer: foundation
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111108105022AA0Q5wb_ans-0011
+Passage: Sentence: Make sure he isn't trapped somewhere & put a bowl *of* food out.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *of* in the sentence?
+Answer: bowl
+Explanation: 
+
+--------------------------------------------------

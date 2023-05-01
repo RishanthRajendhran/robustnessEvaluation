@@ -1,0 +1,90 @@
+PassageID: 0
+Passage: "One of those classics, held up next to ""Deep Throat"" and ""Behind the Green Door.""<br /><br />Sure, it was clever, but the female lead isn't that attractive and sex isn't that hot. But if not for this film, porn would not have blossomed into what it is today.<br /><br />Harry Reems was the Ron Jeremy of his day. Worth a look if you're a Fan."
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Negative
+Explanation: 
+
+--------------------------------------------------
+PassageID: 1
+Passage: I can sum this movie up using 20 words or less. Way too predictable of a story line with potential to be funny but instead falls flat on its face. See, 19 words, however, I didn't completely pan this flick with just one star but instead decided to bump it up to two stars due to the fact that Julie Bowen is smoking hot and provided just enough eye candy to keep me from ripping the DVD right out from the machine and blowing it up with an M80. My advice, take the $4.00 rental fee you would have paid to see this movie and just send it right to me as an advance thank you for saving you the time and frustration of having to sit through this train wreck, or you may want to send me the $50.00 replacement fee you would have been charged from taking out your twelve gage to use this piece of garbage as skeet shooting practice.
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Negative
+Explanation: 
+
+--------------------------------------------------
+PassageID: 2
+Passage: A real classic, ten out of ten! Every actor is perfect, the screenplay is a haunting succession of suspenseful scenes. Scenes in car and scenes in the mountains are breathtaking. Wonder if this film is already out in DVD, because it must be seen in Widescreen version. Saw this film in the late fifties, maybe three or four times, and never since then forgot it.I remember it was one of the first Warner like cinemas cope features, process called Warnerscope which gave a very neat cinematography. Shelley Winters and Jack Palance deserved an Oscar for their performances.The only thing I could criticize is not having been directed by someone like, say Nicholas Ray, to increase its rhythm and tension.
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Positive
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3
+Passage: Luise Rainer received an Oscar for her performance in The Good Earth. Unfortunately, her role required no. She did not say much and looked pale throughout the film. Luise's character was a slave then given away to marriage to Paul Muni's character (he did a fantastic job for his performance). Set in ancient Asia, both actors were not Asian, but were very convincing in their roles. I hope that Paul Muni received an Oscar for his performance, because that is what Luise must have gotten her Oscar for. She must have been a breakthrough actress, one of the first to method act. This seems like something that Hollywood does often. Al Pacino has played an Italian and Cuban. I felt Luise's performance to be lackluster throughout, and when she died, she did not change in expression from any previous scenes. She stayed the same throughout the film; she only changed her expression or emotion maybe twice. If her brilliant acting was so subtle, I suppose I did not see it.
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Negative
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4
+Passage: I absolutely love this show, but I saw the second episode first. After watching the first episode I could see why people were turned off at first. The first episode's humor is not the best, and they struggle to properly start the series. However, I still like the light and humorous attitude of the show. The characters develop much more after the episode and become truly enjoyable characters. As a first episode, it really doesn't accurately represent the rest of the show which is really quite good. The episode is not bad by any means, but as the show progresses it becomes better and better, so watch more episodes before passing any judgement on the quality of the show.
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Positive
+Explanation: 
+
+--------------------------------------------------
+PassageID: 5
+Passage: "About three minutes into this thing I started fast-forwarding, pausing only during the nudity (why is it that bad movies always include such good looking women?). In ten minutes I was done, and wishing I could get my money back from the rental store. The people who write these movies should be sanctioned by the MPAA. Come on writers - the bad guys ALWAYS get into the car with the bomb activated by the good guy's remote control! That's the way its been done since the days of the Ottoman Empire! Also, to add insult to injury, the ""twist"" at the end was so formulaic, that it could have come from any action movie written in the past 25 years. Burt Reynolds was fine, but he should concentrate on real movies.<br /><br />This movie is just a waste of time - Run away! Run away!"
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Negative
+Explanation: 
+
+--------------------------------------------------
+PassageID: 6
+Passage: I swear when I first saw this movie,I cried my eyes out! A STAR IS BORN is the movie that lets you know what love is really like despite the obstacles John Norman (Kris Kristofferson) and Esther (Streisand) face. You also experience what it's like to lose a love like that by the end of the movie. Streisand and Kristofferson have such great chemistry together and the music is fantastic! When Streisand sings With one more look at you/Watch closely now, it's just pure magic! This movie made the song Evergreen one of my favorites,and Queen Bee is such a fun song. Also I love the fashion of the '70s (except Streisand's afro. Besides that,she's a beauty.). A Star is Born is my number one favorite movie. This movie is a pleasure to watch and is a heart-breaker at the end.
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Positive
+Explanation: 
+
+--------------------------------------------------
+PassageID: 7
+Passage: "This movie is not very good.In fact, it is the worst Elvis movie I have seen.It has very little plot,mostly partying,beer drinking and fighting. Burgess Meredith and Thomas Gomez are wasted. I don't know why they did this movie.You could say Elvis was wasted as well,he is much,much better in ""Follow That Dream."""
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Negative
+Explanation: 
+
+--------------------------------------------------
+PassageID: 8
+Passage: "I got to see this film at a preview and was dazzled by it. It's not the typical romantic comedy. I can't remember laughing so hard at a film and yet being moved by it. The laughs aren't gags here--they're observations, laughs of recognition, little shocks of ""Oh, my God, I thought I was the only one who felt that way!"" I won't give away the plot, which is more than just ""Guy falls in love with his brother's girlfriend."" The whole family plays a part in the relationship here. Probably the best blend of laughter and warmth since ""While You Were Sleeping."" <br /><br />Steve Carell goes much deeper than he's gone before, and for the first time I really liked him. The cast is amazing, a list of veteran theater actors whom I've loved in other roles, but they blend to make a convincing family. Dianne Wiest is lovely as the mother, Juliette Binoche is luminous and hilarious (who knew she was funny?), and even the reviled Dane Cook gives a warm, quiet, touching performance. The Sondre Lerche soundtrack is a wonderful addition, and I'll buy the CD the second it's available.<br /><br />Don't miss this one."
+
+Questions:
+QuestionID: 0
+Question: What is the sentiment of this review: Positive or Negative?
+Answer: Positive
+Explanation: 
+
+--------------------------------------------------

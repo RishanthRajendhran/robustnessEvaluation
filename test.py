@@ -76,7 +76,8 @@ parser.add_argument(
         "mctaco",
         "imdb",
         "matres",
-        "perspectrum"
+        "perspectrum",
+        "udparsing"
     ],
     required = True,
 )
@@ -102,6 +103,12 @@ parser.add_argument(
     help="Boolean flag to enable self consistency mode"
 )
 
+parser.add_argument(
+    "-noCoT",
+    action="store_true",
+    help="Boolean flag to indicate no-Chain-of-Thought inferencing",
+)
+
 args = parser.parse_args()
 
 trainFiles = args.trainFiles
@@ -113,6 +120,7 @@ isTrainDirectory = args.isTrainDirectory
 isTestDirectory = args.isTestDirectory
 dataset = args.dataset
 modelSize = args.modelSize
+noCoT = args.noCoT
 trainPattern = None 
 testPattern = None
 selfConsistency = args.selfConsistency
@@ -120,6 +128,12 @@ if args.trainPattern:
     trainPattern = args.trainPattern
 if args.testPattern:
     testPattern = args.testPattern
+
+if noCoT:
+    if promptType != 1:
+        raise ValueError("Only promptType 1 supported in no-Chain-of-thought inferencing mode!")
+    if selfConsistency:
+        raise ValueError("Self consisency not supported in no-Chain-of-thought inferencing mode!")
 
 if isTrainDirectory:
     jsonDirName = trainFiles[0]
@@ -155,13 +169,15 @@ def readJSON(filePath, dataset):
             data.append(json.loads(line))
         return data
     else: 
-        f = open(filePath, "r")
-        data = json.load(f)
+        with open(filePath, "r") as f:
+            data = json.load(f)
         return data
 # #---------------------------------------------------------------------------
-def _generatePrompt(data, promptType, bestPromptType=1, isTest=False):
+def _generatePrompt(data, promptType, dataset, noCoT, bestPromptType=1, isTest=False):
     prompts = []
 
+    ##Experiment: For Boolq
+    # prompts.append("In this task, you’re expected to write answers to questions using “yes”, “no” or “unknown”. Give the rationale before answering.\n")
     if promptType == 4:
         if not isTest:
             prompts.append("Answer the following yes/no/don’t know question by reasoning step by step.\n")
@@ -174,33 +190,49 @@ def _generatePrompt(data, promptType, bestPromptType=1, isTest=False):
         prompts.append("In this task, you’re expected to write answers to questions involving reasoning about negation. The answer to the question should be “yes”, “no”, “don’t know” or a phrase in the passage. Questions can have only one correct answer. Give the rationale before answering.\n")
     for d in data:
         if promptType == 1 or promptType == 2 or promptType == 3 or promptType == 6:
-            out = "Passage: "
+            out = ""
+            if dataset not in ["perspectrum", "udparsing"]:
+                if dataset == "imdb":
+                    out += "Review: "
+                else:
+                    out += "Passage: "
             out += d["sentence1"]
-            out += "\nQuestion: "
-            out += d["sentence2"]
-            if promptType != 6:
-                out += "\nGive the rationale before answering. "
-            if promptType == 2:
-                out += "Answer: "
-            if promptType == 3:
-                out += "Answer: Lets think step by step. "
-            if promptType == 6:
-                out += "\nAnswer: Lets think step by step. "
+            out += "\n"
+            if dataset != "perspectrum":
+                if  dataset != "mctaco" and dataset != "imdb":
+                    out += "Question: "
+                out += d["sentence2"]
+            else: 
+                reqInd1 = d["sentence2"].index("Does the perspective support or undermine the claim?")
+                reqInd2 = d["sentence2"].index("Answer with: supports, undermines or not a valid perspective.")
+                out += d["sentence2"][:reqInd1] + "\n" + d["sentence2"][reqInd1:reqInd2] + "\n" + d["sentence2"][reqInd2:]
+            if not noCoT:
+                if promptType != 6:
+                    out += "\nGive the rationale before answering. "
+                if promptType == 2:
+                    out += "Answer: "
+                if promptType == 3:
+                    out += "Answer: Lets think step by step. "
+                if promptType == 6:
+                    out += "\nAnswer: Lets think step by step. "
+                if not isTest:
+                    if "explanation" not in d.keys():
+                        raise Exception("Cannot do CoT prompting without explanations!")
+                    out += d["explanation"]
+                    out += " So the answer is "
+            elif not isTest:
+                out += "\nThe answer is "
             if not isTest:
-                if "explanation" not in d.keys():
-                    raise Exception("Cannot do CoT prompting without explanations!")
-                out += d["explanation"]
-                out += " So the answer is "
                 out += d["label"]
                 out += ".\n###\n"
             prompts.append(out)
     return prompts
 #---------------------------------------------------------------------------
-def generateTrainPrompt(data, promptType, bestPromptType=1):
-    return _generatePrompt(data,promptType, bestPromptType)
+def generateTrainPrompt(data, promptType, dataset, noCoT, bestPromptType=1):
+    return _generatePrompt(data,promptType, dataset, noCoT, bestPromptType)
 #---------------------------------------------------------------------------
-def generateTestPrompt(data, promptType, bestPromptType=1):
-    return _generatePrompt([data],promptType, bestPromptType, True)[0]
+def generateTestPrompt(data, promptType, dataset, noCoT, bestPromptType=1):
+    return _generatePrompt([data],promptType, dataset, noCoT, bestPromptType, True)[0]
 #---------------------------------------------------------------------------
 
 #Check if file exists
@@ -224,13 +256,19 @@ for testFile in testFiles:
 #Checking if trainOuts and a directory for this dataset exist, if it doesnt, create them
 if not os.path.exists(f"./testOuts"):
     os.makedirs(f"./testOuts")
-if not os.path.exists(f"./testOuts/{dataset}"):
-    os.makedirs(f"./testOuts/{dataset}")
+if selfConsistency:
+    if not os.path.exists(f"./testOuts/selfConsistency"):
+        os.makedirs(f"./testOuts/selfConsistency")
+    if not os.path.exists(f"./testOuts/selfConsistency/{dataset}"):
+        os.makedirs(f"./testOuts/selfConsistency/{dataset}")
+else: 
+    if not os.path.exists(f"./testOuts/{dataset}"):
+        os.makedirs(f"./testOuts/{dataset}")
 
 #Only do inferencing
 with torch.no_grad():
     if torch.cuda.is_available():
-        device = torch.device("cuda")
+        device = torch.device("cuda:0")
     else:
         device = torch.device("cpu")
     if selfConsistency:
@@ -256,6 +294,14 @@ with torch.no_grad():
         )
     # pipe_flan = None
     logging.info(f"Model: FLANT5-{modelSize}")
+    if selfConsistency:
+        logging.info("Decoding: Self Consistency")
+    else:
+        logging.info("Decoding: Greedy")
+    if noCoT:
+        logging.info("Chain of Thought Prompting: False")
+    else: 
+        logging.info("Chain of Thought Prompting: True")
     for trainFile in trainFiles:
         #Contingency
         #Remove after first successful run
@@ -263,7 +309,7 @@ with torch.no_grad():
         #---------------------------------
         if not zeroShot:
             trainData = readJSON(trainFile, dataset)
-            trainPrompt = generateTrainPrompt(trainData, promptType, bestPromptType)
+            trainPrompt = generateTrainPrompt(trainData, promptType, dataset, noCoT, bestPromptType)
         for testFile in testFiles:
             #Contingency
             #Remove after first successful run
@@ -271,12 +317,14 @@ with torch.no_grad():
             #---------------------------------
             testData = readJSON(testFile, dataset)
             testOuts = []
+            testInd = -1
             for testEx in testData:
-                testPrompt = generateTestPrompt(testEx, promptType, bestPromptType)
+                testInd +=1
+                testPrompt = generateTestPrompt(testEx, promptType, dataset, noCoT, bestPromptType)
                 if not zeroShot:
                     finalPrompt = ("".join(trainPrompt)) + testPrompt
                 else:
-                    finalPrompt = testPrompt                           
+                    finalPrompt = testPrompt                        
 
                 if torch.cuda.is_available():
                     torch.cuda.empty_cache()
@@ -284,7 +332,7 @@ with torch.no_grad():
                 if selfConsistency:
                     output_flan = pipe_flan(finalPrompt, max_length=MAX_LENGTH)
 
-                    sampleID = f"{trainFile}_{testFile}_{testData.index(testEx)}"
+                    sampleID = f"{trainFile}_{testFile}_{testInd}"
 
                     for out in output_flan: 
                         newEx = testEx.copy()
@@ -299,11 +347,15 @@ with torch.no_grad():
 
                 if torch.cuda.is_available():
                     torch.cuda.empty_cache()
-            if selfConsistency:
-                outFileName = f'./testOuts/selfConsistency/{dataset}/{trainFile.split("/")[-1].split(".")[0]}__{testFile.split("/")[-1].split(".")[0]}__{promptType}__{zeroShot}.json'
+            if noCoT:
+                with open(f'./testOuts/noCoT/{dataset}/{trainFile.split("/")[-1].split(".")[0]}__{testFile.split("/")[-1].split(".")[0]}__{promptType}__{zeroShot}.json', 'w') as fout:
+                    json.dump(testOuts , fout)
             else:
-                outFileName = f'./testOuts/cosistency/{dataset}/{trainFile.split("/")[-1].split(".")[0]}__{testFile.split("/")[-1].split(".")[0]}__{promptType}__{zeroShot}.json'
-            with open(outFileName, 'w') as fout:
-                json.dump(testOuts , fout)
+                if selfConsistency:
+                    with open(f'./testOuts/selfConsistency/{dataset}/{trainFile.split("/")[-1].split(".")[0]}__{testFile.split("/")[-1].split(".")[0]}__{promptType}__{zeroShot}.json', 'w') as fout:
+                        json.dump(testOuts , fout)
+                else:
+                    with open(f'./testOuts/{dataset}/{trainFile.split("/")[-1].split(".")[0]}__{testFile.split("/")[-1].split(".")[0]}__{promptType}__{zeroShot}.json', 'w') as fout:
+                        json.dump(testOuts , fout)
         logging.info("*****")
     logging.info("-----")

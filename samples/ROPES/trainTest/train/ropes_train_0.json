@@ -1,74 +1,74 @@
 [
     {
         "PassageID": "0_0",
-        "sentence1": "For example, your body has an internal thermostat. During a winter day, in your house a thermostat senses the temperature in a room and responds by turning on or off the heater. Your body acts in much the same way. When body temperature rises, receptors in the skin and the brain sense the temperature change. The temperature change triggers a command from the brain. This command can cause several responses. If you are too hot, the skin makes sweat and blood vessels near the skin surface dilate. This response helps decrease body temperature.",
-        "QuestionID": "3021625610",
-        "sentence2": "Recently, a man name Bob broke his leg, and has been commanded to stay inside and rest while it heals. His wife, Gretchen, has had to do most of the yard work, and it has been very hot outside. Bob has been watching his wife cut the grass and feels bad, noticing she looks tired, while he gets to sit inside in the air conditioning. Which of the two most likely does not have their blood and sweat vessels dilated?",
-        "label": "Bob",
-        "explanation": ""
+        "sentence1": "Hemophilia is the name of a group of hereditary diseases that affect the body's ability to control blood clotting. Hemophilia is caused by a lack of clotting factors in the blood. Clotting factors are normally released by platelets. Since people with hemophilia cannot produce clots, any cut can put a person at risk of bleeding to death. The risk of internal bleeding is also increased in hemophilia, especially into muscles and joints. This disease affected the royal families of Europe. Greg and Bobby are coworkers who are currently eating lunch together on their break. They haven't known each other very long and are having a casual conversation when Bobby mentions that he is a hemophiliac. Greg, unsure of what exactly that means, looks confused and taken aback. Bobby, noticing the bewilderment on Greg's face, takes a moment to explain the details of his condition to Greg.",
+        "QuestionID": "780095715",
+        "sentence2": "Does Greg or Bobby have a lower platelet count?",
+        "label": "Bobby",
+        "explanation": "Bobby is hemophiliac which would mean that he lacks clotting factors normally released by platelets."
     },
     {
         "PassageID": "0_1",
-        "sentence1": "Regions on the Earth's surface (or in its atmosphere) that are high above mean sea level are referred to as high altitude. High altitude is sometimes defined to begin at 2,400 meters (8,000 ft) above sea level.[5][6][7]  At high altitude, atmospheric pressure is lower than that at sea level. This is due to two competing physical effects: gravity, which causes the air to be as close as possible to the ground; and the heat content of the air, which causes the molecules to bounce off each other and expand.[8]",
-        "QuestionID": "1541285444",
-        "sentence2": "There was a competition for who can get the kite highest into the air. Team A got it 2,000 ft. Team B got it 3,000 ft. Team C go it 6,000 ft. Team D got it 9,000 ft. Team E got it 10,000 ft.  Team F got it 11,000 ft. Team G got it 12,000 ft. Team G won the contest and got a gold trophy as the prize. What team got their kite into high altitude: Team B or Team D?",
-        "label": "Team D",
-        "explanation": ""
+        "sentence1": "There is a zone of the atmosphere in which ozone absorbs some 98% of non-ionizing but dangerous UV-C and UV-B. This so-called ozone layer starts at about 20 miles (32 km) and extends upward. Some of the ultraviolet spectrum that does reach the ground (the part that begins above energies of 3.1 eV, a wavelength less than 400 nm) is non-ionizing, but is still biologically hazardous due to the ability of single photons of this energy to cause electronic excitation in biological molecules, and thus damage them by means of unwanted reactions. An example is the formation of pyrimidine dimers in DNA, which begins at wavelengths below 365 nm (3.4 eV), which is well below ionization energy. This property gives the ultraviolet spectrum some of the dangers of ionizing radiation in biological systems without actual ionization occurring. In contrast, visible light and longer-wavelength electromagnetic radiation, such as infrared, microwaves, and radio waves, consists of photons with too little energy to cause damaging molecular excitation, and thus this radiation is far less hazardous per unit of energy. John was interested in the Sun's radiations that Earth receives. One of the radiations was in the ultraviolet spectrum. He categorized it as spec A. The other radiation was the visible light. He categorized it as spec B. He then searched online to find the pros and cons of each of them.",
+        "QuestionID": "2971012663",
+        "sentence2": "In which case photons would have less energy, spec A or spec B?",
+        "label": "spec B",
+        "explanation": "Visible light has longer wavelength than radiations in the ultraviolet spectrum and hence they consist of lower energy photons."
     },
     {
         "PassageID": "0_2",
-        "sentence1": "The example of someone having a positive experience with a drug is easy to see how drug dependence and the law of effect works. The tolerance for a drug goes up as one continues to use it after having a positive experience with a certain amount the first time.[38] It will take more and more to get that same feeling. This is when the controlled substance in an experiment would have to be modified and the experiment would really begin. The law of work for psychologist B. F. Skinner almost half a century later on the principles of operant conditioning, \"a learning process by which the effect, or consequence, of a response influences the future rate of production of that response.[39]",
-        "QuestionID": "3860369692",
-        "sentence2": "The Special K Club met to discuss their experiences. They all said they always had a great experience using Special K and used the same amount each time. They told how many times they used Special K. Rico used it 72 times, Wilton used it 62 times, Brant used it 52 times, Josiah used it 42 times, Lyman used it 32 times, Alfonzo used it 22 times, and Christoper used it 12 times. Who has a higher tolerance for Special K: Josiah or Wilton?",
-        "label": "Wilton",
-        "explanation": ""
+        "sentence1": "The dangers of global warming are being increasingly studied by a wide global consortium of scientists. These scientists are increasingly concerned about the potential long-term effects of global warming on our natural environment and on the planet. Of particular concern is how climate change and global warming caused by anthropogenic, or human-made releases of greenhouse gases, most notably carbon dioxide, can act interactively, and have adverse effects upon the planet, its natural environment and humans' existence. It is clear the planet is warming, and warming rapidly. This is due to the greenhouse effect, which is caused by greenhouse gases, which trap heat inside the Earth's atmosphere because of their more complex molecular structure which allows them to vibrate and in turn trap heat and release it back towards the Earth. This warming is also responsible for the extinction of natural habitats, which in turn leads to a reduction in wildlife population.The most recent report from the Intergovernmental Panel on Climate Change (the group of the leading climate scientists in the world) concluded that the earth will warm anywhere from 2.7 to almost 11 degrees Fahrenheit (1.5 to 6 degrees Celsius) between 1990 and 2100. Rob was evaluating two research studies on climate change, study A and study B. Study A explained how increased greenhouse gases would affect the climate. On the other hand, study B showed how decreased greenhouse gases would affect the climate. Rob found the studies very interesting.",
+        "QuestionID": "1541620314",
+        "sentence2": "Which study involved less complex molecules, study A or study B?",
+        "label": "study B",
+        "explanation": "Study B was about the effect of decrease in greenhouse gases, known to be composed of complex molecules, while study A was about the effect of increase in greenhouse gases."
     },
     {
         "PassageID": "0_3",
-        "sentence1": "Regions on the Earth's surface (or in its atmosphere) that are high above mean sea level are referred to as high altitude. High altitude is sometimes defined to begin at 2,400 meters (8,000 ft) above sea level.[5][6][7]  At high altitude, atmospheric pressure is lower than that at sea level. This is due to two competing physical effects: gravity, which causes the air to be as close as possible to the ground; and the heat content of the air, which causes the molecules to bounce off each other and expand.[8]",
-        "QuestionID": "3047757326",
-        "sentence2": "There was a competition for who can get their red kite the highest into the air. Team O got it 3,555 ft. Team P got it 4,555 ft. Team Q go it 5,545 ft. Team R got it 6,535 ft. Team S got it 11,525 ft. Team T got it 14,575 ft. Team U got it 15,585 ft. What team got their kite into high altitude: Team O or Team U?",
-        "label": "Team U",
-        "explanation": ""
+        "sentence1": "Many different chemical substances cause cancer. Dozens of chemicals in tobacco smoke, including nicotine, have been shown to cause cancer ( Figure below ). In fact, tobacco smoke is one of the main sources of chemical carcinogens. Smoking tobacco increases the risk of cancer of the lung, mouth, throat, and bladder. Using smokeless tobacco can also cause cancer. Other chemicals that cause cancer include asbestos, formaldehyde, benzene, cadmium, and nickel. Jim and Robert are identical twins both getting their yearly physical check ups at the doctor's office.  They are trying to figure out if they are at risk for any future health problems. Both of them consume the same diet and exercise the same amount, and were both raised in the exact same environment. But, Jim has smoked tobacco frequently for several years and Robert has never smoked tobacco in his life.",
+        "QuestionID": "1031163917",
+        "sentence2": "Who is at a lower risk for getting mouth cancer in the future?",
+        "label": "Robert",
+        "explanation": "Robert has never smoked tobacco which is known to cause mouth cancer while Jim smokes frequently."
     },
     {
         "PassageID": "0_4",
-        "sentence1": "Sand mining is a direct cause of erosion, and impacts the local wildlife.[2] Various animals depend on sandy beaches for nesting clutches, and mining has led to the near extinction of gharials (a species of crocodile) in India. Disturbance of underwater and coastal sand causes turbidity in the water, which is harmful for organisms like coral that need sunlight. It can also destroy fisheries, financially harming their operators.  Removal of physical coastal barriers, such as dunes, sometimes leads to flooding of beachside communities, and the destruction of picturesque beaches causes tourism to dissipate. Sand mining is regulated by law in many places, but is often done illegally.[3] Globally, it is a $70 billion industry, with sand selling at up to $90 per cubic yard.[4]",
-        "QuestionID": "784701452",
-        "sentence2": "Cory and his family are wanting to go fishing for their vacation. They have a set of options for their trip, Castle Beach and Armor Beach. Castle Beach has recently been the scene of controversy because of recent sand mining, but Armor Beach has seen no such development.  What beach should Cory and his family avoid if they want the best fishing area?",
-        "label": "Castle Beach",
-        "explanation": ""
+        "sentence1": "Beginning in the late 1970\u2019s, ozone depletion was recognized as a significant environmental issue. The most dramatic decrease in ozone occurs seasonally over the continent of Antarctica. The size and duration of the ozone hole steadily increased, with the largest hole recorded in 2006. Fortunately, most countries have recognized the danger of CFCs and dramatically curtailed their use in recent years. It is hoped that ozone depletion will slow and that the ozone layer may eventually be restored to its earlier levels. Ben and Harry were studying about the climatic history of Earth. Ben was more attracted to learning about early Ice Ages, while Harry was curious about the Earth atmosphere and read about ozone depletion and its consequences.",
+        "QuestionID": "1293629618",
+        "sentence2": "Which person learned less about ozone depletion being recognized as a significant environmental issue?",
+        "label": "Ben",
+        "explanation": "Ben learnt about the Ice Ages, way before ozone layer depletion was discovered."
     },
     {
         "PassageID": "0_5",
-        "sentence1": "The example of someone having a positive experience with a drug is easy to see how drug dependence and the law of effect works. The tolerance for a drug goes up as one continues to use it after having a positive experience with a certain amount the first time.[38] It will take more and more to get that same feeling. This is when the controlled substance in an experiment would have to be modified and the experiment would really begin. The law of work for psychologist B. F. Skinner almost half a century later on the principles of operant conditioning, \"a learning process by which the effect, or consequence, of a response influences the future rate of production of that response.[39]",
-        "QuestionID": "1699776841",
-        "sentence2": "The Ganja Gang met to discuss their experiences. They all said they always had a great experience using ganja and used the same amount each time. They told how many times they used ganja. Susan used it 3 times, Margaret used it 6 times, Dorothy used it 10 times, Lisa used it 15 times, Nancy used it 20 times, Karen used it 25 times, and Betty used it 35 times. Who has a higher tolerance for ganja: Nancy or Betty?",
-        "label": "Betty",
-        "explanation": ""
+        "sentence1": "We discussed earlier some basic principles about the behavior of gases called the kinetic-molecular theory. Among other things, this theory suggests that gas molecules are in constant motion, and the average speed of the individual gas particles is dependent upon temperature \u2013 the higher the temperature, the faster the molecules move. It is not just gas particles that are in constant motion. The molecules and ions that make up liquids and solutions are also continually moving in nearly random directions. As a result, molecules and ions in a solution will collide with one another fairly frequently. As with gases, a temperature increase will produce an increase in the average particle speed. A new volcano is growing underwater. Every few days it has minor lava flow eruptions off the coast of Hawaii. People have actually enjoyed swimming in the water above this newly forming volcano because it is very soothing and relaxing.",
+        "QuestionID": "1180145068",
+        "sentence2": "Given the lava is hot enough to cause some of the water to turn to steam, will the molecules near the lava have higher or lower speed than the molecules further away?",
+        "label": "higher",
+        "explanation": "Hot lava would increase the temperature of the molecules around it thereby increasing their speed."
     },
     {
         "PassageID": "0_6",
-        "sentence1": "About 10% of sedimentary rocks are limestones. The solubility of limestone in water and weak acid solutions leads to karst landscapes, in which water erodes the limestone over thousands to millions of years. Most cave systems are through limestone bedrock.",
-        "QuestionID": "1348721373",
-        "sentence2": "Greg has been on a rock finding kick. Lately, he has decided he wanted to explore areas with higher amounts of limestone. He only has time this year for one trip, and his options are limited. He can go to Mount St. Helens, or he can go to the Meremac Caverns. Will Mount St. Helens be more or less likely to have limestone deposits than Meremac Caverns?",
-        "label": "less",
-        "explanation": ""
+        "sentence1": "Following the utilitarian principle of seeking the greatest good for the greatest number \u2013 economic inequality is problematic. A house that provides less utility to a millionaire as a summer home than it would to a homeless family of five, is an example of reduced \"distributive efficiency\" within society, that decreases marginal utility of wealth and thus the sum total of personal utility. An additional dollar spent by a poor person will go to things providing a great deal of utility to that person, such as basic necessities like food, water, and healthcare; while, an additional dollar spent by a much richer person will very likely go to luxury items providing relatively less utility to that person. Thus, the marginal utility of wealth per person (\"the additional dollar\") decreases as a person becomes richer. From this standpoint, for any given amount of wealth in society, a society with more equality will have higher aggregate utility. Some studies[2][32] have found evidence for this theory, noting that in societies where inequality is lower, population-wide satisfaction and happiness tend to be higher. Finland has one of the lowest economic inequality in the world. Finland's neighbor Russia has a different story. After the collapse of the Soviet Union, Russia's economic inequality soared to the point that it has now one of the highest economic inequality in the world. John and Keith are residents of Finland. While John is rich, Keith is not so fortunate - he is poor. Similarly, David and Greg are residents of Russia. While David is rich, Greg is in poverty.",
+        "QuestionID": "2444975317",
+        "sentence2": "For an extra dollar, who would spend it on basic necessities, David or Greg?",
+        "label": "Greg",
+        "explanation": "Since Greg is poor while David is rich, he\u2019d likely spend an extra dollar for basic necessities."
     },
     {
         "PassageID": "0_7",
-        "sentence1": "Regions on the Earth's surface (or in its atmosphere) that are high above mean sea level are referred to as high altitude. High altitude is sometimes defined to begin at 2,400 meters (8,000 ft) above sea level.[5][6][7]  At high altitude, atmospheric pressure is lower than that at sea level. This is due to two competing physical effects: gravity, which causes the air to be as close as possible to the ground; and the heat content of the air, which causes the molecules to bounce off each other and expand.[8]",
-        "QuestionID": "502798374",
-        "sentence2": "There was a competition for who can get their black drone the highest into the air. Team 10 got it 3,333 ft. Team 11 got it 4,444 ft. Team 12 go it 5,555 ft. Team 13 got it 6,666 ft. Team 14 got it 11,111 ft. Team 15 got it 12,222 ft. Team 16 got it 13,333 ft. What team got their drone into high altitude: Team 13 or Team 15?",
-        "label": "Team 15",
-        "explanation": ""
+        "sentence1": "The epidermis also contains melanocytes , which are cells that produce melanin. Melanin is the brownish pigment that gives skin much of its color. Everyone has about the same number of melanocytes, but the melanocytes of people with darker skin produce more melanin. The amount of melanin produced is determined by heredity and exposure to UV light, which increases melanin output. Exposure to UV light also stimulates the skin to produce vitamin D . Because melanin blocks UV light from penetrating the skin, people with darker skin may be at greater risk of vitamin D deficiency. John is learning more about different cultures and people around the world. He noticed that people have different skin colors. To learn more about the science behind skin colors he categorized the skin colors into two broad groups, case D and case L. Case D is represented by darker skin and case L is represented by lighter skin.",
+        "QuestionID": "284781106",
+        "sentence2": "People in which case would have greater risk of vitamin D deficiency, case D or case L?",
+        "label": "case D",
+        "explanation": "Case D consists of people with darker skin who have higher melatonin content in their skin, a substance known to block UV light which provides vitamin D to the body."
     },
     {
         "PassageID": "0_8",
-        "sentence1": "Hepatitis B is a contagious virus that affects the liver, infection can last from a few weeks to a serious lifelong illness. Two different types of infection exist for this disease, \"acute\" and \"chronic.\" Acute Hepatitis B is a short term illness that occurs within 6 months of exposure, Chronic Hepatitis B is long term and happens when the virus remains in the body. The younger the child is, the greater their chance of developing a chronic infection and this risk goes down as the child gets older. Approximately 90% of infected infants will develop a chronic infection.[3]",
-        "QuestionID": "2718245455",
-        "sentence2": "A 3rd grade classroom photo was held today. They all gathered by age. Gil was the oldest, followed by Jules, and Burt was the youngest. They looked good that day.  Who is most likely going to develop a chronic infection: Gil or Jules?",
-        "label": "Jules",
-        "explanation": ""
+        "sentence1": "Antifreeze could also be called \u201cantiboil\u201d because it also raises the boiling point of the water in a car radiator. Hot weather combined with a hot engine can easily raise the temperature of the water in the radiator above 100 \u00b0C, which is the boiling point of pure water. If the water boils, it could cause the engine to overheat and become seriously damaged. However, if antifreeze has been added to the water, the boiling point is much higher. For example a 50 percent antifreeze solution has a boiling point of 129 \u00b0C. Unless the water gets hotter than this, it won\u2019t boil and ruin the engine. Rob is an auto mechanic. He was checking the radiators of his car and truck. He put antifreeze into the car radiator, but didn't put any antifreeze into the truck radiator. He was wondering how the vehicles would fare in coming hot weather.",
+        "QuestionID": "928729651",
+        "sentence2": "Which vehicle's engine would more likely be damaged, car or truck?",
+        "label": "truck",
+        "explanation": "Since Rob added antifreeze, known to increase water\u2019s boiling temperature, to the car but no the truck, the truck is more likely to suffer damage from water boiling in the heat."
     }
 ]

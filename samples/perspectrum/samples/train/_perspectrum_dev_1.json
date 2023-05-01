@@ -1,0 +1,146 @@
+[
+    {
+        "cId": 58,
+        "claim": "Cultural property residing in museums must be returned to its place of origin",
+        "perspectives": [
+            {
+                "cId": 58,
+                "claim": "Cultural property residing in museums must be returned to its place of origin",
+                "perspective": {
+                    "pId": 5544,
+                    "text": "Artefacts are enriched by being viewed in their place of origin",
+                    "source": "debatewise"
+                },
+                "stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "cId": 962,
+        "claim": "Antarctica Should Be Opened Up For Resource Exploitation",
+        "perspectives": [
+            {
+                "cId": 962,
+                "claim": "Antarctica Should Be Opened Up For Resource Exploitation",
+                "perspective": {
+                    "pId": 7693,
+                    "text": "A resource treasure for humanity",
+                    "source": "debatewise"
+                },
+                "stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "cId": 649,
+        "claim": "Same sex relationships should have the same legal status as heterosexual relationships under EU law",
+        "perspectives": [
+            {
+                "cId": 649,
+                "claim": "Same sex relationships should have the same legal status as heterosexual relationships under EU law",
+                "perspective": {
+                    "pId": 4282,
+                    "text": "Same-sex couples should have access to the same benefits enjoyed by heterosexual married couples. ",
+                    "source": "procon"
+                },
+                "stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "cId": 178,
+        "claim": "Remove the words \"under God\" from the American Pledge of Allegiance",
+        "perspectives": [
+            {
+                "cId": 178,
+                "claim": "Remove the words \"under God\" from the American Pledge of Allegiance",
+                "perspective": {
+                    "pId": 1324,
+                    "text": "\u201cUnder God\u201d is part of American tradition and history",
+                    "source": "idebate"
+                },
+                "stance_label": "neg"
+            }
+        ]
+    },
+    {
+        "cId": 851,
+        "claim": "Resources have a negative influence on foreign policy in the Middle East",
+        "perspectives": [
+            {
+                "cId": 851,
+                "claim": "Resources have a negative influence on foreign policy in the Middle East",
+                "perspective": {
+                    "pId": 6918,
+                    "text": "Oil = Rentier economies = weak internal cohesion",
+                    "source": "debatewise"
+                },
+                "stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "cId": 532,
+        "claim": "Limit the free speech rights of corporations that are granted legal personhood",
+        "perspectives": [
+            {
+                "cId": 532,
+                "claim": "Limit the free speech rights of corporations that are granted legal personhood",
+                "perspective": {
+                    "pId": 3927,
+                    "text": "Uses of free speech motivated by personal gain should still be protected.",
+                    "source": "idebate"
+                },
+                "stance_label": "neg"
+            }
+        ]
+    },
+    {
+        "cId": 856,
+        "claim": "Basic income tax should be abolished",
+        "perspectives": [
+            {
+                "cId": 856,
+                "claim": "Basic income tax should be abolished",
+                "perspective": {
+                    "pId": 7454,
+                    "text": "Redistributing wealth to balance the inequality of income disparity",
+                    "source": "debatewise"
+                },
+                "stance_label": "neg"
+            }
+        ]
+    },
+    {
+        "cId": 604,
+        "claim": "Police body cameras should be allowed",
+        "perspectives": [
+            {
+                "cId": 604,
+                "claim": "Police body cameras should be allowed",
+                "perspective": {
+                    "pId": 5053,
+                    "text": "Police body cameras decrease the safety of police officers and negatively affect their physical and mental health.",
+                    "source": "procon"
+                },
+                "stance_label": "neg"
+            }
+        ]
+    },
+    {
+        "cId": 218,
+        "claim": "Government must be Big and Beefy",
+        "perspectives": [
+            {
+                "cId": 218,
+                "claim": "Government must be Big and Beefy",
+                "perspective": {
+                    "pId": 1617,
+                    "text": "Government was required to drive through major changes such as drives for equality within society, universal education, and preservation of the environment. Mostly in the teeth of big business ",
+                    "source": "idebate"
+                },
+                "stance_label": "pos"
+            }
+        ]
+    }
+]

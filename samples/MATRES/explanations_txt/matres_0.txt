@@ -1,137 +1,90 @@
 PassageID: 0
-Passage: 
+Passage: Dr. Barnett Slepian was  ((killed))   in his kitchen by a sniper's bullet last fall . Investigators said Friday  they  [[found]]   a rifle buried  near his home in the Buffalo suburb of Amherst.
 
 Questions:
 QuestionID: 0
-Question: The companies regularly ignore government orders to upgrade coal-burning electricity plants , according to ministry data . And as with the oil companies , the power companies  ((exert)) have an outsize influence over environmental policy debates . In 2011 , during a round of discussions over stricter emissions standards , the China Electricity Council , which represents the companies ,  [[pushed]] back hard against the proposals , saying that the costs of upgrading the plants would be too high . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: vague
-Explanation: Companies have not only exerted influence in the past but they also continue to do so even now and in the future.
-
-QuestionID: 1
-Question: And as with the oil companies , the power companies had ((exerted)) an outsize influence over environmental policy debates . In 2011 , during a round of discussions over stricter emissions standards , the China Electricity Council , which represents the companies ,  [[pushed]] back hard against the proposals , saying that the costs of upgrading the plants would be too high .  When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
 Answer: before
-Explanation: The companies were invited to discuss the proposals only because they exerted influence over policy debates. 
+Explanation: The investigation into the killing, during which the finding took place, was started only after the killing.
 
 --------------------------------------------------
 PassageID: 1
-Passage: 
+Passage: Philippine President Joseph Estrada on Tuesday  ((condemned))   the bombings  of the U.S. embassies in Kenya and Tanzania and offered  condolences to the victims and their families.``We extend  our heartfelt sympathies to the victims of these outrages  and to their families in Kenya, Tanzania and the United States,'' Estrada  [[said]]   in a statement. ``No cause is so great that it can justify wanton murder  and maiming  of the innocent.
 
 Questions:
 QuestionID: 0
-Question: The FAA on Friday announced it will  ((close)) 149 regional airport control towers because of forced spending cuts --  [[sparing]] 40 others that the FAA had been expected to shutter .  When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
 Answer: before
-Explanation: The spared airports were ones that were not closed. Only after the closure event happened can we determine which were spared.
-
-QuestionID: 1
-Question: The FAA on Friday announced it will  ((spare)) 149 regional airport control towers despite forced spending cuts --  [[closing]] 40 others that the FAA had been expected to keep . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: after
-Explanation: The spared airports were ones that were not closed. Only after the closure event happened can we determine which were spared.
+Explanation: The condemnation was expressed before the reasoning behind the condemnation was elucidated.
 
 --------------------------------------------------
 PassageID: 2
-Passage: 
+Passage: The ambassadors of Hungary, Poland and the Czech Republic issued  a joint statement Friday saying  the three countries' entry  into NATO will consolidate  Europe's security and help eliminate  threats to it.Five major political parties in the country  ((issued))   statements supporting  the country's NATO membership .But some other parties and social organizations  [[are]]   against NATO's expansion, claiming  Hungary's accession  to NATO would be  detrimental to the country's independence and bring  about new problems and economic burdens to the country.
 
 Questions:
 QuestionID: 0
-Question: Barack Obama would make a great stand-up comic , not because he 's the funniest president ever but because he uses jokes the same way many of us comedians do : as a weapon . Traditionally , the ( intentionally ) funny lines by our presidents have  ((had)) one thing in common : They were self-deprecating . Sure , some presidents have  [[used]] jokes to take jabs at their opponents , but not to the extent of Obama . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
 Answer: vague
-Explanation: Presidents have been using jokes both before and after Obama began using them.
-
-QuestionID: 1
-Question: Traditionally , the ( intentionally ) funny lines by our presidents have  ((had)) one thing in common : They were self-deprecating . Sure , before Obama, some presidents have  [[used]] jokes to take jabs at their opponents , but not to the extent of Obama . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: after
-Explanation: Jokes have been used by presidents before Obama began using them.
+Explanation: It is not clear when the oppositions were expressed with respect to the statements issued in support by the political parties.
 
 --------------------------------------------------
 PassageID: 3
-Passage: 
+Passage: Albright, echoing  the president, said  the United States would " continue  to be present around the world, wherever we have interests to defend .""We will  ((do))   all we can to protect  our diplomatic and military peoples around the world," she said .Clinton met  with his top aides Wednesday  in the White House to assess  the situation following the twin bombings  at U.S. embassies in Kenya and Tanzania, which have killed  more than 250 people and  [[injured]]   over 5,000, most of them Kenyans and Tanzanians. Twelve Americans were killed  in the Kenya embassy bombing.
 
 Questions:
 QuestionID: 0
-Question: President Barack Obama arrived in refugee-flooded Jordan on Friday after scoring a diplomatic coup just before leaving Israel when Prime Minister Benjamin Netanyahu apologized to Turkey for a 2010 commando raid that  ((killed)) nine activists on a Turkish vessel in a Gaza-bound flotilla . The apology , long  [[sought]] by Turkish Prime Minister Recep Erdogan , eased strained feelings between Turkey and Israel , two vital U.S. allies in the Middle East . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: before
-Explanation: Apology for an incident can be sought only after the happening of that incident.
-
-QuestionID: 1
-Question: President Barack Obama arrived in refugee-flooded Jordan on Friday after scoring a diplomatic coup just before leaving Israel when Prime Minister Benjamin Netanyahu apologized to Turkey. The apology , long  ((sought)) by Turkish Prime Minister Recep Erdogan , eased strained feelings between Turkey and Israel , two vital U.S. allies in the Middle East .   The apology was for a 2010 commando raid that  [[killed]] nine activists on a Turkish vessel in a Gaza-bound flotilla . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
 Answer: after
-Explanation: Apology for an incident can be sought only after the happening of that incident.
+Explanation: The promise of action was made only after the bombing which injured people.
 
 --------------------------------------------------
 PassageID: 4
-Passage: 
+Passage: Terrorist bombings  at U.S. embassies in Kenya and Tanzania  ((blew))   apart buildings and buses, trapping  people under slabs of concrete and twisted steel that rescuers cleared  with cranes, blow torches and bare hands.At least 82 were killed  and more than 1,700 injured , officials said  as dawn  [[broke]]  Saturday.
 
 Questions:
 QuestionID: 0
-Question: While partisan division is the central characteristic of the modern Congress , women have begun to crack away at the gridlock by forming coalitions that have surprised leaders of both parties . Senator Kirsten E. Gillibrand , Democrat of New York , and Senator Susan Collins , Republican of Maine ,  ((led)) the repeal in the Senate of " do n't ask , do n't tell " in 2010 , allowing gay men and women to serve openly in the military . This year , all four of the female Senate Republicans split with their party and voted with Senate Democrats to reauthorize the Violence Against Women Act , which had  [[lapsed]] during the last Congress . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: vague
-Explanation: It is not clear whether the act lapsed before or after 2010.
-
-QuestionID: 1
-Question: This year , all four of the female Senate Republicans split with their party and voted with Senate Democrats to reauthorize the Violence Against Women Act , which had  ((lapsed)) during the last Congress . Senator Kirsten E. Gillibrand , Democrat of New York , and Senator Susan Collins , Republican of Maine ,  [[led]] the repeal in the Senate of " do n't ask , do n't tell " in 2010 , allowing gay men and women to serve openly in the military . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: vague
-Explanation: It is not clear whether the act lapsed before or after 2010.
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Answer: before
+Explanation: The bombings had already blown up buildings before the dawn broke.
 
 --------------------------------------------------
 PassageID: 5
-Passage: 
+Passage: In Cape Town, South Africa, police spokesman Capt. Rod Beer  ((said))   the FBI  [[arrested]]   Mohamed at the city's airport in the early hours of Thursday morning  as he was about to be deported  for being in the country illegally.The Cape Argus newspaper in Cape Town reported  that a search  has been launched  for accomplices in the region.
 
 Questions:
 QuestionID: 0
-Question: Heavy snow is causing disruption to transport across the UK , with heavy rainfall  ((bringing)) flooding to the south-west of England . Rescuers searching for a woman trapped in a landslide at her home in Looe , Cornwall , said they had  [[found]] a body . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: before
-Explanation: The woman died while being trapped in a landslide after the rainfall had occurred.
-
-QuestionID: 1
-Question: Heavy snow is causing disruption to transport across the UK , with heavy rainfall  ((bringing)) flooding to the south-west of England . Rescuers searching for a woman trapped in a landslide at her home in Looe , Cornwall , said they are still hopeful to  [[find]] a body . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: before
-Explanation: Search operations for the woman who went missing trapped in a landslide due to the rainfall would have started only after the rainfall had occurred.
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Answer: after
+Explanation: The announcement about the arrest was made only after the arrest was made.
 
 --------------------------------------------------
 PassageID: 6
-Passage: 
+Passage: Clark  ((said))   other evidence that prosecutors might present includes  a strand of human hair found  at the wooded firing site that has a ``high likelihood'' of matching  Kopp's hair and testimony from a jogger who spotted  Kopp's car near Slepian's house at 6 a.m. ten days before  the shooting . There also are videotapes of Kopp's car crossing  the Canadian border around  the days  _ in 1994 , 1995  and 1997  _ that three Canadian doctors who  [[perform]]   abortions were shot  at.
 
 Questions:
 QuestionID: 0
-Question: It had a multiplying effect . " We were  ((pleased)) that England and New Zealand knew about it , and we  [[thought]] that 's where it would stop . " . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: before
-Explanation: They thought that it would stop only after they learnt that England and New Zealand knew about it, making them pleased.
-
-QuestionID: 1
-Question: " We were  ((pleased)) that England and New Zealand knew about it , but we had  [[thought]] that 's where it would stop . " . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
 Answer: after
-Explanation: They had thought before and that is why they were pleased when they learnt later that England and New Zealand knew about it.
+Explanation: The doctors performed abortions while they were alive; when Clark said this, the doctors were long since dead.
 
 --------------------------------------------------
 PassageID: 7
-Passage: 
+Passage: The State Department, which does not want  to see  Kenya and Tanzania punished economically as a result of terrorist attacks  that were clearly  ((targeted))   at the United States, has lifted  dire travel warnings issued  just the bombings  that  [[urged]]   Americans to stay away from the two countries.
 
 Questions:
 QuestionID: 0
-Question: Raymond Roth , 48 , of Massapequa , New York , was first reported missing in the waters off Jones Beach late last July by his 22-year-old son , Jonathan Roth . Several days into an extensive search involving multiple agencies , New York State Park Police said , authorities  ((learned)) the missing man was in South Carolina , where he had been pulled over for speeding . The day before Raymond Roth was pulled over , his wife , Evana ,  [[showed]] authorities e-mails she had discovered that appeared to detail a plan between him and his son to fake his death . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: after
-Explanation: The authorities found the man and learned about his whereabouts a day after his wife had shown the emails.
-
-QuestionID: 1
-Question: Several days into an extensive search involving multiple agencies , New York State Park Police said , authorities had  ((learned)) the missing man was in South Carolina three days before he was pulled over for speeding . In addition, the day before Raymond Roth was pulled over , his wife , Evana ,  [[showed]] authorities e-mails she had discovered that appeared to detail a plan between him and his son to fake his death . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
 Answer: before
-Explanation: The authorities had learnt about the man’s whereabouts two days before the wife showed them the emails.
+Explanation: The targets of the bombing was predetermined and only after the bombing were Americans urged to stay away from the two countries.
 
 --------------------------------------------------
 PassageID: 8
-Passage: 
+Passage: The North Atlantic Treaty Organization (NATO) has  ((decided))   to admit  Poland, Hungary and the Czech Republic in  early March , an official from the organization  [[said]]  on Wednesday.
 
 Questions:
 QuestionID: 0
-Question: What has startled the medical community even more is what Leon did this month in Beaumont , Texas . He  ((won)) the Gusher Marathon ,  [[finishing]] in 3:07:35 . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: simultaneous
-Explanation: Gusher would have won the race right when he finished it by crossing the line.
-
-QuestionID: 1
-Question:  ((Finishing)) in 3:07:35 , he  [[won]] the Gusher Marathon . . When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
-Answer: simultaneous
-Explanation: Gusher would have won the race right when he finished it by crossing the line.
+Question: When did the event within double soft parentheses i.e. ((.)) happen with respect to the event within double square brackets i.e. [[.]]: before/after/simultaneous/vague?
+Answer: before
+Explanation: The decision to admit was taken before it was communicated during the announcement.
 
 --------------------------------------------------
-
-

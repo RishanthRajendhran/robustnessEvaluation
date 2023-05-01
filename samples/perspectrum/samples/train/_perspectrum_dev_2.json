@@ -1,0 +1,146 @@
+[
+    {
+        "cId": 4,
+        "claim": "It should be allowed to have military recruitment in schools",
+        "perspectives": [
+            {
+                "cId": 4,
+                "claim": "It should be allowed to have military recruitment in schools",
+                "perspective": {
+                    "pId": 27,
+                    "text": "All high schools accepting state funding should accept military recruiters once a year",
+                    "source": "idebate"
+                },
+                "stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "cId": 483,
+        "claim": "Nollywood could be an effective instrument to change perceptions of Africa",
+        "perspectives": [
+            {
+                "cId": 483,
+                "claim": "Nollywood could be an effective instrument to change perceptions of Africa",
+                "perspective": {
+                    "pId": 3584,
+                    "text": "Development from within",
+                    "source": "idebate"
+                },
+                "stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "cId": 240,
+        "claim": "The EU, USA and other western donors should not fund any Palestinian government in which terrorist organisations participate",
+        "perspectives": [
+            {
+                "cId": 240,
+                "claim": "The EU, USA and other western donors should not fund any Palestinian government in which terrorist organisations participate",
+                "perspective": {
+                    "pId": 1772,
+                    "text": "The loss of funding would destabilise and radicalise Palestine. ",
+                    "source": "idebate"
+                },
+                "stance_label": "neg"
+            }
+        ]
+    },
+    {
+        "cId": 605,
+        "claim": "Hosting the Olympic Games is beneficial",
+        "perspectives": [
+            {
+                "cId": 605,
+                "claim": "Hosting the Olympic Games is beneficial",
+                "perspective": {
+                    "pId": 6624,
+                    "text": "It  sanctions and encourages 'Islamophobic' panics and promotes the excessive 'securitisation' of the globe",
+                    "source": "debatewise"
+                },
+                "stance_label": "neg"
+            }
+        ]
+    },
+    {
+        "cId": 279,
+        "claim": "Terrorism can be justified",
+        "perspectives": [
+            {
+                "cId": 279,
+                "claim": "Terrorism can be justified",
+                "perspective": {
+                    "pId": 2061,
+                    "text": "Terrorism is relative",
+                    "source": "idebate"
+                },
+                "stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "cId": 395,
+        "claim": "The United Nations has a responsibility to protect.",
+        "perspectives": [
+            {
+                "cId": 395,
+                "claim": "The United Nations has a responsibility to protect.",
+                "perspective": {
+                    "pId": 2935,
+                    "text": "The United Nations has a responsibility to prevent genocide and mass atrocities.",
+                    "source": "idebate"
+                },
+                "stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "cId": 847,
+        "claim": "Smoking should be banned in public places",
+        "perspectives": [
+            {
+                "cId": 847,
+                "claim": "Smoking should be banned in public places",
+                "perspective": {
+                    "pId": 6878,
+                    "text": "people have the right to smoke ",
+                    "source": "debatewise"
+                },
+                "stance_label": "neg"
+            }
+        ]
+    },
+    {
+        "cId": 556,
+        "claim": "Create a National High Speed Rail System in the U.S.",
+        "perspectives": [
+            {
+                "cId": 556,
+                "claim": "Create a National High Speed Rail System in the U.S.",
+                "perspective": {
+                    "pId": 4088,
+                    "text": "High Speed Rail is Better Than Air Travel",
+                    "source": "idebate"
+                },
+                "stance_label": "pos"
+            }
+        ]
+    },
+    {
+        "cId": 376,
+        "claim": "Social disgust is legitimate grounds for restriction of artistic expression",
+        "perspectives": [
+            {
+                "cId": 376,
+                "claim": "Social disgust is legitimate grounds for restriction of artistic expression",
+                "perspective": {
+                    "pId": 2797,
+                    "text": "Freedom of speech",
+                    "source": "idebate"
+                },
+                "stance_label": "neg"
+            }
+        ]
+    }
+]

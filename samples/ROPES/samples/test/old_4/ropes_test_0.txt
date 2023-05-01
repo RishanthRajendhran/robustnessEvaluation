@@ -1,0 +1,2010 @@
+PassageID: 0
+Passage: Abrasion is another type of mechanical weathering. With abrasion, one rock bumps against another rock. Gravity causes abrasion as a rock tumbles down a slope. Moving water causes abrasion it moves rocks so that they bump against one another ( Figure below ). Strong winds cause abrasion by blasting sand against rock surfaces. Finally, the ice in glaciers cause abrasion. Pieces of rock embedded in ice at the bottom of a glacier scrape against the rock below. If you have ever collected beach glass or pebbles from a stream, you have witnessed the work of abrasion.
+
+Questions:
+QuestionID: 2481663855
+Question: John liked to walk by the creek near his house. His favorite thing about exploring the creek was looking for pebbles to add to his collection. John liked watching the water pass over the rocks. Sometimes the rocks rolled into each other. Are johns pepples rough or smooth?
+Answer: smooth
+Explanation: 
+
+QuestionID: 2481663855
+Question: John liked to walk by the creek near his house. His favorite thing about exploring the creek was looking for pebbles unaffected by abrasion to add to his collection. John liked rocks lying motionless.  Are johns pepples rough or smooth?
+Answer: rough
+Explanation: 
+
+--------------------------------------------------
+PassageID: 1
+Passage: Huge amounts of chemicals, such as fertilizers and pesticides, are applied to farm fields (see Figure below ). Some of the chemicals are picked up by rainwater. Runoff then carries the chemicals to nearby rivers or lakes. Dissolved fertilizer causes too much growth of water plants and algae. This can lead to dead zones where nothing can live in lakes and at the mouths of rivers. Some of the chemicals can infiltrate into groundwater. The contaminated water comes up in water wells. If people drink the polluted water, they may get sick.
+
+Questions:
+QuestionID: 652354534
+Question: Farm A and Farm B use different methods of controlling pests on their crops. Farm A uses fertilizers and pesticides on their crops. Farm B is organic and does not use fertilizers or pesticides.  Will Farm A experience more or less groundwater contamination than Farm B?
+Answer: more
+Explanation: 
+
+QuestionID: 656417766
+Question: Farm A and Farm B use different methods of controlling pests on their crops. Farm A uses fertilizers and pesticides on their crops. Farm B is organic and does not use fertilizers or pesticides.  Will Farm B experience more or less groundwater contamination than Farm A?
+Answer: less
+Explanation: 
+
+QuestionID: 2494441667
+Question: Farm A and Farm B use different methods of controlling pests on their crops. Farm A uses fertilizers and pesticides on their crops. Farm B is organic and does not use fertilizers or pesticides.  Will the lakes and rivers near Farm A have more or less water plants and algae than Farm B?
+Answer: more
+Explanation: 
+
+QuestionID: 2497915075
+Question: Farm A and Farm B use different methods of controlling pests on their crops. Farm A uses fertilizers and pesticides on their crops. Farm B is organic and does not use fertilizers or pesticides.  Will the lakes and rivers near Farm B have more or less water plants and algae than Farm A?
+Answer: less
+Explanation: 
+
+QuestionID: 463156772
+Question: Farm A and Farm B use different methods of controlling pests on their crops. Farm A uses fertilizers and pesticides on their crops. Farm B is organic and does not use fertilizers or pesticides.  Are the residents near Farm A more or less likely to experience illness due to polluted water than the residents near Farm B?
+Answer: more
+Explanation: 
+
+QuestionID: 469382692
+Question: Farm A and Farm B use different methods of controlling pests on their crops. Farm A uses fertilizers and pesticides on their crops. Farm B is organic and does not use fertilizers or pesticides.  Are the residents near Farm B more or less likely to experience illness due to polluted water than the residents near Farm A?
+Answer: less
+Explanation: 
+
+QuestionID: 1916088903
+Question: Farm A and Farm B use different methods of controlling pests on their crops. Farm A uses fertilizers and pesticides on their crops. Farm B is organic and does not use fertilizers or pesticides.  If Farm A stops using pesticides and fertilizers, will Farm A experience more or less groundwater contamination?
+Answer: less
+Explanation: 
+
+QuestionID: 2825401009
+Question: Farm A and Farm B use different methods of controlling pests on their crops. Farm A uses fertilizers and pesticides on their crops. Farm B is organic and does not use fertilizers or pesticides.  If Farm B starts using pesticides and fertilizers, will Farm B experience more or less groundwater contamination?
+Answer: more
+Explanation: 
+
+QuestionID: 652354534
+Question: Farm A and Farm B use different methods of controlling pests on their crops. Farm A produces a lot of fertilizers and pesticides and sell all of them to Farm B. Will Farm A experience more or less groundwater contamination than Farm B?
+Answer: less
+Explanation: 
+
+QuestionID: 656417766
+Question: Farm A and Farm B use different methods of controlling pests on their crops. Farm A produces a lot of fertilizers and pesticides and sell all of them to Farm B. Will Farm B experience more or less groundwater contamination than Farm A?
+Answer: more
+Explanation: 
+
+QuestionID: 2494441667
+Question: Farm A and Farm B use different methods of controlling pests on their crops. Farm A produces a lot of fertilizers and pesticides and sell all of them to Farm B. Will the lakes and rivers near Farm A have more or less water plants and algae than Farm B?
+Answer: less
+Explanation: 
+
+QuestionID: 2497915075
+Question: Farm A and Farm B use different methods of controlling pests on their crops. Farm A produces a lot of fertilizers and pesticides and sell all of them to Farm B. Will the lakes and rivers near Farm B have more or less water plants and algae than Farm A?
+Answer: more
+Explanation: 
+
+QuestionID: 463156772
+Question: Farm A and Farm B use different methods of controlling pests on their crops. Farm A produces a lot of fertilizers and pesticides and sell all of them to Farm B. Are the residents near Farm A more or less likely to experience illness due to polluted water than the residents near Farm B?
+Answer: less
+Explanation: 
+
+QuestionID: 469382692
+Question: Farm A and Farm B use different methods of controlling pests on their crops. Farm A produces a lot of fertilizers and pesticides and sell all of them to Farm B. Are the residents near Farm B more or less likely to experience illness due to polluted water than the residents near Farm A?
+Answer: more
+Explanation: 
+
+QuestionID: 1916088903
+Question: Farm A and Farm B use different methods of controlling pests on their crops. Farm A produces a lot of fertilizers and pesticides and sell all of them to Farm B. If Farm A stops using pesticides and fertilizers, will Farm A experience more or less groundwater contamination?
+Answer: more
+Explanation: 
+
+QuestionID: 2825401009
+Question: Farm A and Farm B use different methods of controlling pests on their crops. Farm A produces a lot of fertilizers and pesticides and sell all of them to Farm B. If Farm B starts using pesticides and fertilizers, will Farm B experience more or less groundwater contamination?
+Answer: less
+Explanation: 
+
+--------------------------------------------------
+PassageID: 2
+Passage: When organisms face limiting factors, they show logistic growth (S-shaped curve, curve B: Figure below ). Competition for resources like food and space cause the growth rate to stop increasing, so the population levels off. This flat upper line on a growth curve is the carrying capacity. The carrying capacity (K) is the maximum population size that can be supported in a particular area without destroying the habitat. Limiting factors determine the carrying capacity of a population. Recall that when there are no limiting factors, the population grows exponentially. In exponential growth (J-shaped curve, curve A: Figure below ), as the population size increases, the growth rate also increases.
+
+Questions:
+QuestionID: 4271203816
+Question: Mark had always wanted to go on a safari now that he was here he was amazed at thehuge herds of animals on the African Savannah but there is only grass to feed them part of the year and there are predators that hunt them for food. food alimiting or non limiting factor for herd sized?
+Answer: limiting
+Explanation: 
+
+QuestionID: 3578684144
+Question: Mark had always wanted to go on a safari now that he was here he was amazed at thehuge herds of animals on the African Savannah but there is only grass to feed them part of the year and there are predators that hunt them for food. Do predators increase or decrease herd sizes?
+Answer: decrease
+Explanation: 
+
+QuestionID: 1616144476
+Question: Mark had always wanted to go on a safari now that he was here he was amazed at thehuge herds of animals on the African Savannah but there is only grass to feed them part of the year and there are predators that hunt them for food. Do larger herds increase or decrease predator populations??
+Answer: increase
+Explanation: 
+
+QuestionID: 1375431339
+Question: Mark had always wanted to go on a safari now that he was here he was amazed at thehuge herds of animals on the African Savannah but there is only grass to feed them part of the year and there are predators that hunt them for food. Do smaller predator populationsincrease or decrease herd sizes ?
+Answer: increase
+Explanation: 
+
+QuestionID: 3801967160
+Question: Mark had always wanted to go on a safari now that he was here he was amazed at thehuge herds of animals on the African Savannah but there is only grass to feed them part of the year and there are predators that hunt them for food. Do larger predator populationsincrease or decrease herd sizes ?
+Answer: decrease
+Explanation: 
+
+QuestionID: 661808868
+Question: Mark had always wanted to go on a safari now that he was here he was amazed at thehuge herds of animals on the African Savannah but there is only grass to feed them part of the year and there are predators that hunt them for food. If lions become extinct will herds increase or decrease?
+Answer: increase
+Explanation: 
+
+QuestionID: 1161650465
+Question: Mark had always wanted to go on a safari now that he was here he was amazed at thehuge herds of animals on the African Savannah but there is only grass to feed them part of the year and there are predators that hunt them for food. Will larger herds eat more or less grass?
+Answer: more
+Explanation: 
+
+QuestionID: 1746821628
+Question: Mark had always wanted to go on a safari now that he was here he was amazed at thehuge herds of animals on the African Savannah but there is only grass to feed them part of the year and there are predators that hunt them for food. Do predators limitherds or have no effect?
+Answer: limit
+Explanation: 
+
+QuestionID: 3556538193
+Question: Wolves, elk and deer lived in Yellowstone National Park. While wolves lived there the elk and deer population was stable. When wolves became extinct in the area the elk and deer population exploded. Soon the forest showed signs of being damaged by the grazing Elk and deer. What was a limiting factor on the deer and elk population?
+Answer: wolves
+Explanation: 
+
+QuestionID: 2960094232
+Question: Wolves, elk and deer lived in Yellowstone National Park. While wolves lived there the elk and deer population was stable. When wolves became extinct in the area the elk and deer population exploded. Soon the forest showed signs of being damaged by the grazing Elk and deer. When was the deer and elk population at capacity?
+Answer: While wolves lived there
+Explanation: 
+
+QuestionID: 273970512
+Question: Wolves, elk and deer lived in Yellowstone National Park. While wolves lived there the elk and deer population was stable. When wolves became extinct in the area the elk and deer population exploded. Soon the forest showed signs of being damaged by the grazing Elk and deer. When was the deer and elk population above capacity?
+Answer: When wolves became extinct
+Explanation: 
+
+QuestionID: 380010154
+Question: Wolves, elk and deer lived in Yellowstone National Park. While wolves lived there the elk and deer population was stable. When wolves became extinct in the area the elk and deer population exploded. Soon the forest showed signs of being damaged by the grazing Elk and deer. Would bringing wolves back decrease or increase the deer and elk population??
+Answer: decrease
+Explanation: 
+
+QuestionID: 3666964607
+Question: Wolves, elk and deer lived in Yellowstone National Park. While wolves lived there the elk and deer population was stable. When wolves became extinct in the area the elk and deer population exploded. Soon the forest showed signs of being damaged by the grazing Elk and deer. What population is growing un checked?
+Answer: elk and deer
+Explanation: 
+
+QuestionID: 873951809
+Question: Wolves, elk and deer lived in Yellowstone National Park. While wolves lived there the elk and deer population was stable. When wolves became extinct in the area the elk and deer population exploded. Soon the forest showed signs of being damaged by the grazing Elk and deer. What population is growing exponentially?
+Answer: elk and deer
+Explanation: 
+
+QuestionID: 649493263
+Question: Wolves, elk and deer lived in Yellowstone National Park. While wolves lived there the elk and deer population was stable. When wolves became extinct in the area the elk and deer population exploded. Soon the forest showed signs of being damaged by the grazing Elk and deer. #NAME?
+Answer: wolves
+Explanation: 
+
+QuestionID: 500595653
+Question: Wolves, elk and deer lived in Yellowstone National Park. While wolves lived there the elk and deer population was stable. When wolves became extinct in the area the elk and deer population exploded. Soon the forest showed signs of being damaged by the grazing Elk and deer. What would make the growth rate of the deer population stop growing??
+Answer: wolves
+Explanation: 
+
+QuestionID: 2715646817
+Question: Wolves, elk and deer lived in Yellowstone National Park. While wolves lived there the elk and deer population was stable. When wolves became extinct in the area the elk and deer population exploded. Soon the forest showed signs of being damaged by the grazing Elk and deer. What would make the growth rate of the elk population stop growing??
+Answer: wolves
+Explanation: 
+
+QuestionID: 4271203816
+Question: Mark had always wanted to go on a safari now that he was here he was amazed at thehuge herds of animals on the African Savannah but there is only grass to feed them part of the year and there are predators that hunt them for food. Hyenas, who inhabit the same area do no thave any natural predators there and are preying on gazelles and other animals. is food a limiting factor or not a limiting factor for the hyenas?
+Answer: not a limiting factor
+Explanation: 
+
+QuestionID: 3578684144
+Question: Mark had always wanted to go on a safari now that he was here he was amazed at thehuge herds of animals on the African Savannah but there is only grass to feed them part of the year and there are predators that hunt them for food. Hyenas, who inhabit the same area do no thave any natural predators there and are preying on gazelles and other animals. do the gazelles help decrease or increase the population of hyenas?
+Answer: increase
+Explanation: 
+
+QuestionID: 1616144476
+Question: Mark had always wanted to go on a safari now that he was here he was amazed at thehuge herds of animals on the African Savannah but there is only grass to feed them part of the year and there are predators that hunt them for food. Hyenas, who inhabit the same area do no thave any natural predators there and are preying on gazelles and other animals. Do larger herds increase or decrease the growth of the population for gazelles?
+Answer: decrease
+Explanation: 
+
+QuestionID: 1375431339
+Question: Mark had always wanted to go on a safari now that he was here he was amazed at thehuge herds of animals on the African Savannah but there is only grass to feed them part of the year and there are predators that hunt them for food. Hyenas, who inhabit the same area do no thave any natural predators there and are preying on gazelles and other animals. Will the rate of growth still increasing or decreasing for large numbers of hyenas?
+Answer: increasing
+Explanation: 
+
+QuestionID: 3801967160
+Question: Mark had always wanted to go on a safari now that he was here he was amazed at thehuge herds of animals on the African Savannah but there is only grass to feed them part of the year and there are predators that hunt them for food. Hyenas, who inhabit the same area do no thave any natural predators there and are preying on gazelles and other animals. Will more hyenas decrease or increase the population of gazelles?
+Answer: decrease
+Explanation: 
+
+QuestionID: 661808868
+Question: Mark had always wanted to go on a safari now that he was here he was amazed at thehuge herds of animals on the African Savannah but there is only grass to feed them part of the year and there are predators that hunt them for food. Hyenas, who inhabit the same area do no thave any natural predators there and are preying on gazelles and other animals. If the grass is more plentiful and the hyenas move away from the area, will the gazelle population increase or decrease?
+Answer: increase
+Explanation: 
+
+QuestionID: 1161650465
+Question: Mark had always wanted to go on a safari now that he was here he was amazed at thehuge herds of animals on the African Savannah but there is only grass to feed them part of the year and there are predators that hunt them for food. Hyenas, who inhabit the same area do no thave any natural predators there and are preying on gazelles and other animals. If more gazelles insist on living in the location past carrying capacity, will there be an increaese in the population or will the environment be destroyed?
+Answer: the environment be destroyed
+Explanation: 
+
+QuestionID: 1746821628
+Question: Mark had always wanted to go on a safari now that he was here he was amazed at thehuge herds of animals on the African Savannah but there is only grass to feed them part of the year and there are predators that hunt them for food. Hyenas, who inhabit the same area do no thave any natural predators there and are preying on gazelles and other animals. Are the hyenas a source of food or limiting factor for the gazelles?
+Answer: limiting factor
+Explanation: 
+
+QuestionID: 3556538193
+Question: Wolves, elk and deer lived in Yellowstone National Park. For many years, the wolves had been hunted to near extinction. The forest showed signs of being damaged by the grazing Elk and deer. This year's reintroduction of wolves into the environment caused the polutation of deer and elk to plateau. There are now no limiting factors on the wolf population due to the national park protection ban son hunting. What was a potential limiting factor on the wolf population?
+Answer: hunting
+Explanation: 
+
+QuestionID: 2960094232
+Question: Wolves, elk and deer lived in Yellowstone National Park. While wolves lived there the elk and deer population was stable. When wolves became extinct in the area the elk and deer population exploded. Soon the forest showed signs of being damaged by the grazing Elk and deer. Was the deer and elk population at capacity in past years or this year?
+Answer: this year
+Explanation: 
+
+QuestionID: 273970512
+Question: Wolves, elk and deer lived in Yellowstone National Park. While wolves lived there the elk and deer population was stable. When wolves became extinct in the area the elk and deer population exploded. Soon the forest showed signs of being damaged by the grazing Elk and deer. When was the deer and elk population above capacity, past years or this year?
+Answer: past years
+Explanation: 
+
+QuestionID: 380010154
+Question: Wolves, elk and deer lived in Yellowstone National Park. While wolves lived there the elk and deer population was stable. When wolves became extinct in the area the elk and deer population exploded. Soon the forest showed signs of being damaged by the grazing Elk and deer. Would removing the wolves decrease or increase the deer and elk population? 
+Answer: increase
+Explanation: 
+
+QuestionID: 3666964607
+Question: Wolves, elk and deer lived in Yellowstone National Park. While wolves lived there the elk and deer population was stable. When wolves became extinct in the area the elk and deer population exploded. Soon the forest showed signs of being damaged by the grazing Elk and deer. What population is growing un checked?
+Answer: wolves
+Explanation: 
+
+QuestionID: 873951809
+Question: Wolves, elk and deer lived in Yellowstone National Park. While wolves lived there the elk and deer population was stable. When wolves became extinct in the area the elk and deer population exploded. Soon the forest showed signs of being damaged by the grazing Elk and deer. What population is growing exponentially?
+Answer: wolves
+Explanation: 
+
+QuestionID: 649493263
+Question: Wolves, elk and deer lived in Yellowstone National Park. While wolves lived there the elk and deer population was stable. When wolves became extinct in the area the elk and deer population exploded. Soon the forest showed signs of being damaged by the grazing Elk and deer. What animal did not have any limiting factors in past years?
+Answer: elk and deer
+Explanation: 
+
+QuestionID: 500595653
+Question: Wolves, elk and deer lived in Yellowstone National Park. While wolves lived there the elk and deer population was stable. When wolves became extinct in the area the elk and deer population exploded. Soon the forest showed signs of being damaged by the grazing Elk and deer. What would make the growth rate of the deer population grow, removing the ban on hunting or reintroducing more wolves?
+Answer: removing the ban on hunting
+Explanation: 
+
+QuestionID: 2715646817
+Question: Wolves, elk and deer lived in Yellowstone National Park. While wolves lived there the elk and deer population was stable. When wolves became extinct in the area the elk and deer population exploded. Soon the forest showed signs of being damaged by the grazing Elk and deer. What would make the growth rate of the elk population grow, removing the ban on hunting or reintroducing more wolves?
+Answer: removing the ban on hunting
+Explanation: 
+
+--------------------------------------------------
+PassageID: 3
+Passage: Any unused energy in foodâ€”whether it comes from carbohydrates, proteins, or lipidsâ€”is stored in the body as fat. An extra 3,500 Calories of energy results in the storage of almost half a kilogram (1 pound) of stored body fat. People who consistently consume more food energy then they need may become obese. Obesity occurs when the body mass index is 30.0 kg/m 2 or greater. Body mass index (BMI) is an estimate of the fat content of the body. It is calculated by dividing a personâ€™s weight (in kilograms) by the square of the personâ€™s height (in meters). Obesity increases the risk of health problems such as type 2 diabetes and hypertension.
+
+Questions:
+QuestionID: 2624668250
+Question: Jane had always had a physical job. Recently she got a desk job. Jane realized that even though she was not as active as she used to be she was eating the same amount of food and wondered how this would effect her. Will jane lose or gain weight?
+Answer: gain
+Explanation: 
+
+QuestionID: 2727757037
+Question: Jane had always had a physical job. Recently she got a desk job. Jane realized that even though she was not as active as she used to be she was eating the same amount of food and had gained weight. Is jane using more or less calories than she is eating?
+Answer: less
+Explanation: 
+
+QuestionID: 3925362016
+Question: Jane had always had a physical job. Recently she got a desk job. Jane realized that even though she was not as active as she used to be she was eating the same amount of food and had gained weight. Is jane easting more or less calories than she is using?
+Answer: more
+Explanation: 
+
+QuestionID: 3327278640
+Question: Jane had always had a physical job. Recently she got a desk job. Jane realized that even though she was not as active as she used to be she was eating the same amount of food and had gained weight. Is jane storing or burning body fat?
+Answer: storing
+Explanation: 
+
+QuestionID: 2624668250
+Question: Jane used to have a desk job and recently switched to a more physically intensive job. Jane realized that even though she was more active than she was before she used to be she was eating the same amount of food and wondered how this would effect her. Will jane lose or gain weight?
+Answer: lose
+Explanation: 
+
+QuestionID: 2727757037
+Question: Jane used to have a desk job and recently switched to a more physically intensive job. Jane realized that even though she was more active than she was before she used to be she was eating the same amount of food and wondered how this would effect her. Is jane using more or less calories than she is eating?
+Answer: more
+Explanation: 
+
+QuestionID: 3925362016
+Question: Jane used to have a desk job and recently switched to a more physically intensive job. Jane realized that even though she was more active than she was before she used to be she was eating the same amount of food and wondered how this would effect her. Is jane easting more or less calories than she is using?
+Answer: less
+Explanation: 
+
+QuestionID: 3327278640
+Question: Jane used to have a desk job and recently switched to a more physically intensive job. Jane realized that even though she was more active than she was before she used to be she was eating the same amount of food and wondered how this would effect her. Is jane storing or burning body fat?
+Answer: burning
+Explanation: 
+
+--------------------------------------------------
+PassageID: 4
+Passage: Chills is a feeling of coldness occurring during a high fever, but sometimes is also a common symptom which occurs alone in specific people. It occurs during fever due to the release of cytokines and prostaglandins as part of the inflammatory response, which increases the set point for body temperature in the hypothalamus. The increased set point causes the body temperature to rise (pyrexia), but also makes the patient feel cold or chills until the new set point is reached. Shivering also occurs along with chills because the patient's body produces heat during muscle contraction in a physiological attempt to increase body temperature to the new set point. When it does not accompany a high fever, it is normally a light chill. Sometimes a chill of medium power and short duration may occur during a scare, especially in scares of fear, commonly interpreted like or confused by trembling.
+
+Questions:
+QuestionID: 401725444
+Question: Beth has been coughing all morning and she has a high fever. She decided to stay home but has noticed that she can not get warm and is shaking. Meanwhile her roommate Susan was driving to work when she was suddenly cut off by a large truck and had to go off the road to narrowly miss an accident. Susan was terrified, she looked at the steering wheel and saw that her hands were shaking. Is Susan sick.
+Answer: no
+Explanation: 
+
+QuestionID: 2989347170
+Question: Beth has been coughing all morning and. She decided to stay home but has noticed that she can not get warm and is shaking. Meanwhile her roommate Susan was driving to work when she was suddenly cut off by a large truck and had to go off the road to narrowly miss an accident. Susan was terrified, she looked at the steering wheel and saw that her hands were shaking. Who has a fever.
+Answer: Beth
+Explanation: 
+
+QuestionID: 4198878132
+Question: Beth has been coughing all morning and. She decided to stay home but has noticed that she can not get warm and is shaking. Meanwhile her roommate Susan was driving to work when she was suddenly cut off by a large truck and had to go off the road to narrowly miss an accident. Susan looked at the steering wheel and saw that her hands were shaking. Who is frightened.
+Answer: Susan
+Explanation: 
+
+QuestionID: 401725444
+Question: Amelia has been coughing all morning and she has a high fever. She decided to stay home but has noticed that she can not get warm and is shaking. Meanwhile her roommate Jennifer was driving to work when she was suddenly cut off by a large truck and had to go off the road to narrowly miss an accident. Jennifer was terrified, she looked at the steering wheel and saw that her hands were shaking. Is Jennifer sick or not sick?
+Answer: not sick
+Explanation: 
+
+QuestionID: 2989347170
+Question: Beth has been coughing all morning and. She decided to stay home but has noticed that she can not get warm and is shaking. Meanwhile her roommate Susan was driving to work when she was suddenly cut off by a large truck and had to go off the road to narrowly miss an accident. Susan was terrified, she looked at the steering wheel and saw that her hands were shaking. Who has a fever, Amelia or Jennifer?
+Answer: Amelia
+Explanation: 
+
+QuestionID: 4198878132
+Question: Beth has been coughing all morning and. She decided to stay home but has noticed that she can not get warm and is shaking. Meanwhile her roommate Susan was driving to work when she was suddenly cut off by a large truck and had to go off the road to narrowly miss an accident. Susan looked at the steering wheel and saw that her hands were shaking. Who is distressed but without a cold, Amelia or Jennifer?
+Answer: Jennifer
+Explanation: 
+
+--------------------------------------------------
+PassageID: 5
+Passage: Another possible benefit of aggregation is to protect against predation by group anti-predator behavior. Many species exhibit higher rates of predator vigilance behavior per individual at lower density. This increased vigilance might result in less time and energy spent on foraging, thus reducing the fitness of an individual living in smaller groups. One striking example of such shared vigilance is exhibited by meerkats. Meanwhile, other species move in synchrony to confuse and avoid predators such as schools of sardines and flocks of starlings. The confusion effect that this herding behavior would have on predators will be more effective when more individuals are present.Cooperative feeding
+
+Questions:
+QuestionID: 2735374031
+Question: Camilla is interested in how smaller fish avoid larger predators. She has been observing two groups of fish: Group A travels together in the same direction in a coordination fashion. Group B also travels together, but each fish moves somewhat independently. Which group is more likely to confuse and avoid predators, Group A or Group B?
+Answer: Group A
+Explanation: 
+
+QuestionID: 618102581
+Question: Camilla is interested in how smaller fish avoid larger predators. She has been observing two groups of fish: Group A travels together in the same direction in a coordination fashion. Group B also travels together, but each fish moves somewhat independently. Which group is least likely to confuse and avoid predators, Group A or Group B?
+Answer: Group B
+Explanation: 
+
+QuestionID: 4141710789
+Question: Camilla is interested in how smaller fish avoid larger predators. She has been observing two groups of fish: Group A travels together in the same direction in a coordination fashion. Group B also travels together, but each fish moves somewhat independently. Is Group A more or less likely than Group B to confuse and avoid predators?
+Answer: more
+Explanation: 
+
+QuestionID: 4143873477
+Question: Camilla is interested in how smaller fish avoid larger predators. She has been observing two groups of fish: Group A travels together in the same direction in a coordination fashion. Group B also travels together, but each fish moves somewhat independently. Is Group B more or less likely than Group A to confuse and avoid predators?
+Answer: less
+Explanation: 
+
+QuestionID: 2735374031
+Question: Camilla is interested in how smaller fish avoid larger predators. She has been observing two groups of fish: group A and group B.  The former travels together, but each fish moves somewhat independently. The latter travels together in the same direction in a coordination fashion.  Which group is more likely to confuse and avoid predators, Group A or Group B?
+Answer: Group B
+Explanation: 
+
+QuestionID: 618102581
+Question: Camilla is interested in how smaller fish avoid larger predators. She has been observing two groups of fish: group A and group B.  The former travels together, but each fish moves somewhat independently. The latter travels together in the same direction in a coordination fashion.  Which group is least likely to confuse and avoid predators, Group A or Group B?
+Answer: Group A
+Explanation: 
+
+QuestionID: 4141710789
+Question: Camilla is interested in how smaller fish avoid larger predators. She has been observing two groups of fish: group A and group B.  The former travels together, but each fish moves somewhat independently. The latter travels together in the same direction in a coordination fashion.  Is Group A more or less likely than Group B to confuse and avoid predators?
+Answer: less
+Explanation: 
+
+QuestionID: 4143873477
+Question: Camilla is interested in how smaller fish avoid larger predators. She has been observing two groups of fish: group A and group B.  The former travels together, but each fish moves somewhat independently. The latter travels together in the same direction in a coordination fashion.  Is Group B more or less likely than Group A to confuse and avoid predators?
+Answer: more
+Explanation: 
+
+--------------------------------------------------
+PassageID: 6
+Passage: White blood cells also make chemicals that cause a fever. A fever is a higher-than-normal body temperature. Normal human body temperature is 98.6°F (37°C). Most bacteria and viruses that infect people reproduce fastest at this temperature. When the temperature is higher, the pathogens cannot reproduce as fast, so the body raises the temperature to kill them. A fever also causes the immune system to make more white blood cells. In these ways, a fever helps the body fight infection.
+
+Questions:
+QuestionID: 613944009
+Question: Ben was feeling tired and ache all day so he decided to go to bed. When Ben woke  up he felt even worse and his head felt hot. Ben went to the doctor who told him he had a fever and should get plenty of rest. Was Ben's temperature above or below 98.6 degrees F?
+Answer: above
+Explanation: 
+
+QuestionID: 1019613891
+Question: Ben was feeling tired and ache all day so he decided to go to bed. When Ben woke  up he felt even worse and his head felt hot. Ben went to the doctor who told him he had a virus that had caused a fever and he should get plenty of rest. Was the virus reproducing faster or slower?
+Answer: slower
+Explanation: 
+
+QuestionID: 839651937
+Question: Ben was feeling tired and ache all day so he decided to go to bed. When Ben woke  up he felt even worse and his head felt hot. Ben went to the doctor who told him he had a virus that had caused a fever and he should get plenty of rest. Was the fever helping or hurting the virus?
+Answer: hurting
+Explanation: 
+
+QuestionID: 823136787
+Question: Ben was feeling tired and ache all day so he decided to go to bed. When Ben woke  up he felt even worse and his head felt hot. Ben went to the doctor who told him he had a virus that had caused a fever and he should get plenty of rest. Did Ben have more or less white blood cells?
+Answer: more
+Explanation: 
+
+QuestionID: 2242705965
+Question: Ann had not been feeling well for several days. When she woke up this morning she had a fever. She went to the doctors and was told she had the flu and should rest. Is Ann's temerature above or below 98.6°F?
+Answer: above
+Explanation: 
+
+QuestionID: 1848049087
+Question: Ann had not been feeling well for several days. When she woke up this morning she had a fever. She went to the doctors and was told she had the flu and should rest. Is Ann's temerature higher or lower than yesterday?
+Answer: higher
+Explanation: 
+
+QuestionID: 3323131749
+Question: Ann had not been feeling well for several days. When she woke up this morning she had a fever. She went to the doctors and was told she had the flu virus and should rest. What is Ann's body fighting??
+Answer: virus
+Explanation: 
+
+QuestionID: 1647181768
+Question: Ann had not been feeling well for several days. When she woke up this morning she had a fever. She went to the doctors and was told she had the flu virus and should rest. Is Ann's body making more or less white blood cells?
+Answer: more
+Explanation: 
+
+QuestionID: 3315268598
+Question: Ann had not been feeling well since yesterday. When she woke up this morning she had a fever. She went to the doctors and was told she had the flu virus and should rest. When was the virus reproducing fastest?
+Answer: yesterday
+Explanation: 
+
+QuestionID: 3326540813
+Question: Ann had not been feeling well since yesterday. When she woke up this morning she had a fever. She went to the doctors and was told she had the flu virus and should rest. When was the virus reproducing slowest?
+Answer: this morning
+Explanation: 
+
+QuestionID: 3174497017
+Question: Ann had not been feeling well since yesterday. When she woke up this morning she had a fever. She went to the doctors and was told she had the flu virus and should rest. Is Ann's immune system working or not?
+Answer: working
+Explanation: 
+
+QuestionID: 2242705965
+Question: Ann had not been feeling well for several days. When she woke up this morning she always thought she had a fever. She went to the doctors and was told she was healthy Is Ann's temerature above, stay or below 98.6°F?
+Answer: stay
+Explanation: 
+
+QuestionID: 1848049087
+Question: Ann had not been feeling well for several days. When she woke up this morning she always thought she had a fever. She went to the doctors and was told she was healthy Is Ann's temerature higher, the same or lower than yesterday?
+Answer: same
+Explanation: 
+
+QuestionID: 3323131749
+Question: Ann had not been feeling well for several days. When she woke up this morning she always thought she had a fever. She went to the doctors and was told she was healthy What is Ann's body fighting? virus or nothing
+Answer: nothing
+Explanation: 
+
+QuestionID: 1647181768
+Question: Ann had not been feeling well for several days. When she woke up this morning she always thought she had a fever. She went to the doctors and was told she was healthy Is Ann's body making more, the same or less white blood cells?
+Answer: the same
+Explanation: 
+
+QuestionID: 3315268598
+Question: Ann had not been feeling well for several days. When she woke up this morning she always thought she had a fever. She went to the doctors and was told she was healthy Did the virus reproducing fastest, yes or no?
+Answer: no
+Explanation: 
+
+QuestionID: 3326540813
+Question: Ann had not been feeling well for several days. When she woke up this morning she always thought she had a fever. She went to the doctors and was told she was healthy When was the virus reproducing slowest?
+Answer: always
+Explanation: 
+
+QuestionID: 3174497017
+Question: Ann had not been feeling well for several days. When she woke up this morning she always thought she had a fever. She went to the doctors and was told she was healthy Is Ann's immune system working or not?
+Answer: not
+Explanation: 
+
+--------------------------------------------------
+PassageID: 7
+Passage: Many chemicals that were once commonly used were later found out to be harmful to the environment , to human health, or both. The element lead was once a common additive to gasoline and to paint. Plumbing pipes were once typically made of lead. Only since the 1970s has the danger of lead become apparent. It causes brain damage and small children (who often chewed on objects painted with lead-based paint) are particularly susceptible. The use of lead in gasoline, paint, and plumbing pipes is now banned and new materials are being developed to replace the hazardous lead components.
+
+Questions:
+QuestionID: 1198014153
+Question: Asbestos was once used insulation in buildings and in various products such as roofing materials, water supply lines and clutches, brake linings, gaskets and pads for automobiles. Decades later asbestos was linked to cancer but can still be found in old buildings. Is asbestos harmful or safe?
+Answer: harmful
+Explanation: 
+
+QuestionID: 304366293
+Question: Asbestos was once used insulation in buildings and in various products such as roofing materials, water supply lines and clutches, brake linings, gaskets and pads for automobiles. Decades later asbestos was linked to cancer but can still be found in old buildings. Is asbestos harmful or safe for people?
+Answer: harmful
+Explanation: 
+
+QuestionID: 3026142610
+Question: Asbestos was once used insulation in buildings and in various products such as roofing materials, water supply lines and clutches, brake linings, gaskets and pads for automobiles. Decades later asbestos was linked to cancer but can still be found in old buildings. Was asbestos always harmful or only recently?
+Answer: always
+Explanation: 
+
+QuestionID: 1198014153
+Question: Asbestos was once used insulation in buildings back when people still used lead without knowing about the dagners and in various products such as roofing materials, water supply lines and clutches, brake linings, gaskets and pads for automobiles. Decades later asbestos was linked to cancer but can still be found in old buildings. Did people think that Abestos was harmful or safe back when they used lead?
+Answer: safe
+Explanation: 
+
+QuestionID: 304366293
+Question: Asbestos was once used insulation in buildings back when people still used lead without knowing about the dagners and in various products such as roofing materials, water supply lines and clutches, brake linings, gaskets and pads for automobiles. Decades later asbestos was linked to cancer but can still be found in old buildings. Did people used to believe that Abestos and lead were both safe or harmful?
+Answer: safe
+Explanation: 
+
+QuestionID: 3026142610
+Question: Asbestos was once used insulation in buildings back when people still used lead without knowing about the dagners and in various products such as roofing materials, water supply lines and clutches, brake linings, gaskets and pads for automobiles. Decades later asbestos was linked to cancer but can still be found in old buildings. Was asbestos always harmful or only recently?
+Answer: always
+Explanation: 
+
+--------------------------------------------------
+PassageID: 8
+Passage: The advantage of asexual reproduction is that it can be very quick and does not require the meeting of a male and female organism. The disadvantage of asexual reproduction is that organisms do not receive a mix of traits from both parents. An organism that is born through asexual reproduction only has the DNA from the one parent. In fact, the offspring is genetically an exact copy of the parent. This can cause problems for the individual. For example, if the parent has a gene that causes a particular disease, the offspring will also have the gene that causes that disease. Organisms produced sexually may or may not inherit the disease gene because they receive a mix of their parents' genes.
+
+Questions:
+QuestionID: 1187176727
+Question: James is a marine biologist. On a recent deep sea dive, he discovered two new organisms. James took the organisms back to his lab to study them. While in the lab, each organism produced an offspring. Since the organisms were previously undiscovered, James must determine how these organisms reproduce in order to correctly classify them. After examining the DNA of each offspring, James finds that the offspring of organism A shares the exact same DNA as the parent organism and the offspring of organism B does not contain the exact same DNA as the parent organism. Which organism reproduced asexually, organism A or organism B?
+Answer: organism A
+Explanation: 
+
+QuestionID: 1694490806
+Question: James is a marine biologist. On a recent deep sea dive, he discovered two new organisms. James took the organisms back to his lab to study them. While in the lab, each organism produced an offspring. Since the organisms were previously undiscovered, James must determine how these organisms reproduce in order to correctly classify them. After examining the DNA of each offspring, James finds that the offspring of organism A shares the exact same DNA as the parent organism and the offspring of organism B does not contain the exact same DNA as the parent organism. Which organism reproduced sexually, organism A or organism B?
+Answer: organism B
+Explanation: 
+
+QuestionID: 666491866
+Question: James is a marine biologist. On a recent deep sea dive, he discovered two new organisms. James took the organisms back to his lab to study them. While in the lab, each organism produced an offspring. Since the organisms were previously undiscovered, James must determine how these organisms reproduce in order to correctly classify them. After examining the DNA of each offspring, James finds that the offspring of organism A shares the exact same DNA as the parent organism and the offspring of organism B does not contain the exact same DNA as the parent organism. Did organism A reproduce sexually or asexually?
+Answer: asexually
+Explanation: 
+
+QuestionID: 668720091
+Question: James is a marine biologist. On a recent deep sea dive, he discovered two new organisms. James took the organisms back to his lab to study them. While in the lab, each organism produced an offspring. Since the organisms were previously undiscovered, James must determine how these organisms reproduce in order to correctly classify them. After examining the DNA of each offspring, James finds that the offspring of organism A shares the exact same DNA as the parent organism and the offspring of organism B does not contain the exact same DNA as the parent organism. Did organism B reproduce sexually or asexually?
+Answer: sexually
+Explanation: 
+
+QuestionID: 1694490806
+Question: James is a marine biologist. On a recent deep sea dive, he discovered two new organisms. James took the organisms back to his lab to study them. While in the lab, each organism produced an offspring. Since the organisms were previously undiscovered, James must determine how these organisms reproduce in order to correctly classify them. After examining the DNA of each offspring, James finds that the offspring of organism A shares the exact same DNA as the parent organism and the offspring of organism B does not contain the exact same DNA as the parent organism. Which organism reproduced sexually, organism A or organism B?
+Answer: organism A
+Explanation: 
+
+QuestionID: 666491866
+Question: James is a marine biologist. On a recent deep sea dive, he discovered two new organisms. James took the organisms back to his lab to study them. While in the lab, each organism produced an offspring. Since the organisms were previously undiscovered, James must determine how these organisms reproduce in order to correctly classify them. After examining the DNA of each offspring, James finds that the offspring of organism A shares the exact same DNA as the parent organism and the offspring of organism B does not contain the exact same DNA as the parent organism. Did organism A reproduce sexually or asexually?
+Answer: sexually
+Explanation: 
+
+QuestionID: 668720091
+Question: James is a marine biologist. On a recent deep sea dive, he discovered two new organisms. James took the organisms back to his lab to study them. While in the lab, each organism produced an offspring. Since the organisms were previously undiscovered, James must determine how these organisms reproduce in order to correctly classify them. After examining the DNA of each offspring, James finds that the offspring of organism A shares the exact same DNA as the parent organism and the offspring of organism B does not contain the exact same DNA as the parent organism. Did organism B reproduce sexually or asexually?
+Answer: asexually
+Explanation: 
+
+--------------------------------------------------
+PassageID: 9
+Passage: Diffusion is the movement of molecules from an area of high concentration of the molecules to an area with a lower concentration. For cell transport, diffusion is the movement of small molecules across the cell membrane. The difference in the concentrations of the molecules in the two areas is called the concentration gradient . The kinetic energy of the molecules results in random motion, causing diffusion. In simple diffusion, this process proceeds without the aid of a transport protein. it is the random motion of the molecules that causes them to move from an area of high concentration to an area with a lower concentration.
+
+Questions:
+QuestionID: 2364692719
+Question: Beth was getting ready for her date. The last thing she needed to do was put on some perfume and grab her sweater. She sprayed some perfume on then walked across the room to get her sweater. Beth was surprised she could smell the perfume so strongly across the room. Did the perfume molecules still or moving.
+Answer: moving
+Explanation: 
+
+QuestionID: 2001035972
+Question: Beth was getting ready for her date. The last thing she needed to do was put on some perfume and grab her sweater. She sprayed some perfume on then walked across the room to get her sweater. Beth was surprised she could smell the perfume so strongly across the room. Did the perfume molecules stay where Beth sprayed them or spread out?
+Answer: spread out
+Explanation: 
+
+QuestionID: 381837945
+Question: Beth was getting ready for her date. The last thing she needed to do was put on some perfume and grab her sweater. She sprayed some perfume on then walked across the room to get her sweater. Beth was surprised she could smell the perfume so strongly across the room. Is the space between molecules increasing or decreasing as the move?
+Answer: increasing
+Explanation: 
+
+QuestionID: 1245012398
+Question: Beth was getting ready for her date. The last thing she needed to do was put on some perfume and grab her sweater. She sprayed some perfume on then walked across the room to get her sweater. Beth was surprised she could smell the perfume so strongly across the room. Are the molecules moving in a pattern around the room or randomly?
+Answer: randomly
+Explanation: 
+
+QuestionID: 2194436549
+Question: Beth was getting ready for her date. The last thing she needed to do was put on some perfume and grab her sweater. She sprayed some perfume on then walked across the room to get her sweater. Beth was surprised she could smell the perfume so strongly across the room. When Beth first sprayed the perfume was was the concent4ration orf perfume higher near her or across the room?
+Answer: near her
+Explanation: 
+
+QuestionID: 316830071
+Question: Beth was getting ready for her date. The last thing she needed to do was put on some perfume and grab her sweater. She sprayed some perfume on then walked across the room to get her sweater. Beth was surprised she could smell the perfume so strongly across the room. When Beth first sprayed the perfume was was the concent4ration orf perfume lower near her or across the room?
+Answer: across the room
+Explanation: 
+
+QuestionID: 1699839156
+Question: Jeff knows smoking isn't good for you but he still loves the the smell of fresh pipe tobacco. Some of his fondest childhood memories are of sitting on the porch talking to his grandpa as he smoked his pipe. Jeff remembers being fascinated by the smoke as it billowed out of the pipe and wafted across the porch. Was the concentration of smoke molecules highest near the pipe or on the other side of the porch?
+Answer: near the pipe
+Explanation: 
+
+QuestionID: 1702914336
+Question: Jeff knows smoking isn't good for you but he still loves the the smell of fresh pipe tobacco. Some of his fondest childhood memories are of sitting on the porch talking to his grandpa as he smoked his pipe. Jeff remembers being fascinated by the smoke as it billowed out of the pipe and wafted across the porch. Did the smoke move in a pattern or randomly?
+Answer: randomly
+Explanation: 
+
+QuestionID: 2740153614
+Question: Jeff knows smoking isn't good for you but he still loves the the smell of fresh pipe tobacco. Some of his fondest childhood memories are of sitting on the porch talking to his grandpa as he smoked his pipe. Jeff remembers being fascinated by the smoke as it billowed out of the pipe and wafted across the porch. Was it kinetic or thermal energy that moved the smoke?
+Answer: kinetic
+Explanation: 
+
+QuestionID: 2228906818
+Question: Jeff knows smoking isn't good for you but he still loves the the smell of fresh pipe tobacco. Some of his fondest childhood memories are of sitting on the porch talking to his grandpa as he smoked his pipe. Jeff remembers being fascinated by the smoke as it billowed out of the pipe and wafted across the porch. Is the smoke thicker or thinner across the porch?
+Answer: thinner
+Explanation: 
+
+QuestionID: 879586452
+Question: Jeff knows smoking isn't good for you but he still loves the the smell of fresh pipe tobacco. Some of his fondest childhood memories are of sitting on the porch talking to his grandpa as he smoked his pipe. Jeff remembers being fascinated by the smoke as it billowed out of the pipe and wafted across the porch. Is the smoke thicker or thinner right above the pipe?
+Answer: above the pipe
+Explanation: 
+
+QuestionID: 3050467827
+Question: Jeff knows smoking isn't good for you but he still loves the the smell of fresh pipe tobacco. Some of his fondest childhood memories are of sitting on the porch talking to his grandpa as he smoked his pipe. Jeff remembers being fascinated by the smoke as it billowed out of the pipe and wafted across the porch. Is the smoke have more kinetic energy near the pipe or farther away?
+Answer: near
+Explanation: 
+
+QuestionID: 2364692719
+Question: Beth was getting ready for her date. The last thing she needed to do was put on some perfume and grab her sweater. She sprayed some perfume on herself then walked across the room next to the walk-in closet. Beth was surprised she could smell the perfume  Did the perfume molecules still or moving.
+Answer: moving
+Explanation: 
+
+QuestionID: 2001035972
+Question: Beth was getting ready for her date. The last thing she needed to do was put on some perfume and grab her sweater. She sprayed some perfume on herself then walked across the room next to the walk-in closet. Beth was surprised she could smell the perfume  Did the perfume molecules stay where Beth sprayed them or spread out?
+Answer: spread out
+Explanation: 
+
+QuestionID: 381837945
+Question: Beth was getting ready for her date. The last thing she needed to do was put on some perfume and grab her sweater. She sprayed some perfume on herself then walked across the room next to the walk-in closet. Beth was surprised she could smell the perfume  Is the space between molecules increasing or decreasing as the move?
+Answer: increasing
+Explanation: 
+
+QuestionID: 1245012398
+Question: Beth was getting ready for her date. The last thing she needed to do was put on some perfume and grab her sweater. She sprayed some perfume on herself then walked across the room next to the walk-in closet. Beth was surprised she could smell the perfume  Are the molecules moving in a pattern around the room or randomly?
+Answer: randomly
+Explanation: 
+
+QuestionID: 2194436549
+Question: Beth was getting ready for her date. The last thing she needed to do was put on some perfume and grab her sweater. She sprayed some perfume on herself then walked across the room next to the walk-in closet. Beth was surprised she could smell the perfume  When Beth just sprayed the perfume, was the concentration lower next to the walk in closet or at the mirror?
+Answer: at the mirror
+Explanation: 
+
+QuestionID: 316830071
+Question: Beth was getting ready for her date. The last thing she needed to do was put on some perfume and grab her sweater. She sprayed some perfume on herself then walked across the room next to the walk-in closet. Beth was surprised she could smell the perfume  When Beth just sprayed the perfume, was the concentration higher next to the walk in closet or at the mirror?
+Answer: next to the walk in closet
+Explanation: 
+
+QuestionID: 1699839156
+Question: Jeff knows smoking isn't good for you but he still loves the the smell of fresh pipe tobacco. Some of his fondest childhood memories are of sitting on the porch talking to his grandpa as he smoked his pipe. He would be playing across the street when he starts smelling hints of smoke and then rush over his grandpa on their porch. Jeff remembers being fascinated by the smoke as it billowed out of the pipe and wafted across the porch. Was the concentration of smoke molecules highest when Jeff first smelled it or later?
+Answer: later
+Explanation: 
+
+QuestionID: 1702914336
+Question: Jeff knows smoking isn't good for you but he still loves the the smell of fresh pipe tobacco. Some of his fondest childhood memories are of sitting on the porch talking to his grandpa as he smoked his pipe. He would be playing across the street when he starts smelling hints of smoke and then rush over his grandpa on their porch. Jeff remembers being fascinated by the smoke as it billowed out of the pipe and wafted across the porch. Was the smoke moving randomly or in a pattern across the street?
+Answer: randomly
+Explanation: 
+
+QuestionID: 2740153614
+Question: Jeff knows smoking isn't good for you but he still loves the the smell of fresh pipe tobacco. Some of his fondest childhood memories are of sitting on the porch talking to his grandpa as he smoked his pipe. He would be playing across the street when he starts smelling hints of smoke and then rush over his grandpa on their porch. Jeff remembers being fascinated by the smoke as it billowed out of the pipe and wafted across the porch. Was it kinetic or thermal energy that moved the smoke?
+Answer: kinetic
+Explanation: 
+
+QuestionID: 2228906818
+Question: Jeff knows smoking isn't good for you but he still loves the the smell of fresh pipe tobacco. Some of his fondest childhood memories are of sitting on the porch talking to his grandpa as he smoked his pipe. He would be playing across the street when he starts smelling hints of smoke and then rush over his grandpa on their porch. Jeff remembers being fascinated by the smoke as it billowed out of the pipe and wafted across the porch. Is the smoke thicke or thinner where Jeff was playing? 
+Answer: thinner
+Explanation: 
+
+QuestionID: 879586452
+Question: Jeff knows smoking isn't good for you but he still loves the the smell of fresh pipe tobacco. Some of his fondest childhood memories are of sitting on the porch talking to his grandpa as he smoked his pipe. He would be playing across the street when he starts smelling hints of smoke and then rush over his grandpa on their porch. Jeff remembers being fascinated by the smoke as it billowed out of the pipe and wafted across the porch. Is the smoke thicker or thinner on the porch?
+Answer: thicker
+Explanation: 
+
+QuestionID: 3050467827
+Question: Jeff knows smoking isn't good for you but he still loves the the smell of fresh pipe tobacco. Some of his fondest childhood memories are of sitting on the porch talking to his grandpa as he smoked his pipe. He would be playing across the street when he starts smelling hints of smoke and then rush over his grandpa on their porch. Jeff remembers being fascinated by the smoke as it billowed out of the pipe and wafted across the porch. Does the smoke have more kinetic energy where Jeff was playing or where he rushed to?
+Answer: where he rushed to
+Explanation: 
+
+--------------------------------------------------
+PassageID: 10
+Passage: A catalyst is a substance that increases the rate of a chemical reaction. A catalyst is a substance that increases the rate of a chemical reaction. The presence of a catalyst is one of several factors that influence the rate of chemical reactions. (Other factors include the temperature, concentration, and surface area of reactants.) A catalyst isnâ€™t a reactant in the chemical reaction it speeds up. As a result, it isnâ€™t changed or used up in the reaction, so it can go on to catalyze many more reactions.
+
+Questions:
+QuestionID: 1265180614
+Question: Matt borrowed his fathers pan to use on a camping trip. When he got home he sat it on his back porch, meaning to return the next day but forgot about it. A week later he saw the pan sitting on the porch with a puddle of rain water in it and rust on the bottom. Is the pan copper or iron?
+Answer: iron
+Explanation: 
+
+QuestionID: 2711298930
+Question: Matt borrowed his fathers pan to use on a camping trip. When he got home he sat it on his back porch, meaning to return the next day but forgot about it. A week later he saw the pan sitting on the porch with a puddle of rain water in it and rust on the bottom. Was the pan exposed to water or not.
+Answer: exposed to water
+Explanation: 
+
+QuestionID: 3030130223
+Question: Matt borrowed his fathers pan to use on a camping trip. When he got home he sat it on his back porch, meaning to return the next day but forgot about it. A week later he saw the pan sitting on the porch with a puddle of rain water in it and rust on the bottom. What caused the rust.
+Answer: water
+Explanation: 
+
+QuestionID: 1197878836
+Question: Matt borrowed his fathers pan to use on a camping trip. When he got home he sat it on his back porch, meaning to return the next day but forgot about it. A week later he saw the pan sitting on the porch with a puddle of rain water in it and rust on the bottom. Was there less or the same amount of water after the rust formed?
+Answer: the same
+Explanation: 
+
+QuestionID: 3053725888
+Question: Matt borrowed his fathers pan to use on a camping trip. When he got home he sat it on his back porch, meaning to return the next day but forgot about it. A week later he saw the pan sitting on the porch with a puddle of rain water in it and rust on the bottom. Did the water make the rust form faster or slower?
+Answer: faster
+Explanation: 
+
+QuestionID: 567947226
+Question: Matt borrowed his fathers pan to use on a camping trip. When he got home he sat it on his back porch, meaning to return the next day but forgot about it. A week later he saw the pan sitting on the porch with a puddle of rain water in it and rust on the bottom. If there had been no rain would the rust have formed faster or slower?
+Answer: slower
+Explanation: 
+
+QuestionID: 1265180614
+Question: Matt borrowed his fathers pan to use on a camping trip. When he got home he sat it on his back porch, meaning to return the next day but forgot about it. A week later he saw the pan sitting on the porch with a puddle of rain water in it and rust on the bottom. He then saw that he actually owned the same kind of pan, but it was stored in a dry cabinet. Is Matt's pan copper or iron?
+Answer: iron
+Explanation: 
+
+QuestionID: 2711298930
+Question: Matt borrowed his fathers pan to use on a camping trip. When he got home he sat it on his back porch, meaning to return the next day but forgot about it. A week later he saw the pan sitting on the porch with a puddle of rain water in it and rust on the bottom. He then saw that he actually owned the same kind of pan, but it was stored in a dry cabinet. Was Matt's pan exposed to water or not exposed to water?
+Answer: not
+Explanation: 
+
+QuestionID: 3030130223
+Question: Matt borrowed his fathers pan to use on a camping trip. When he got home he sat it on his back porch, meaning to return the next day but forgot about it. A week later he saw the pan sitting on the porch with a puddle of rain water in it and rust on the bottom. He then saw that he actually owned the same kind of pan, but it was stored in a dry cabinet. What caused Matt's father's pot to rust, water or dryness?
+Answer: water
+Explanation: 
+
+QuestionID: 1197878836
+Question: Matt borrowed his fathers pan to use on a camping trip. When he got home he sat it on his back porch, meaning to return the next day but forgot about it. A week later he saw the pan sitting on the porch with a puddle of rain water in it and rust on the bottom. He then saw that he actually owned the same kind of pan, but it was stored in a dry cabinet. Whose pan was more rusted, Matt's or his father's?
+Answer: his father's
+Explanation: 
+
+QuestionID: 3053725888
+Question: Matt borrowed his fathers pan to use on a camping trip. When he got home he sat it on his back porch, meaning to return the next day but forgot about it. A week later he saw the pan sitting on the porch with a puddle of rain water in it and rust on the bottom. He then saw that he actually owned the same kind of pan, but it was stored in a dry cabinet. Did water accelerate the rusting process of Matt's pan or not affect it?
+Answer: not affect it
+Explanation: 
+
+QuestionID: 567947226
+Question: Matt borrowed his fathers pan to use on a camping trip. When he got home he sat it on his back porch, meaning to return the next day but forgot about it. A week later he saw the pan sitting on the porch with a puddle of rain water in it and rust on the bottom. He then saw that he actually owned the same kind of pan, but it was stored in a dry cabinet. If there had been no rain would Matt's father's pan rust fater or the same rate as Matt's pan?
+Answer: same
+Explanation: 
+
+--------------------------------------------------
+PassageID: 11
+Passage: Similar to light zonation, thermal stratification or thermal zonation is a way of grouping parts of the water body within an aquatic system based on the temperature of different lake layers. The less turbid the water, the more light is able to penetrate, and thus heat is conveyed deeper in the water. Heating declines exponentially with depth in the water column, so the water will be warmest near the surface but progressively cooler as moving downwards. There are three main sections that define thermal stratification in a lake. The epilimnion is closest to the water surface and absorbs long- and shortwave radiation to warm the water surface. During cooler months, wind shear can contribute to cooling of the water surface. The thermocline is an area within the water column where water temperatures rapidly decrease. The bottom layer is the hypolimnion, which tends to have the coldest water because its depth restricts sunlight from reaching it.  In temperate lakes, fall-season cooling of surface water results in turnover of the water column, where the thermocline is disrupted, and the lake temperature profile becomes more uniform.
+
+Questions:
+QuestionID: 1337681848
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement B reads 55 degrees Fahrenheit. The temperature for Measurement C reads 40 degrees Fahrenheit.  For which measurement is Boris most likely in the epilimnion?
+Answer: Measurement A
+Explanation: 
+
+QuestionID: 3091949598
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement B reads 55 degrees Fahrenheit. The temperature for Measurement C reads 40 degrees Fahrenheit.  For which measurement is Boris most likely in the thermocline?
+Answer: Measurement B
+Explanation: 
+
+QuestionID: 3102894138
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement B reads 55 degrees Fahrenheit. The temperature for Measurement C reads 40 degrees Fahrenheit.  For which measurement is Boris most likely in the hypolimnion?
+Answer: Measurement C
+Explanation: 
+
+QuestionID: 3570365499
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement B reads 55 degrees Fahrenheit. The temperature for Measurement C reads 40 degrees Fahrenheit.  In which layer was Measurement A most likely taken, the epilimnion, thermocline or hypolimnion?
+Answer: epilimnion
+Explanation: 
+
+QuestionID: 3574559804
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement B reads 55 degrees Fahrenheit. The temperature for Measurement C reads 40 degrees Fahrenheit.  In which layer was Measurement B most likely taken, the epilimnion, thermocline or hypolimnion?
+Answer: thermocline
+Explanation: 
+
+QuestionID: 3578754109
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement B reads 55 degrees Fahrenheit. The temperature for Measurement C reads 40 degrees Fahrenheit.  In which layer was Measurement C most likely taken, the epilimnion, thermocline or hypolimnion?
+Answer: hypolimnion
+Explanation: 
+
+QuestionID: 986146642
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement B reads 55 degrees Fahrenheit. The temperature for Measurement C reads 40 degrees Fahrenheit.  Is Measurement A or Measurement B most likely the epilimnion?
+Answer: Measurement A
+Explanation: 
+
+QuestionID: 2733729720
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement B reads 55 degrees Fahrenheit. The temperature for Measurement C reads 40 degrees Fahrenheit.  Is Measurement A or Measurement B most likely the thermocline?
+Answer: Measurement B
+Explanation: 
+
+QuestionID: 2746640341
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement B reads 55 degrees Fahrenheit. The temperature for Measurement C reads 40 degrees Fahrenheit.  Is Measurement A or Measurement C most likely the hypolimnion?
+Answer: Measurement C
+Explanation: 
+
+QuestionID: 2749720534
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement B reads 55 degrees Fahrenheit. The temperature for Measurement C reads 40 degrees Fahrenheit.  Is Measurement B or Measurement C most likely the hypolimnion?
+Answer: Measurement C
+Explanation: 
+
+QuestionID: 1337681848
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement C is 30 degrees less than Measurement A. The temperature for Measurement B is 20 degrees less than Measurement A.  For which measurement is Boris most likely in the epilimnion?
+Answer: Measurement A
+Explanation: 
+
+QuestionID: 3091949598
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement C is 30 degrees less than Measurement A. The temperature for Measurement B is 20 degrees less than Measurement A.  For which measurement is Boris most likely in the thermocline?
+Answer: Measurement B
+Explanation: 
+
+QuestionID: 3102894138
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement C is 30 degrees less than Measurement A. The temperature for Measurement B is 20 degrees less than Measurement A.  For which measurement is Boris most likely in the hypolimnion?
+Answer: Measurement C
+Explanation: 
+
+QuestionID: 3570365499
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement C is 30 degrees less than Measurement A. The temperature for Measurement B is 20 degrees less than Measurement A.  In which layer was Measurement A most likely taken, the epilimnion, thermocline or hypolimnion?
+Answer: epilimnion
+Explanation: 
+
+QuestionID: 3574559804
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement C is 30 degrees less than Measurement A. The temperature for Measurement B is 20 degrees less than Measurement A.  In which layer was Measurement B most likely taken, the epilimnion, thermocline or hypolimnion?
+Answer: thermocline
+Explanation: 
+
+QuestionID: 3578754109
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement C is 30 degrees less than Measurement A. The temperature for Measurement B is 20 degrees less than Measurement A.  In which layer was Measurement C most likely taken, the epilimnion, thermocline or hypolimnion?
+Answer: hypolimnion
+Explanation: 
+
+QuestionID: 986146642
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement C is 30 degrees less than Measurement A. The temperature for Measurement B is 20 degrees less than Measurement A.  Is Measurement A or Measurement B most likely the epilimnion?
+Answer: Measurement A
+Explanation: 
+
+QuestionID: 2733729720
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement C is 30 degrees less than Measurement A. The temperature for Measurement B is 20 degrees less than Measurement A.  Is Measurement A or Measurement B most likely the thermocline?
+Answer: Measurement B
+Explanation: 
+
+QuestionID: 2746640341
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement C is 30 degrees less than Measurement A. The temperature for Measurement B is 20 degrees less than Measurement A.  Is Measurement A or Measurement C most likely the hypolimnion?
+Answer: Measurement C
+Explanation: 
+
+QuestionID: 2749720534
+Question: Boris is deploying a camera probe in a lake to observe the different kinds of fish species that reside in each layer during the summer. In order to make sure he is at the right depth and thus in a different layer each time he makes observations, he needs to measure the water temperature. The temperature for Measurement A reads 75 degrees Fahrenheit. The temperature for Measurement C is 30 degrees less than Measurement A. The temperature for Measurement B is 20 degrees less than Measurement A.  Is Measurement B or Measurement C most likely the hypolimnion?
+Answer: Measurement C
+Explanation: 
+
+--------------------------------------------------
+PassageID: 12
+Passage: Windbreaks reduce wind velocity over and around crops. This increases yields through reduced drying of the crop and/or by preventing the crop from toppling in strong wind gusts.
+
+Questions:
+QuestionID: 1067028713
+Question: Hap and Hal are both farmers in Kansas. Hap recently built a windbreak on his farm, but Hal is trying to save money and did not build a windbreak.  Whose farm is most likely to have an increase in crop production, Hap or Hal?
+Answer: Hap
+Explanation: 
+
+QuestionID: 3482161471
+Question: Hap and Hal are both farmers in Kansas. Hap recently built a windbreak on his farm, but Hal is trying to save money and did not build a windbreak.  Whose farm is least likely to have an increase in crop production, Hap or Hal?
+Answer: Hal
+Explanation: 
+
+QuestionID: 800623164
+Question: Hap and Hal are both farmers in Kansas. Hap recently built a windbreak on his farm, but Hal is trying to save money and did not build a windbreak.  Will Hap's farm produce more or less crops than Hal's farm?
+Answer: more
+Explanation: 
+
+QuestionID: 789350972
+Question: Hap and Hal are both farmers in Kansas. Hap recently built a windbreak on his farm, but Hal is trying to save money and did not build a windbreak.  Will Hal's farm produce more or less crops than Hap's farm?
+Answer: less
+Explanation: 
+
+QuestionID: 3950415607
+Question: Hap and Hal are both farmers in Kansas. Hap recently built a windbreak on his farm, but Hal is trying to save money and did not build a windbreak.  Whose crops are more likely to topple in strong wind gusts, Hap or Hal?
+Answer: Hal
+Explanation: 
+
+QuestionID: 2095550301
+Question: Hap and Hal are both farmers in Kansas. Hap recently built a windbreak on his farm, but Hal is trying to save money and did not build a windbreak.  Whose crops are least likely to topple in strong wind gusts, Hap or Hal?
+Answer: Hap
+Explanation: 
+
+QuestionID: 1989906465
+Question: Hap and Hal are both farmers in Kansas. Hap recently built a windbreak on his farm, but Hal is trying to save money and did not build a windbreak.  Is Hap more or less likely than Hal to experience reduced drying of crops?
+Answer: more
+Explanation: 
+
+QuestionID: 1982304289
+Question: Hap and Hal are both farmers in Kansas. Hap recently built a windbreak on his farm, but Hal is trying to save money and did not build a windbreak.  Is Hal more or less likely than Hap to experience reduced drying of crops?
+Answer: less
+Explanation: 
+
+QuestionID: 3553006604
+Question: Hap and Hal are both farmers in Kansas. Hap recently built a windbreak on his farm, but Hal is trying to save money and did not build a windbreak.  Will Hap's farm experience more or less wind velocity on their crops than Hal's farm?
+Answer: less
+Explanation: 
+
+QuestionID: 3534918668
+Question: Hap and Hal are both farmers in Kansas. Hap recently built a windbreak on his farm, but Hal is trying to save money and did not build a windbreak.  Will Hal's farm experience more or less wind velocity on their crops than Hap's farm?
+Answer: more
+Explanation: 
+
+QuestionID: 1067028713
+Question: Hap and Hal are both farmers in Kansas. Only Hap recently built a windbreak on his farm and he moved it to the Hal's farm.  Whose farm is most likely to have an increase in crop production, Hap or Hal?
+Answer: Hal
+Explanation: 
+
+QuestionID: 3482161471
+Question: Hap and Hal are both farmers in Kansas. Only Hap recently built a windbreak on his farm and he moved it to the Hal's farm.  Whose farm is least likely to have an increase in crop production, Hap or Hal?
+Answer: Hap
+Explanation: 
+
+QuestionID: 800623164
+Question: Hap and Hal are both farmers in Kansas. Only Hap recently built a windbreak on his farm and he moved it to the Hal's farm.  Will Hap's farm produce more or less crops than Hal's farm?
+Answer: less
+Explanation: 
+
+QuestionID: 789350972
+Question: Hap and Hal are both farmers in Kansas. Only Hap recently built a windbreak on his farm and he moved it to the Hal's farm.  Will Hal's farm produce more or less crops than Hap's farm?
+Answer: more
+Explanation: 
+
+QuestionID: 3950415607
+Question: Hap and Hal are both farmers in Kansas. Only Hap recently built a windbreak on his farm and he moved it to the Hal's farm.  Whose crops are more likely to topple in strong wind gusts, Hap or Hal?
+Answer: Hap
+Explanation: 
+
+QuestionID: 2095550301
+Question: Hap and Hal are both farmers in Kansas. Only Hap recently built a windbreak on his farm and he moved it to the Hal's farm.  Whose crops are least likely to topple in strong wind gusts, Hap or Hal?
+Answer: Hal
+Explanation: 
+
+QuestionID: 1989906465
+Question: Hap and Hal are both farmers in Kansas. Only Hap recently built a windbreak on his farm and he moved it to the Hal's farm.  Is Hap more or less likely than Hal to experience reduced drying of crops?
+Answer: less
+Explanation: 
+
+QuestionID: 1982304289
+Question: Hap and Hal are both farmers in Kansas. Only Hap recently built a windbreak on his farm and he moved it to the Hal's farm.  Is Hal more or less likely than Hap to experience reduced drying of crops?
+Answer: more
+Explanation: 
+
+QuestionID: 3553006604
+Question: Hap and Hal are both farmers in Kansas. Only Hap recently built a windbreak on his farm and he moved it to the Hal's farm.  Will Hap's farm experience more or less wind velocity on their crops than Hal's farm?
+Answer: more
+Explanation: 
+
+QuestionID: 3534918668
+Question: Hap and Hal are both farmers in Kansas. Only Hap recently built a windbreak on his farm and he moved it to the Hal's farm.  Will Hal's farm experience more or less wind velocity on their crops than Hap's farm?
+Answer: less
+Explanation: 
+
+--------------------------------------------------
+PassageID: 13
+Passage: Electrons can be removed from some objects using friction, simply by rubbing one substance against another substance. There are many examples of objects becoming charged by friction, including a rubber comb through hair, and a balloon on a sweater. In both these instances, the electrons move from the second object to the first, causing the first object to become negatively charged and the second one positively charged. Friction between the tires on a moving car and the road cause the tires to become charged, and wind causes friction between clouds and air which causes clouds to become charged and can result in tremendous bolts of lightning.
+
+Questions:
+QuestionID: 2952287862
+Question: Iris notices that while brushing her cat, especially on cold and dry days, she can hear a crackling sound. She also notices that after she is done brushing, her cat's hair stands on end and is attracted to the brush.  Before Iris brushes her cat, does her cat’s fur have an electrical charge?
+Answer: no
+Explanation: 
+
+QuestionID: 2578928521
+Question: Iris notices that while brushing her cat, especially on cold and dry days, she can hear a crackling sound. She also notices that after she is done brushing, her cat's hair stands on end and is attracted to the brush.  Before Iris brushes her cat, does the brush have an electrical charge?
+Answer: no
+Explanation: 
+
+QuestionID: 1693866766
+Question: Iris notices that while brushing her cat, especially on cold and dry days, she can hear a crackling sound. She also notices that after she is done brushing, her cat's hair stands on end and is attracted to the brush.  After brushing her cat, do the cat and the brush have the same charge or a different charge? 
+Answer: different
+Explanation: 
+
+QuestionID: 2952287862
+Question: Iris notices that while brushing her cat, especially on cold and dry days, she can hear a crackling sound. She also notices that after she is done brushing, her cat's hair stands on end and is attracted to the brush.  Before Iris brushes her cat, does her cat's fur have an electrical charge, yes or not?
+Answer: not
+Explanation: 
+
+QuestionID: 2578928521
+Question: Iris notices that while brushing her cat, especially on cold and dry days, she can hear a crackling sound. She also notices that after she is done brushing, her cat's hair stands on end and is attracted to the brush.  Before Iris brushes her cat, does the brush have an electrical charge, not or yes ?
+Answer: not
+Explanation: 
+
+QuestionID: 1693866766
+Question: Iris notices that while brushing her cat, especially on cold and dry days, she can hear a crackling sound. She also notices that after she is done brushing, her cat's hair stands on end and is attracted to the brush.  After brushing her cat, do the cat and the brush have a different charge, not or yes? 
+Answer: yes
+Explanation: 
+
+--------------------------------------------------
+PassageID: 14
+Passage: Scientists think that the earliest flowers attracted insects and other animals, which spread pollen from flower to flower. This greatly increased the efficiency of fertilization over wind-spread pollen, which might or might not actually land on another flower. To take better advantage of this â€œanimal labor,â€ plants evolved traits such as brightly colored petals to attract pollinators. In exchange for pollination, flowers gave the pollinators nectar.
+
+Questions:
+QuestionID: 2597583592
+Question: Ben wanted to encourage bees to visit his garden so he planted lots of blue, purple, and yellow flowers and plants to attract them. He also chose plants the bees would think smelled good. Do bees harm or benefit plants?
+Answer: benefit
+Explanation: 
+
+QuestionID: 2620652383
+Question: Ben wanted to encourage bees to visit his garden so he planted lots of blue, purple, and yellow flowers and plants to attract them. He also chose plants the bees would think smelled good. Do plants need or tolerate bees?
+Answer: need
+Explanation: 
+
+QuestionID: 3732018407
+Question: Ben wanted to encourage bees to visit his garden. He new color and scent were important for attracting bees, so he planted lots of blue, purple, and yellow flowers and plants to attract them. He also chose plants the bees would think smelled good. What traits do plants use to attract bees?
+Answer: color and scent
+Explanation: 
+
+QuestionID: 2597583592
+Question: Ben wanted does not like insects flying around his garden so he planted lots of dark blue, purple, and yellow flowers and plants to avoid attacting them. He also chose plants that do not have strong smells; all his flowers lack very strong color and scent. Are the bees helping or not helping the pollination in Ben's garden?
+Answer: not helping
+Explanation: 
+
+QuestionID: 2620652383
+Question: Ben wanted does not like insects flying around his garden so he planted lots of dark blue, purple, and yellow flowers and plants to avoid attacting them. He also chose plants that do not have strong smells; all his flowers lack very strong color and scent. Would Ben's garden have more or less efficient pollination if it attracted bees?
+Answer: more
+Explanation: 
+
+QuestionID: 3732018407
+Question: Ben wanted does not like insects flying around his garden so he planted lots of dark blue, purple, and yellow flowers and plants to avoid attacting them. He also chose plants that do not have strong smells; all his flowers lack much color and scent. What traits would Ben's flowers need to develop to attract bees?
+Answer: color and scent
+Explanation: 
+
+--------------------------------------------------
+PassageID: 15
+Passage: If a solid is irregularly shaped, we can determine its volume by measuring the volume of water displaced by the solid. For example, say you want to measure the volume of the toy dinosaur in Figure below . After placing the dinosaur in the water, the volume measured in the container increases by an amount that is equal to the total volume of the dinosaur. Note that this method only works for solids that do not dissolve in water. If you tried to measure the volume occupied by a pile of salt, the salt would dissolve in the water and this method would not work very well.
+
+Questions:
+QuestionID: 372609456
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. After the gravel had settled she started adding decorations. She She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and placed it to one side. She finished by adding some small plants and a tiny treasure chest. The water level was now at the top of the tank What happened to the water level when the gravel was added?
+Answer: rose
+Explanation: 
+
+QuestionID: 366645675
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. After the gravel had settled she started adding decorations. She She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and placed it to one side. She finished by adding some small plants and a tiny treasure chest. The water level was now at the top of the tank What happened to the water level when the castle was added?
+Answer: rose
+Explanation: 
+
+QuestionID: 2848756265
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. After the gravel had settled she started adding decorations. She She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and placed it to one side. She finished by adding some small plants and a tiny treasure chest. The water level was now at the top of the tank What happened to the water level when the plants were added?
+Answer: rose
+Explanation: 
+
+QuestionID: 2075694600
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. After the gravel had settled she started adding decorations. She She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and placed it to one side. She finished by adding some small plants and a tiny treasure chest. The water level was now at the top of the tank Was more water displaced when the castle or treasure chest were added?
+Answer: castle
+Explanation: 
+
+QuestionID: 3845625240
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. After the gravel had settled she started adding decorations. She She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and placed it to one side. She finished by adding some small plants and a tiny treasure chest. The water level was now at the top of the tank Was less water displaced when the castle or treasure ches were added?
+Answer: treasure chest
+Explanation: 
+
+QuestionID: 1391832842
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. She noticed that the water level rose 2 inches. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and a tiny treasure chest. The gravel had a higher volume than what?
+Answer: castle
+Explanation: 
+
+QuestionID: 2774118076
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. She noticed that the water level rose 2 inches. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and a tiny treasure chest. The gravel had a lower volume than what?
+Answer: water
+Explanation: 
+
+QuestionID: 2222831566
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. She noticed that the water level rose 2 inches. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and a tiny treasure chest. The gravel displace more or less water than the treasure chest??
+Answer: more
+Explanation: 
+
+QuestionID: 1790686999
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. She noticed that the water level rose 2 inches. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and a tiny treasure chest. Did the water level go up or down when the castle was removed???
+Answer: down
+Explanation: 
+
+QuestionID: 254980036
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. She noticed that the water level rose 2 inches. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and a tiny treasure chest. What what decoration had the most volume??
+Answer: the castle
+Explanation: 
+
+QuestionID: 372609456
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. What happened to the water level when the gravel was added?
+Answer: rose
+Explanation: 
+
+QuestionID: 366645675
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. What happened to the water level when the castle was added?
+Answer: rose
+Explanation: 
+
+QuestionID: 2848756265
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. What happened to the water level when the plants were added?
+Answer: rose
+Explanation: 
+
+QuestionID: 2075694600
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. Was more water displaced when the castle or treasure chest were added?
+Answer: treasure chest
+Explanation: 
+
+QuestionID: 3845625240
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. Was less water displaced when the castle or treasure ches were added?
+Answer: castle
+Explanation: 
+
+QuestionID: 1391832842
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. The gravel had a higher volume than the castle, treasure chest or neither?
+Answer: neither
+Explanation: 
+
+QuestionID: 2774118076
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. The gravel had a lower volume than what?
+Answer: water
+Explanation: 
+
+QuestionID: 2222831566
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. The gravel displace more or less water than the treasure chest??
+Answer: less
+Explanation: 
+
+QuestionID: 1790686999
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. Did the water level go up or down when the castle was removed???
+Answer: down
+Explanation: 
+
+QuestionID: 254980036
+Question: Beth is set up her new aquarium last night. First shefilled the tank with water leaving room at the top in case the water level to rose. Next she added gravel to the tank. She noticed that the water level rose half an inch. After the gravel had settled she started adding decorations. She started with a large castle. Adding the castle took the water level up another 3 inch. She looked at it a minute and decided she did not like it there. Beth lifted the castle out of the water and replaced it to one side of the tank. She finished by adding some small plants and the grand piece: the treasure chest, pushing up the water level over 4 inches. What what decoration had the most volume??
+Answer: the treasure chest
+Explanation: 
+
+--------------------------------------------------
+PassageID: 16
+Passage: The parts of the ears involved in balance are the semicircular canals. These are the curved structures above the cochlea in the inner ear in Figure above . Like the cochlea, the semicircular canals contain liquid and are lined with tiny hair cells. As the head changes position, the liquid moves. This causes the hair cells to bend. The bending of the hair cells triggers nerve impulses that travel to the cerebellum in the brain. The cerebellum uses the information to maintain balance.
+
+Questions:
+QuestionID: 3857850763
+Question: Some people think Rock Music is just loud noise but Sam loves it. Sam liked going to Rock concert when he was younger. In his opinion the louder the better. Unfortunately over the years Sam's hearing has declined and he has trouble hearing the music he loves so much. Is Sam's balance problem temerary or permanant?
+Answer: permanant
+Explanation: 
+
+QuestionID: 3427083083
+Question: Some people think Rock Music is just loud noise but Sam loves it. Sam liked going to Rock concert when he was younger. In his opinion the louder the better. Unfortunately over the years Sam's hearing has declined and he has trouble hearing the music he loves so much. Are the hair cells in Sam's cochlea normal or damaged?
+Answer: damaged
+Explanation: 
+
+QuestionID: 1076637532
+Question: Some people think Rock Music is just loud noise but Sam loves it. Sam liked going to Rock concert when he was younger. In his opinion the louder the better. Unfortunately over the years Sam's hearing has declined and he has trouble hearing the music he loves so much. Is Sam's cerrabellum able or unable to get nerve pulses from the hair cells in his ear?
+Answer: unable
+Explanation: 
+
+QuestionID: 3857850763
+Question: Some people think Rock Music is just loud noise but Sam loves it. Sam liked going to Rock concert when he was younger. In his opinion the louder the better. Unfortunately over the years Sam's hearing has declined and he has trouble hearing the music he loves so much but he still has as good balance as he has ever had. Are Sam's hearing problems due to a prolbem in the semicircula canals or a different ear part?
+Answer: different ear part
+Explanation: 
+
+QuestionID: 3427083083
+Question: Some people think Rock Music is just loud noise but Sam loves it. Sam liked going to Rock concert when he was younger. In his opinion the louder the better. Unfortunately over the years Sam's hearing has declined and he has trouble hearing the music he loves so much but he still has as good balance as he has ever had. Are the hair cells in Sam's cochlea normal or damaged?
+Answer: normal
+Explanation: 
+
+QuestionID: 1076637532
+Question: Some people think Rock Music is just loud noise but Sam loves it. Sam liked going to Rock concert when he was younger. In his opinion the louder the better. Unfortunately over the years Sam's hearing has declined and he has trouble hearing the music he loves so much but he still has as good balance as he has ever had. Is Sam's cerrabellum able or unable to get nerve pulses from the hair cells in his ear?
+Answer: able
+Explanation: 
+
+--------------------------------------------------
+PassageID: 17
+Passage: While the Grants were on the GalÃ¡pagos, a drought occurred. As a result, fewer seeds were available for finches to eat. Birds with smaller beaks could crack open and eat only the smaller seeds. Birds with bigger beaks could crack and eat seeds of all sizes. As a result, many of the small-beaked birds died in the drought. Birds with bigger beaks survived and reproduced (see Figure below ). Within 2 years, the average beak size in the finch population increased. Evolution by natural selection had occurred.
+
+Questions:
+QuestionID: 2178826168
+Question: During a particularly bad infestation of caterpillars Mark sprayed his orchards with pesticide. That year most of the caterpillars died. The next year the pesticide also seemed to be effective but as the years passed more and more caterpillars seemed to be surviving until Mark had no choice but to find a new and stronger pesticide. What were the caterpillars adapting to?
+Answer: pesticide
+Explanation: 
+
+QuestionID: 3496104147
+Question: During a particularly bad infestation of caterpillars Mark sprayed his orchards with pesticide. That year most of the caterpillars died. The next year the pesticide also seemed to be effective but as the years passed more and more caterpillars seemed to be surviving until Mark had no choice but to find a new and stronger pesticide. The first year were most of the caterpillars susceptibal or immune to the pesticide? ?
+Answer: susceptibal
+Explanation: 
+
+QuestionID: 512250151
+Question: During a particularly bad infestation of caterpillars Mark sprayed his orchards with pesticide. That year most of the caterpillars died. The next year the pesticide also seemed to be effective but as the years passed more and more caterpillars seemed to be surviving until Mark had no choice but to find a new and stronger pesticide. The second year were most of the caterpillars susceptibal or immune to the pesticide? ?
+Answer: susceptibal
+Explanation: 
+
+QuestionID: 219697999
+Question: During a particularly bad infestation of caterpillars Mark sprayed his orchards with pesticide. That year most of the caterpillars died. The next year the pesticide also seemed to be effective but as the years passed more and more caterpillars seemed to be surviving until Mark had no choice but to find a new and stronger pesticide. Were catipillars born after the first year more or less likely to be immune to the pesticide?
+Answer: more
+Explanation: 
+
+QuestionID: 3108787555
+Question: During a particularly bad infestation of caterpillars Mark sprayed his orchards with pesticide. That year most of the caterpillars died. The next year the pesticide also seemed to be effective but as the years passed more and more caterpillars seemed to be surviving until Mark had no choice but to find a new and stronger pesticide. Were catipillars born after the first year more or less likely to be susceptibal to the pesticide?
+Answer: less
+Explanation: 
+
+QuestionID: 1919027877
+Question: Bob's family had been farming this land for 3 generations but he was finding that he had to use much more pesticide to keep destructive insects from destroying his crops. Is the pesticide weaker than in the past or less effective?
+Answer: less effective
+Explanation: 
+
+QuestionID: 58525091
+Question: Bob's family had been farming this land for 3 generations but he was finding that he had to use much more pesticide to keep destructive insects from destroying his crops. Are the insects changing or staying the same?
+Answer: changing
+Explanation: 
+
+QuestionID: 2162887447
+Question: Bob's family had been farming this land for 3 generations but he was finding that he had to use much more pesticide to keep destructive insects from destroying his crops. Did the initial pesticide kill all the insects or only some?
+Answer: some
+Explanation: 
+
+QuestionID: 4118023777
+Question: Bob's family had been farming this land for 3 generations but he was finding that he had to use much more pesticide to keep destructive insects from destroying his crops. Were some or none of the insects recistant to the earlier pesticide ?
+Answer: some
+Explanation: 
+
+QuestionID: 575735572
+Question: Bob's family had been farming this land for 3 generations but he was finding that he had to use much more pesticide to keep destructive insects from destroying his crops. Are more insects resistant to now or in the past?
+Answer: now
+Explanation: 
+
+QuestionID: 3566472496
+Question: Bob's family had been farming this land for 3 generations but he was finding that he had to use much more pesticide to keep destructive insects from destroying his crops. Were fewer insects resistant to the pesticide in the past or now?
+Answer: the past
+Explanation: 
+
+QuestionID: 476516155
+Question: Bob's family had been farming this land for 3 generations but he was finding that he had to use much more pesticide to keep destructive insects from destroying his crops. Will more or less insects be resistant to the pesticide in the future??
+Answer: more
+Explanation: 
+
+QuestionID: 2296646433
+Question: Bob's family had been farming this land for 3 generations but he was finding that he had to use much more pesticide to keep destructive insects from destroying his crops. Did resistant or nonresistent insects pass on their genes?
+Answer: resistant
+Explanation: 
+
+QuestionID: 2191330087
+Question: Bob's family had been farming this land for 3 generations but he was finding that he had to use much more pesticide to keep destructive insects from destroying his crops. Are the resistant or nonresistent incects more common now?
+Answer: resistant
+Explanation: 
+
+QuestionID: 2185956135
+Question: Bob's family had been farming this land for 3 generations but he was finding that he had to use much more pesticide to keep destructive insects from destroying his crops. Are the resistant or nonresistant incects less common now?
+Answer: nonresistant
+Explanation: 
+
+QuestionID: 2178826168
+Question: During a particularly bad infestation of caterpillars Mark sprayed his orchards with pesticide, in addition to the usual fertilizers that he used. He also tried removing the fertilizers but that was not what attacted the caterpillars; they are only affected by pesticide. That year most of the caterpillars died. The next year the pesticide also seemed to be effective but as the years passed more and more caterpillars seemed to be surviving. It seemed to Mark like his pesticide was getting weaker. Which is not the treatment that the caterpillars are adatping to?
+Answer: fertilizer
+Explanation: 
+
+QuestionID: 3496104147
+Question: During a particularly bad infestation of caterpillars Mark sprayed his orchards with pesticide. That year most of the caterpillars died. The next year the pesticide also seemed to be effective but as the years passed more and more caterpillars seemed to be surviving until Mark had no choice but to find a new and stronger pesticide. Are the caterpillar susceptible to the fertilizer or did it not have an effect on them?
+Answer: not have an effect
+Explanation: 
+
+QuestionID: 512250151
+Question: During a particularly bad infestation of caterpillars Mark sprayed his orchards with pesticide. That year most of the caterpillars died. The next year the pesticide also seemed to be effective but as the years passed more and more caterpillars seemed to be surviving until Mark had no choice but to find a new and stronger pesticide. In the second year, was the fertilizer harmful or not harmful to the caterpillars?
+Answer: not harmful
+Explanation: 
+
+QuestionID: 219697999
+Question: During a particularly bad infestation of caterpillars Mark sprayed his orchards with pesticide. That year most of the caterpillars died. The next year the pesticide also seemed to be effective but as the years passed more and more caterpillars seemed to be surviving until Mark had no choice but to find a new and stronger pesticide. Were the caterpillars born before the fertilizers were removed more or less likely to be immune to the pesticide?
+Answer: less
+Explanation: 
+
+QuestionID: 3108787555
+Question: During a particularly bad infestation of caterpillars Mark sprayed his orchards with pesticide. That year most of the caterpillars died. The next year the pesticide also seemed to be effective but as the years passed more and more caterpillars seemed to be surviving until Mark had no choice but to find a new and stronger pesticide. Were the caterpillars after the fertilizers were removed more or less likely to be immune to the pesticide?
+Answer: more
+Explanation: 
+
+QuestionID: 1919027877
+Question: Bob's family had been farming this land for 3 generations. His grandfather strongly believe that pesticides were not good for the environment and would decrease the the pesticide dosage each year even when he found that there were more and more insects each year, hurting the crop yield. Bob, who is now in charge is finding that he has to use much more pesticide to keep destructive insects from destroying his crops. When Bob's grandfather  was farming, was the pesticide used each year weaker or less effective?
+Answer: weaker
+Explanation: 
+
+QuestionID: 58525091
+Question: Bob's family had been farming this land for 3 generations. His grandfather strongly believe that pesticides were not good for the environment and would never increase the pesticide dosage even when he found that there were more and more insects each year, hurting the crop yield. Bob, who is now in charge is finding that he has to use much more pesticide to keep destructive insects from destroying his crops. Are the insects changing more during Bob's grandfather's time farming or Bob's?
+Answer: Bob's grandfather
+Explanation: 
+
+QuestionID: 2162887447
+Question: Bob's family had been farming this land for 3 generations. His grandfather strongly believe that pesticides were not good for the environment and would never increase the pesticide dosage even when he found that there were more and more insects each year, hurting the crop yield. Bob, who is now in charge is finding that he has to use much more pesticide to keep destructive insects from destroying his crops. Did the stronger pesticide kill all the insects or only some?
+Answer: only some
+Explanation: 
+
+QuestionID: 4118023777
+Question: Bob's family had been farming this land for 3 generations. His grandfather strongly believe that pesticides were not good for the environment and would never increase the pesticide dosage even when he found that there were more and more insects each year, hurting the crop yield. Bob, who is now in charge is finding that he has to use much more pesticide to keep destructive insects from destroying his crops. Did the insects that were unable to handle the pesticide survive or die?
+Answer: die
+Explanation: 
+
+QuestionID: 575735572
+Question: Bob's family had been farming this land for 3 generations. His grandfather strongly believe that pesticides were not good for the environment and would never increase the pesticide dosage even when he found that there were more and more insects each year, hurting the crop yield. Bob, who is now in charge is finding that he has to use much more pesticide to keep destructive insects from destroying his crops. Are more insects resistant to now or in the past?
+Answer: now
+Explanation: 
+
+QuestionID: 3566472496
+Question: Bob's family had been farming this land for 3 generations. His grandfather strongly believe that pesticides were not good for the environment and would never increase the pesticide dosage even when he found that there were more and more insects each year, hurting the crop yield. Bob, who is now in charge is finding that he has to use much more pesticide to keep destructive insects from destroying his crops. Were fewer insects resistant to the pesticide in the past or now?
+Answer: the past
+Explanation: 
+
+QuestionID: 476516155
+Question: Bob's family had been farming this land for 3 generations. His grandfather strongly believe that pesticides were not good for the environment and would never increase the pesticide dosage even when he found that there were more and more insects each year, hurting the crop yield. Bob, who is now in charge is finding that he has to use much more pesticide to keep destructive insects from destroying his crops. Will more or less insects be resistant to the pesticide in the future??
+Answer: more
+Explanation: 
+
+QuestionID: 2296646433
+Question: Bob's family had been farming this land for 3 generations. His grandfather strongly believe that pesticides were not good for the environment and would never increase the pesticide dosage even when he found that there were more and more insects each year, hurting the crop yield. Bob, who is now in charge is finding that he has to use much more pesticide to keep destructive insects from destroying his crops. Did resistant or nonresistent insects pass on their genes?
+Answer: resistant
+Explanation: 
+
+QuestionID: 2191330087
+Question: Bob's family had been farming this land for 3 generations. His grandfather strongly believe that pesticides were not good for the environment and would never increase the pesticide dosage even when he found that there were more and more insects each year, hurting the crop yield. Bob, who is now in charge is finding that he has to use much more pesticide to keep destructive insects from destroying his crops. Are the resistant or nonresistent incects more common now?
+Answer: resistant
+Explanation: 
+
+QuestionID: 2185956135
+Question: Bob's family had been farming this land for 3 generations. His grandfather strongly believe that pesticides were not good for the environment and would never increase the pesticide dosage even when he found that there were more and more insects each year, hurting the crop yield. Bob, who is now in charge is finding that he has to use much more pesticide to keep destructive insects from destroying his crops. Are the resistant or nonresistant incects less common now?
+Answer: nonresistant
+Explanation: 
+
+--------------------------------------------------
+PassageID: 18
+Passage: This law is sometimes paraphrased as “For every action, there is an equal and opposite reaction.” A very important point to remember is that the two forces are on different objects—never on the same object. It is frequently the case that one of the objects moves as a result of the force applied but the motion of the other object in the opposite direction is not apparent. Consider the situation where an ice skater is standing at the edge of the skating rink holding on to the side rail. If the skater exerts a force on the rail, the rail is held in place with tremendous friction and therefore, will not move in any noticeable way. The skater, on the other hand, had little friction with the ice, and therefore will be accelerated in the direction opposite of her original push. This is the process people use to jump up into the air. The person's feet exert force on the ground and the ground exerts an equal and opposite force on the person's feet. The force on the feet is sufficient to raise the person off the ground. The force on the ground has little effect because the Earth is so large. One of the accelerations is visible but the other is not visible.
+
+Questions:
+QuestionID: 2723343004
+Question: Mike had spent the morning fishing and decided to head home. When he got to the dock he forgot to tie his boat to the dock before stepping off of it. What is exerting a force on the boat?
+Answer: Mike
+Explanation: 
+
+QuestionID: 4184271131
+Question: Mike had spent the morning fishing and decided to head home. When he got to the dock he forgot to tie his boat to the dock before stepping off of it. What is exerting a force on Mike?
+Answer: boat
+Explanation: 
+
+QuestionID: 175369657
+Question: Mike had spent the morning fishing and decided to head home. When he got to the dock he forgot to tie his boat to the dock before stepping off of it. Will the boat move towards or away from Mike?
+Answer: away
+Explanation: 
+
+QuestionID: 150269369
+Question: Mike had spent the morning fishing and decided to head home. When he got to the dock he forgot to tie his boat to the dock before stepping off of it. Will Mike move towards or away from the boat?
+Answer: away
+Explanation: 
+
+QuestionID: 175179856
+Question: Matt had been fishing in his boat all morning and decided it was time to go for a swim. He stood on the edge of the boat and dived into the water. As he pushed of the boat he went forward into the water. When Matt pushed off the boat did the boat move or stay stationary?
+Answer: move
+Explanation: 
+
+QuestionID: 4034463483
+Question: Matt had been fishing in his boat all morning and decided it was time to go for a swim. He stood on the edge of the boat and dived into the water. As he pushed of the boat he went forward into the water. Did the boat move in the same direction as Matt or away from him?
+Answer: away from him
+Explanation: 
+
+QuestionID: 4207478590
+Question: Matt had been fishing in his boat all morning and decided it was time to go for a swim. He stood on the edge of the boat and dived into the water. As he pushed of the boat he went forward into the water. Was the force on the boat less than or equal to the force on Matt?
+Answer: equal
+Explanation: 
+
+QuestionID: 4188342078
+Question: Matt had been fishing in his boat all morning and decided it was time to go for a swim. He stood on the edge of the boat and dived into the water. As he pushed of the boat he went forward into the water. Was the force on Matt less than or equal to the force on the boat?
+Answer: equal
+Explanation: 
+
+QuestionID: 3575970599
+Question: Matt had been fishing in his boat all morning and decided it was time to go for a swim. He stood on the edge of the boat and dived into the water. As he pushed of the boat he went forward into the water. What exerted force on the boat?
+Answer: Matt
+Explanation: 
+
+QuestionID: 2971730279
+Question: Matt had been fishing in his boat all morning and decided it was time to go for a swim. He stood on the edge of the boat and dived into the water. As he pushed of the boat he went forward into the water. Was the a lot or little friction with the water?
+Answer: little
+Explanation: 
+
+QuestionID: 2723343004
+Question: Mike and Beth had spent the morning fishing and decided to head home. Mike was the first to got to the dock and Beth forgot to tie his boat to the dock before he stepped off of it. What is exerting a force on the boat?
+Answer: Mike
+Explanation: 
+
+QuestionID: 4184271131
+Question: Mike and Beth had spent the morning fishing and decided to head home. Mike was the first to got to the dock and Beth forgot to tie his boat to the dock before he stepped off of it. What is exerting a force on Mike?
+Answer: boat
+Explanation: 
+
+QuestionID: 175369657
+Question: Mike and Beth had spent the morning fishing and decided to head home. Mike was the first to got to the dock and Beth forgot to tie his boat to the dock before he stepped off of it. Will the Beth move towards or away from Mike?
+Answer: away
+Explanation: 
+
+QuestionID: 150269369
+Question: Mike and Beth had spent the morning fishing and decided to head home. Mike was the first to got to the dock and Beth forgot to tie his boat to the dock before he stepped off of it. Will Bob move towards, away from or stay on the boat?
+Answer: stay
+Explanation: 
+
+QuestionID: 175179856
+Question: Matt had been fishing in his boat all morning and decided it was time to go for a swim. He stood on the edge of the boat and dived into the water. As he pushed of the boat he went forward into the water, and boat was tied to the shore When Matt pushed off the boat did the boat move or stay stationary?
+Answer: stay
+Explanation: 
+
+QuestionID: 4034463483
+Question: Matt had been fishing in his boat all morning and decided it was time to go for a swim. He stood on the edge of the boat and dived into the water. As he pushed of the boat he went forward into the water, and boat was tied to the shore Did the boat move in the same direction as Matt or away from him if the boat was not tied to the shore?
+Answer: away from him
+Explanation: 
+
+--------------------------------------------------
+PassageID: 19
+Passage: To determine the concentration of an acid in an aqueous solution, an acid-base titration is commonly performed. A strong base solution with a known concentration, usually NaOH or KOH, is added to neutralize the acid solution according to the color change of the indicator with the amount of base added.[7] The titration curve of an acid titrated by a base has two axes, with the base volume on the x-axis and the solution's pH value on the y-axis. The pH of the solution always goes up as the base is added to the solution.
+
+Questions:
+QuestionID: 1989097640
+Question: Sam was looking over his notes from his science experiment. He looked at the graph he had made while titrating an acid with a base. He noticed that on the first day there was less base in the acid and the ph was lower. On the second day he added more base and the y-axis on his graph increased. What happened to the ph of the solution on the second day.
+Answer: increased
+Explanation: 
+
+QuestionID: 2904568823
+Question: Sam was looking over his notes from his science experiment. He looked at the graph he had made while titrating an acid with a base. He noticed that on the first day there was less base in the acid and the ph was lower. On the second day he added more base and the y-axis on his graph increased. Was the y-axis higher or lower the first day.
+Answer: lower
+Explanation: 
+
+QuestionID: 1594701560
+Question: Sam was looking over his notes from his science experiment. He looked at the graph he had made while titrating an acid with a base. He noticed that on the first day there was less base in the acid and the ph was lower. On the second day he added more base and the y-axis on his graph increased. Was the x-axis increased or decreased the second day.
+Answer: increased
+Explanation: 
+
+QuestionID: 1989097640
+Question: Sam was looking over his notes from his science experiment. He looked at the graph he had made while titrating an acid with a base. He noticed that on the first day there was that the pH level was low. On the second day, the lab instructions were to add base to the solution. Sam was negligent and did not follow the instructions. Did the pH level stay the same or increase? 
+Answer: stay the same
+Explanation: 
+
+QuestionID: 2904568823
+Question: Sam was looking over his notes from his science experiment. He looked at the graph he had made while titrating an acid with a base. He noticed that on the first day there was that the pH level was low. On the second day, the lab instructions were to add base to the solution. Sam was negligent and did not follow the instructions. Would the y-axis stay the same or increase if he had followed the instructions?
+Answer: increase
+Explanation: 
+
+QuestionID: 1594701560
+Question: Sam was looking over his notes from his science experiment. He looked at the graph he had made while titrating an acid with a base. He noticed that on the first day there was that the pH level was low. On the second day, the lab instructions were to add base to the solution. Sam was negligent and did not follow the instructions. Did the x axis increase on the second day?
+Answer: increase
+Explanation: 
+
+--------------------------------------------------
+PassageID: 20
+Passage: The theory of evolution by natural selection was proposed at about the same time by both Charles Darwin and Alfred Russel Wallace, shown in Figure below , and was set out in detail in Darwin's 1859 book On the Origin of Species . Natural selection is a process that causes heritable traits that are helpful for survival and reproduction to become more common, and harmful traits, or traits that are not helpful or advantageous for survival to become more rare in a population of organisms. This occurs because organisms with advantageous traits are more "fit" to survive in a particular environment and have "adapted" to the conditions of that environment. These individuals will have greater reproductive success than organisms less fit for survival in the environment. This will lead to an increase in the number of organisms with the advantageous trait(s) over time. Over many generations, adaptations occur through a combination of successive, small, random changes in traits, and natural selection of those variants best-suited for their environment. Natural selection is one of the cornerstones of modern biology.
+
+Questions:
+QuestionID: 2994269464
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees and the other a lot of tall green grass with few if any trees. Tree frogs can either be green or brown. Which color tree frog has an advantage living in grass?
+Answer: green
+Explanation: 
+
+QuestionID: 2997677339
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees and the other a lot of tall green grass with few if any trees. Tree frogs can either be green or brown. Which color tree frog has an advantage living in trees?
+Answer: brown
+Explanation: 
+
+QuestionID: 2966614901
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees and the other a lot of tall green grass with few if any trees. Tree frogs can either be green or brown. Which color tree frog is easier for predators to spot on trees in trees?
+Answer: green
+Explanation: 
+
+QuestionID: 779022392
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees and the other a lot of tall green grass with few if any trees. Tree frogs can either be green or brown. Which color tree frog is easier for predators to spot on grass?
+Answer: brown
+Explanation: 
+
+QuestionID: 1001645721
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees and the other a lot of tall green grass with few if any trees. Tree frogs can either be green or brown. Where is being green an disadvantage?
+Answer: trees
+Explanation: 
+
+QuestionID: 2286478681
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees and the other a lot of tall green grass with few if any trees. Tree frogs can either be green or brown. Where is being green an advantage?
+Answer: grass
+Explanation: 
+
+QuestionID: 2310268272
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees and the other a lot of tall green grass with few if any trees. Tree frogs can either be green or brown. Where is being brown an advantage?
+Answer: trees
+Explanation: 
+
+QuestionID: 1029957296
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees and the other a lot of tall green grass with few if any trees. Tree frogs can either be green or brown. Where is being brown an disadvantage?
+Answer: grass
+Explanation: 
+
+QuestionID: 248768378
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees and the other a lot of tall green grass with few if any trees. Tree frogs can either be green or brown. Where are brown tree frogs more common?
+Answer: trees
+Explanation: 
+
+QuestionID: 209905507
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees and the other a lot of tall green grass with few if any trees. Tree frogs can either be green or brown. Where are green tree frogs more common?
+Answer: grass
+Explanation: 
+
+QuestionID: 2628456322
+Question: John liked to sit in his yard and watch the birds and other animals. He was often amused by the antics of the squirrels. He especially liked to watch out for White squirrels. Unlike the grey ones that blended into the trees. The white ones were easy to spot. Still he rarely saw them. Are there more or fewer white squirells?
+Answer: fewer
+Explanation: 
+
+QuestionID: 1414730592
+Question: John liked to sit in his yard and watch the birds and other animals. He was often amused by the antics of the squirrels. He especially liked to watch out for White squirrels. Unlike the grey ones that blended into the trees. The white ones were easy to spot. Still he rarely saw them. Which squirell is well adapted to the environment?
+Answer: grey
+Explanation: 
+
+QuestionID: 1957303345
+Question: John liked to sit in his yard and watch the birds and other animals. He was often amused by the antics of the squirrels. He especially liked to watch out for White squirrels. Unlike the grey ones that blended into the trees. The white ones were easy to spot. Still he rarely saw them. Which squirell is poorlyadapted to the environment?
+Answer: white
+Explanation: 
+
+QuestionID: 1379405199
+Question: John liked to sit in his yard and watch the birds and other animals. He was often amused by the antics of the squirrels. He especially liked to watch out for White squirrels. Unlike the grey ones that blended into the trees. The white ones were easy to spot. Still he rarely saw them. Which squirell is reproduces more?
+Answer: grey
+Explanation: 
+
+QuestionID: 1378487699
+Question: John liked to sit in his yard and watch the birds and other animals. He was often amused by the antics of the squirrels. He especially liked to watch out for White squirrels. Unlike the grey ones that blended into the trees. The white ones were easy to spot. Still he rarely saw them. Which squirell is reproduces less?
+Answer: white
+Explanation: 
+
+QuestionID: 660737080
+Question: John liked to sit in his yard and watch the birds and other animals. He was often amused by the antics of the squirrels. He especially liked to watch out for White squirrels. Unlike the grey ones that blended into the trees. The white ones were easy to spot. Still he rarely saw them. Which squirell a harmful trait?
+Answer: white
+Explanation: 
+
+QuestionID: 661589049
+Question: John liked to sit in his yard and watch the birds and other animals. He was often amused by the antics of the squirrels. He especially liked to watch out for White squirrels. Unlike the grey ones that blended into the trees. The white ones were easy to spot. Still he rarely saw them. Which squirell a helpful trait?
+Answer: grey
+Explanation: 
+
+QuestionID: 2852523961
+Question: John liked to sit in his yard and watch the birds and other animals. He was often amused by the antics of the squirrels. He especially liked to watch out for White squirrels. Unlike the grey ones that blended into the trees. The white ones were easy to spot. Still he rarely saw them. Which squirell will increase in numbers?
+Answer: grey
+Explanation: 
+
+QuestionID: 2834763691
+Question: John liked to sit in his yard and watch the birds and other animals. He was often amused by the antics of the squirrels. He especially liked to watch out for White squirrels. Unlike the grey ones that blended into the trees. The white ones were easy to spot. Still he rarely saw them. Which squirell will decrease in numbers?
+Answer: white
+Explanation: 
+
+QuestionID: 526605859
+Question: The peppered moth used to be a light color with black spots. Occasionally some darker moths were born but they did not blend in well with the trees. When the atmosphere in London became filled with soot because of the Industrial Revolution, the white trees became darker and light colored moths became easier to see on the dark trees. After the Industrial Revolution the trees returned to their original color and light colored moths once again blended in with the trees. Which moth had a disadvantage during the Industrial Revolution?
+Answer: light colored moths
+Explanation: 
+
+QuestionID: 1274158763
+Question: There are two kinds of tree frogs each is a different color. Grey tree frogs and green tree. Grey tree frogs live in wooded areas and are difficult to see when on tree trunks. Green tree frogs live in wetlands with lots of grass and tall plants. They blend in very well with the green plants and grass. What trait helps the grey tree frog blend into its environment?
+Answer: color
+Explanation: 
+
+QuestionID: 1780358917
+Question: There are two kinds of tree frogs each is a different color. Grey tree frogs and green tree. Grey tree frogs live in wooded areas and are difficult to see when on tree trunks. Green tree frogs live in wetlands with lots of grass and tall plants. They blend in very well with the green plants and grass. What trait helps the green tree frog blend into its environment?
+Answer: color
+Explanation: 
+
+QuestionID: 2847021235
+Question: There are two kinds of tree frogs each is a different color. Grey tree frogs and green tree. Grey tree frogs live in wooded areas and are difficult to see when on tree trunks. Green tree frogs live in wetlands with lots of grass and tall plants. They blend in very well with the green plants and grass. What habititat is the grey tree frog adapted to?
+Answer: wooded areas
+Explanation: 
+
+QuestionID: 3600291204
+Question: There are two kinds of tree frogs each is a different color. Grey tree frogs and green tree. Grey tree frogs live in wooded areas and are difficult to see when on tree trunks. Green tree frogs live in wetlands with lots of grass and tall plants. They blend in very well with the green plants and grass. Which habitat has more grey tree frogs?
+Answer: wooded areas
+Explanation: 
+
+QuestionID: 51910212
+Question: There are two kinds of tree frogs each is a different color. Grey tree frogs and green tree. Grey tree frogs live in wooded areas and are difficult to see when on tree trunks. Green tree frogs live in wetlands with lots of grass and tall plants. They blend in very well with the green plants and grass. Which habitat has fewer green tree frogs?
+Answer: wooded areas
+Explanation: 
+
+QuestionID: 1212029787
+Question: There are two kinds of tree frogs each is a different color. Grey tree frogs and green tree. Grey tree frogs live in wooded areas and are difficult to see when on tree trunks. Green tree frogs live in wetlands with lots of grass and tall plants. They blend in very well with the green plants and grass. Where are green tree frogs more susptable o predators?
+Answer: wooded areas
+Explanation: 
+
+QuestionID: 2994269464
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees with green leaves and the other with grass that is rather dry and dark brown. Tree frogs can either be green or brown. Which color tree frog has an advantage living in grass?
+Answer: brown
+Explanation: 
+
+QuestionID: 2997677339
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees with green leaves and the other with grass that is rather dry and dark brown. Tree frogs can either be green or brown. Which color tree frog has an advantage living in trees?
+Answer: green
+Explanation: 
+
+QuestionID: 2966614901
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees with green leaves and the other with grass that is rather dry and dark brown. Tree frogs can either be green or brown. Which color tree frog is easier for predators to spot on trees in trees?
+Answer: brown
+Explanation: 
+
+QuestionID: 779022392
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees with green leaves and the other with grass that is rather dry and dark brown. Tree frogs can either be green or brown. Which color tree frog is easier for predators to spot on grass?
+Answer: green
+Explanation: 
+
+QuestionID: 1001645721
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees with green leaves and the other with grass that is rather dry and dark brown. Tree frogs can either be green or brown. Where is being green an disadvantage?
+Answer: grass
+Explanation: 
+
+QuestionID: 2286478681
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees with green leaves and the other with grass that is rather dry and dark brown. Tree frogs can either be green or brown. Where is being green an advantage?
+Answer: trees
+Explanation: 
+
+QuestionID: 2310268272
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees with green leaves and the other with grass that is rather dry and dark brown. Tree frogs can either be green or brown. Where is being brown an advantage?
+Answer: grass
+Explanation: 
+
+QuestionID: 1029957296
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees with green leaves and the other with grass that is rather dry and dark brown. Tree frogs can either be green or brown. Where is being brown an disadvantage?
+Answer: trees
+Explanation: 
+
+QuestionID: 248768378
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees with green leaves and the other with grass that is rather dry and dark brown. Tree frogs can either be green or brown. Where are brown tree frogs more common?
+Answer: grass
+Explanation: 
+
+QuestionID: 209905507
+Question: The tree frogs range covers 2 different habitats, One has a lot of trees with green leaves and the other with grass that is rather dry and dark brown. Tree frogs can either be green or brown. Where are green tree frogs more common?
+Answer: trees
+Explanation: 
+
+QuestionID: 2628456322
+Question: John liked to sit in his yard and watch the birds and other animals in the winter months during heavy snowfall. He was often amused by the antics of the squirrels. He especially liked to watch out for grey squirrels. Unlike the grey ones, The white ones were difficult to spot. He rarely saw the grew squirrels Are there more or fewer white squirells?
+Answer: more
+Explanation: 
+
+QuestionID: 1414730592
+Question: John liked to sit in his yard and watch the birds and other animals in the winter months during heavy snowfall. He was often amused by the antics of the squirrels. He especially liked to watch out for grey squirrels. Unlike the grey ones, The white ones were difficult to spot. He rarely saw the grew squirrels Which squirell is well adapted to the environment?
+Answer: white
+Explanation: 
+
+QuestionID: 1957303345
+Question: John liked to sit in his yard and watch the birds and other animals in the winter months during heavy snowfall. He was often amused by the antics of the squirrels. He especially liked to watch out for grey squirrels. Unlike the grey ones, The white ones were difficult to spot. He rarely saw the grew squirrels Which squirell is poorlyadapted to the environment?
+Answer: grey
+Explanation: 
+
+QuestionID: 1379405199
+Question: John liked to sit in his yard and watch the birds and other animals in the winter months during heavy snowfall. He was often amused by the antics of the squirrels. He especially liked to watch out for grey squirrels. Unlike the grey ones, The white ones were difficult to spot. He rarely saw the grew squirrels Which squirell is reproduces more?
+Answer: white
+Explanation: 
+
+QuestionID: 1378487699
+Question: John liked to sit in his yard and watch the birds and other animals in the winter months during heavy snowfall. He was often amused by the antics of the squirrels. He especially liked to watch out for grey squirrels. Unlike the grey ones, The white ones were difficult to spot. He rarely saw the grew squirrels Which squirell is reproduces less?
+Answer: grey
+Explanation: 
+
+QuestionID: 660737080
+Question: John liked to sit in his yard and watch the birds and other animals in the winter months during heavy snowfall. He was often amused by the antics of the squirrels. He especially liked to watch out for grey squirrels. Unlike the grey ones, The white ones were difficult to spot. He rarely saw the grew squirrels Which squirell a harmful trait?
+Answer: grey
+Explanation: 
+
+QuestionID: 661589049
+Question: John liked to sit in his yard and watch the birds and other animals in the winter months during heavy snowfall. He was often amused by the antics of the squirrels. He especially liked to watch out for grey squirrels. Unlike the grey ones, The white ones were difficult to spot. He rarely saw the grew squirrels Which squirell a helpful trait?
+Answer: white
+Explanation: 
+
+QuestionID: 2852523961
+Question: John liked to sit in his yard and watch the birds and other animals in the winter months during heavy snowfall. He was often amused by the antics of the squirrels. He especially liked to watch out for grey squirrels. Unlike the grey ones, The white ones were difficult to spot. He rarely saw the grew squirrels Which squirell will increase in numbers?
+Answer: white
+Explanation: 
+
+QuestionID: 2834763691
+Question: John liked to sit in his yard and watch the birds and other animals in the winter months during heavy snowfall. He was often amused by the antics of the squirrels. He especially liked to watch out for grey squirrels. Unlike the grey ones, The white ones were difficult to spot. He rarely saw the grew squirrels Which squirell will decrease in numbers?
+Answer: grey
+Explanation: 
+
+QuestionID: 526605859
+Question: The peppered moth used to be a light color with black spots. Occasionally some were lighter but they did not blend in well with the dark trees. When the atmosphere in London became filled with sawdust because of the the invention of the mill, the trees became even lighter, covered with the dust, and and dark moths were more conspicuous. After the milling industry died down the trees returned to their original color. Which moth had a disadvantage during the Industrial Revolution?
+Answer: dark moths
+Explanation: 
+
+QuestionID: 1274158763
+Question: There are two kinds of tree frogs each is a different color. Grey tree frogs and green tree. Grey tree frogs live in wetlands areas and are difficult to see when on stormy days in the plants. Green tree frogs live in wetlands with lots of leaves to hide on. They blend in very well with the green plants and grass. What trait helps the grey tree frog blend into its environment?
+Answer: color
+Explanation: 
+
+QuestionID: 1780358917
+Question: There are two kinds of tree frogs each is a different color. Grey tree frogs and green tree. Grey tree frogs live in wetlands areas and are difficult to see when on stormy days in the plants. Green tree frogs live in wetlands with lots of leaves to hide on. They blend in very well with the green plants and grass. What trait helps the green tree frog blend into its environment?
+Answer: color
+Explanation: 
+
+QuestionID: 2847021235
+Question: There are two kinds of tree frogs each is a different color. Grey tree frogs and green tree. Grey tree frogs live in wetlands areas and are difficult to see when on stormy days in the plants. Green tree frogs live in wetlands with lots of leaves to hide on. They blend in very well with the green plants and grass. What habititat is the grey tree frog adapted to?
+Answer: wetlands
+Explanation: 
+
+QuestionID: 3600291204
+Question: There are two kinds of tree frogs each is a different color. Grey tree frogs and green tree. Grey tree frogs live in wetlands areas and are difficult to see when on stormy days in the plants. Green tree frogs live in wetlands with lots of leaves to hide on. They blend in very well with the green plants and grass. Which habitat has more grey tree frogs?
+Answer: wetlands
+Explanation: 
+
+QuestionID: 51910212
+Question: There are two kinds of tree frogs each is a different color. Grey tree frogs and green tree. Grey tree frogs live in wetlands areas and are difficult to see when on stormy days in the plants. Green tree frogs live in wetlands with lots of leaves to hide on. They blend in very well with the green plants and grass. Which habitat has fewer green tree frogs?
+Answer: wetlands
+Explanation: 
+
+QuestionID: 1212029787
+Question: There are two kinds of tree frogs each is a different color. Grey tree frogs and green tree. Grey tree frogs live in wetlands areas and are difficult to see when on stormy days in the plants. Green tree frogs live in wetlands with lots of leaves to hide on. They blend in very well with the green plants and grass. Where are green tree frogs more susptable o predators?
+Answer: wetlands
+Explanation: 
+
+--------------------------------------------------
+PassageID: 21
+Passage: Another thing we can see in this animation is that particles are constantly colliding with one another. One assumption that we make when talking about collisions between gas particles is that they are completely elastic collisions. In an elastic collision , momentum is conserved, which means that none of the kinetic energy of the colliding particles is lost in some other form (such as the emission of light). This makes sense, because if energy were lost in collisions, the speeds of the particles would gradually decrease over time, and eventually everything would condense down into a solid form.
+
+Questions:
+QuestionID: 3507304466
+Question: Sam was driving his new car to school when he realized that the front tire was low. He pulled into the gas station and used the pump to put air in the tire. With the tire fully inflated he headed off to school. What molecules where colliding in the tire?
+Answer: air
+Explanation: 
+
+QuestionID: 3520018459
+Question: Sam was driving his new car to school when he realized that the front tire was low. He pulled into the gas station and used the pump to put air in the tire. With the tire fully inflated he headed off to school. What molecules where expanding in the tire?
+Answer: air
+Explanation: 
+
+QuestionID: 1013071306
+Question: Sam was driving his new car to school when he realized that the front tire was low. He pulled into the gas station and used the pump to put air in the tire. With the tire fully inflated he headed off to school. Are the air particles lossing or maintaining their energy?
+Answer: maintaining
+Explanation: 
+
+QuestionID: 4269817169
+Question: Sam was driving his new car to school when he realized that the front tire was low. He pulled into the gas station and used the pump to put air in the tire. With the tire fully inflated he headed off to school. Are the air particles lossing or maintaining their speed?
+Answer: maintaining
+Explanation: 
+
+QuestionID: 3520018459
+Question: Sam was driving his new car to school when he realized that the front tire was low. He pulled into the gas station and used the pump to put air in the tire. With the tire fully inflated he headed off to school. While we usually analyze air particles as completely elastic, they are in reality slightly inelastic. What molecules where expanding in the tire?
+Answer: air
+Explanation: 
+
+QuestionID: 1013071306
+Question: Sam was driving his new car to school when he realized that the front tire was low. He pulled into the gas station and used the pump to put air in the tire. With the tire fully inflated he headed off to school. While we usually analyze air particles as completely elastic, they are in reality slightly inelastic. Are the air particles losing or maintaining their energy?
+Answer: losing
+Explanation: 
+
+QuestionID: 4269817169
+Question: Sam was driving his new car to school when he realized that the front tire was low. He pulled into the gas station and used the pump to put air in the tire. With the tire fully inflated he headed off to school. While we usually analyze air particles as completely elastic, they are in reality slightly inelastic. Are the air particles losing or maintaining their energy?
+Answer: losing
+Explanation: 
+
+--------------------------------------------------
+PassageID: 22
+Passage: Higher pressures increase the solubility of gases. You are probably familiar with this concept as it relates to carbonated beverages. Before opening the container, the inside is pressurized, so a large amount of CO 2 is dissolved in the liquid. After opening, the pressure decreases (to the ambient pressure), so the solubility of CO 2 drops, causing it to bubble out of solution. Because they are not compressible like gases, solid and liquid solutes do not have noticeable changes in solubility at different external pressures.
+
+Questions:
+QuestionID: 3844284019
+Question: Dan and Sam were enjoying a beverage on a hot day. Dan was drinking a soda while Sam was drinking lemonade. They both left their drinks open while they went for a quick swim then returned to finish them. Whos drink bubbled when it was first opened Dan's or Sam's?
+Answer: Dan's
+Explanation: 
+
+QuestionID: 3226607825
+Question: Dan and Sam were enjoying a beverage on a hot day. Dan was drinking a soda while Sam was drinking lemonade. They both left their drinks open while they went for a quick swim then returned to finish them. Whos drink did not bubble when it was first opened Dan's or Sam's?
+Answer: Sam's
+Explanation: 
+
+QuestionID: 2599297992
+Question: Dan and Sam were enjoying a beverage on a hot day. Dan was drinking a soda while Sam was drinking lemonade. They both left their drinks open while they went for a quick swim then returned to finish them. Which dink was not flat when the boys returned the lemonade or the soda?
+Answer: the lemonade
+Explanation: 
+
+QuestionID: 464396043
+Question: Dan and Sam were enjoying a beverage on a hot day. Dan was drinking a soda while Sam was drinking lemonade. They both left their drinks open while they went for a quick swim then returned to finish them. Who's drink responded to a change in pressure Sam's or Dan's?
+Answer: Dan's
+Explanation: 
+
+QuestionID: 504046029
+Question: Dan and Sam were enjoying a beverage on a hot day. Dan was drinking a soda while Sam was drinking lemonade. They both left their drinks open while they went for a quick swim then returned to finish them. Who's drink did not responded to a change in pressure Sam's or Dan's?
+Answer: Sam's
+Explanation: 
+
+QuestionID: 3801576788
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. When she opened the can and poured it into a cup she hear a fizzing sound and saw the soda bubbling in the glass. She got to talk and forgot about her drink when she took a sip later the soda was flat, there was no carbonation left. Is pressure increased or decreased to get carbon dioxide to dissolve in the soda?
+Answer: increased
+Explanation: 
+
+QuestionID: 1155559117
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. When she opened the can and poured it into a cup she hear a fizzing sound and saw the soda bubbling in the glass. She got to talk and forgot about her drink when she took a sip later the soda was flat, there was no carbonation left. Is pressure increased or decreased when the soda can is opened??
+Answer: decreased
+Explanation: 
+
+QuestionID: 1686138991
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. When she opened the can and poured it into a cup she hear a fizzing sound and saw the soda bubbling in the glass. She got to talk and forgot about her drink when she took a sip later the soda was flat, there was no carbonation left. Is carbon dioxide absorbed or released by the soda when it is opened?
+Answer: released
+Explanation: 
+
+QuestionID: 2776527185
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. When she opened the can and poured it into a cup she hear a fizzing sound and saw the soda bubbling in the glass. She got to talk and forgot about her drink when she took a sip later the soda was flat, there was no carbonation left. Is the Is carbon dioxide level higher or lower before the can is opened?
+Answer: before
+Explanation: 
+
+QuestionID: 865628400
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. When she opened the can and poured it into a cup she hear a fizzing sound and saw the soda bubbling in the glass. She got to talk and forgot about her drink when she took a sip later the soda was flat, there was no carbonation left. Is the Is carbon dioxide level higher or lower after the can is opened?
+Answer: lower
+Explanation: 
+
+QuestionID: 4074209714
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. When she opened the can and poured it into a cup she hear a fizzing sound and saw the soda bubbling in the glass. She got to talk and forgot about her drink when she took a sip later the soda was flat, there was no carbonation left. When the soda was flat was the Is carbon dioxide in the soda equal to or greater than the Is carbon dioxide in the air?
+Answer: equal
+Explanation: 
+
+QuestionID: 33325364
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. When she opened the can and poured it into a cup she hear a fizzing sound and saw the soda bubbling in the glass. She got to talk and forgot about her drink when she took a sip later the soda was flat, there was no carbonation left. When the can was closed was the carbon dioxide in the soda equal to or greater than the Is carbon dioxide in the air?
+Answer: greater
+Explanation: 
+
+QuestionID: 527860605
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. When she opened the can and poured it into a cup she hear a fizzing sound and saw the soda bubbling in the glass. She got to talk and forgot about her drink when she took a sip later the soda was flat, there was no carbonation left. When the can was first opened was the carbon dioxide in the soda equal to or greater than the Is carbon dioxide in the air?
+Answer: greater
+Explanation: 
+
+QuestionID: 2367518700
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. When she opened the can and poured it into a cup she hear a fizzing sound and saw the soda bubbling in the glass. She got to talk and forgot about her drink when she took a sip later the soda was flat, there was no carbonation left. is the Is carbon dioxide pressure decreasing or staying the same after the soda is flat??
+Answer: staying the same
+Explanation: 
+
+QuestionID: 3844284019
+Question: Dan and Sam were enjoying a beverage on a hot day. Dan was drinking a soda while Sam was drinking lemonade. They both left their drinks open while they went for a quick swim then returned to finish them. Whos drink bubbled when it was first opened?
+Answer: Dan
+Explanation: 
+
+QuestionID: 3226607825
+Question: Dan and Sam were enjoying a beverage on a hot day. Dan was drinking a soda while Sam was drinking lemonade. They both left their drinks open while they went for a quick swim then returned to finish them. Whos drink did not bubble when it was first opened?
+Answer: Sam
+Explanation: 
+
+QuestionID: 2599297992
+Question: Dan and Sam were enjoying a beverage on a hot day. Dan was drinking a soda while Sam was drinking lemonade. They both left their drinks open while they went for a quick swim then returned to finish them. Which dink was not flat when the boys returned?
+Answer: lemonade
+Explanation: 
+
+QuestionID: 464396043
+Question: Dan and Sam were enjoying a beverage on a hot day. Dan was drinking a soda while Sam was drinking lemonade. They both left their drinks open while they went for a quick swim then returned to finish them. Who's drink responded to a change in pressure?
+Answer: Dam
+Explanation: 
+
+QuestionID: 504046029
+Question: Dan and Sam were enjoying a beverage on a hot day. Dan was drinking a soda while Sam was drinking lemonade. They both left their drinks open while they went for a quick swim then returned to finish them. Who's drink did not responded to a change in pressure?
+Answer: Sam
+Explanation: 
+
+QuestionID: 3801576788
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. Interestingly, when she opened the can and poured it into a cup, the cola is just like flat water. She got to talk and forgot about her drink when she took a sip later the soda was like just opened. Is pressure increased or decreased to get carbon dioxide to dissolve in the soda?
+Answer: increased
+Explanation: 
+
+QuestionID: 1155559117
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. Interestingly, when she opened the can and poured it into a cup, the cola is just like flat water. She got to talk and forgot about her drink when she took a sip later the soda was like just opened. Is pressure increased or decreased when the soda can is opened??
+Answer: decreased
+Explanation: 
+
+QuestionID: 1686138991
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. Interestingly, when she opened the can and poured it into a cup, the cola is just like flat water. She got to talk and forgot about her drink when she took a sip later the soda was like just opened. Is carbon dioxide absorbed or released by the soda when it is opened by Jane?
+Answer: absorbed
+Explanation: 
+
+QuestionID: 2776527185
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. Interestingly, when she opened the can and poured it into a cup, the cola is just like flat water. She got to talk and forgot about her drink when she took a sip later the soda was like just opened. Is carbon dioxide level higher or lower before the can is opened by Jane?
+Answer: lower
+Explanation: 
+
+QuestionID: 865628400
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. Interestingly, when she opened the can and poured it into a cup, the cola is just like flat water. She got to talk and forgot about her drink when she took a sip later the soda was like just opened. Is the Is carbon dioxide level higher or lower after the can is opened by Jane?
+Answer: higher
+Explanation: 
+
+QuestionID: 4074209714
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. Interestingly, when she opened the can and poured it into a cup, the cola is just like flat water. She got to talk and forgot about her drink when she took a sip later the soda was like just opened. When the soda was flat, was the carbon dioxide in the soda equal to or greater than the carbon dioxide in the air?
+Answer: equal
+Explanation: 
+
+QuestionID: 33325364
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. Interestingly, when she opened the can and poured it into a cup, the cola is just like flat water. She got to talk and forgot about her drink when she took a sip later the soda was like just opened. When Jane's can was closed was the carbon dioxide in the cola equal to or greater than the Is carbon dioxide in the air?
+Answer: equal
+Explanation: 
+
+QuestionID: 527860605
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. Interestingly, when she opened the can and poured it into a cup, the cola is just like flat water. She got to talk and forgot about her drink when she took a sip later the soda was like just opened. In general, when the can was first opened was the carbon dioxide in the soda equal to or greater than the Is carbon dioxide in the air?
+Answer: greater
+Explanation: 
+
+QuestionID: 2367518700
+Question: Jane worked at a bottling company she liked her job but her favorite thing was to watch as carbon dioxide was added to the soda to make it fizzy. Today she grabbed a cola on her way to break. Interestingly, when she opened the can and poured it into a cup, the cola is just like flat water. She got to talk and forgot about her drink when she took a sip later the soda was like just opened. is the carbon dioxide pressure decreasing or staying the same after the soda is flat?
+Answer: staying the same
+Explanation: 
+
+--------------------------------------------------
+PassageID: 23
+Passage: Saturated hydrocarbons are given the general name of alkanes . The name of specific alkanes always ends in – ane . The first part of the name indicates how many carbon atoms each molecule of the alkane has. The smallest alkane is methane. It has just one carbon atom. The next largest is ethane with two carbon atoms. The chemical formulas and properties of methane, ethane, and other small alkanes are listed in the Table below . The boiling and melting points of alkanes are determined mainly by the number of carbon atoms they have. Alkanes with more carbon atoms generally boil and melt at higher temperatures.
+
+Questions:
+QuestionID: 1649643259
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.  Is Alkane A smaller or larger than Alkane B?
+Answer: smaller
+Explanation: 
+
+QuestionID: 1652002557
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.  Is Alkane B smaller or larger than Alkane C?
+Answer: smaller
+Explanation: 
+
+QuestionID: 1651740411
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.  Is Alkane B smaller or larger than Alkane A?
+Answer: larger
+Explanation: 
+
+QuestionID: 1653968636
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.  Is Alkane C smaller or larger than Alkane A?
+Answer: larger
+Explanation: 
+
+QuestionID: 1649774332
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.  Is Alkane A smaller or larger than Alkane C?
+Answer: smaller
+Explanation: 
+
+QuestionID: 4097545316
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.  Does Alkane A have more or less carbon atoms than Alkane B?
+Answer: less
+Explanation: 
+
+QuestionID: 4100756582
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.  Does Alkane B have more or less carbon atoms than Alkane C?
+Answer: less
+Explanation: 
+
+QuestionID: 4097676389
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.  Does Alkane A have more or less carbon atoms than Alkane C?
+Answer: less
+Explanation: 
+
+QuestionID: 4103574629
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.  Does Alkane C have more or less carbon atoms than Alkane A?
+Answer: more
+Explanation: 
+
+QuestionID: 4100494436
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane B has a boiling point of -89 Celsius and a melting point of -172 Celsius; and Alkane C has a boiling point of -42 Celsius and a melting point of -188 Celsius.  Does Alkane B have more or less carbon atoms than Alkane A?
+Answer: more
+Explanation: 
+
+QuestionID: 1649643259
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Is Alkane A smaller or larger than Alkane B?
+Answer: smaller
+Explanation: 
+
+QuestionID: 1652002557
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Is Alkane B smaller or larger than Alkane C?
+Answer: smaller
+Explanation: 
+
+QuestionID: 1651740411
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Is Alkane B smaller or larger than Alkane A?
+Answer: larger
+Explanation: 
+
+QuestionID: 1653968636
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Is Alkane C smaller or larger than Alkane A?
+Answer: larger
+Explanation: 
+
+QuestionID: 1649774332
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Is Alkane A smaller or larger than Alkane C?
+Answer: smaller
+Explanation: 
+
+QuestionID: 4097545316
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Does Alkane A have more or less carbon atoms than Alkane B?
+Answer: less
+Explanation: 
+
+QuestionID: 4100756582
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Does Alkane B have more or less carbon atoms than Alkane C?
+Answer: less
+Explanation: 
+
+QuestionID: 4097676389
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Does Alkane A have more or less carbon atoms than Alkane C?
+Answer: less
+Explanation: 
+
+QuestionID: 4103574629
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Does Alkane C have more or less carbon atoms than Alkane A?
+Answer: more
+Explanation: 
+
+QuestionID: 4100494436
+Question: Joy is learning about alkanes in her chemistry class. She is testing the boiling and melting points of different alkanes to determine their size and order them appropriately. From her experiments, Joy learned that: Alkane A has a boiling point of -162 Celsius and a melting point of -183 Celsius; Alkane C has a boiling point of -160 Celsius and a melting point of -184 Celsius; Alkane B has a boiling point of -161 Celsius and a melting point of -182 Celsius. Does Alkane B have more or less carbon atoms than Alkane A?
+Answer: more
+Explanation: 
+
+--------------------------------------------------

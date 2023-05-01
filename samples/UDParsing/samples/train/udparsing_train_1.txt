@@ -1,0 +1,90 @@
+PassageID: answers-20111106210027AAhMxfE_ans-0010
+Passage: Sentence: Drop *by* my house, I can get you some real cheap.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *by* in the sentence?
+Answer: Drop
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-356361-0002
+Passage: Sentence: A very well established service *with* a satisfying outcome.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *with* in the sentence?
+Answer: service
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20111108024148AAO8oFI_ans-0008
+Passage: Sentence: Yes storage for your luggages is still available *at* Gare Montparnasse.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: available
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-140302-0003
+Passage: Sentence: The paint and wheels looked *like* glass and the interior looked new!
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *like* in the sentence?
+Answer: looked
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_AlexandrianReligiousStudies_ebcd97e243c4440b_ENG_20051021_201800-0002
+Passage: Sentence: So please update whatever you need to and go *to*
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *to* in the sentence?
+Answer: update
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-369957-0001
+Passage: Sentence: beware they will rip u *off*
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *off* in the sentence?
+Answer: beware
+Explanation: 
+
+--------------------------------------------------
+PassageID: answers-20101109081414AAZ3hSI_ans-0001
+Passage: Sentence: What kind *of* Meal do peopel in Argentina have?
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *of* in the sentence?
+Answer: kind
+Explanation: 
+
+--------------------------------------------------
+PassageID: reviews-308297-0003
+Passage: Sentence: They offer a good portions *at* a great price, it 's enough food to fill you up, but you don't ever feel like you ate too much.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *at* in the sentence?
+Answer: offer
+Explanation: 
+
+--------------------------------------------------
+PassageID: newsgroup-groups.google.com_AlaskaTheLastFrontier_4709a6627e811b2a_ENG_20050530_201400-0001
+Passage: Sentence: Dan I *for* one was very happy to hear about your quitting smoking.
+
+Questions:
+QuestionID: 0
+Question: What is the parent word of the parent of the preposition *for* in the sentence?
+Answer: happy
+Explanation: 
+
+--------------------------------------------------
