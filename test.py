@@ -13,7 +13,7 @@ logging.basicConfig(filemode="w",level=logging.INFO)
 
 NUM_SEQUENCES = 10
 TEMPERATURE = 0.7
-MAX_LENGTH = 500
+MAX_LENGTH = 5000
 
 parser = argparse.ArgumentParser()
 
@@ -83,6 +83,13 @@ parser.add_argument(
 )
 
 parser.add_argument(
+    "-model",
+    choices=["flant5", "mpt"],
+    help="Name of model to use for inference",
+    default="flant5"
+)
+
+parser.add_argument(
     "-modelSize",
     default="xxl"
 )
@@ -119,6 +126,7 @@ zeroShot = args.zeroShot
 isTrainDirectory = args.isTrainDirectory
 isTestDirectory = args.isTestDirectory
 dataset = args.dataset
+model = args.model
 modelSize = args.modelSize
 noCoT = args.noCoT
 trainPattern = None 
@@ -272,28 +280,97 @@ with torch.no_grad():
     else:
         device = torch.device("cpu")
     if selfConsistency:
-        pipe_flan = transformers.pipeline(
-            "text2text-generation", 
-            model=f"google/flan-t5-{modelSize}", 
-            device=device, 
-            model_kwargs= {
-                "torch_dtype":torch.bfloat16, 
-                "num_return_sequences":NUM_SEQUENCES, 
-                "do_sample":True,
-                "temperature": TEMPERATURE
-            }
-        )
+        if model == "flant5":
+            pipe_flan = transformers.pipeline(
+                "text2text-generation", 
+                model=f"google/flan-t5-{modelSize}", 
+                device=device, 
+                model_kwargs= {
+                    "torch_dtype":torch.bfloat16, 
+                    "num_return_sequences":NUM_SEQUENCES, 
+                    "do_sample":True,
+                    "temperature": TEMPERATURE
+                }
+            )
+        elif model =="mpt":
+            modelName = "mosaicml/mpt-7b-instruct"
+            modelConfig = transformers.AutoConfig.from_pretrained(
+                modelName,
+                trust_remote_code=True
+            )
+            modelConfig.attn_config['attn_impl'] = 'triton'
+            modelConfig.update({"max_seq_len": 4096})
+            modelConfig.update({"max_new_tokens": 4096})
+            # model = transformers.AutoModelForCausalLM.from_pretrained(
+            # modelName,
+            # config=modelConfig,
+            # trust_remote_code=True
+            # )
+            modelTokenizer = transformers.AutoTokenizer.from_pretrained(modelName)
+            pipe_flan = transformers.pipeline(
+                # task="text2text-generation",
+                model=modelName, 
+                revision="main",
+                device=device, 
+                tokenizer=modelTokenizer,
+                trust_remote_code=True,
+                config=modelConfig,
+                model_kwargs= {
+                    "max_seq_len": 4096,
+                    "torch_dtype":torch.bfloat16, 
+                    "num_return_sequences":NUM_SEQUENCES, 
+                    "do_sample":True,
+                    "temperature": TEMPERATURE
+                }
+            ) 
+        else: 
+            raise ValueError(f"{model} is not a reecognized model!")
     else:
-        pipe_flan = transformers.pipeline(
-            "text2text-generation", 
-            model=f"google/flan-t5-{modelSize}", 
-            device=device, 
-            model_kwargs= {
-                "torch_dtype":torch.bfloat16
-            }
-        )
-    # pipe_flan = None
-    logging.info(f"Model: FLANT5-{modelSize}")
+        if model == "flant5":
+            pipe_flan = transformers.pipeline(
+                "text2text-generation", 
+                model=f"google/flan-t5-{modelSize}", 
+                device=device, 
+                model_kwargs= {
+                    "torch_dtype":torch.bfloat16
+                }
+            )
+        elif model =="mpt":
+            modelName = "mosaicml/mpt-7b-instruct"
+            modelConfig = transformers.AutoConfig.from_pretrained(
+                modelName,
+                trust_remote_code=True
+            )
+            modelConfig.attn_config['attn_impl'] = 'triton'
+            modelConfig.update({"max_seq_len": 4096})
+            modelConfig.update({"max_new_tokens": 4096})
+            # model = transformers.AutoModelForCausalLM.from_pretrained(
+            # modelName,
+            # config=modelConfig,
+            # trust_remote_code=True
+            # )
+            modelTokenizer = transformers.AutoTokenizer.from_pretrained(modelName)
+            pipe_flan = transformers.pipeline(
+                # task="text2text-generation",
+                model=modelName, 
+                revision="main",
+                device=device, 
+                tokenizer=modelTokenizer,
+                trust_remote_code=True,
+                config=modelConfig,
+                model_kwargs= {
+                    "max_seq_len": 4096,
+                    "torch_dtype":torch.bfloat16
+                }
+            ) 
+        else: 
+            raise ValueError(f"{model} is not a reecognized model!")
+    if model == "flant5":
+        logging.info(f"Model: FLANT5-{modelSize}")
+    elif model =="mpt":
+        logging.info("Model: MPT-7B")
+    else: 
+        raise ValueError(f"{model} is not a reecognized model!")
     if selfConsistency:
         logging.info("Decoding: Self Consistency")
     else:
