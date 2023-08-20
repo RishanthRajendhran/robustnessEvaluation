@@ -11,6 +11,115 @@ import regex as re
 
 tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
 
+huggingfaceDatasets = [
+    "boolqHF", 
+    "condaqaHF",
+    "quorefHF",
+]
+
+parser = argparse.ArgumentParser()
+
+parser.add_argument(
+    "-model",
+    "--modelName",
+    required=True,
+    help="Name of the model used to generate outputs",
+    choices=["flant5", "llama", "alpaca", "mpt"]
+)
+
+parser.add_argument(
+    "-out",
+    "--outputFiles",
+    nargs = "+",
+    required = True,
+    help="List of output file names/Path to directory containing output json files (Need to set -isDir flag)"
+)
+
+parser.add_argument(
+    "-isDir",
+    "--isDirectory",
+    action="store_true",
+    help="Booleaan flag to indicate if the -out input is a directory path"
+)
+
+parser.add_argument(
+    "-concise",
+    action="store_true",
+    help="Boolean flag to indicate if outputs need to be concise"
+)
+
+parser.add_argument(
+    "-summaryOnly",
+    action="store_true",
+    help="Booleaan flag to indicate if only summary needs to be printed"
+)
+
+parser.add_argument(
+    "-dataset",
+    choices=[
+        "condaqa",
+        "boolq",
+        "ropes",
+        "drop",
+        "quoref",
+        "mctaco",
+        "imdb",
+        "matres",
+        "perspectrum",
+        "udparsing",
+        "boolqHF",
+        "condaqaHF",
+        "quorefHF",
+    ],
+    required=True,
+)
+
+parser.add_argument(
+    "-selfConsistency",
+    action="store_true",
+    help="Booleaan flag to compute self-consistency"
+)
+
+parser.add_argument(
+    "-f1",
+    "--f1Threshold",
+    type=float,
+    help="F1 Threshold to use for evaluation (between 0 and 1 only)",
+    default=0.8
+)
+
+parser.add_argument(
+    "-pattern",
+    help="RegEx pattern for json file names in the output directory that need to be evaluated",
+    default=None
+)
+
+args = parser.parse_args()
+model = args.modelName
+outputFiles = args.outputFiles
+isDirectory = args.isDirectory
+concise = args.concise
+summaryOnly = args.summaryOnly
+dataset = args.dataset
+selfConsistency = args.selfConsistency
+f1Threshold = args.f1Threshold
+pattern = args.pattern
+if f1Threshold < 0 or f1Threshold > 1:
+    raise ValueError(f"F1 Threshold should be between 0 and 1")
+
+if isDirectory:
+    jsonDirName = outputFiles[0]
+    jsonPattern = os.path.join(jsonDirName, '*.json')
+    outputFiles = glob.glob(jsonPattern)
+    if pattern:
+        try: 
+            re.compile(pattern)
+        except: 
+            raise ValueError(f"{pattern} is not a valid regular expression!")
+        outputFiles = [f for f in outputFiles if re.match(pattern, f)]
+        if len(outputFiles) == 0:
+            raise RuntimeError(f"{pattern} did not match any file!")
+#---------------------------------------------------------------------------      
 def checkAnswers(answer, corrAnswer, tokenizer=None):
 
     #Remove accents from text and lowercase all characters
@@ -52,114 +161,61 @@ def checkAnswers(answer, corrAnswer, tokenizer=None):
     #     print("********")
     
     return f1, em
-
-parser = argparse.ArgumentParser()
-
-parser.add_argument(
-    "-out",
-    "--outputFiles",
-    nargs = "+",
-    required = True,
-    help="List of output file names/Path to directory containing output json files (Need to set -isDir flag)"
-)
-
-parser.add_argument(
-    "-isDir",
-    "--isDirectory",
-    action="store_true",
-    help="Booleaan flag to indicate if the -out input is a directory path"
-)
-
-parser.add_argument(
-    "-concise",
-    action="store_true",
-    help="Boolean flag to indicate if outputs need to be concise"
-)
-
-parser.add_argument(
-    "-summaryOnly",
-    action="store_true",
-    help="Booleaan flag to indicate if only summary needs to be printed"
-)
-
-parser.add_argument(
-    "-dataset",
-    choices=[
-        "condaqa",
-        "boolq",
-        "ropes",
-        "drop",
-        "quoref",
-        "mctaco",
-        "imdb",
-        "matres",
-        "perspectrum",
-        "udparsing"
-    ],
-    required=True,
-)
-
-parser.add_argument(
-    "-selfConsistency",
-    action="store_true",
-    help="Booleaan flag to compute self-consistency"
-)
-
-parser.add_argument(
-    "-f1",
-    "--f1Threshold",
-    type=float,
-    help="F1 Threshold to use for evaluation (between 0 and 1 only)",
-    default=0.8
-)
-
-parser.add_argument(
-    "-pattern",
-    help="RegEx pattern for json file names in the output directory that need to be evaluated",
-    default=None
-)
-
-args = parser.parse_args()
-outputFiles = args.outputFiles
-isDirectory = args.isDirectory
-concise = args.concise
-summaryOnly = args.summaryOnly
-dataset = args.dataset
-selfConsistency = args.selfConsistency
-f1Threshold = args.f1Threshold
-pattern = args.pattern
-if f1Threshold < 0 or f1Threshold > 1:
-    raise ValueError(f"F1 Threshold should be between 0 and 1")
-
-if isDirectory:
-    jsonDirName = outputFiles[0]
-    jsonPattern = os.path.join(jsonDirName, '*.json')
-    outputFiles = glob.glob(jsonPattern)
-    if pattern:
-        try: 
-            re.compile(pattern)
-        except: 
-            raise ValueError(f"{pattern} is not a valid regular expression!")
-        outputFiles = [f for f in outputFiles if re.match(pattern, f)]
-        if len(outputFiles) == 0:
-            raise RuntimeError(f"{pattern} did not match any file!")
 #---------------------------------------------------------------------------
-def extractAnswer(answer, isOut):
+def extractAnswer(answer, isOut, model="flant5"):
     old = answer
     answer = answer.strip()
     answer = answer.lower()
-    if answer[-1] == ".":
-        answer = answer[:-1]
-    if isOut:
-        if "answer is " in answer:
-            answer = answer[-(answer[-1::-1].index("answer is "[-1::-1])):]
-            # answer = answer[answer.index("answer is ")+len("answer is "):]
-        elif "answer " in answer:
-            answer = answer[-(answer[-1::-1].index("answer "[-1::-1])):]
-            # answer = answer[answer.index("answer ")+len("answer "):]
-        answer = answer.strip()
+    elseBlock = model != "llama"
+    if model == "llama" and isOut:
+        searchPattern = "### Correct Answer:\n".lower()
+        matchedSpan = re.search(searchPattern, answer)
+        if matchedSpan:
+            answer = answer[matchedSpan.end():].split("\n")[0]
+        else: 
+            elseBlock = True
+    if elseBlock:
+        answer = answer.split("\n")[0]
+        if len(answer)==0:
+            return "unk"
         if answer[-1] == ".":
             answer = answer[:-1]
+        if isOut:
+            if "answer is " in answer:
+                answer = answer[-(answer[-1::-1].index("answer is "[-1::-1])):]
+                # answer = answer[answer.index("answer is ")+len("answer is "):]
+            elif "answer " in answer:
+                answer = answer[-(answer[-1::-1].index("answer "[-1::-1])):]
+                # answer = answer[answer.index("answer ")+len("answer "):]
+            if answer.lower().startswith("yes") or answer.lower().startswith("true"):
+                answer = "yes"
+            elif answer.lower().startswith("no") or answer.lower().startswith("nope") or answer.lower().startswith("false"):
+                answer = "no"
+            elif "yes" in answer.lower() or "true" in answer.lower():
+                answer = "yes"
+            elif "no" in answer.lower() or "false" in answer.lower():
+                answer = "no"
+            # elif "true" in answer.lower():
+            #     if "false" in answer.lower():
+            #         answer = "unknown"
+            #     else: 
+            #         answer = "yes"
+            # elif "false" in answer.lower():
+            #     if "true" in answer.lower():
+            #         answer = "unknown"
+            #     else: 
+            #         answer = "no"
+            # else: 
+            #     print(f"Could not extract answer from {answer}!")
+            if "\n###\n" in answer:
+                answer = answer[:answer.index("\n###\n")]
+            elif "\n###" in answer:
+                answer = answer[:answer.index("\n###")]
+            elif ".\n" in answer:
+                answer = answer[:answer.index(".\n")]
+            answer = answer.strip()
+            if answer[-1] == ".":
+                answer = answer[:-1]
     #For BoolQ 
     if answer.lower() == "true":
         answer = "yes"
@@ -188,15 +244,24 @@ def main():
         # with open(outputFile, "r") as f:
         #     data = json.load(f)
         for d in data:
-            if len(d["output"]) == 0 or len(d["label"]) == 0:
+            if len(str(d["output"])) == 0 or len(str(d["label"])) == 0:
                 continue
-            answer = d["output"]
-            answer = extractAnswer(answer, True)
-            corrAnswer = d["label"]
-            corrAnswer = extractAnswer(corrAnswer, False)
-            passId = d["PassageID"]
-            questionID = d["QuestionID"]
-            isOriginal = d["isOriginal"]
+            answer = str(d["output"])
+            answer = extractAnswer(answer, True, model)
+            corrAnswer = str(d["label"])
+            corrAnswer = extractAnswer(corrAnswer, False, model)
+            if "PassageID" in d.keys():
+                passId = d["PassageID"]
+            else: 
+                passId = data.index(d)
+            if "QuestionID" in d.keys():
+                questionID = d["QuestionID"]
+            else: 
+                questionID = 0
+            if "isOriginal" in d.keys():
+                isOriginal = d["isOriginal"]
+            else:
+                isOriginal = True
             if selfConsistency:
                 if "SampleID" in d.keys():
                     sampleID = d["SampleID"]
@@ -435,7 +500,7 @@ def main():
                     f1ScoresContrast += passages[pID][qID]["f1Contrast"]
                     emScores += passages[pID][qID]["em"]
                     emScoresContrast += passages[pID][qID]["emContrast"]
-                    if passages[pID][qID]["count"] == 1:
+                    if passages[pID][qID]["count"] == 1 and dataset not in huggingfaceDatasets:
                         numQues -= 1
                     else:
                         if passages[pID][qID]["score"] == passages[pID][qID]["count"]:
@@ -450,11 +515,7 @@ def main():
                 # Ignore contrast sets with only one question (probably the case that 
                 # original question has no perturbed version)
                 
-                if passages[pID]["count"] > 1:
-                    # if passages[pID]["countOriginal"] > 1:
-                    #     print(pID)
-                    #     print(passages[pID])
-                    #     exit(0)
+                if passages[pID]["count"] > 1 or dataset in huggingfaceDatasets:
                     numQues += 1
                     accuracy += passages[pID]["score"]
                     totalCounts += passages[pID]["count"]
@@ -469,16 +530,27 @@ def main():
                     if (passages[pID]["count"]-passages[pID]["score"]) not in numMisses.keys():
                         numMisses[(passages[pID]["count"]-passages[pID]["score"])] = 0
                     numMisses[(passages[pID]["count"]-passages[pID]["score"])] += 1
-                # else:
-                #     print(pID)
                 failureCases.extend(passages[pID]["failureCases"]) 
-        accuracy /= totalCounts
-        accuracyContrast /= totalCountsContrast
-        consistency /= numQues
-        f1Scores /= totalCounts
-        f1ScoresContrast /= totalCountsContrast
-        emScores /= totalCounts
-        emScoresContrast /= totalCountsContrast
+        if totalCounts:
+            accuracy /= totalCounts
+            f1Scores /= totalCounts
+            emScores /= totalCounts
+        else:
+            accuracy = 0
+            f1Scores = 0
+            emScores = 0
+        if totalCountsContrast:
+            accuracyContrast /= totalCountsContrast
+            f1ScoresContrast /= totalCountsContrast
+            emScoresContrast /= totalCountsContrast
+        else: 
+            accuracyContrast = 0
+            f1ScoresContrast = 0
+            emScoresContrast = 0
+        if numQues:
+            consistency /= numQues
+        else: 
+            consistency = 0
         numMisses = dict(sorted(numMisses.items()))
 
         if not summaryOnly:
@@ -488,7 +560,7 @@ def main():
             print(f"\tNo. of contrast sets: {numQues}")
         parts = outputFile.split("__")
         curPromptType = None
-        if len(parts) == 4:
+        if len(parts) >= 4:
             trainSet = parts[0].split("_")[-1]
             if not summaryOnly:
                 print(f"Train file: {parts[0]}.json")
@@ -501,13 +573,17 @@ def main():
         else:
             print(f"Unable to retrieve statistics from input file names!")
         if not summaryOnly:
+            if dataset not in huggingfaceDatasets:
+                print(f"\tConsistency: {round(consistency*100,2):0.2f}%")
             print(f"\tAccuracy: {round(accuracy*100,2):0.2f}%")
-            print(f"\tAccuracy (w/o original questions): {round(accuracyContrast*100, 2):0.2f}%")
-            print(f"\tConsistency: {round(consistency*100,2):0.2f}%")
+            if dataset not in huggingfaceDatasets:
+                print(f"\tAccuracy (w/o original questions): {round(accuracyContrast*100, 2):0.2f}%")
             print(f"\tF1 Score: {f1Scores*100:0.2f}%")
-            print(f"\tF1 Score (w/o original questions): {f1ScoresContrast*100:0.2f}%")
+            if dataset not in huggingfaceDatasets:
+                print(f"\tF1 Score (w/o original questions): {f1ScoresContrast*100:0.2f}%")
             print(f"\tEM Score: {emScores*100:0.2f}%")
-            print(f"\tEM Score (w/o original questions): {emScoresContrast*100:0.2f}%")
+            if dataset not in huggingfaceDatasets:
+                print(f"\tEM Score (w/o original questions): {emScoresContrast*100:0.2f}%")
         if curPromptType and curPromptType not in promptPerfs.keys():
             promptPerfs[curPromptType] = {
                 "failureEditTypes": [],
@@ -603,7 +679,10 @@ def main():
                 numExamples = promptPerfs[promptType][trainSet]["numExamples"]
                 numExamplesContrast = promptPerfs[promptType][trainSet]["numExamplesContrast"]
                 numContrastSets = promptPerfs[promptType][trainSet]["numContrastSets"]
-                print(f"\tTrain set {trainSet}:\n\t\tNo. of examples: {numExamples}\n\t\tNo. of examples (w/o original questions): {numExamplesContrast}\n\t\tNo. of contrast sets: {numContrastSets}\n\t\t******\n\t\tConsistency: {(np.sum(curCons)/len(curCons))*100:0.2f}%\n\t\tAccuracy: {(np.sum(curAcc)/len(curAcc))*100:0.2f}%\n\t\tAccuracy (w/o original questions): {(np.sum(curAccContrast)/len(curAccContrast))*100:0.2f}%\n\t\tF1 Score: {(np.sum(curF1Score)/len(curF1Score))*100:0.2f}%\n\t\tF1 Score (w/o original questions):{(np.sum(curF1ScoreContrast)/len(curF1ScoreContrast))*100:0.2f}%\n\t\tExact Match Score: {(np.sum(curEMScore)/len(curEMScore))*100:0.2f}%\n\t\tExact Match Score (w/o original questions):{(np.sum(curEMScoreContrast)/len(curEMScoreContrast))*100:0.2f}%")
+                if dataset not in huggingfaceDatasets:
+                    print(f"\tTrain set {trainSet}:\n\t\tNo. of examples: {numExamples}\n\t\tNo. of examples (w/o original questions): {numExamplesContrast}\n\t\tNo. of contrast sets: {numContrastSets}\n\t\t******\n\t\tConsistency: {(np.sum(curCons)/len(curCons))*100:0.2f}%\n\t\tAccuracy: {(np.sum(curAcc)/len(curAcc))*100:0.2f}%\n\t\tAccuracy (w/o original questions): {(np.sum(curAccContrast)/len(curAccContrast))*100:0.2f}%\n\t\tF1 Score: {(np.sum(curF1Score)/len(curF1Score))*100:0.2f}%\n\t\tF1 Score (w/o original questions):{(np.sum(curF1ScoreContrast)/len(curF1ScoreContrast))*100:0.2f}%\n\t\tExact Match Score: {(np.sum(curEMScore)/len(curEMScore))*100:0.2f}%\n\t\tExact Match Score (w/o original questions):{(np.sum(curEMScoreContrast)/len(curEMScoreContrast))*100:0.2f}%")
+                else: 
+                    print(f"\tTrain set {trainSet}:\n\t\tNo. of examples: {numExamples}\n\t\t******\n\t\tAccuracy: {(np.sum(curAcc)/len(curAcc))*100:0.2f}%\n\t\tF1 Score: {(np.sum(curF1Score)/len(curF1Score))*100:0.2f}%\n\t\tExact Match Score: {(np.sum(curEMScore)/len(curEMScore))*100:0.2f}%")
                 print(f"\t\tNo. of wrong  answers in contrast set : No. of such contrast sets")
                 for k in promptPerfs[promptType][trainSet]["numMisses"].keys():
                     print("\t\t{:>37} : {}".format(k, promptPerfs[promptType][trainSet]["numMisses"][k]))
@@ -615,13 +694,17 @@ def main():
         F1ScoreContrast /= numTrainSets
         EMScore /= numTrainSets
         EMScoreContrast /= numTrainSets
-        print(f"\tAverage Consistency: {round(consistency*100,2):0.2f}%")
+        if dataset not in huggingfaceDatasets:
+            print(f"\tAverage Consistency: {round(consistency*100,2):0.2f}%")
         print(f"\tAverage Accuracy: {round(accuracy*100,2):0.2f}%")
-        print(f"\tAverage Accuracy (w/o original questions): {round(accuracyContrast*100,2):0.2f}%")
+        if dataset not in huggingfaceDatasets:
+            print(f"\tAverage Accuracy (w/o original questions): {round(accuracyContrast*100,2):0.2f}%")
         print(f"\tAverage F1 Score: {F1Score*100:0.2f}%")
-        print(f"\tAverage F1 Score (w/o original questions): {F1ScoreContrast*100:0.2f}%")
+        if dataset not in huggingfaceDatasets:
+            print(f"\tAverage F1 Score (w/o original questions): {F1ScoreContrast*100:0.2f}%")
         print(f"\tAverage Exact Match Score: {EMScore*100:0.2f}%")
-        print(f"\tAverage Exact Match Score (w/o original questions): {EMScoreContrast*100:0.2f}%")
+        if dataset not in huggingfaceDatasets:
+            print(f"\tAverage Exact Match Score (w/o original questions): {EMScoreContrast*100:0.2f}%")
         if not concise:
             #Only for CondaQA
             if dataset == "condaqa":

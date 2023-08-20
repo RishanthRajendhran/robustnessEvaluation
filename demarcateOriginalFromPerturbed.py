@@ -7,6 +7,12 @@ import logging
 import regex as re
 from conllu import parse
 
+huggingfaceDatasets = [
+    "boolqHF", 
+    "condaqaHF",
+    "quorefHF",
+]
+
 logging.basicConfig(filemode="w", level=logging.INFO)
 
 parser = argparse.ArgumentParser()
@@ -44,7 +50,10 @@ parser.add_argument(
         "imdb",
         "matres",
         "perspectrum",
-        "udparsing"
+        "udparsing",
+        "boolqHF",
+        "condaqaHF",
+        "quorefHF",
     ],
     required=True,
 )
@@ -184,8 +193,9 @@ elif dataset == "udparsing":
         else:
             oriIDtexts[newIDtext] += 1
 else: 
-    logging.error(f"{dataset} is not a recognized dataset!")
-    exit(0)
+    if dataset not in huggingfaceDatasets:
+        logging.error(f"{dataset} is not a recognized dataset!")
+        exit(0)
 
 outputFiles.sort()
 for outputFile in outputFiles:
@@ -204,70 +214,72 @@ for outputFile in outputFiles:
         for k in originalIDs.keys():
             originalIDs[k] = False
     for d in data:
+        d["label"] = str(d["label"])
         if ("output" in d.keys() and len(d["output"]) == 0) or ("label" in d.keys() and len(d["label"])) == 0:
             continue
         isOriginal = False
-        if dataset == "condaqa":
-            if d["PassageEditID"] == 0:
-                isOriginal = True 
-                countOriginal += 1
-        elif dataset == "boolq":
-            for ori in original:
-                if ori["paragraph"] == d["sentence1"] and ori["question"] == d["sentence2"] and ori["answer"] == d["label"]:
+        if dataset not in huggingfaceDatasets:
+            if dataset == "condaqa":
+                if d["PassageEditID"] == 0:
                     isOriginal = True 
                     countOriginal += 1
-                    break
-        elif dataset == "quoref" and (d["QuestionID"].strip() + " " + d["sentence2"].strip()) in originalIDQs:
-            isOriginal = True 
-            countOriginal += 1 
-        elif dataset == "ropes":
-            for ori in original:
-                for q in ori["qas"]:
-                    ansList = []
-                    for k in range(len(q["answers"])):
-                        for l in q["answers"][k].keys():
-                            ansList.append(q["answers"][k][l])
-                    ans = ", ".join(ansList)
-                    if q["id"] == d["QuestionID"] and ori["background"].replace("\n", " ") == d["sentence1"] and (ori["situation"].replace("\n", " ") + " " + q["question"].replace("\n", " ")).strip()  == d["sentence2"] and ans.strip() == d["label"]:
-                        if q["id"] not in qIDmarked:
-                            isOriginal = True 
-                            countOriginal += 1
-                            if not selfConsistency:
-                                qIDmarked.append(q["id"])
-                            break
-        elif dataset == "mctaco":
-            for ori in original: 
-                key = d["sentence1"] + " " + d["sentence2"] + " " + d["label"]
-                if key in originalIDs.keys() and (originalIDs[key] == 0 or selfConsistency):
-                    originalIDs[key] += 1 
-                    if originalIDs[key]<=numSamplePaths:
+            elif dataset == "boolq":
+                for ori in original:
+                    if ori["paragraph"] == d["sentence1"] and ori["question"] == d["sentence2"] and ori["answer"] == d["label"]:
                         isOriginal = True 
                         countOriginal += 1
-                    break
-        elif dataset == "perspectrum":
-            if int(d["QuestionID"])%2 == 1:
-            # if d["sentence2"] in oriQues.keys():
+                        break
+            elif dataset == "quoref" and (d["QuestionID"].strip() + " " + d["sentence2"].strip()) in originalIDQs:
                 isOriginal = True 
-                countOriginal += 1
-        elif dataset == "drop":
-            if d["sentence2"] in oriQues.keys():
-                isOriginal = True 
-                countOriginal += 1
-        elif dataset == "imdb":
-            if d["sentence1"] in oriQues.keys():
-                isOriginal = True 
-                countOriginal += 1
-        elif dataset == "matres":
-            if int(d["QuestionID"])%2 == 0:
-                isOriginal = True 
-                countOriginal += 1
-        elif dataset == "udparsing":
-            idText = "_".join(d["PassageID"].split("_")[1:-1]) + re.sub("\*","",d["sentence1"])
-            if idText in oriIDtextsCopy.keys():
-                if oriIDtextsCopy[idText]:
-                    oriIDtextsCopy[idText] -= 1
+                countOriginal += 1 
+            elif dataset == "ropes":
+                for ori in original:
+                    for q in ori["qas"]:
+                        ansList = []
+                        for k in range(len(q["answers"])):
+                            for l in q["answers"][k].keys():
+                                ansList.append(q["answers"][k][l])
+                        ans = ", ".join(ansList)
+                        if q["id"] == d["QuestionID"] and ori["background"].replace("\n", " ") == d["sentence1"] and (ori["situation"].replace("\n", " ") + " " + q["question"].replace("\n", " ")).strip()  == d["sentence2"] and ans.strip() == d["label"]:
+                            if q["id"] not in qIDmarked:
+                                isOriginal = True 
+                                countOriginal += 1
+                                if not selfConsistency:
+                                    qIDmarked.append(q["id"])
+                                break
+            elif dataset == "mctaco":
+                for ori in original: 
+                    key = d["sentence1"] + " " + d["sentence2"] + " " + d["label"]
+                    if key in originalIDs.keys() and (originalIDs[key] == 0 or selfConsistency):
+                        originalIDs[key] += 1 
+                        if originalIDs[key]<=numSamplePaths:
+                            isOriginal = True 
+                            countOriginal += 1
+                        break
+            elif dataset == "perspectrum":
+                if int(d["QuestionID"])%2 == 1:
+                # if d["sentence2"] in oriQues.keys():
                     isOriginal = True 
                     countOriginal += 1
+            elif dataset == "drop":
+                if d["sentence2"] in oriQues.keys():
+                    isOriginal = True 
+                    countOriginal += 1
+            elif dataset == "imdb":
+                if d["sentence1"] in oriQues.keys():
+                    isOriginal = True 
+                    countOriginal += 1
+            elif dataset == "matres":
+                if int(d["QuestionID"])%2 == 0:
+                    isOriginal = True 
+                    countOriginal += 1
+            elif dataset == "udparsing":
+                idText = "_".join(d["PassageID"].split("_")[1:-1]) + re.sub("\*","",d["sentence1"])
+                if idText in oriIDtextsCopy.keys():
+                    if oriIDtextsCopy[idText]:
+                        oriIDtextsCopy[idText] -= 1
+                        isOriginal = True 
+                        countOriginal += 1
         newD = d.copy()
         newD.update({"isOriginal": isOriginal})
         passages.append(newD)

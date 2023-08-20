@@ -8,6 +8,23 @@
     This is the repository for the research on robustness large-scale language models done with Professor Ana Marasovic at The University of Utah.
 </p>
 <h5>
+    LLMs supported
+</h5>
+<ul>
+    <li>
+        FLAN-T5 (Standard decoding and Self Consistency)
+    </li>
+    <li>    
+        Llama (Self Consistency only)
+    </li>
+    <li>
+        Alpaca (Self Consistency only)
+    </li>
+    <li>
+        MPT (Self Consistency only)
+    </li>
+</ul>
+<h5>
     Files
 </h5>
 <ul>
@@ -420,6 +437,200 @@ python3 testConsistency.py -out ./testOuts/consistency/condaqa/merged/marked/ -i
         <h6>
             printPrompts.py
         </h6>
+        <p>
+            This file is used to print prompt samples
+        </p>
+        <h5>
+            Important Note
+        </h5>
+        <p>
+            All input files should be JSON files in the CondaQA format
+            <br/>
+<pre>
+{
+    "sentence1": <Passage>,
+    "sentence2": <Question>,
+    "label": <GoldLabel>, [Only for train instances]
+    "explanation": <CoTExplanation> [Only for train instances when performing elicitive prompting]
+}
+</pre>
+        </p>
+        <h5>
+            Usage
+        </h5>
+        <pre>
+usage: printPrompts.py [-h] -train TRAINFILES [TRAINFILES ...] -test TESTFILES
+                       [TESTFILES ...] [-isTrainDir] [-isTestDir]
+                       [-promptType {1,2,3,4,5,6}] [-bestPromptType {1,2,3}]
+                       [-zeroShot] -dataset
+                       {condaqa,boolq,ropes,drop,quoref,mctaco,imdb,matres,perspectrum,udparsing}
+                       [-trainPattern TRAINPATTERN] [-testPattern TESTPATTERN]
+                       [-selfConsistency] [-noCoT]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -train TRAINFILES [TRAINFILES ...], --trainFiles TRAINFILES [TRAINFILES ...]
+  -test TESTFILES [TESTFILES ...], --testFiles TESTFILES [TESTFILES ...]
+  -isTrainDir, --isTrainDirectory
+                        Booleaan flag to indicate if the -train input is a
+                        directory path
+  -isTestDir, --isTestDirectory
+                        Booleaan flag to indicate if the -test input is a
+                        directory path
+  -promptType {1,2,3,4,5,6}
+  -bestPromptType {1,2,3}
+                        When promptType is set as 4/5, bestPromptType defines
+                        the sub-prompt type
+  -zeroShot
+  -dataset {condaqa,boolq,ropes,drop,quoref,mctaco,imdb,matres,perspectrum,udparsing}
+  -trainPattern TRAINPATTERN
+                        RegEx pattern for json file names in the train
+                        directory that need to be used
+  -testPattern TESTPATTERN
+                        RegEx pattern for json file names in the test
+                        directory that need to be merged
+  -selfConsistency      Boolean flag to enable self consistency mode
+  -noCoT                Boolean flag to indicate no-Chain-of-Thought
+                        inferencing
+</pre>
+        <h5>
+            Flags
+        </h5>
+        <ul>
+            <li>
+                <b>
+                    train [REQUIRED]
+                </b>
+                <p>
+                    This flag is used to provide the path to one of the following:
+                    <ol>
+                        <li>
+                            Train file
+                        </li>
+                        <li>
+                            Train files (as a space separated list)
+                        </li>
+                        <li>
+                            Directory containing train files
+                        </li>
+                    </ol>
+                </p>
+            </li>
+            <li>
+                <b>
+                    test [REQUIRED]
+                </b>
+                <p>
+                    This flag is used to provide the path to one of the following:
+                    <ol>
+                        <li>
+                            Test file
+                        </li>
+                        <li>
+                            Test files (as a space separated list)
+                        </li>
+                        <li>
+                            Directory containing test files
+                        </li>
+                    </ol>
+                </p>
+            </li>
+            <li>
+                <b>
+                    isTrainDir [OPTIONAL]
+                </b>
+                <p>
+                    Boolean flag to indicate that argument to -train is a directory path containing train files
+                </p>
+            </li>
+            <li>
+                <b>
+                    isTestDir [OPTIONAL]
+                </b>
+                <p>
+                    Boolean flag to indicate that argument to -test is a directory path containing test files
+                </p>
+            </li>
+            <li>
+                <b>
+                    trainPattern [OPTIONAL]
+                </b>
+                <p>
+                    RegEx pattern for json files in the train directory path that need to be used
+                    <br/>
+                    Default: All files in the train directory path
+                </p>
+            </li>
+            <li>
+                <b>
+                    testPattern [OPTIONAL]
+                </b>
+                <p>
+                    RegEx pattern for json files in the test directory path that need to be used
+                    <br/>
+                    Default: All files in the test directory path
+                </p>
+            </li>
+            <li>
+                <b>
+                    promptType [OPTIONAL]
+                </b>
+                <p>
+                    Type of prompt to use
+                    Default: 1
+                </p>
+            </li>
+            <li>
+                <b>
+                    bestPromptType [OPTIONAL]
+                </b>
+                <p>
+                    Sub-prompt type for prompt types 4 and 5
+                    Default: 1
+                </p>
+            </li>
+            <li>
+                <b>
+                    zeroShot [OPTIONAL]
+                </b>
+                <p>
+                    Boolean flag to enable zero-shot evaluation
+                </p>
+            </li>
+            <li>
+                <b>
+                    dataset [REQUIRED]
+                </b>
+                <p>
+                    Name of dataset to use
+                </p>
+            </li>
+            <li>
+                <b>
+                    selfConsistency [OPTIONAL]
+                </b>
+                <p>
+                    Boolean flag to enable self-consistency prompting 
+                </p>
+            </li>
+            <li>
+                <b>
+                    noCoT [OPTIONAL]
+                </b>
+                <p>
+                    Boolean flag to enable standard prompting
+                </p>
+            </li>
+        </ul>
+        <h5>
+            Sample Usage
+        </h5>
+        <p>
+            Print CoT prompts for CondaQA dataset using all train files in the path "./samples/CondaQA/trainTest/train" and the test file "./samples/CondaQA/trainTest/test/merged/condaqa_test_merged.json"
+        </p>
+        <pre>
+python3 printPrompts.py -dataset condaqa -promptType 1 -train ./samples/CondaQA/trainTest/train -test ./samples/CondaQA/trainTest/test/merged/condaqa_test_merged.json -isTrainDir
+</pre>
     </li>  
     <li>
         <h6>
