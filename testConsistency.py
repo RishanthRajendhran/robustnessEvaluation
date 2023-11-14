@@ -24,7 +24,13 @@ parser.add_argument(
     "--modelName",
     required=True,
     help="Name of the model used to generate outputs",
-    choices=["flant5", "llama", "alpaca", "mpt"]
+    choices=[
+        "flant5", 
+        "llama", 
+        "alpaca", 
+        "mpt",
+        "llama2",
+    ]
 )
 
 parser.add_argument(
@@ -136,10 +142,9 @@ def checkAnswers(answer, corrAnswer, tokenizer=None):
     wordsInAnswer = tokenize.word_tokenize(answer)
     wordsInCorrAnswer = tokenize.word_tokenize(corrAnswer) 
     # if tokenizer == None:
-        # tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
+    #     tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
     # wordsInAnswer = tokenizer.tokenize(answer)
     # wordsInCorrAnswer = tokenizer.tokenize(corrAnswer)  
-    
     # commonWords = wordsInCorrAnswer.intersection(wordsInAnswer)
     commonWords = np.intersect1d(wordsInCorrAnswer, wordsInAnswer)
     if len(wordsInAnswer) == 0:
@@ -167,8 +172,8 @@ def extractAnswer(answer, isOut, model="flant5"):
     answer = answer.strip()
     answer = answer.lower()
     elseBlock = model != "llama"
-    if model == "llama" and isOut:
-        searchPattern = "### Correct Answer:\n".lower()
+    if (model == "llama") and isOut:
+        searchPattern = "### Answer:\n".lower()
         matchedSpan = re.search(searchPattern, answer)
         if matchedSpan:
             answer = answer[matchedSpan.end():].split("\n")[0]

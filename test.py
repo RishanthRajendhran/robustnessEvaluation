@@ -9,7 +9,7 @@ import glob
 import re
 import logging
 import numpy as np
-from transformers import LlamaForCausalLM, LlamaTokenizer, LlamaModel, LlamaConfig
+from transformers import LlamaForCausalLM, LlamaTokenizer, LlamaModel, LlamaConfig, AutoModelForCausalLM, AutoTokenizer
 from datasets import load_dataset
 import deepspeed
 from deepspeed.ops.transformer.inference import DeepSpeedTransformerInference
@@ -58,6 +58,21 @@ MAX_NEW_TOKENS_LLAMA = 128
 DO_SAMPLE_LLAMA=True
 USE_CACHE_LLAMA=True
 MAX_CONTEXT_LENGTH_LLAMA=2048
+
+NUM_SEQUENCES_LLAMA2 = 10
+TEMPERATURE_LLAMA2 = 0.7
+TOP_P_LLAMA2=0.1
+TOP_K_LLAMA2=40
+REPETITION_PENALTY_LLAMA2=1.176
+# TEMPERATURE_LLAMA2 = 0.72
+# TOP_P_LLAMA2=0.73
+# TOP_K_LLAMA2=0
+# REPETITION_PENALTY_LLAMA2=1.1
+MAX_LENGTH_LLAMA2 = 4096
+MAX_NEW_TOKENS_LLAMA2 = 128
+DO_SAMPLE_LLAMA2=True
+USE_CACHE_LLAMA2=True
+MAX_CONTEXT_LENGTH_LLAMA2=4096
 
 parser = argparse.ArgumentParser()
 
@@ -131,7 +146,13 @@ parser.add_argument(
 
 parser.add_argument(
     "-model",
-    choices=["flant5", "mpt", "alpaca", "llama"],
+    choices=[
+        "flant5", 
+        "mpt", 
+        "alpaca", 
+        "llama",
+        "llama2"
+    ],
     help="Name of model to use for inference",
     default="flant5"
 )
@@ -323,7 +344,7 @@ def _generatePrompt(data, promptType, dataset, noCoT, model, maxShots, bestPromp
                 # }
             },
         },
-        "llama": {
+        "llama2": {
             #Default Case
             -1: {
                 "default": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n",
@@ -333,7 +354,18 @@ def _generatePrompt(data, promptType, dataset, noCoT, model, maxShots, bestPromp
                 #     "isTest": ""
                 # }
             },
-        }
+        },
+#          "llama2": {
+#             #Default Case
+#             -1: {
+#                 "default":"""<s>[INST] <<SYS>>
+# Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+# <</SYS>>
+
+# """,
+#                 "isTest": "",
+#             },
+#         }
     }
     individualPrompts = {
         "default": {
@@ -468,18 +500,18 @@ def _generatePrompt(data, promptType, dataset, noCoT, model, maxShots, bestPromp
                 }
             }, 
         },
-        "llama": {
+        "llama2": {
             1: {
                 "CoT": {
-                    "default": "### Passage:\n{passage}\n### Question:\n{question}?\n### Response:\n### Explanation:\n{explanation}\n### Correct Answer:\n{answer}\n\n",
-                    "imdb": "### Review:\n{review}\n### Question:\n{question}\n### Response:\n### Explanation:\n{explanation}\n### Correct Answer:\n{answer}\n\n",
-                    "perspectrum": "### Perspective:\n{perspective}\n### Claim:\n{claim}\n### Question:\n{question}\n### Instruction:\n{instruction}\n### Response:\n### Explanation:\n{explanation}\n### Correct Answer:\n{answer}\n\n",
+                    "default": "### Passage:\n{passage}\n### Question:\n{question}?\n### Response:\n### Explanation:\n{explanation}\n### Answer:\n{answer}\n\n",
+                    "imdb": "### Review:\n{review}\n### Question:\n{question}\n### Response:\n### Explanation:\n{explanation}\n### Answer:\n{answer}\n\n",
+                    "perspectrum": "### Perspective:\n{perspective}\n### Claim:\n{claim}\n### Question:\n{question}\n### Instruction:\n{instruction}\n### Response:\n### Explanation:\n{explanation}\n### Answer:\n{answer}\n\n",
                 },
                 "noCoT": {
-                    "default": "### Passage:\n{passage}\n### Question:\n{question}?\n### Response:\n{answer}\n\n",
-                    "imdb": "### Review:\n{review}\n### Question:\n{question}\n### Response:\n{answer}\n\n",
-                    "perspectrum": "### Perspective:\n{perspective}\n### Claim:\n{claim}\n### Question:\n{question}\n### Instruction:\n{instruction}\n### Response:\n{answer}\n\n",
-                    "udparsing": "### Sentence:\n{sentence}\n### Question:\n{question}\n### Response:\n{answer}\n\n",
+                    "default": "### Passage:\n{passage}\n### Question:\n{question}?\n### Answer:\n{answer}\n\n",
+                    "imdb": "### Review:\n{review}\n### Question:\n{question}\n### Answer:\n{answer}\n\n",
+                    "perspectrum": "### Perspective:\n{perspective}\n### Claim:\n{claim}\n### Question:\n{question}\n### Instruction:\n{instruction}\n### Answer:\n{answer}\n\n",
+                    "udparsing": "### Sentence:\n{sentence}\n### Question:\n{question}\n### Answer:\n{answer}\n\n",
                 },
                 "isTest": {
                     "CoT": {
@@ -488,14 +520,46 @@ def _generatePrompt(data, promptType, dataset, noCoT, model, maxShots, bestPromp
                         "perspectrum": "### Perspective:\n{perspective}\n### Claim:\n{claim}\n### Question:\n{question}\n### Instruction:\n{instruction}\n### Response:\n",
                     },
                     "noCoT": {
-                        "default": "### Passage:\n{passage}\n### Question:\n{question}?\n### Response:\n",
-                        "imdb": "### Review:\n{review}\n### Question:\n{question}\n### Response:\n",
-                        "perspectrum": "### Perspective:\n{perspective}\n### Claim:\n{claim}\n### Question:\n{question}\n### Instruction:\n{instruction}\n### Response:\n",
-                        "udparsing": "### Sentence:\n{sentence}\n### Question:\n{question}\n### Response:\n",
+                        "default": "### Passage:\n{passage}\n### Question:\n{question}?\n### Answer:\n",
+                        "imdb": "### Review:\n{review}\n### Question:\n{question}\n### Answer:\n",
+                        "perspectrum": "### Perspective:\n{perspective}\n### Claim:\n{claim}\n### Question:\n{question}\n### Instruction:\n{instruction}\n### Answer:\n",
+                        "udparsing": "### Sentence:\n{sentence}\n### Question:\n{question}\n### Answer:\n",
                     },
                 }
             }, 
-        },
+        }, 
+        # "llama2": {
+        #     1: {
+        #         "CoT": {
+        #             "default": "{passage} {question}?[/INST] {explanation} Therefore, the answer is {answer}.</s>",
+        #             # "default": "Passage:\n{passage}\nQuestion:\n{question}?[/INST] {explanation} Therefore, the answer is {answer}.</s>",
+        #             # "imdb": "### Review:\n{review}\n### Question:\n{question}\n### Response:\n### Explanation:\n{explanation}\n### Correct Answer:\n{answer}\n\n",
+        #             # "perspectrum": "### Perspective:\n{perspective}\n### Claim:\n{claim}\n### Question:\n{question}\n### Instruction:\n{instruction}\n### Response:\n### Explanation:\n{explanation}\n### Correct Answer:\n{answer}\n\n",
+        #         },
+        #         "noCoT": {
+        #             "default": "{passage} {question}?[/INST] The answer is {answer}.</s>",
+        #             # "default": "Passage:\n{passage}\nQuestion:\n{question}?[/INST] The answer is {answer}.</s>",
+        #             # "imdb": "### Review:\n{review}\n### Question:\n{question}\n### Response:\n{answer}\n\n",
+        #             # "perspectrum": "### Perspective:\n{perspective}\n### Claim:\n{claim}\n### Question:\n{question}\n### Instruction:\n{instruction}\n### Response:\n{answer}\n\n",
+        #             # "udparsing": "### Sentence:\n{sentence}\n### Question:\n{question}\n### Response:\n{answer}\n\n",
+        #         },
+        #         "isTest": {
+        #             "CoT": {
+        #                 "default": "{passage} {question}?[/INST]",
+        #                 # "default": "Passage:\n{passage}\nQuestion:\n{question}?[/INST]",
+        #                 # "imdb": "### Review:\n{review}\n### Question:\n{question}\n### Response:\n",
+        #                 # "perspectrum": "### Perspective:\n{perspective}\n### Claim:\n{claim}\n### Question:\n{question}\n### Instruction:\n{instruction}\n### Response:\n",
+        #             },
+        #             "noCoT": {
+        #                 "default": "{passage} {question}?[/INST]",
+        #                 # "default": "Passage:\n{passage}\nQuestion:\n{question}?[/INST]",
+        #                 # "imdb": "### Review:\n{review}\n### Question:\n{question}\n### Response:\n",
+        #                 # "perspectrum": "### Perspective:\n{perspective}\n### Claim:\n{claim}\n### Question:\n{question}\n### Instruction:\n{instruction}\n### Response:\n",
+        #                 # "udparsing": "### Sentence:\n{sentence}\n### Question:\n{question}\n### Response:\n",
+        #             },
+        #         }
+        #     }, 
+        # },
     }
 
     if model not in overallPrompts.keys():
@@ -969,8 +1033,76 @@ with torch.no_grad():
                 # replace_with_kernel_inject=True,
                 max_out_tokens=MAX_LENGTH_LLAMA,
             )
+        elif model == "llama2":
+            if modelSize in ["7b", "13b", "70b"]:
+                pathToLlama = "meta-llama/Llama-2-{}-hf".format(modelSize)
+            else:
+                raise ValueError("Unsupported model size {} for LLama2 model!".format(modelSize))
+            modelLlama = AutoModelForCausalLM.from_pretrained(pathToLlama)
+            modelTokenizer = AutoTokenizer.from_pretrained(pathToLlama)
+            special_tokens_dict = dict()
+            if modelTokenizer.pad_token is None:
+                special_tokens_dict["pad_token"] = DEFAULT_PAD_TOKEN
+            if modelTokenizer.eos_token is None:
+                special_tokens_dict["eos_token"] = DEFAULT_EOS_TOKEN
+            if modelTokenizer.bos_token is None:
+                special_tokens_dict["bos_token"] = DEFAULT_BOS_TOKEN
+            if modelTokenizer.unk_token is None:
+                special_tokens_dict["unk_token"] = DEFAULT_UNK_TOKEN
+
+            smart_tokenizer_and_embedding_resize(
+                special_tokens_dict=special_tokens_dict,
+                tokenizer=modelTokenizer,
+                model=modelLlama,
+            )
+
+            # modelLlama.save_pretrained("/uufs/chpc.utah.edu/common/home/u1419542/scratch/huggingface_cache/Llama-2-{}-hf".format(modelSize))
+            # modelTokenizer.save_pretrained("/uufs/chpc.utah.edu/common/home/u1419542/scratch/huggingface_cache/Llama-2-{}-hf".format(modelSize))
+            # print("Model saved at: /uufs/chpc.utah.edu/common/home/u1419542/scratch/huggingface_cache/Llama-2-{}-hf".format(modelSize))
+            # exit(0)
+
+            modelLlama.eval()
+            modelLlama.to(device=device)
+            # modelLlama_generate_kwargs = transformers.GenerationConfig(
+            #     temperature=TEMPERATURE_LLAMA,
+            #     top_p=0.92,
+            #     top_k=0,
+            #     max_new_tokens=MAX_NEW_TOKENS_LLAMA,
+            #     use_cache=True,
+            #     do_sample=True,
+            #     bos_token_id=modelTokenizer.bos_token_id,
+            #     eos_token_id=modelTokenizer.eos_token_id,
+            #     pad_token_id=modelTokenizer.pad_token_id,
+            #     repetition_penalty=1.1
+            # )
+            modelLlama_generate_kwargs = {
+                "temperature": TEMPERATURE_LLAMA2,
+                "top_p": TOP_P_LLAMA2,
+                "top_k": TOP_K_LLAMA2,
+                "use_cache":USE_CACHE_LLAMA2,
+                "do_sample": DO_SAMPLE_LLAMA2,
+                "bos_token_id": modelTokenizer.bos_token_id,
+                "eos_token_id": modelTokenizer.eos_token_id,
+                "pad_token_id": modelTokenizer.pad_token_id,
+                "repetition_penalty": REPETITION_PENALTY_LLAMA2,
+            }
+            # modelLlama_generate_kwargs = {
+            #     "use_cache":True,
+            #     "do_sample": False,
+            #     "bos_token_id": modelTokenizer.bos_token_id,
+            #     "eos_token_id": modelTokenizer.eos_token_id,
+            #     "pad_token_id": modelTokenizer.pad_token_id,
+            # }
+            dsModel = deepspeed.init_inference(
+                model=modelLlama,
+                # dtype=torch.half,
+                # mp_size=1,
+                # replace_method="auto",
+                # replace_with_kernel_inject=True,
+                max_out_tokens=MAX_LENGTH_LLAMA2,
+            )
         else: 
-            raise ValueError(f"{model} is not a reecognized model!")
+            raise ValueError(f"{model} is not a recognized model!")
     if model == "flant5":
         logging.info(f"Model: FLANT5-{modelSize}")
     elif model =="mpt":
@@ -979,6 +1111,8 @@ with torch.no_grad():
         logging.info("Model: Alpaca-7B")
     elif model =="llama":
         logging.info("Model: Llama-{}".format(modelSize))
+    elif model =="llama2":
+        logging.info("Model: Llama2-{}".format(modelSize))
     else: 
         raise ValueError(f"{model} is not a reecognized model!")
     if selfConsistency:
@@ -1169,8 +1303,53 @@ with torch.no_grad():
                         logging.info(finalPrompt)
                         logging.info(output_flan)
                         logging.info("*"*20)
+                    elif model =="llama2":
+                        #LLama2 models cannot handle more than 4096 tokens in context
+                        hitLowerLimit = False
+                        curMaxShots = maxShots
+                        while(1):
+                            if curMaxShots < 0:
+                                logging.error("Could not fit an instance within context window!")
+                                hitLowerLimit = True
+                                break
+                            modelOuputs = modelTokenizer(finalPrompt, return_tensors="pt")
+                            modelInputIDs = modelOuputs.input_ids
+                            if modelInputIDs.shape[-1] <= (MAX_CONTEXT_LENGTH_LLAMA2-MAX_NEW_TOKENS_LLAMA2):
+                                avgShotLen += curMaxShots
+                                break
+                            curMaxShots -= 1
+                            if curMaxShots > 0:
+                                trainPrompt = generateTrainPrompt(trainData, promptType, dataset, noCoT, model, curMaxShots, bestPromptType)
+                            if not zeroShot and curMaxShots > 0:
+                                finalPrompt = ("".join(trainPrompt)) + ("".join(testPrompt))
+                            else:
+                                finalPrompt = ("".join(testPrompt))
+                        if hitLowerLimit:
+                            continue
+                        modelAttentionMask = modelOuputs.attention_mask
+                        modelInputIDs = modelInputIDs.to(device)
+                        modelAttentionMask = modelAttentionMask.to(device)
+                        # outputIDs = modelLlama.generate(
+                        #     input_ids=modelInputIDs,
+                        #     attention_mask=modelAttentionMask,
+                        #     generation_config=modelLlama_generate_kwargs,
+                        # )
+                        #Only deepspeed inference
+                        outputIDs = dsModel.module.generate(
+                            input_ids=modelInputIDs,
+                            attention_mask=modelAttentionMask,
+                            max_new_tokens=MAX_NEW_TOKENS_LLAMA2,
+                            **modelLlama_generate_kwargs,
+                        )
+
+                        #Causal LM is used here
+                        newTokens = outputIDs[0, len(modelInputIDs[0]):]
+                        output_flan = modelTokenizer.decode(newTokens, skip_special_tokens=True)
+                        logging.info(finalPrompt)
+                        logging.info(output_flan)
+                        logging.info("*"*20)
                     else: 
-                        raise ValueError(f"{model} is not a reecognized model!")
+                        raise ValueError(f"{model} is not a recognized model!")
 
                     testEx["output"] = output_flan
                     testOuts.append(testEx)                           
